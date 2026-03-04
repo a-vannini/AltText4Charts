@@ -1,40 +1,42 @@
 # Viz4VisuallyImpaired
 
-This project focuses on the automatic generation, evaluation, and analysis of alternative texts (short: alt texts) for NZZ charts, with the goal of improving accessibility for visually impaired people (PIVs).
+Automatic generation and evaluation of alt texts for NZZ charts, to improve accessibility for visually impaired people (PIVs).
 
-It combines data preprocessing, LLM-based alt text generation, different evaluation approaches as LLM-based juding, SBERT, qualitative feedback through interviews, character and visualization analysis.
+## What it does
 
-### Project goals
+- Cleans and prepares NZZ chart data
+- Generates alt texts using Google Gemini 2.5 Flash
+- Stores charts, metadata, and alt texts in a SQLite database
+- Evaluates alt texts using multiple methods (LLM-as-a-judge, SBERT)
+- Compares generated texts against a gold standard built from interviews with PIVs and a linguistic expert
+- Reports and visualizes results
 
-- Prepare and normalize chart datasets (NZZ data)
-- Generate alt texts for charts using Large Language Models (LLMs) in this case Google’s Gemini 2.5 Flash
-- Store charts, metadata, and generated alt texts in a SQLite database
-- Automatically evaluate alt texts using multiple evaluation methods
-- Compare generated texts against a gold standard that has been created on our own through interviews with PIVs and a linguistic expert
-- Analyze and report evaluation results
+## Alt text structure
 
-## Synthetisised alt text structure
-snthetisized structure see ./visuals/alt_text_structure.png
-in case of an NZZ example this looks like this: ./visuals/visual_example.png
-
+The synthesized alt text structure is shown in `./visuals/alt_text_structure.png`. An NZZ example can be found in `./visuals/visual_example.png`.
 
 ## Data
-include graphic ./visuals/chart_type_distribution.png
-scope: bar, line and stacked bar charts
 
+Chart type distribution: `./visuals/chart_type_distribution.png`
 
-## Enviroment
-Every time the environment is started:
+Scope: bar charts, line charts, and stacked bar charts.
+
+## Setup
+
+```bash
 pipenv shell
 pipenv sync
+```
 
-## Folder Structure
+Run these commands each time you start the environment.
+
+## Folder structure
 
 ```text
 VIZ4VISUALLYIMPAIRED/
 ├── data/
-│   ├── NZZ_original/              # Original raw NZZ files
-│   ├── nzz_metadata.csv           # Chart metadata
+│   ├── NZZ_original/              # Raw NZZ files
+│   └── nzz_metadata.csv           # Chart metadata
 │
 ├── notebooks/
 │   ├── a_generate_dfs_for_db.ipynb
@@ -60,52 +62,50 @@ VIZ4VISUALLYIMPAIRED/
 │   ├── d2_func_llm_as_a_judge_gold_standard.py
 │   └── e_func_viz_pipeline.py
 │
+├── chart_database.db                  # Main SQLite database
 ├── report.pdf
 ├── gold_standards.pdf
-├── chart_database.db                  # Main SQLite database
 ├── Pipfile
 ├── Pipfile.lock
 └── README.md
 ```
 
+## Pipeline
 
-## Pipeline Overview
+### 1. Data preparation
+Cleans raw chart data and metadata into structured DataFrames.
 
-### Data Preparation
-Raw chart data and metadata are cleaned and transformed into structured DataFrames
+Notebook: `a_generate_dfs_for_db.ipynb`
 
-Notebooks: 'a_generate_dfs_for_db.ipynb'
+### 2. Database creation
+Creates a SQLite database to store chart metadata, data values, generated alt texts, and evaluation results.
 
-### Database Creation
-A SQLite database is created to store: Chart metadata, Data values, Generated alt texts, Evaluation results
+Notebook: `b_create_db_for_chart_data.ipynb`
 
-Notebooks: 'b_create_db_for_chart_data.ipynb'
+### 3. Alt text generation
+Generates alt texts using prompt templates and an LLM. Multiple candidates can be generated per chart.
 
-### Alt Text Generation
-Alt texts are generated using prompt templates and LLMs. Multiple candidate texts can be generated per chart.
+Notebook: `c_alt_text_generation_pipeline.ipynb`
 
-Notebooks: 'c_alt_text_generation_pipeline.ipynb'
+### 4. Evaluation (LLM-as-a-judge)
+An LLM evaluates the generated alt texts on six criteria: clarity, completeness, perceived completeness, conciseness, neutrality, and factual correctness.
 
-### Evaluation (LLM as a Judge)
-Generated alt texts are evaluated using an LLM acting as a judge. Evaluation criteria include clarity, completeness, perceived completeness, conciseness, neutrality, and factual correctness.
-Notebooks: d1_llm_as_a_judge_evaluation_pipeline.ipynb
+Notebook: `d1_llm_as_a_judge_evaluation_pipeline.ipynb`
 
-
-### Gold Standard Comparison
+### 5. Gold standard comparison
 Generated texts are compared against manually written gold standard alt texts.
 
-Notebooks: d2_llm_as_a_judge_golden_standard.ipynb
+Notebook: `d2_llm_as_a_judge_golden_standard.ipynb`
 
+### 6. Visualization and reporting
+Results are aggregated, visualized, and exported. The best alt text per chart is selected.
 
-### Visualization Analysis & Reporting
-Results are aggregated and visualized. Best-performing alt texts are selected per chart. Reports and figures are exported.
+Notebooks: `e_viz_analysis.ipynb`, `f_best_text_all_texts_per_chart_id.ipynb`
 
-Notebooks: 'e_viz_analysis.ipynb', 'f_best_text_all_texts_per_chart_id.ipynb'
+## Outputs
 
-### Outputs
-Evaluation plots: outputs/eval_figures/
-Generated Alt-Texts plus evaluations: 
-- Model run reports: outputs/generated_alt_texts
-- LLM-judged Gold standards: outputs/LLMjudged_gold_standard_alt_texts
-
-
+| Location | Contents |
+|---|---|
+| `outputs/eval_figures/` | Evaluation plots |
+| `outputs/generated_alt_texts/` | Generated alt texts with evaluation scores |
+| `outputs/LLMjudged_gold_standard_alt_texts/` | LLM-judged gold standard alt texts |
