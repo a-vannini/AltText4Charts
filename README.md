@@ -13,21 +13,14 @@ Automatic generation and evaluation of alt texts for NZZ charts, to improve acce
 
 ## Alt text structure
 
-This is our synthesized alt text structure 
-
-![Alt text structure](./visuals/alt_text_structure.png)
-
-An example for an NZZ chart would look like this
+The synthesized alt text structure is shown in `./visuals/alt_text_structure.png`. An example for an NZZ chart would look like this
 
 ![Visual example](./visuals/visual_example.png)
 
 
 ## Data
 
-The NZZ used in this project distribute over the following chart types. 
-![Chart type distribution](./visuals/chart_type_distribution.png)
-
-The scope of this project is limited to line, bar and stacked bar charts.
+The NZZ used in this project distribute over the following chart types: Line, bar, stacked bar, dotplot, arrow and are. The scope of this project is limited to line, bar and stacked bar charts.
 
 
 ## Folder structure
