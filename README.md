@@ -1,6 +1,6 @@
 # Viz4VisuallyImpaired
 
-This project focuses on the automatic generation, evaluation, and analysis of alternative texts (alt texts) for data visualizations, with the goal of improving accessibility for visually impaired and blind users.
+This project focuses on the automatic generation, evaluation, and analysis of alternative texts (short: alt texts) for NZZ charts, with the goal of improving accessibility for visually impaired people (PIVs).
 
 It combines data preprocessing, LLM-based alt text generation, LLM-as-a-Judge evaluation, and visualization analysis, using real-world chart data.
 
