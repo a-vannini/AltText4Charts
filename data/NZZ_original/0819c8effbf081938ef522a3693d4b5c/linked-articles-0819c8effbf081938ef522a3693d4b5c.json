@@ -1,0 +1,421 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Annick Ramp / NZZ",
+      "firstTitle": "Das ist eine erschütternde Entwicklung.",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "AMqouI6hJfQloAUQ040X3",
+        "locale": "de-CH"
+      },
+      "title": "Die Gewaltkriminalität nimmt zu. Die Zürcher Staatsanwältin Ines Meier ist spezialisiert auf solche Fälle. Sie sagt: «Das ist eine erschütternde Entwicklung»",
+      "seoTitle": "Staatsanwaltschaft Zürich: Gewaltstraftaten nehmen zu",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Jan Hudec (jhu)",
+          "id": 1372800,
+          "shortName": "jhu",
+          "proLitterisId": "766029"
+        }
+      ],
+      "designName": "morpheus",
+      "nzzPrintTitle": "Gewaltkriminalität nimmt zu. Staatsanwältin sagt: «Das ist eine erschütternde Entwicklung.»",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-04-26T15:35:00.000Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Katja Baigger (bai)",
+          "id": 1371941,
+          "shortName": "bai"
+        }
+      ],
+      "department": {
+        "path": "/zuerich",
+        "premium": false,
+        "level": 1,
+        "name": "Zürich"
+      },
+      "publicationDate": "2024-04-26T03:35:00.000Z",
+      "slug": "staatsanwaltschaft-zuerich-gewaltstraftaten-nehmen-zu",
+      "firstPublicationDate": "2024-04-26T03:35:00.000Z",
+      "nzzCharacterCount": 5192,
+      "owner": "NZZ",
+      "authorLine": "Jan Hudec",
+      "numberOfContentComponents": 26,
+      "germanyRelevant": true,
+      "leadText": "Immer häufiger seien junge Erwachsene an schweren Gewaltdelikten beteiligt. Man müsse versuchen, sie von der schiefen Bahn zu holen.",
+      "publicationLastUpdated": "2024-04-26T06:15:16.242Z",
+      "nzzArticleSnippet": "Immer häufiger seien junge Erwachsene an schweren Gewaltdelikten beteiligt. Man müsse versuchen, sie von der schiefen Bahn zu holen.",
+      "urlPath": "/zuerich/staatsanwaltschaft-zuerich-gewaltstraftaten-nehmen-zu-ld.1828003",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 5813,
+        "originalUrl": "https://img.nzz.ch/2023/02/09/a4b2c9ab-9afa-4cb2-bec0-f4ef2e35f9a6.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 5813,
+            "name": "16:9",
+            "y": 314,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W5813,H3270,X0,Y314/O=75/https://img.nzz.ch/2023/02/09/a4b2c9ab-9afa-4cb2-bec0-f4ef2e35f9a6.jpeg",
+            "height": 3270,
+            "ratio": 1.77778
+          },
+          {
+            "x": 1570,
+            "width": 2722,
+            "name": "1:1",
+            "y": 428,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W2722,H2722,X1570,Y428/O=75/https://img.nzz.ch/2023/02/09/a4b2c9ab-9afa-4cb2-bec0-f4ef2e35f9a6.jpeg",
+            "height": 2722,
+            "ratio": 1
+          },
+          {
+            "x": 323,
+            "width": 5167,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/C=W5167,H3875,X323,Y0/O=75/https://img.nzz.ch/2023/02/09/a4b2c9ab-9afa-4cb2-bec0-f4ef2e35f9a6.jpeg",
+            "height": 3875,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1352,
+            "width": 2906,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W2906,H3875,X1352,Y0/O=75/https://img.nzz.ch/2023/02/09/a4b2c9ab-9afa-4cb2-bec0-f4ef2e35f9a6.jpeg",
+            "height": 3875,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "Hf1Ahubfg1in",
+        "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2023/02/09/a4b2c9ab-9afa-4cb2-bec0-f4ef2e35f9a6.jpeg",
+        "height": 3875
+      },
+      "nzzId": "ld.1828003",
+      "url": "https://www.nzz.ch/zuerich/staatsanwaltschaft-zuerich-gewaltstraftaten-nehmen-zu-ld.1828003",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hsatk91i1",
+              "doc-1hsb5s8230"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "commentCount": 2,
+      "layout": "regular",
+      "estimationWordCount": 797,
+      "embeds": {
+        "images": [
+          {
+            "author": "Annick Ramp / NZZ",
+            "caption": "Junge Erwachsene tragen heute häufig ein Messer auf sich.",
+            "origins": [
+              {
+                "identifier": "2140796969",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2023/02/09/a4b2c9ab-9afa-4cb2-bec0-f4ef2e35f9a6.jpeg"
+          },
+          {
+            "author": "PD",
+            "caption": "Staatsanwältin Ines Meier ist spezialisiert auf schwere Gewaltkriminalität.",
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/04/25/9b88b8e4-cf93-4ba5-855b-e2c6e3be1099.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0819c8effbf081938ef522a3693d4b5c"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/zuerich",
+          "name": "Zürich"
+        }
+      ],
+      "teaserCaption": "Junge Erwachsene tragen heute häufig ein Messer auf sich.",
+      "documentId": "1828003",
+      "product": "NZZ.ch"
+    }
+  },
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Werner Dieterich / Imago",
+      "firstTitle": "Justitia im Dauerstress: Wenn sich eine Kinderbetreuerin laut über einen Zweijährigen ärgert, ist das kein Fall für den Richter",
+      "flag": "Kommentar",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "HfEUZJCTwMDLZTy37sTa6",
+        "locale": "de-CH"
+      },
+      "title": "Justitia im Dauerstress: Wenn sich eine Kinderbetreuerin laut über einen Zweijährigen ärgert, ist das kein Fall für den Richter",
+      "seoTitle": "Kita-Betreuerin wegen 2-Jährigem vor Gericht: Eine Lappalie ist kein Justizfall",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Fabian Baumgartner (fbi)",
+          "id": 1372409,
+          "shortName": "fbi",
+          "proLitterisId": "763741"
+        }
+      ],
+      "nzzPrintTitle": "Lappalien und Geschmacklosigkeiten sind kein Fall für den Richter",
+      "designName": "morpheus",
+      "authorImage": {
+        "imageService": "fastly",
+        "width": 1507,
+        "originalUrl": "https://img.nzz.ch/2024/09/23/3c43238e-cb6f-48e5-b8bf-e430312b527c.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 1507,
+            "name": "1:1",
+            "y": 377,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2024/09/23/3c43238e-cb6f-48e5-b8bf-e430312b527c.jpeg?crop=1507,1507,x0,y377&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2024/09/23/3c43238e-cb6f-48e5-b8bf-e430312b527c.jpeg?crop=1507,1507,x0,y377&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2024/09/23/3c43238e-cb6f-48e5-b8bf-e430312b527c.jpeg?crop=1507,1507,x0,y377&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2024/09/23/3c43238e-cb6f-48e5-b8bf-e430312b527c.jpeg?crop=1507,1507,x0,y377&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/09/23/3c43238e-cb6f-48e5-b8bf-e430312b527c.jpeg?crop=1507,1507,x0,y377&width=1024&quality=75&auto=webp",
+            "height": 1507,
+            "ratio": 1
+          }
+        ],
+        "mediaId": "MULgZxnjFCA1",
+        "key": "2024/09/23/3c43238e-cb6f-48e5-b8bf-e430312b527c.jpeg",
+        "url": "https://img.nzz.ch/2024/09/23/3c43238e-cb6f-48e5-b8bf-e430312b527c.jpeg?width=1024&quality=75&auto=webp",
+        "height": 2260
+      },
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-09-24T02:51:02.637Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Daniel Fritzsche (dfr)",
+          "id": 1372257,
+          "shortName": "dfr",
+          "proLitterisId": "766357"
+        }
+      ],
+      "department": {
+        "path": "/meinung",
+        "premium": false,
+        "level": 1,
+        "name": "Meinung"
+      },
+      "publicationDate": "2024-09-23T14:51:02.637Z",
+      "slug": "kita-betreuerin-wegen-2-jaehrigem-vor-gericht-eine-lappalie-ist-kein-justizfallme",
+      "showComments": true,
+      "firstPublicationDate": "2024-09-23T14:51:02.637Z",
+      "nzzCharacterCount": 4343,
+      "owner": "NZZ",
+      "authorLine": "Fabian Baumgartner",
+      "numberOfContentComponents": 19,
+      "leadText": "Die Justiz kann nicht Problemlöserin für Petitessen und jede Geschmacklosigkeit sein. Sie soll sich auf die wichtigen Verfahren fokussieren können.",
+      "publicationLastUpdated": "2024-09-23T15:26:24.967Z",
+      "nzzArticleSnippet": "Die Justiz kann nicht Problemlöserin für Petitessen und jede Geschmacklosigkeit sein. Sie soll sich auf die wichtigen Verfahren fokussieren können.",
+      "urlPath": "/meinung/kita-betreuerin-wegen-2-jaehrigem-vor-gericht-eine-lappalie-ist-kein-justizfallme-ld.1849648",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 3428,
+        "originalUrl": "https://img.nzz.ch/2024/09/23/37e1b789-d4de-4136-80d5-94d046bad32e.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 3428,
+            "name": "16:9",
+            "y": 829,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2024/09/23/37e1b789-d4de-4136-80d5-94d046bad32e.jpeg?crop=3428,1928,x0,y829&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2024/09/23/37e1b789-d4de-4136-80d5-94d046bad32e.jpeg?crop=3428,1928,x0,y829&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2024/09/23/37e1b789-d4de-4136-80d5-94d046bad32e.jpeg?crop=3428,1928,x0,y829&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2024/09/23/37e1b789-d4de-4136-80d5-94d046bad32e.jpeg?crop=3428,1928,x0,y829&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/09/23/37e1b789-d4de-4136-80d5-94d046bad32e.jpeg?crop=3428,1928,x0,y829&width=1024&quality=75&auto=webp",
+            "height": 1928,
+            "ratio": 1.77778
+          },
+          {
+            "x": 991,
+            "width": 1056,
+            "name": "1:1",
+            "y": 928,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2024/09/23/37e1b789-d4de-4136-80d5-94d046bad32e.jpeg?crop=1056,1056,x991,y928&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2024/09/23/37e1b789-d4de-4136-80d5-94d046bad32e.jpeg?crop=1056,1056,x991,y928&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2024/09/23/37e1b789-d4de-4136-80d5-94d046bad32e.jpeg?crop=1056,1056,x991,y928&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2024/09/23/37e1b789-d4de-4136-80d5-94d046bad32e.jpeg?crop=1056,1056,x991,y928&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/09/23/37e1b789-d4de-4136-80d5-94d046bad32e.jpeg?crop=1056,1056,x991,y928&width=1024&quality=75&auto=webp",
+            "height": 1056,
+            "ratio": 1
+          },
+          {
+            "x": 196,
+            "width": 3047,
+            "name": "4:3",
+            "y": 743,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2024/09/23/37e1b789-d4de-4136-80d5-94d046bad32e.jpeg?crop=3047,2285,x196,y743&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2024/09/23/37e1b789-d4de-4136-80d5-94d046bad32e.jpeg?crop=3047,2285,x196,y743&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2024/09/23/37e1b789-d4de-4136-80d5-94d046bad32e.jpeg?crop=3047,2285,x196,y743&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2024/09/23/37e1b789-d4de-4136-80d5-94d046bad32e.jpeg?crop=3047,2285,x196,y743&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/09/23/37e1b789-d4de-4136-80d5-94d046bad32e.jpeg?crop=3047,2285,x196,y743&width=1024&quality=75&auto=webp",
+            "height": 2285,
+            "ratio": 1.33333
+          },
+          {
+            "x": 0,
+            "width": 3428,
+            "name": "3:4",
+            "y": 591,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2024/09/23/37e1b789-d4de-4136-80d5-94d046bad32e.jpeg?crop=3428,4570,x0,y591&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2024/09/23/37e1b789-d4de-4136-80d5-94d046bad32e.jpeg?crop=3428,4570,x0,y591&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2024/09/23/37e1b789-d4de-4136-80d5-94d046bad32e.jpeg?crop=3428,4570,x0,y591&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2024/09/23/37e1b789-d4de-4136-80d5-94d046bad32e.jpeg?crop=3428,4570,x0,y591&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/09/23/37e1b789-d4de-4136-80d5-94d046bad32e.jpeg?crop=3428,4570,x0,y591&width=1024&quality=75&auto=webp",
+            "height": 4570,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "JLq6I0iFWhsG",
+        "key": "2024/09/23/37e1b789-d4de-4136-80d5-94d046bad32e.jpeg",
+        "url": "https://img.nzz.ch/2024/09/23/37e1b789-d4de-4136-80d5-94d046bad32e.jpeg?width=1024&quality=75&auto=webp",
+        "height": 5161
+      },
+      "nzzId": "ld.1849648",
+      "url": "https://www.nzz.ch/meinung/kita-betreuerin-wegen-2-jaehrigem-vor-gericht-eine-lappalie-ist-kein-justizfallme-ld.1849648",
+      "dependencies": {},
+      "commentCount": 1,
+      "layout": "opinion",
+      "estimationWordCount": 678,
+      "embeds": {
+        "images": [
+          {
+            "author": "Werner Dieterich / Imago",
+            "caption": "Es besteht eine Tendenz, auch Nebensächlichkeiten von der Justiz bewerten zu lassen.",
+            "origins": [
+              {
+                "identifier": "2160909967",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2024/09/23/37e1b789-d4de-4136-80d5-94d046bad32e.jpeg?crop=3428,2571,x0,y176&width=1024&quality=75&auto=webp"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0819c8effbf081938ef522a3693d4b5c"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/meinung",
+          "name": "Meinung"
+        }
+      ],
+      "teaserCaption": "Es besteht eine Tendenz, auch Nebensächlichkeiten von der Justiz bewerten zu lassen.",
+      "documentId": "1849648",
+      "product": "NZZ.ch"
+    }
+  }
+]

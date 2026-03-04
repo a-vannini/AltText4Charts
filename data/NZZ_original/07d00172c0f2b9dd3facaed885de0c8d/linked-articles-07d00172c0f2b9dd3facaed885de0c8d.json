@@ -1,0 +1,218 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Siphiwe Sibeko / Reuters",
+      "firstTitle": "«Länder wie Südafrika werden kritisiert, wenn sie mit China Handel treiben, aber alle anderen dürfen das tun»",
+      "flag": "Interview",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "9khVWzhi1zMf",
+        "locale": "de-CH"
+      },
+      "title": "«Länder wie Südafrika werden kritisiert, wenn sie mit China Handel treiben, aber alle anderen dürfen das tun»",
+      "seoTitle": "Wende in Südafrika? ANC könnte absolute Mehrheit verlieren",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Dominique Burckhardt (dbu)",
+          "id": 1372243,
+          "shortName": "dbu",
+          "proLitterisId": "152653"
+        }
+      ],
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-05-25T15:30:00.000Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Katrin Büchenbacher (k.b.)",
+          "id": 1533538,
+          "shortName": "k.b.",
+          "proLitterisId": "885012"
+        }
+      ],
+      "department": {
+        "path": "/international",
+        "premium": false,
+        "level": 1,
+        "name": "International"
+      },
+      "publicationDate": "2024-05-25T03:30:00.000Z",
+      "slug": "wende-in-suedafrika-anc-koennte-absolute-mehrheit-verlieren",
+      "firstPublicationDate": "2024-05-25T03:30:00.000Z",
+      "nzzCharacterCount": 9911,
+      "owner": "NZZ",
+      "authorLine": "Dominique Burckhardt",
+      "numberOfContentComponents": 37,
+      "germanyRelevant": true,
+      "leadText": "Seit drei Jahrzehnten regiert die frühere Freiheitsbewegung ANC Südafrika mit dem absoluten Mehr. Die Wahlen vom kommenden Mittwoch dürften das ändern. Das sei gut für die Stärkung der Demokratie, sagt der südafrikanische Politologe Ongama Mtimka.",
+      "publicationLastUpdated": "2024-05-25T03:30:00.000Z",
+      "nzzArticleSnippet": "Seit drei Jahrzehnten regiert die frühere Freiheitsbewegung ANC Südafrika mit dem absoluten Mehr. Die Wahlen vom kommenden Mittwoch dürften das ändern. Das sei gut für die Stärkung der Demokratie, sagt der südafrikanische Politologe Ongama Mtimka.",
+      "urlPath": "/international/wende-in-suedafrika-anc-koennte-absolute-mehrheit-verlieren-ld.1830226",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 1620,
+        "originalUrl": "https://img.nzz.ch/2024/05/16/01ee5c10-e90f-4c44-819c-a577ab557fcc.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 1620,
+            "name": "16:9",
+            "y": 72,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/16/01ee5c10-e90f-4c44-819c-a577ab557fcc.jpeg?crop=1620,911,x0,y72&width=1024&quality=75&auto=webp",
+            "height": 911,
+            "ratio": 1.77778
+          },
+          {
+            "x": 637,
+            "width": 983,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/16/01ee5c10-e90f-4c44-819c-a577ab557fcc.jpeg?crop=983,983,x637,y0&width=1024&quality=75&auto=webp",
+            "height": 983,
+            "ratio": 1
+          },
+          {
+            "x": 309,
+            "width": 1311,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/16/01ee5c10-e90f-4c44-819c-a577ab557fcc.jpeg?crop=1311,983,x309,y0&width=1024&quality=75&auto=webp",
+            "height": 983,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1100,
+            "width": 460,
+            "name": "3:4",
+            "y": 369,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/16/01ee5c10-e90f-4c44-819c-a577ab557fcc.jpeg?crop=460,614,x1100,y369&width=1024&quality=75&auto=webp",
+            "height": 614,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "adzbjubKIcqU",
+        "url": "https://img.nzz.ch/2024/05/16/01ee5c10-e90f-4c44-819c-a577ab557fcc.jpeg?width=1024&quality=75&auto=webp",
+        "key": "2024/05/16/01ee5c10-e90f-4c44-819c-a577ab557fcc.jpeg",
+        "height": 983
+      },
+      "nzzId": "ld.1830226",
+      "url": "https://www.nzz.ch/international/wende-in-suedafrika-anc-koennte-absolute-mehrheit-verlieren-ld.1830226",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hu0og24g1",
+              "doc-1hu0q82g21",
+              "doc-1htp3jlsh0",
+              "doc-1hu0pjb6n0",
+              "doc-1hu0q9l5v0",
+              "doc-1hu0qsi8k0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "commentCount": 1,
+      "layout": "longformstandard",
+      "estimationWordCount": 1542,
+      "embeds": {
+        "images": [
+          {
+            "author": "Siphiwe Sibeko / Reuters",
+            "caption": "Die Entwicklung scheint stillzustehen: Ein Händler von Secondhand-Pneus wartet im Dorf Komati&nbsp;östlich&nbsp;von Johannesburg auf Kundschaft.",
+            "origins": [
+              {
+                "identifier": "2155803182",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/C=W1475,H983,X59,Y0/O=75/https://img.nzz.ch/2024/05/16/01ee5c10-e90f-4c44-819c-a577ab557fcc.jpeg"
+          },
+          {
+            "author": "Siphiwe Sibeko / Reuters",
+            "caption": "Verzweifelter Protest: Mit dem Aufhängen von nasser Wäsche vor einem zerfallenden Haus demonstrieren Menschen aus Soweto im Vorfeld der Wahlen gegen den Mangel an Wohnungen und Elektrizität.",
+            "origins": [
+              {
+                "identifier": "2153941485",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/C=W5313,H3542,X26,Y0/O=75/https://img.nzz.ch/2024/05/16/ac3a5bb8-3b21-46a8-8b34-fdef893e8c70.jpeg"
+          },
+          {
+            "author": "PD",
+            "caption": "Ongama Mtimka.",
+            "origins": [
+              {
+                "identifier": "2155811593",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/05/16/f50449f2-ed50-47a4-906c-614bfba41e26.jpeg"
+          },
+          {
+            "author": "Themba Hadebe / AP",
+            "caption": "Absolute Mehrheit gefährdet: Besonders die vom früheren Präsidenten Zuma gegründete Splitterpartei MK droht den regierenden ANC entscheidende Stimmen zu kosten.",
+            "origins": [
+              {
+                "identifier": "2155799956",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/05/16/0688602a-1b6b-4e70-9d36-99236c20ea1c.jpeg"
+          },
+          {
+            "author": "Siphiwe Sibeko / Reuters",
+            "caption": "Massive Stromausfälle: Die Energieversorgung in Südafrika funktioniert mehr schlecht als recht. Bild: Das Kusile-Kraftwerk ist eines der weltgrössten Kohlekraftwerke.",
+            "origins": [
+              {
+                "identifier": "2155695040",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/C=W4701,H3134,X589,Y392/O=75/https://img.nzz.ch/2024/05/16/7aadc13a-e1d4-478d-929d-6ec09d2c4e56.jpeg"
+          },
+          {
+            "author": "Siphiwe Sibeko / Reuters",
+            "caption": "Öffentlicher Aufstand: Um auf ihre Notlage aufmerksam zu machen, blockieren Südafrikaner aus vernachlässigten Gegenden wichtige Strassen.",
+            "origins": [
+              {
+                "identifier": "2153941465",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/C=W3463,H2309,X158,Y0/O=75/https://img.nzz.ch/2024/05/16/7fa27aeb-1356-4df3-b13e-f70d96780e8a.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "07d00172c0f2b9dd3facaed885de0c8d"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/international",
+          "name": "International"
+        }
+      ],
+      "teaserCaption": "Die Entwicklung scheint stillzustehen: Ein Händler von Secondhand-Pneus wartet im Dorf Komati östlich von Johannesburg auf Kundschaft.",
+      "documentId": "1830226",
+      "product": "NZZ.ch"
+    }
+  }
+]

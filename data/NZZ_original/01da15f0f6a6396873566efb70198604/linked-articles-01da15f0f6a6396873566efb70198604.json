@@ -1,0 +1,193 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Anthony Anex / Keystone",
+      "firstTitle": "Die «alten weissen Männer» verlassen die Zürcher Alternativen – die AL droht, zur linken Allerweltspartei zu werden",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "ksk1G6k9ZpEkkmUgE7zgu",
+        "locale": "de-CH"
+      },
+      "title": "Die alten Männer verlassen die Zürcher Alternativen – die AL droht zur linken Allerweltspartei zu werden",
+      "seoTitle": "Alternative Liste vor Veränderung: Die Ära der alten Garde in Zürich endet",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Michael von Ledebur (mvl)",
+          "id": 1373270,
+          "shortName": "mvl",
+          "proLitterisId": "767407"
+        }
+      ],
+      "nzzPrintTitle": "Die alten Alternativen danken ab",
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-05-13T17:33:30.198Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Daniel Fritzsche (dfr)",
+          "id": 1372257,
+          "shortName": "dfr",
+          "proLitterisId": "766357"
+        }
+      ],
+      "department": {
+        "path": "/zuerich",
+        "premium": false,
+        "level": 1,
+        "name": "Zürich"
+      },
+      "publicationDate": "2024-05-13T05:33:30.198Z",
+      "slug": "die-alten-maenner-verlassen-die-zuercher-alternativen-die-al-droht-zur-linken-allerweltspartei-zu-werden",
+      "firstPublicationDate": "2024-05-13T05:33:30.198Z",
+      "nzzCharacterCount": 6643,
+      "owner": "NZZ",
+      "authorLine": "Michael von Ledebur",
+      "numberOfContentComponents": 28,
+      "germanyRelevant": true,
+      "leadText": "Die Originale der Alternativen Liste treten ab. Was bleibt von der einst so lauten Protestpartei?",
+      "publicationLastUpdated": "2024-05-13T06:56:16.249Z",
+      "nzzArticleSnippet": "Die Originale der Alternativen Liste treten ab. Was bleibt von der einst so lauten Protestpartei?",
+      "urlPath": "/zuerich/die-alten-maenner-verlassen-die-zuercher-alternativen-die-al-droht-zur-linken-allerweltspartei-zu-werden-ld.1829967",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 4687,
+        "originalUrl": "https://img.nzz.ch/2024/05/10/0e3cbdbf-892e-49c9-854a-6bfceecdee0f.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 79,
+            "width": 4166,
+            "name": "16:9",
+            "y": 777,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/10/0e3cbdbf-892e-49c9-854a-6bfceecdee0f.jpeg?crop=4166,2343,x79,y777&quality=75&auto=webp",
+            "height": 2343,
+            "ratio": 1.77778
+          },
+          {
+            "x": 2262,
+            "width": 1731,
+            "name": "1:1",
+            "y": 875,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/10/0e3cbdbf-892e-49c9-854a-6bfceecdee0f.jpeg?crop=1731,1731,x2262,y875&quality=75&auto=webp",
+            "height": 1731,
+            "ratio": 1
+          },
+          {
+            "x": 0,
+            "width": 4160,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/10/0e3cbdbf-892e-49c9-854a-6bfceecdee0f.jpeg?crop=4160,3120,x0,y0&quality=75&auto=webp",
+            "height": 3120,
+            "ratio": 1.33333
+          },
+          {
+            "x": 2257,
+            "width": 1849,
+            "name": "3:4",
+            "y": 655,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/10/0e3cbdbf-892e-49c9-854a-6bfceecdee0f.jpeg?crop=1849,2465,x2257,y655&quality=75&auto=webp",
+            "height": 2465,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "KIovwCPbkbWf",
+        "url": "https://img.nzz.ch/2024/05/10/0e3cbdbf-892e-49c9-854a-6bfceecdee0f.jpeg?quality=75&auto=webp",
+        "key": "2024/05/10/0e3cbdbf-892e-49c9-854a-6bfceecdee0f.jpeg",
+        "height": 3120
+      },
+      "nzzId": "ld.1829967",
+      "url": "https://www.nzz.ch/zuerich/die-alten-maenner-verlassen-die-zuercher-alternativen-die-al-droht-zur-linken-allerweltspartei-zu-werden-ld.1829967",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1htluhsm61",
+              "doc-1hth8o8hq1",
+              "doc-1hth8qkrg1",
+              "doc-1hth8skeo1"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "estimationWordCount": 1050,
+      "embeds": {
+        "images": [
+          {
+            "author": "Anthony Anex / Keystone",
+            "caption": "Ein linkes Alphatier: Niklaus Scherr war während Jahrzehnten eine prägende Figur der Alternativen Liste.",
+            "origins": [
+              {
+                "identifier": "2155650075",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/05/12/11acdc57-d4ee-4962-a249-8c003a27adf8.jpeg"
+          },
+          {
+            "author": "Goran Basic / NZZ",
+            "caption": "Walter Angst spricht während der Budgetdebatte im Gemeinderat 2018.&nbsp;",
+            "origins": [
+              {
+                "identifier": "2003553403",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/05/10/0e3cbdbf-892e-49c9-854a-6bfceecdee0f.jpeg"
+          },
+          {
+            "author": "PD",
+            "caption": "Andreas Kirstein.",
+            "origins": [
+              {
+                "identifier": "2127918812",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2022/01/21/98456584-167c-4e11-be0c-05b2c3283629.jpeg"
+          },
+          {
+            "author": "Annick Ramp / NZZ",
+            "caption": "Richard Wolff mit seinem Hund im Zürcher Stadthaus. 2022 verliess er als erster und bisher einziger Stadtrat der AL die politische Bühne.",
+            "origins": [
+              {
+                "identifier": "2128616847",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2022/02/13/702d4ef1-7eea-47d3-97fc-62c790bfdace.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "01da15f0f6a6396873566efb70198604"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/zuerich",
+          "name": "Zürich"
+        }
+      ],
+      "teaserCaption": "Ein linkes Alphatier: Niklaus Scherr war während Jahrzehnten eine prägende Figur der Alternativen Liste.",
+      "documentId": "1829967",
+      "product": "NZZ.ch"
+    }
+  }
+]

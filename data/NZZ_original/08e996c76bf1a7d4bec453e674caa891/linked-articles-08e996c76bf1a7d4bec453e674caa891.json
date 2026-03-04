@@ -1,0 +1,296 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Michael Buholzer / Keystone",
+      "firstTitle": "Die Stadt Zürich zahlt jedes Jahr 140 Franken an Subventionen für die Kultur. Ein SVP-Mann sagt: «Es geht zunehmend darum, politische Botschaften zu senden»",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "3i2H-AWhcny1zh9ixpfkx",
+        "locale": "de-CH"
+      },
+      "title": "Die Stadt Zürich zahlt jedes Jahr 140 Millionen Franken Subventionen für die Kultur. Ein SVP-Mann sagt: «Es geht zunehmend darum, politische Botschaften zu senden»",
+      "seoTitle": "140 Millionen für die Kulturförderung in Zürich: wohin das Geld fliesst",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Isabel Heusser (heu)",
+          "id": 1648381,
+          "shortName": "heu",
+          "proLitterisId": "886706"
+        }
+      ],
+      "nzzPrintTitle": "Diskussion um Fördergelder für die Kultur",
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-06-15T15:05:00.000Z",
+      "department": {
+        "path": "/zuerich",
+        "premium": false,
+        "level": 1,
+        "name": "Zürich"
+      },
+      "publicationDate": "2024-06-15T03:05:00.000Z",
+      "slug": "140-millionen-fuer-die-kulturfoerderung-in-zuerich-wohin-das-geld-fliesst",
+      "firstPublicationDate": "2024-06-15T03:05:00.000Z",
+      "nzzCharacterCount": 8109,
+      "owner": "NZZ",
+      "authorLine": "Isabel Heusser",
+      "numberOfContentComponents": 33,
+      "germanyRelevant": true,
+      "leadText": "Mit Fördergeldern will die Stadt zu Innovation und Vielfalt in der Kultur beitragen. Doch wird das auch erreicht?",
+      "publicationLastUpdated": "2024-06-15T03:05:00.000Z",
+      "nzzArticleSnippet": "Mit Fördergeldern will die Stadt zu Innovation und Vielfalt in der Kultur beitragen. Doch wird das auch erreicht?",
+      "urlPath": "/zuerich/140-millionen-fuer-die-kulturfoerderung-in-zuerich-wohin-das-geld-fliesst-ld.1834597",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 6000,
+        "originalUrl": "https://img.nzz.ch/2024/06/13/8e9695be-2af4-4a1b-bf02-5e6e2b6cf432.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 6000,
+            "name": "16:9",
+            "y": 342,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/13/8e9695be-2af4-4a1b-bf02-5e6e2b6cf432.jpeg?crop=6000,3375,x0,y342&quality=75&auto=webp",
+            "height": 3375,
+            "ratio": 1.77778
+          },
+          {
+            "x": 1570,
+            "width": 3557,
+            "name": "1:1",
+            "y": 152,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/13/8e9695be-2af4-4a1b-bf02-5e6e2b6cf432.jpeg?crop=3557,3557,x1570,y152&quality=75&auto=webp",
+            "height": 3557,
+            "ratio": 1
+          },
+          {
+            "x": 1257,
+            "width": 4743,
+            "name": "4:3",
+            "y": 189,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/13/8e9695be-2af4-4a1b-bf02-5e6e2b6cf432.jpeg?crop=4743,3557,x1257,y189&quality=75&auto=webp",
+            "height": 3557,
+            "ratio": 1.33333
+          },
+          {
+            "x": 2637,
+            "width": 1666,
+            "name": "3:4",
+            "y": 756,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/13/8e9695be-2af4-4a1b-bf02-5e6e2b6cf432.jpeg?crop=1666,2221,x2637,y756&quality=75&auto=webp",
+            "height": 2221,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "HIXsuDsitjWJ",
+        "url": "https://img.nzz.ch/2024/06/13/8e9695be-2af4-4a1b-bf02-5e6e2b6cf432.jpeg?quality=75&auto=webp",
+        "key": "2024/06/13/8e9695be-2af4-4a1b-bf02-5e6e2b6cf432.jpeg",
+        "height": 4002
+      },
+      "nzzId": "ld.1834597",
+      "url": "https://www.nzz.ch/zuerich/140-millionen-fuer-die-kulturfoerderung-in-zuerich-wohin-das-geld-fliesst-ld.1834597",
+      "dependencies": {},
+      "commentCount": 1,
+      "layout": "regular",
+      "estimationWordCount": 1164,
+      "embeds": {
+        "images": [
+          {
+            "author": "Michael Buholzer / Keystone",
+            "caption": "Die Kunstgesellschaft hat die Kosten für den Betrieb des Chipperfield-Erweiterungsbaus unterschätzt.",
+            "origins": [
+              {
+                "identifier": "2156577807",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2024/06/13/8e9695be-2af4-4a1b-bf02-5e6e2b6cf432.jpeg?crop=5333,3557,x172,y156&quality=75&auto=webp"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "9c34f843abc41325f7ff6d735fda388d"
+          },
+          {
+            "id": "08e996c76bf1a7d4bec453e674caa891"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/zuerich",
+          "name": "Zürich"
+        }
+      ],
+      "teaserCaption": "Die Kunstgesellschaft hat die Kosten für den Betrieb des Chipperfield-Erweiterungsbaus unterschätzt.",
+      "documentId": "1834597",
+      "product": "NZZ.ch"
+    }
+  },
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Illustration Simon Tanner / NZZ",
+      "firstTitle": "Das Kunsthaus Zürich ist too precious to fail",
+      "flag": "Kommentar",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "XlHcm_A5O_OYsAvpk1Alf",
+        "locale": "de-CH"
+      },
+      "title": "Das Kunsthaus Zürich muss finanziell saniert werden. Das wichtigste Museum der Stadt fallen zu lassen, ist keine Option",
+      "seoTitle": "Das Kunsthaus Zürich hat keine Häme verdient. Kommentar",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Daniel Fritzsche (dfr)",
+          "id": 1372257,
+          "shortName": "dfr",
+          "proLitterisId": "766357"
+        }
+      ],
+      "nzzPrintTitle": "Das Kunsthaus ist «too precious to fail»",
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-06-17T15:00:00.000Z",
+      "department": {
+        "path": "/meinung",
+        "premium": false,
+        "level": 1,
+        "name": "Meinung"
+      },
+      "publicationDate": "2024-06-17T03:00:00.000Z",
+      "slug": "das-kunsthaus-zuerich-hat-keine-haeme-verdient-kommentar",
+      "showComments": true,
+      "firstPublicationDate": "2024-06-17T03:00:00.000Z",
+      "nzzCharacterCount": 8735,
+      "owner": "NZZ",
+      "authorLine": "Daniel Fritzsche",
+      "numberOfContentComponents": 33,
+      "leadText": "Das Kunsthaus steckt in finanziellen Schwierigkeiten. Doch es benötigt deutlich weniger Subventionen als andere grosse Kultureinrichtungen.",
+      "publicationLastUpdated": "2024-06-17T11:13:13.404Z",
+      "nzzArticleSnippet": "Das Kunsthaus steckt in finanziellen Schwierigkeiten. Doch es benötigt deutlich weniger Subventionen als andere grosse Kultureinrichtungen.",
+      "urlPath": "/meinung/das-kunsthaus-zuerich-hat-keine-haeme-verdient-kommentar-ld.1834525",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 1600,
+        "originalUrl": "https://img.nzz.ch/2024/06/14/e12bddbd-26f2-428f-9584-ab79476d0010.gif",
+        "mimeType": "image/gif",
+        "crops": [
+          {
+            "x": 0,
+            "width": 1600,
+            "name": "16:9",
+            "y": 115,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/14/e12bddbd-26f2-428f-9584-ab79476d0010.gif?crop=1600,900,x0,y115&width=1024&quality=75&auto=webp",
+            "height": 900,
+            "ratio": 1.77778
+          },
+          {
+            "x": 361,
+            "width": 947,
+            "name": "1:1",
+            "y": 96,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/14/e12bddbd-26f2-428f-9584-ab79476d0010.gif?crop=947,947,x361,y96&width=1024&quality=75&auto=webp",
+            "height": 947,
+            "ratio": 1
+          },
+          {
+            "x": 198,
+            "width": 1262,
+            "name": "4:3",
+            "y": 92,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/14/e12bddbd-26f2-428f-9584-ab79476d0010.gif?crop=1262,947,x198,y92&width=1024&quality=75&auto=webp",
+            "height": 947,
+            "ratio": 1.33333
+          },
+          {
+            "x": 445,
+            "width": 799,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/14/e12bddbd-26f2-428f-9584-ab79476d0010.gif?crop=799,1065,x445,y0&width=1024&quality=75&auto=webp",
+            "height": 1065,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "skJDK3LJgQ-J",
+        "url": "https://img.nzz.ch/2024/06/14/e12bddbd-26f2-428f-9584-ab79476d0010.gif?width=1024&quality=75&auto=webp",
+        "key": "2024/06/14/e12bddbd-26f2-428f-9584-ab79476d0010.gif",
+        "height": 1065
+      },
+      "nzzId": "ld.1834525",
+      "url": "https://www.nzz.ch/meinung/das-kunsthaus-zuerich-hat-keine-haeme-verdient-kommentar-ld.1834525",
+      "dependencies": {},
+      "commentCount": 1,
+      "layout": "opinion",
+      "estimationWordCount": 1265,
+      "nzzPrintSubtitle": "Das wichtigste Museum der Stadt Zürich steckt in finanziellen Schwierigkeiten. Es fallen zu lassen, ist keine Option.",
+      "embeds": {
+        "images": [
+          {
+            "author": "Illustration Simon Tanner / NZZ",
+            "url": "https://img.nzz.ch/2024/06/14/e12bddbd-26f2-428f-9584-ab79476d0010.gif?quality=75&auto=webp"
+          },
+          {
+            "author": "Annick Ramp / NZZ",
+            "caption": "Philipp Hildebrand, Präsident der Zürcher Kunstgesellschaft.",
+            "origins": [
+              {
+                "identifier": "2156226358",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2024/05/28/a26f04b4-f47e-436b-8432-632339a0b831.jpeg?crop=2291,3436,x2014,y1165&quality=75&auto=webp"
+          },
+          {
+            "author": "Michael Buholzer / Keystone",
+            "caption": "Das Kunsthaus mit seinem 2021 eröffneten Chipperfield-Bau zog letztes Jahr eine halbe Million Besucher an.",
+            "origins": [
+              {
+                "identifier": "2156577807",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2024/06/13/8e9695be-2af4-4a1b-bf02-5e6e2b6cf432.jpeg?quality=75&auto=webp"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "08e996c76bf1a7d4bec453e674caa891"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/meinung",
+          "name": "Meinung"
+        }
+      ],
+      "teaserCaption": "Philipp Hildebrand, Präsident der Zürcher Kunstgesellschaft.",
+      "documentId": "1834525",
+      "product": "NZZ.ch"
+    }
+  }
+]

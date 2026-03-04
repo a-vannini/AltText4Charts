@@ -1,0 +1,102 @@
+{
+  "_id": "01da15f0f6a6396873566efb70198604",
+  "_rev": "22-8f8b23513a956d777c4e1ae41d6f13b0",
+  "department": "Zürich",
+  "publication": "nzz",
+  "acronym": "mvl.",
+  "title": "Die Alternative Liste büsst Sitze ein",
+  "tool": "chart",
+  "data": [
+    [
+      "Wahljahr",
+      "AL"
+    ],
+    [
+      "1990",
+      "4"
+    ],
+    [
+      "1994",
+      "2"
+    ],
+    [
+      "1998",
+      "2"
+    ],
+    [
+      "2002",
+      "3"
+    ],
+    [
+      "2006",
+      "5"
+    ],
+    [
+      "2010",
+      "5"
+    ],
+    [
+      "2014",
+      "9"
+    ],
+    [
+      "2018",
+      "10"
+    ],
+    [
+      "2022",
+      "8"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {
+      "first": false,
+      "last": true,
+      "max": true,
+      "min": true,
+      "valuesOnBars": true
+    },
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "many",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false,
+      "yScaleType": "linear"
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "subtitle": "Anzahl Sitze im 125-köpfigen Stadtparlament seit der Parteigründung 1990, Wahljahre",
+  "createdDate": "2024-05-10T08:44:47.862Z",
+  "createdBy": "michael.vonledebur@nzz.ch",
+  "updatedDate": "2024-05-12T14:09:53.501Z",
+  "updatedBy": "barbara.baechli@nzz.ch",
+  "active": true,
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/01da15f0f6a6396873566efb70198604-thumbnail.jpeg"
+}

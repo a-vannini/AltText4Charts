@@ -1,0 +1,68 @@
+{
+  "_id": "0819c8effbf081938ef522a36988066e",
+  "_rev": "10-5d4c59501773c886f8a741ca097a0c5b",
+  "title": "China is dependent on imported soybeans",
+  "tool": "chart",
+  "department": "default",
+  "publication": "nzz",
+  "data": [
+    [
+      "Year",
+      "Domestic production",
+      "Imports"
+    ],
+    [
+      "2022",
+      "16.4",
+      "90.3"
+    ],
+    [
+      "2023",
+      "20.28",
+      "104.5"
+    ]
+  ],
+  "allowDownloadData": false,
+  "sources": [],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "year",
+      "prognosisStart": null,
+      "labels": "few"
+    },
+    "lineChartOptions": {
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "subtitle": "In millions of tons, per financial year",
+  "notes": "The figures for 2022/2023 are estimates. Import figures were calculated from the exports of the main suppliers U.S. and Brazil, as they differ from Chinese import figures.<br><br> Source: <a href=”https://www.usda.gov/oce/commodity/wasde/wasde0424.pdf”>USDA</a>",
+  "createdDate": "2024-04-30T11:31:15.607Z",
+  "createdBy": "johanna.russ@lieferanten.nzz.ch",
+  "updatedDate": "2024-04-30T11:33:28.737Z",
+  "updatedBy": "johanna.russ@lieferanten.nzz.ch",
+  "active": true
+}

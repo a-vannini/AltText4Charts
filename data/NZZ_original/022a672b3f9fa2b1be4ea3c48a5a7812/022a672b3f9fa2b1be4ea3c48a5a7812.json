@@ -1,0 +1,152 @@
+{
+  "_id": "022a672b3f9fa2b1be4ea3c48a5a7812",
+  "_rev": "37-14b0e55e236a6abf205d9190b4d9aa65",
+  "data": [
+    [
+      null,
+      null
+    ],
+    [
+      "USA",
+      "120.5"
+    ],
+    [
+      "Jemen",
+      "52.8"
+    ],
+    [
+      "Montenegro",
+      "39.1"
+    ],
+    [
+      "Serbien",
+      "39.1"
+    ],
+    [
+      "Kanada",
+      "34.7"
+    ],
+    [
+      "Uruguay",
+      "34.7"
+    ],
+    [
+      "Zypern",
+      "34.0"
+    ],
+    [
+      "Finnland",
+      "32.4"
+    ],
+    [
+      "Libanon",
+      "31.9"
+    ],
+    [
+      "Island",
+      "31.7"
+    ],
+    [
+      "Bosnien-Herzegowina",
+      "31.2"
+    ],
+    [
+      "Österreich",
+      "30.0"
+    ],
+    [
+      "Mazedonien",
+      "29.8"
+    ],
+    [
+      "Norwegen",
+      "28.8"
+    ],
+    [
+      "Malta",
+      "28.3"
+    ],
+    [
+      "Schweiz",
+      "27.6"
+    ],
+    [
+      "Neuseeland",
+      "26.3"
+    ],
+    [
+      "Kosovo",
+      "23.8"
+    ],
+    [
+      "Schweden",
+      "23.1"
+    ],
+    [
+      "Pakistan",
+      "22.3"
+    ],
+    [
+      "Portugal",
+      "21.3"
+    ],
+    [
+      "Frankreich",
+      "19.6"
+    ],
+    [
+      "Deutschland",
+      "19.6"
+    ],
+    [
+      "Irak",
+      "19.6"
+    ],
+    [
+      "Luxemburg",
+      "18.9"
+    ]
+  ],
+  "sources": [
+    {
+      "link": {
+        "url": "http://www.smallarmssurvey.org/fileadmin/docs/T-Briefing-Papers/SAS-BP-Civilian-Firearms-Numbers.pdf",
+        "isValid": true
+      },
+      "text": "Small Arms Survey (2018)"
+    }
+  ],
+  "options": {
+    "chartType": "Dotplot",
+    "hideAxisLabel": false,
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "year",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "dotplotOptions": {},
+    "highlightDataSeries": [],
+    "colorOverwritesSeries": []
+  },
+  "tool": "chart",
+  "department": "Newsroom",
+  "publication": "nzz",
+  "acronym": "ran",
+  "active": true,
+  "title": "Besitz von Handfeuerwaffen: Die Schweiz liegt im 16. Rang",
+  "subtitle": "Die 25 Länder mit den meisten Handfeuerwaffen (Anzahl pro 100 Einwohner)",
+  "createdDate": "2018-06-19T08:28:40.254Z",
+  "createdBy": "raffaela.angstmann@nzz.ch",
+  "updatedDate": "2018-06-19T08:43:04.627Z",
+  "updatedBy": "raffaela.angstmann@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/022a672b3f9fa2b1be4ea3c48a5a7812-thumbnail.jpeg"
+}

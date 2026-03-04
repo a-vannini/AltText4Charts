@@ -1,0 +1,86 @@
+{
+  "_id": "0819c8effbf081938ef522a3690037f8",
+  "_rev": "28-3537f9dd230d655021e37586124e979c",
+  "department": "Wirtschaft",
+  "publication": "nzz",
+  "acronym": "imr.",
+  "data": [
+    [
+      "Massnahme",
+      "Ausbezahlt",
+      "Ziel 2021–2026"
+    ],
+    [
+      "Beihilfen",
+      "144.1",
+      "360.1"
+    ],
+    [
+      "Kredite",
+      "80.2",
+      "290.9"
+    ],
+    [
+      "sonstige Programme",
+      "52.2",
+      "83.1"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {},
+      "text": "EU-Kommission"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {
+      "valuesOnBars": true
+    },
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": true
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "Ein Drittel ist ausbezahlt",
+  "subtitle": "Zusammensetzung des Wiederaufbaufonds, in Milliarden Euro, Stand Ende März 2024",
+  "createdDate": "2024-04-18T14:22:52.171Z",
+  "createdBy": "daniel.imwinkelried@nzz.ch",
+  "updatedDate": "2024-04-19T14:07:14.101Z",
+  "updatedBy": "christina.heyne@nzz.ch",
+  "deactivateDate": "2024-04-18T14:36:49.072Z",
+  "activateDate": "2024-04-18T14:36:49.872Z",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/0819c8effbf081938ef522a3690037f8-thumbnail.jpeg"
+}

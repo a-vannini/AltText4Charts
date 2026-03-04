@@ -1,0 +1,167 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "Filip Singer / EPA",
+      "contentTypeGroup": "web",
+      "firstTitle": "So geht es den deutschen und Schweizer Bauern im internationalen Vergleich – eine Übersicht in Grafiken",
+      "flag": "Datenanalyse",
+      "significantUpdate": true,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "YUZBzdgxAWtqwwMcqRxSY",
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "So geht es den deutschen und den Schweizer Bauern im internationalen Vergleich – eine Übersicht in Grafiken",
+      "seoTitle": "Proteste der Bauern: So geht es den Landwirten laut Statistik",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Nikolai Thelitz (nth)",
+          "id": 1466272,
+          "shortName": "nth",
+          "proLitterisId": "884371"
+        },
+        {
+          "external": false,
+          "name": "Matthias Benz (mbe)",
+          "id": 1373120,
+          "shortName": "mbe",
+          "proLitterisId": "163147"
+        }
+      ],
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-03-14T21:55:31.622Z",
+      "department": {
+        "path": "/wirtschaft",
+        "premium": false,
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2024-03-14T09:55:31.622Z",
+      "slug": "proteste-der-bauern-so-geht-es-den-landwirten-laut-statistik",
+      "firstPublicationDate": "2024-01-10T16:00:00.000Z",
+      "nzzCharacterCount": 4708,
+      "owner": "NZZ",
+      "authorLine": "Nikolai Thelitz, Matthias Benz",
+      "numberOfContentComponents": 20,
+      "germanyRelevant": true,
+      "leadText": "In Deutschland protestieren die Landwirte mit Strassenblockaden gegen Subventionskürzungen, in der Schweiz klagen sie über sinkende Einkommen. Ob der Aufschrei berechtigt ist, zeigt ein Blick auf die Statistik.",
+      "publicationLastUpdated": "2024-03-14T09:55:31.622Z",
+      "nzzArticleSnippet": "In Deutschland protestieren die Landwirte mit Strassenblockaden gegen Subventionskürzungen, in der Schweiz klagen sie über sinkende Einkommen. Ob der Aufschrei berechtigt ist, zeigt ein Blick auf die Statistik.",
+      "urlPath": "/wirtschaft/proteste-der-bauern-so-geht-es-den-landwirten-laut-statistik-ld.1773367",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 3598,
+        "originalUrl": "https://img.nzz.ch/2024/01/10/08ebe4e0-f075-4865-9e31-be7f314179af.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 3598,
+            "name": "16:9",
+            "y": 375,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W3598,H2024,X0,Y375/O=75/https://img.nzz.ch/2024/01/10/08ebe4e0-f075-4865-9e31-be7f314179af.jpeg",
+            "height": 2024,
+            "ratio": 1.77778
+          },
+          {
+            "x": 1960,
+            "width": 831,
+            "name": "1:1",
+            "y": 973,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W831,H831,X1960,Y973/O=75/https://img.nzz.ch/2024/01/10/08ebe4e0-f075-4865-9e31-be7f314179af.jpeg",
+            "height": 831,
+            "ratio": 1
+          },
+          {
+            "x": 399,
+            "width": 3199,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W3199,H2399,X399,Y0/O=75/https://img.nzz.ch/2024/01/10/08ebe4e0-f075-4865-9e31-be7f314179af.jpeg",
+            "height": 2399,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1317,
+            "width": 1799,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W1799,H2399,X1317,Y0/O=75/https://img.nzz.ch/2024/01/10/08ebe4e0-f075-4865-9e31-be7f314179af.jpeg",
+            "height": 2399,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "BCUUb7YMbNoL",
+        "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/01/10/08ebe4e0-f075-4865-9e31-be7f314179af.jpeg",
+        "height": 2399
+      },
+      "nzzId": "ld.1773367",
+      "url": "https://www.nzz.ch/wirtschaft/proteste-der-bauern-so-geht-es-den-landwirten-laut-statistik-ld.1773367",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hjpaqgvt1"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "estimationWordCount": 740,
+      "embeds": {
+        "images": [
+          {
+            "author": "Filip Singer / EPA",
+            "caption": "Die Bauern in Deutschland gehen auf die Strasse, doch eigentlich haben sie zwei gute Jahre hinter sich.",
+            "origins": [
+              {
+                "identifier": "2151331527",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/01/10/08ebe4e0-f075-4865-9e31-be7f314179af.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0313da61de86779a1c0b46f57186449c"
+          },
+          {
+            "id": "d5d77eaf4397ad42626a1551938148e5"
+          },
+          {
+            "id": "ddef16f0c24774b0c4f449776ba520d2"
+          },
+          {
+            "id": "ddef16f0c24774b0c4f449776baac264"
+          },
+          {
+            "id": "72f87e802cebe7fb68297832550bac46"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "teaserCaption": "Die Bauern in Deutschland gehen auf die Strasse, doch eigentlich haben sie zwei gute Jahre hinter sich.",
+      "documentId": "1773367",
+      "product": "NZZ.ch"
+    }
+  }
+]

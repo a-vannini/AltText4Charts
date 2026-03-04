@@ -1,0 +1,121 @@
+{
+  "_id": "03f2af7351af180c2844811ac23877c3",
+  "_rev": "29-c1eac76651dfb160007967f38bd32fe9",
+  "department": "Zürich",
+  "publication": "nzz",
+  "acronym": "zge.",
+  "data": [
+    [
+      "Name",
+      "Betrag"
+    ],
+    [
+      "Kanton Zürich",
+      "1885974"
+    ],
+    [
+      "Kanton Tessin",
+      "479677"
+    ],
+    [
+      "Stadt Zürich",
+      "250000"
+    ],
+    [
+      "Kanton Schwyz",
+      "200452"
+    ],
+    [
+      "Kanton Zug",
+      "159728"
+    ],
+    [
+      "Zürcher Kantonalbank",
+      "150000"
+    ],
+    [
+      "Credit Suisse",
+      "100000"
+    ],
+    [
+      "Swiss Re",
+      "100000"
+    ],
+    [
+      "Swiss Life",
+      "100000"
+    ],
+    [
+      "UBS",
+      "100000"
+    ],
+    [
+      "Zurich-Versicherung",
+      "100000"
+    ],
+    [
+      "Stadt Winterthur",
+      "30000"
+    ],
+    [
+      "Flughafen Zürich",
+      "30000"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {
+        "url": "https://www.gemeinderat-zuerich.ch/dokumente/70d561308a7c460183c8126d7d31e044-332?filename=2024_0086Weisung",
+        "isValid": true
+      },
+      "text": "Stadt Zürich"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "title": "Die Finanzierer der Greater Zurich Area",
+  "subtitle": "Auswahl der wichtigsten Beitragszahler für das Jahr 2023",
+  "createdDate": "2024-03-18T13:22:46.075Z",
+  "createdBy": "zeno.geisseler@nzz.ch",
+  "updatedDate": "2024-03-19T08:57:15.958Z",
+  "updatedBy": "zeno.geisseler@nzz.ch",
+  "active": true,
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/03f2af7351af180c2844811ac23877c3-thumbnail.jpeg"
+}

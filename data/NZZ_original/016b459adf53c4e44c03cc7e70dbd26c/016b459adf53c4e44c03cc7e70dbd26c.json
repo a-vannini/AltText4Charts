@@ -1,0 +1,98 @@
+{
+  "_id": "016b459adf53c4e44c03cc7e70dbd26c",
+  "_rev": "16-8ed75a3025e56a422bf20bfe84ce21eb",
+  "department": "Zürich",
+  "publication": "nzz",
+  "acronym": "clr.",
+  "data": [
+    [
+      null,
+      "nie",
+      "unregelmässig/selten",
+      "mindestens einmal pro Woche, aber insgesamt weniger als zwei Stunden",
+      "mindestens einmal pro Woche, insgesamt zwei Stunden und mehr",
+      "mehrmals pro Woche, insgesamt drei Stunden und mehr"
+    ],
+    [
+      "2003",
+      "21",
+      "8",
+      "11",
+      "19",
+      "41"
+    ],
+    [
+      "2008",
+      "19",
+      "8",
+      "9",
+      "18",
+      "46"
+    ],
+    [
+      "2014",
+      "23",
+      "5",
+      "8",
+      "18",
+      "46"
+    ],
+    [
+      "2020",
+      "13",
+      "11",
+      "5",
+      "19",
+      "52"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {},
+      "text": "Kanton Zürich"
+    }
+  ],
+  "options": {
+    "chartType": "StackedBar",
+    "hideAxisLabel": false,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": []
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "Die Zürcher werden immer sportlicher",
+  "subtitle": "Sportaktivität, in Prozent",
+  "notes": "Wohnbevölkerung im Alter ab 15 Jahren; Anzahl Befragte: 2020: 2864; 2014: 2796; 2008: 3127; 2003: 2311; ",
+  "createdDate": "2020-10-01T05:48:26.242Z",
+  "createdBy": "claudia.rey@nzz.ch",
+  "updatedDate": "2020-10-01T12:25:52.882Z",
+  "updatedBy": "lena.frische@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/016b459adf53c4e44c03cc7e70dbd26c-thumbnail.jpeg"
+}

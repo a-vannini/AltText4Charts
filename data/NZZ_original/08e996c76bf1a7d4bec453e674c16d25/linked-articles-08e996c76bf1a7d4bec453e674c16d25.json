@@ -1,0 +1,148 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Ivana Kojic / Imago",
+      "firstTitle": "Bremsfaktor Wohlstand: Frauen überholen die Männer bei der Bildung, aber nicht beim Gehalt",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "zwdiDMrbHUhBpvzriJSv-",
+        "locale": "de-CH"
+      },
+      "title": "Bremsfaktor Wohlstand: Frauen überholen die Männer bei der Bildung, aber nicht beim Gehalt",
+      "seoTitle": "Frauen überholen die Männer bei der Bildung, aber nicht beim Gehalt",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Christin Severin (sev)",
+          "id": 1373675,
+          "shortName": "sev"
+        }
+      ],
+      "designName": "morpheus",
+      "nzzPrintTitle": "Frauen überholen die Männer bei der Bildung",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-06-12T15:30:00.000Z",
+      "department": {
+        "path": "/wirtschaft",
+        "premium": false,
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2024-06-12T03:30:00.000Z",
+      "slug": "bremsfaktor-wohlstand-frauen-ueberholen-die-maenner-bei-der-bildung-aber-nicht-beim-gehalt",
+      "firstPublicationDate": "2024-06-12T03:30:00.000Z",
+      "nzzCharacterCount": 6278,
+      "owner": "NZZ",
+      "authorLine": "Christin Severin",
+      "numberOfContentComponents": 28,
+      "germanyRelevant": true,
+      "leadText": "Die Schweiz hat bei der Gleichstellung aufgeholt. Dennoch gibt es deutliche Unterschiede in den Lebensrealitäten von Männern und Frauen. Viele sind bewusst gewählt. In andere rutschen Eltern zuweilen ungewollt hinein.",
+      "publicationLastUpdated": "2024-06-12T13:46:11.453Z",
+      "nzzArticleSnippet": "Die Schweiz hat bei der Gleichstellung aufgeholt. Dennoch gibt es deutliche Unterschiede in den Lebensrealitäten von Männern und Frauen. Viele sind bewusst gewählt. In andere rutschen Eltern zuweilen ungewollt hinein.",
+      "urlPath": "/wirtschaft/bremsfaktor-wohlstand-frauen-ueberholen-die-maenner-bei-der-bildung-aber-nicht-beim-gehalt-ld.1834536",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 6720,
+        "originalUrl": "https://img.nzz.ch/2024/06/12/b0da15f7-c088-491d-a422-61ef09157e19.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 6720,
+            "name": "16:9",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/12/b0da15f7-c088-491d-a422-61ef09157e19.jpeg?crop=6720,3780,x0,y0&quality=75&auto=webp",
+            "height": 3780,
+            "ratio": 1.77778
+          },
+          {
+            "x": 711,
+            "width": 3146,
+            "name": "1:1",
+            "y": 151,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/12/b0da15f7-c088-491d-a422-61ef09157e19.jpeg?crop=3146,3146,x711,y151&quality=75&auto=webp",
+            "height": 3146,
+            "ratio": 1
+          },
+          {
+            "x": 747,
+            "width": 5973,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/12/b0da15f7-c088-491d-a422-61ef09157e19.jpeg?crop=5973,4480,x747,y0&quality=75&auto=webp",
+            "height": 4480,
+            "ratio": 1.33333
+          },
+          {
+            "x": 756,
+            "width": 3360,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/12/b0da15f7-c088-491d-a422-61ef09157e19.jpeg?crop=3360,4480,x756,y0&quality=75&auto=webp",
+            "height": 4480,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "9wRMbouliXFi",
+        "url": "https://img.nzz.ch/2024/06/12/b0da15f7-c088-491d-a422-61ef09157e19.jpeg?quality=75&auto=webp",
+        "key": "2024/06/12/b0da15f7-c088-491d-a422-61ef09157e19.jpeg",
+        "height": 4480
+      },
+      "nzzId": "ld.1834536",
+      "url": "https://www.nzz.ch/wirtschaft/bremsfaktor-wohlstand-frauen-ueberholen-die-maenner-bei-der-bildung-aber-nicht-beim-gehalt-ld.1834536",
+      "dependencies": {},
+      "commentCount": 6,
+      "layout": "regular",
+      "estimationWordCount": 959,
+      "nzzPrintSubtitle": "Die Schweiz hat bei der Gleichstellung aufgeholt – dennoch gibt es deutliche Unterschiede in den Lebensrealitäten der Geschlechter",
+      "embeds": {
+        "images": [
+          {
+            "author": "Ivana Kojic / Imago",
+            "caption": "Noch immer sind es selten die Väter, die zu Hause bleiben, wenn das Kind krank ist. Das hat konkrete Folgen für Karriere und Einkommen.",
+            "origins": [
+              {
+                "identifier": "2153127703",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2024/06/12/b0da15f7-c088-491d-a422-61ef09157e19.jpeg?quality=75&auto=webp"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "08e996c76bf1a7d4bec453e674c16d25"
+          },
+          {
+            "id": "08e996c76bf1a7d4bec453e674c1b6c9"
+          },
+          {
+            "id": "9c34f843abc41325f7ff6d735fcfb1d6"
+          },
+          {
+            "id": "08e996c76bf1a7d4bec453e674c1ee72"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "teaserCaption": "Noch immer sind es selten die Väter, die zu Hause bleiben, wenn das Kind krank ist. Das hat konkrete Folgen für Karriere und Einkommen.",
+      "documentId": "1834536",
+      "product": "NZZ.ch"
+    }
+  }
+]

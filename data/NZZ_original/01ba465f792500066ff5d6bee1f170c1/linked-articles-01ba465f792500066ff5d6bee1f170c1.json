@@ -1,0 +1,119 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Harland & Wolff: Die Werft der «Titanic» geht selbst unter",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Benjamin Triebe (bet)",
+          "id": 1371974
+        }
+      ],
+      "nzzPrintTitle": "Die Werft der «Titanic» geht unter",
+      "designName": "morpheus",
+      "significantUpdateTill": "2019-08-07T06:34:51.346Z",
+      "department": {
+        "path": "/wirtschaft",
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2019-08-07T05:00:00.000Z",
+      "slug": "harland-wolff-die-werft-der-titanic-geht-jetzt-selbst-unter",
+      "firstPublicationDate": "2019-08-06T18:34:51.346Z",
+      "nzzCharacterCount": 6461,
+      "authorLine": "Benjamin Triebe, London",
+      "numberOfContentComponents": 22,
+      "leadText": "Eine nordirische Industrie-Ikone, die Werft Harland & Wolff, ist insolvent. Mehr als hundert Jahre nach dem Untergang der «Titanic», ihres berühmtesten Schiffs, hielt sie sich zuletzt mit Bohrplattformen und Windrädern über Wasser.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2019-08-07T06:11:27.216Z",
+      "nzzArticleSnippet": "Eine nordirische Industrie-Ikone, die Werft Harland & Wolff, ist insolvent. Mehr als hundert Jahre nach dem Untergang der «Titanic», ihres berühmtesten Schiffs, hielt sie sich zuletzt mit Bohrplattformen und Windrädern über Wasser.",
+      "urlPath": "/wirtschaft/harland-wolff-die-werft-der-titanic-geht-jetzt-selbst-unter-ld.1500088",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 3679,
+        "originalUrl": "https://nzz-img.s3.amazonaws.com/2019/8/6/c5f5767d-1e69-43ab-be47-42e72ac5a5f4.jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 0,
+            "width": 3679,
+            "y": 90,
+            "url": "https://img.nzz.ch/C=W3679,H2069,X0,Y90/O=75/https://nzz-img.s3.amazonaws.com/2019/8/6/c5f5767d-1e69-43ab-be47-42e72ac5a5f4.jpeg",
+            "height": 2069
+          },
+          {
+            "name": "1:1",
+            "x": 554,
+            "width": 1110,
+            "y": 104,
+            "url": "https://img.nzz.ch/C=W1110,H1110,X554,Y104/O=75/https://nzz-img.s3.amazonaws.com/2019/8/6/c5f5767d-1e69-43ab-be47-42e72ac5a5f4.jpeg",
+            "height": 1110
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2019/8/6/c5f5767d-1e69-43ab-be47-42e72ac5a5f4.jpeg",
+        "height": 2847
+      },
+      "nzzId": "ld.1500088",
+      "url": "https://www.nzz.ch/wirtschaft/harland-wolff-die-werft-der-titanic-geht-jetzt-selbst-unter-ld.1500088",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1dhk2vfss0",
+              "doc-1dhhfotqm0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "longformstandard",
+      "nzzPrintSubtitle": "Insolvenz einer Industrieikone: Die Werft Harland & Wolff kann sich mit Bohrplattformen und Windrädern nicht mehr über Wasser halten",
+      "embeds": {
+        "images": [
+          {
+            "caption": "Die «Titanic» im Frühjahr 1911. Im April des folgenden Jahres brach sie zu ihrer ersten und gleichzeitig letzten Fahrt auf. (Bild: Popperfoto / Getty Images)",
+            "origins": [
+              {
+                "identifier": "picture-2057471571",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2019/8/6/c5f5767d-1e69-43ab-be47-42e72ac5a5f4.jpeg"
+          },
+          {
+            "caption": "Samson und Goliath: Die Kräne von Harland &amp; Wolff sind im Osten Belfasts kaum zu übersehen. (Bild: Janet Lawrence / Reuters)",
+            "origins": [
+              {
+                "identifier": "picture-2057371087",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2019/8/5/404b4958-a7ab-4a70-9a57-5acb9e42bbc8.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "01ba465f792500066ff5d6bee1f170c1"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Die «Titanic» im Frühjahr 1911. Im April des folgenden Jahres brach sie zu ihrer ersten und gleichzeitig letzten Fahrt auf. (Bild: Popperfoto / Getty Images)",
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "documentId": "1500088",
+      "product": "NZZ.ch"
+    }
+  }
+]

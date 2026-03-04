@@ -1,0 +1,148 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Michael Siluk / Imago",
+      "firstTitle": "Mehr Nitazene, mehr Tote – in Europa steigt  der Konsum von synthetischen Opioiden",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "YV377HIRYrP9-x0u275V-",
+        "locale": "de-CH"
+      },
+      "title": "Mehr Nitazene, mehr Tote – in Europa steigt der Konsum von synthetischen Opioiden",
+      "seoTitle": "Synthetische Opioide in Europa: Nitazene führen zu mehr Todesfällen",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Erika Burri (ebu)",
+          "id": 1719502,
+          "shortName": "ebu",
+          "proLitterisId": "263075"
+        }
+      ],
+      "nzzPrintTitle": "In Europa steigt  der Konsum von synthetischen Opioiden",
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-06-13T15:30:00.000Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Katrin Büchenbacher (k.b.)",
+          "id": 1533538,
+          "shortName": "k.b.",
+          "proLitterisId": "885012"
+        }
+      ],
+      "department": {
+        "path": "/international",
+        "premium": false,
+        "level": 1,
+        "name": "International"
+      },
+      "publicationDate": "2024-06-13T03:30:00.000Z",
+      "slug": "mehr-nitazene-mehr-tote-in-europa-steigt-der-konsum-von-synthetischen-opioiden",
+      "firstPublicationDate": "2024-06-13T03:30:00.000Z",
+      "nzzCharacterCount": 3778,
+      "owner": "NZZ",
+      "authorLine": "Erika Burri",
+      "numberOfContentComponents": 14,
+      "germanyRelevant": true,
+      "leadText": "Nitazene – synthetisches Heroin – sind bis zu zehnmal so stark wie Fentanyl. Sie gelangen immer häufiger nach Europa. Noch nie konnten Drogenkonsumenten so günstig so viele verschiedene Drogen kaufen.",
+      "publicationLastUpdated": "2024-06-13T03:30:00.000Z",
+      "nzzArticleSnippet": "Nitazene – synthetisches Heroin – sind bis zu zehnmal so stark wie Fentanyl. Sie gelangen immer häufiger nach Europa. Noch nie konnten Drogenkonsumenten so günstig so viele verschiedene Drogen kaufen.",
+      "urlPath": "/international/mehr-nitazene-mehr-tote-in-europa-steigt-der-konsum-von-synthetischen-opioiden-ld.1834741",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 5100,
+        "originalUrl": "https://img.nzz.ch/2024/06/12/88910b49-3532-4048-84f3-18dac6ac64a3.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 843,
+            "width": 3582,
+            "name": "16:9",
+            "y": 670,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/12/88910b49-3532-4048-84f3-18dac6ac64a3.jpeg?crop=3582,2015,x843,y670&width=1024&quality=75&auto=webp",
+            "height": 2015,
+            "ratio": 1.77778
+          },
+          {
+            "x": 1741,
+            "width": 2123,
+            "name": "1:1",
+            "y": 622,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/12/88910b49-3532-4048-84f3-18dac6ac64a3.jpeg?crop=2123,2123,x1741,y622&width=1024&quality=75&auto=webp",
+            "height": 2123,
+            "ratio": 1
+          },
+          {
+            "x": 1598,
+            "width": 2236,
+            "name": "4:3",
+            "y": 848,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/12/88910b49-3532-4048-84f3-18dac6ac64a3.jpeg?crop=2236,1677,x1598,y848&width=1024&quality=75&auto=webp",
+            "height": 1677,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1275,
+            "width": 2550,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/06/12/88910b49-3532-4048-84f3-18dac6ac64a3.jpeg?crop=2550,3400,x1275,y0&width=1024&quality=75&auto=webp",
+            "height": 3400,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "WLyHxpNaypD6",
+        "url": "https://img.nzz.ch/2024/06/12/88910b49-3532-4048-84f3-18dac6ac64a3.jpeg?width=1024&quality=75&auto=webp",
+        "key": "2024/06/12/88910b49-3532-4048-84f3-18dac6ac64a3.jpeg",
+        "height": 3400
+      },
+      "nzzId": "ld.1834741",
+      "url": "https://www.nzz.ch/international/mehr-nitazene-mehr-tote-in-europa-steigt-der-konsum-von-synthetischen-opioiden-ld.1834741",
+      "dependencies": {},
+      "layout": "regular",
+      "estimationWordCount": 598,
+      "nzzPrintSubtitle": "Nitazene – synthetisches Heroin – sind bis zu zehn Mal stärker als Fentanyl. Sie gelangen immer häufiger nach Europa.",
+      "embeds": {
+        "images": [
+          {
+            "author": "Michael Siluk / Imago",
+            "caption": "Um eine Überdosis an Nitazenen zu behandeln, braucht es die Substanz&nbsp;Naloxon. Diese rettet Leben.",
+            "origins": [
+              {
+                "identifier": "2152550581",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2024/06/12/88910b49-3532-4048-84f3-18dac6ac64a3.jpeg?quality=75&auto=webp"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "08e996c76bf1a7d4bec453e674f9211e"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/international",
+          "name": "International"
+        }
+      ],
+      "teaserCaption": "Um eine Überdosis an Nitazenen zu behandeln, braucht es die Substanz Naloxon. Diese rettet Leben.",
+      "documentId": "1834741",
+      "product": "NZZ.ch"
+    }
+  }
+]

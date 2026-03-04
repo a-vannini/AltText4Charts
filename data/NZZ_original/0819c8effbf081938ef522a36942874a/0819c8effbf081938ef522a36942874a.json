@@ -1,0 +1,169 @@
+{
+  "_id": "0819c8effbf081938ef522a36942874a",
+  "_rev": "23-55b822499fe02cde1ba4387326f07a19",
+  "department": "Visuals",
+  "publication": "nzz",
+  "acronym": "fsl.",
+  "allowDownloadData": false,
+  "active": true,
+  "tool": "chart",
+  "title": "CO₂-arme Technologien werden zukünftig den meisten Strombedarf decken",
+  "subtitle": "Stromerzeugung mit CO₂-armen und fossilen Energieträgern, in Terawattstunden",
+  "data": [
+    [
+      "Jahr",
+      "CO₂-arm, bisher",
+      null,
+      "CO₂, künftige Entwicklung",
+      "Fossil, bisher",
+      null,
+      "Fossil, künftige Entwicklung"
+    ],
+    [
+      "2010",
+      "6965",
+      null,
+      null,
+      "14479",
+      null,
+      null
+    ],
+    [
+      "2021",
+      "10774",
+      null,
+      null,
+      "17456",
+      null,
+      null
+    ],
+    [
+      "2022",
+      "11280",
+      "11280",
+      "11280",
+      "17637",
+      "17637",
+      "17637"
+    ],
+    [
+      "2030",
+      null,
+      "20288",
+      "22869",
+      null,
+      "15413",
+      "13404"
+    ],
+    [
+      "2035",
+      null,
+      "26775",
+      "33110",
+      null,
+      "13623",
+      "9735"
+    ],
+    [
+      "2040",
+      null,
+      "32689",
+      "43596",
+      null,
+      "12627",
+      "8024"
+    ],
+    [
+      "2050",
+      null,
+      "42416",
+      "60964",
+      null,
+      "11463",
+      "5708"
+    ]
+  ],
+  "sources": [
+    {
+      "text": "Internationale Energieagentur",
+      "link": {
+        "url": "https://www.iea.org/reports/world-energy-outlook-2023"
+      }
+    }
+  ],
+  "events": [],
+  "options": {
+    "annotations": {},
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "chartType": "Line",
+    "colorOverwritesRows": [],
+    "colorOverwritesSeries": [
+      {
+        "color": "#A08962",
+        "colorLight": "",
+        "position": 4
+      },
+      {
+        "color": "#d5cdb9",
+        "colorLight": "",
+        "position": 5
+      },
+      {
+        "color": "#d5cdb9",
+        "colorLight": "",
+        "position": 6
+      },
+      {
+        "color": "#1B87AA",
+        "colorLight": "",
+        "position": 1
+      },
+      {
+        "color": "#b1dcef",
+        "colorLight": "",
+        "position": 2
+      },
+      {
+        "color": "#b1dcef",
+        "colorLight": "",
+        "position": 3
+      }
+    ],
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "many",
+      "prognosisStart": null
+    },
+    "dotplotOptions": {},
+    "hideAxisLabel": true,
+    "highlightDataRows": [],
+    "highlightDataSeries": [],
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "createdDate": "2024-04-26T09:57:02.949Z",
+  "createdBy": "florian.seliger@nzz.ch",
+  "updatedDate": "2024-05-14T08:28:05.338Z",
+  "updatedBy": "florian.seliger@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/0819c8effbf081938ef522a36942874a-thumbnail.jpeg",
+  "notes": "Die künftige Entwicklung basiert auf zwei unterschiedlichen Szenarien. Das konservativere schreibt die existierende Politik fort. In diesem Szenario werden die CO₂-armen Technologien weniger stark ausgebaut und die fossilen weniger abgebaut.",
+  "activateDate": "2024-04-26T11:48:35.498Z"
+}

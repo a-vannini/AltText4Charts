@@ -1,0 +1,214 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Karin Hofer / NZZ",
+      "firstTitle": "Bio war mal Luxus, heute gibt es Billig-Bio beim Discounter – das setzt die teure Schweizer Knospe unter Druck",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "TWMu_DrtCTQkIlZgOpHV3",
+        "locale": "de-CH"
+      },
+      "title": "Bio war mal Luxus, heute gibt es Billig-Bio beim Discounter – das setzt die teure Schweizer Knospe unter Druck",
+      "seoTitle": "Knospe von Bio Suisse unter Druck: Discounter erobern mit Billig-Bio den Markt",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "pianoId": "7c0a031d-f175-452d-b43f-2d68964fcadb",
+          "name": "Janique Weder (wej)",
+          "id": 1374038,
+          "shortName": "wej"
+        }
+      ],
+      "nzzPrintTitle": "Bio muss jetzt auch billig sein",
+      "designName": "morpheus",
+      "seoSocialMediaTitle": "Die Knospe von Bio Suisse kommt unter Druck: Discounter erobern mit Billig-Bio den Markt",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2025-03-08T16:30:00.000Z",
+      "department": {
+        "path": "/wirtschaft",
+        "premium": false,
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2025-03-08T04:30:00.000Z",
+      "slug": "knospe-von-bio-suisse-unter-druck-discounter-erobern-mit-billig-bio-den-markt",
+      "firstPublicationDate": "2025-03-08T04:30:00.000Z",
+      "nzzCharacterCount": 8030,
+      "authorLine": "Janique Weder",
+      "owner": "NZZ",
+      "numberOfContentComponents": 29,
+      "leadText": "Immer mehr Labels drängen auf den milliardenschweren Bio-Markt. Wer kann sich in diesem Dschungel behaupten?",
+      "publicationLastUpdated": "2025-03-08T04:30:00.000Z",
+      "nzzArticleSnippet": "Immer mehr Labels drängen auf den milliardenschweren Bio-Markt. Wer kann sich in diesem Dschungel behaupten?",
+      "urlPath": "/wirtschaft/knospe-von-bio-suisse-unter-druck-discounter-erobern-mit-billig-bio-den-markt-ld.1873929",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 4429,
+        "originalUrl": "https://img.nzz.ch/2025/03/04/dfbf1133-5abf-47c4-82f0-84bd2becdb08.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 4429,
+            "name": "16:9",
+            "y": 231,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2025/03/04/dfbf1133-5abf-47c4-82f0-84bd2becdb08.jpeg?crop=4429,2491,x0,y231&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2025/03/04/dfbf1133-5abf-47c4-82f0-84bd2becdb08.jpeg?crop=4429,2491,x0,y231&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2025/03/04/dfbf1133-5abf-47c4-82f0-84bd2becdb08.jpeg?crop=4429,2491,x0,y231&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2025/03/04/dfbf1133-5abf-47c4-82f0-84bd2becdb08.jpeg?crop=4429,2491,x0,y231&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2025/03/04/dfbf1133-5abf-47c4-82f0-84bd2becdb08.jpeg?crop=4429,2491,x0,y231&width=1024&quality=75&auto=webp",
+            "height": 2491,
+            "ratio": 1.77778
+          },
+          {
+            "x": 738,
+            "width": 2953,
+            "name": "1:1",
+            "y": 0,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2025/03/04/dfbf1133-5abf-47c4-82f0-84bd2becdb08.jpeg?crop=2953,2953,x738,y0&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2025/03/04/dfbf1133-5abf-47c4-82f0-84bd2becdb08.jpeg?crop=2953,2953,x738,y0&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2025/03/04/dfbf1133-5abf-47c4-82f0-84bd2becdb08.jpeg?crop=2953,2953,x738,y0&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2025/03/04/dfbf1133-5abf-47c4-82f0-84bd2becdb08.jpeg?crop=2953,2953,x738,y0&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2025/03/04/dfbf1133-5abf-47c4-82f0-84bd2becdb08.jpeg?crop=2953,2953,x738,y0&width=1024&quality=75&auto=webp",
+            "height": 2953,
+            "ratio": 1
+          },
+          {
+            "x": 246,
+            "width": 3937,
+            "name": "4:3",
+            "y": 0,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2025/03/04/dfbf1133-5abf-47c4-82f0-84bd2becdb08.jpeg?crop=3937,2953,x246,y0&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2025/03/04/dfbf1133-5abf-47c4-82f0-84bd2becdb08.jpeg?crop=3937,2953,x246,y0&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2025/03/04/dfbf1133-5abf-47c4-82f0-84bd2becdb08.jpeg?crop=3937,2953,x246,y0&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2025/03/04/dfbf1133-5abf-47c4-82f0-84bd2becdb08.jpeg?crop=3937,2953,x246,y0&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2025/03/04/dfbf1133-5abf-47c4-82f0-84bd2becdb08.jpeg?crop=3937,2953,x246,y0&width=1024&quality=75&auto=webp",
+            "height": 2953,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1107,
+            "width": 2215,
+            "name": "3:4",
+            "y": 0,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2025/03/04/dfbf1133-5abf-47c4-82f0-84bd2becdb08.jpeg?crop=2215,2953,x1107,y0&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2025/03/04/dfbf1133-5abf-47c4-82f0-84bd2becdb08.jpeg?crop=2215,2953,x1107,y0&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2025/03/04/dfbf1133-5abf-47c4-82f0-84bd2becdb08.jpeg?crop=2215,2953,x1107,y0&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2025/03/04/dfbf1133-5abf-47c4-82f0-84bd2becdb08.jpeg?crop=2215,2953,x1107,y0&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2025/03/04/dfbf1133-5abf-47c4-82f0-84bd2becdb08.jpeg?crop=2215,2953,x1107,y0&width=1024&quality=75&auto=webp",
+            "height": 2953,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "rjZxBRzW74Bu",
+        "key": "2025/03/04/dfbf1133-5abf-47c4-82f0-84bd2becdb08.jpeg",
+        "url": "https://img.nzz.ch/2025/03/04/dfbf1133-5abf-47c4-82f0-84bd2becdb08.jpeg?width=1024&quality=75&auto=webp",
+        "height": 2953
+      },
+      "nzzId": "ld.1873929",
+      "url": "https://www.nzz.ch/wirtschaft/knospe-von-bio-suisse-unter-druck-discounter-erobern-mit-billig-bio-den-markt-ld.1873929",
+      "dependencies": {},
+      "layout": "longformstandard",
+      "estimationWordCount": 1205,
+      "nzzPrintSubtitle": "Immer mehr günstige Labels drängen auf den milliardenschweren Bio-Markt. Das setzt die Schweizer Knospe unter Druck. ",
+      "embeds": {
+        "images": [
+          {
+            "author": "Karin Hofer / NZZ<strong></strong>",
+            "caption": "Ob Bio-Eier im Einkaufskorb landen, ist nicht länger nur eine Frage der Überzeugung, sondern auch eine der Kaufkraft.",
+            "origins": [
+              {
+                "identifier": "2154268018",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2025/03/04/dfbf1133-5abf-47c4-82f0-84bd2becdb08.jpeg?width=1024&quality=75&auto=webp"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "016934e7c13b1b546fdea80efd35c231"
+          },
+          {
+            "id": "016934e7c13b1b546fdea80efd365b3b"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "teaserCaption": "Ob Bio-Eier im Einkaufskorb landen, ist nicht länger nur eine Frage der Überzeugung, sondern auch eine der Kaufkraft.",
+      "documentId": "1873929",
+      "product": "NZZ.ch"
+    }
+  }
+]

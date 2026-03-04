@@ -1,0 +1,125 @@
+{
+  "_id": "01ba465f792500066ff5d6bee1f170c1",
+  "_rev": "12-3de3ed4c7a3a6159513d1ed5655923c6",
+  "department": "Wirtschaft",
+  "publication": "nzz",
+  "acronym": "bet",
+  "data": [
+    [
+      "For the Fiscal Period Ending",
+      "Umsatz",
+      "Gewinn"
+    ],
+    [
+      "2004",
+      "21.6",
+      "-1.1"
+    ],
+    [
+      "2005",
+      "17.5",
+      "4.2"
+    ],
+    [
+      "2006",
+      "32.3",
+      "6.8"
+    ],
+    [
+      "2007",
+      "23.6",
+      "1.1"
+    ],
+    [
+      "2008",
+      "22.4",
+      "7.3"
+    ],
+    [
+      "2009",
+      "21.1",
+      "5.0"
+    ],
+    [
+      "2010",
+      "6.3",
+      "-4.5"
+    ],
+    [
+      "2011",
+      "24.6",
+      "2.2"
+    ],
+    [
+      "2012",
+      "42.2",
+      "3.2"
+    ],
+    [
+      "2013",
+      "32.0",
+      "-4.4"
+    ],
+    [
+      "2014",
+      "55.2",
+      "8.7"
+    ],
+    [
+      "2015",
+      "66.7",
+      "2.2"
+    ],
+    [
+      "2016",
+      "8.3",
+      "-7.0"
+    ]
+  ],
+  "allowDownloadData": false,
+  "sources": [
+    {
+      "link": {},
+      "text": "S&P Capital IQ"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "year",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": []
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "Kollabierte Erträge",
+  "subtitle": "Geschäftszahlen von Harland & Wolff in Mio. £",
+  "createdDate": "2019-08-06T16:28:11.169Z",
+  "createdBy": "benjamin.triebe@nzz.ch",
+  "updatedDate": "2019-08-06T17:52:17.411Z",
+  "updatedBy": "lucie.paska@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/01ba465f792500066ff5d6bee1f170c1-thumbnail.jpeg"
+}

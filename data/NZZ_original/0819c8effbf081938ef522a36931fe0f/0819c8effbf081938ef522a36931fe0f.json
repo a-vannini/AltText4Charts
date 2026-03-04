@@ -1,0 +1,127 @@
+{
+  "_id": "0819c8effbf081938ef522a36931fe0f",
+  "_rev": "19-d4f191fd33711121aef7faf34ba2c851",
+  "department": "Wirtschaft",
+  "publication": "nzz",
+  "acronym": "pfi.",
+  "data": [
+    [
+      null,
+      "Förderung",
+      "Verbrauch"
+    ],
+    [
+      "EU",
+      "4.2",
+      "20.1"
+    ],
+    [
+      "China",
+      "14.8",
+      "23"
+    ],
+    [
+      "USA",
+      "9.7",
+      "13.2"
+    ],
+    [
+      "Naher Osten",
+      "1.8",
+      "3.5"
+    ],
+    [
+      "Kanada",
+      "2.2",
+      "2.3"
+    ],
+    [
+      "Indien",
+      "1.9",
+      "1.8"
+    ],
+    [
+      "Russland",
+      "3.6",
+      "3.2"
+    ],
+    [
+      "übriges Asien",
+      "18",
+      "16.7"
+    ],
+    [
+      "Afrika",
+      "5.5",
+      "2.5"
+    ],
+    [
+      "Australien",
+      "10.2",
+      "3.2"
+    ],
+    [
+      "Lateinamerika",
+      "28.2",
+      "10.5"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {
+        "url": "",
+        "isValid": false
+      },
+      "text": "The Quest for Ressources, Vontobel"
+    }
+  ],
+  "options": {
+    "chartType": "Arrow",
+    "hideAxisLabel": false,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {
+      "diff": true
+    },
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 2,
+      "invertColorScheme": true
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "Die EU, China und die USA verbrauchen deutlich mehr Metalle und Mineralien, als sie fördern, Afrika, Australien und Lateinamerika verkaufen sie",
+  "subtitle": "Differenz zwischen dem Anteil am weltweiten Verbrauch von Metallen und Mineralien und deren Förderung, in Prozent",
+  "createdDate": "2024-04-24T14:51:44.802Z",
+  "createdBy": "peter.fischer@nzz.ch",
+  "updatedDate": "2024-04-26T06:20:47.063Z",
+  "updatedBy": "lena.frische@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/0819c8effbf081938ef522a36931fe0f-thumbnail.jpeg"
+}

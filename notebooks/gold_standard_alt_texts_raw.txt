@@ -1,0 +1,218 @@
+1.1) ID: 0062e0b6b75d81b20a18a5ab938ada72
+Kurzbeschreibung: Liniendiagramm. Titel: Abkehr von Treasuries. Untertitel: Rendite 10-jährige US-Staatsanleihen, in %. Waagrechte Achse: Zeitraum 2. Januar bis 4. Dezember 2017. Senkrechte Achse: Ausschnitt von 2 bis 3 %. Daten: Täglich Werte.
+Überblick: Die Rendite sinkt bis im Herbst 2017 mit Schwankungen und steigt bis Ende Jahr auf das Anfangsniveau.
+Lange Beschreibung: Anfangs Januar 2017 liegt die Rendite bei rund 2.4 % und steigt bis Mitte März auf den Jahreshöchststand von gut 2.6 %. Anschliessend sinkt sie mit mehreren Zwischenanstiegen bis Anfang September auf den Tiefpunkt von gut 2 %. Danach steigt sie bis Jahresende auf rund 2.4 %.
+
+1.2) ID: 006f6723bd41797d2bb1e3f65444757f
+Kurzbeschreibung: Liniendiagramm. Titel: SMI avanciert kräftig. Untertitel: Kursentwicklung in Punkten. Waagrechte Achse: Zeitraum Anfang Januar bis Ende Dezember 2017. Senkrechte Achse: Ausschnitt von 8000 bis 9600 Punkten. Daten: Tägliche Werte.
+Überblick: Der SMI steigt 2017 um rund 1100 Punkte und zeigt dabei Schwankungen von wenigen bis zu 200 Punkten.
+Lange Beschreibung: Anfang Januar beträgt der SMI rund 8300 Punkte, steigt bis Ende März auf gut 8600 Punkten und überschreitet sprunghaft die 9000-Punkte-Marke anfangs Mai. Über den Sommer pendelt er zwischen 8800 und 9200 Punkten, bevor er bis Jahresende auf rund 9400 Punkte steigt.
+
+1.3) ID: 0154a0854ad542755c62796906aadb08
+Kurzbeschreibung: Liniendiagramm. Titel: Die illegalen Grenzübertritte haben unter Biden stark zugenommen. Untertitel: Zahl der monatlichen Aufgriffe an der Südgrenze der USA. Waagrechte Achse: Zeitraum von 2013 bis 2023. Senkrechte Achse: 0 bis 300'000 Aufgriffe. Daten: Monatliche Werte. Vier senkrechte Linien als Markierungen: 20.1.2017: Donald Trump wird Präsident. 20.3.2020: Die Pandemieregelung «Title 42» tritt in Kraft. 20.1.2021: Joe Biden übernimmt die Präsidentschaft. 11.5.2023: «Title 42» läuft aus, stattdessen beginnt Bidens Grenzregime.
+Überblick: Die monatlichen Aufgriffe bleiben mehrheitlich niedrig, bevor sie 2020 sprunghaft ansteigen. Dieses höhere Niveau hält bis zum Ende des Zeitraums 2023 an.
+Lange Beschreibung: 2013 bis 2018: Aufgriffe relativ niedrig, meist zwischen 25'000 und 60'000. Tiefstwert von gut 11'000 im April 2017 kurz nach Trumps Amtsantritt.
+2019 bis 2020: Anstieg auf 130'000 im Mai 2019, gefolgt von einem Rückgang auf rund 30'000 anfangs 2020. Nach Inkrafttreten von „Title 42“ im März 2020 steiget die Anzahl Aufgriffe bis Ende 2020 auf rund 74'000.
+2021 bis 2023: Nach Bidens Amtsübernahme im Januar 2021 steigen die Aufgriffe weiter auf über 200'000. Bis zum Ende (2023) bewegen sie sich überwiegend zwischen 150 000 und 270 000. Im Mai 2023 endet „Title 42“, und Bidens neues Grenzregime tritt in Kraft. Daraufhin steigen die Aufgriffe auf ihren Höchststand von fast 270'000, bevor sie bis Ende 2023 leicht sinken auf gut 240'000.
+
+1.4) ID: 015b1d1184288f807143043e2decb8b3
+Kurzbeschreibung: Liniendiagramm. Titel: Im Frühling sank die Auslastung ins Bodenlose. Untertitel: Auslastungsfaktor für US-Fluggesellschaften im In- und Auslandsgeschäft in %. Waagrechte Achse: Zeitraum Januar 2000 bis April 2020. Senkrechte Achse: 0 bis 90 %. Daten: Monatliche Werte.
+Überblick: Die Auslastung steigt leicht über 20 Jahre hinweg, bevor sie in den letzten zwei Monaten stark sinkt.
+Lange Beschreibung: Von Januar 2000 bis Februar 2020 steigt die Auslastung von rund 70 % auf rund 85 % dem Höchstwert. Im März 2020 sinkt die Auslastung auf knapp 51 % und im April 2020 auf knapp 18 %, den Tiefpunkt des gesamten Zeitraums.
+
+1.5) ID: 016b459adf53c4e44c03cc7e7078bb83
+Kurzbeschreibung: Liniendiagramm. Titel: CO₂-Emissionen aus Brennstoffen nehmen ab. Untertitel: Pro Tonne, indexiert (1990 = 100). Waagrechte Achse: Zeitraum 1991 bis 2019. Senkrechte Achse: Index von 0 bis 90. Daten: Jährliche Werte.
+Überblick: Die Emissionen sinken über den Zeitraum kontinuierlich mit leichten Schwankungen.
+Lange Beschreibung: Vom Referenzwert 1990 = 100 bis 2004 sinkt der Index auf 50. Zwischen 2004 und 2007 steigt der Index leicht an auf rund 60. Ab 2007 sinkt der Index bis 2019 auf den Tiefstwert von 30.
+
+2.1) ID: 008c17a9b222ca9583df638fc9de316c
+Kurzbeschreibung: Liniendiagramm. Titel: Die Inflation in der Schweiz stammt vor allem von den Importgütern. Untertitel: Landesindex der Konsumentenpreise (Dezember 2020 = 100). Waagrechte Achse: Zeitraum März 2020 bis März 2023. Senkrechte Achse: Ausschnitt Index von 98 bis 112. Daten: Monatliche Werte. Drei Linien: Total (blau), Importgüter (türkis), Inlandgüter (orange).
+Überblick: 2020 bleiben die Konsumentenpreise weitgehend stabil. Ab 2021 steigen die Indizes in unterschiedlichem Ausmass: Importgüter haben den grössten Anstieg, Inlandgüter den geringsten und der totale Konsumentenpreis liegt dazwischen.
+Lange Beschreibung: März 2020 bis März 2021: Konsumentenpreise aller drei Kategorien liegen zwischen 99 und 102 Punkten. Von März 2021 bis März 2023 entwicklen sich die Indizes wie folgt: Total: steigt von rund 101 auf rund 106. Importgüter: Anstieg von etwa 101 auf etwa 111 im Juni 2022 und bleiben dort bis am Schluss. Inlandgüter: Steigen von rund 100 auf gut 104.
+
+2.2) ID: 0099651643916eeda249aae35ad10f57
+Kurzbeschreibung: Liniendiagramm. Titel: Auch im Wasser wird es immer wärmer. Untertitel: Luft- und Wassertemperatur in Grad Celsius in der Stadt Zürich, Jahresmittel. Waagrechte Achse: Zeitraum 1973 bis 2019. Senkrechte Achse: 0 bis 12 Grad Celsius. Daten: Jährliche Werte. Zwei Linien: Lufttemperatur (dunkelblau), Wassertemperatur (bis 20 Meter, hellblau). Messort Lufttemperatur: Zürich Fluntern, Messort Wassertemperatur: Standardbeprobungsstelle / Seebecken vor Thalwil.
+Überblick: Beide Temperaturreihen steigen im Verlauf mit Schwankungen von maximal 2 Grad Celsius. Die Wassertemperatur verläuft meistens leicht über der Lufttemperatur und schwankt weniger stark.
+Lange Beschreibung: 1973 liegen beide Temperaturen knapp unter 9 Grad Celsius (Luft rund 8 Grad Celsius, Wasser etwa 8.6 Grad Celsius). Bis 2019 steigen sie auf rund 10.5 Grad Celsius (Luft) und 11.2 Grad Celsius (Wasser). Die Wassertemperatur ist durchschnittlich 0.65 Grad Celsius höher als die Lufttemperatur.
+
+2.3) ID: 009b187b6b1fe7ca85fcde3801e0c555
+Kurzbeschreibung: Liniendiagramm: Titel: Die Passagierzahlen steigen 2019 unerwartet stark. Untertitel: Erfahrungswerte und Prognosen in Prozent, indexiert (2008 = 100). Waagrechte Achse: Zeitraum 2008 bis 2040. Senkrechte Achse: 0 bis 250. Daten: Jährliche Werte. Zwei Linien: Flugbewegungen (blau), Passagiere (türkis). Ab 2018 gepunktete Linien (Prognosen).
+Überblick: Die Erfahrungwerte und Prognosen für Flugbewegungen und Passagiere steigen beide, Passagierzahlen stärker.
+Lange Beschreibung: Flugbewegungen: Schwanken 2008 bis 2017 zwischen 95 und 102 Punkten. Ab 2018 startet die Prognose bei knapp 100 und steigt danach kontinuierlich auf knapp 140 im Jahr 2040. Passagiere: 2008 bis 2017 Anstieg von 100 auf rund 130. Ab 2018 Prognose von knapp 140 auf gut 260 im Jahr 2040.
+
+2.4) ID: 010aa6a0bdfe0194f6ac81b94f4a7cc6
+Kurzbeschreibung: Liniendiagramm. Titel: Biden ist unbeliebter als seine Vorgänger. Untertitel: Nettobeliebtheitswerte amerikanischer Präsidenten (Zustimmung minus Ablehnung), in %. Waagrechte Achse: 1 bis 417 Wochen im Amt. Senkrechte Achse: Ausschnitt von minus 40 % bis 80 %. Fünf Linien: Biden, Bush, Clinton, Obama und Trump. Daten: Wöchentliche Werte.
+Überblick: Die Nettobeliebtheitswerte der Präsidenten beginnen unterschiedlich positiv und sinken mehrheitlich direkt zu Beginn ihrer Amtszeit. Biden und Trump sind beide etwa 200 Wochen im Amt, Bush, Clinton und Obama rund 400 Wochen.
+Lange Beschreibung: Bush's Nettobeliebtheitswerte beginnen bei knapp 40 % sinken bis Woche 20 auf 20 % und steigen dann sprunghaft auf den Höchstwert von rund 80 %. Sinken dann aber kontinuierlich und betragen beim Ende seiner Amtszeit rund minus 40 %, dem tiefsten Wert zum Ende einer Amtszeit. Clinton's Werte betragen gut 20 % und steigen nach zwei Tiefs zu Beginn, kontinuierlich mit einigen Schwankungen auf gut 30 %, den höchsten Wert zum Ende einer Amtszeit. Ähnlich verlaufen die Werte von Obama der mit über 40 % den höchsten Anfangswert hat und dann mit einigen Auf- und Ab auf 20 % sinkt. Trump's Wert ist zu Beginn 0, am tiefsten von allen, und sinkt mit einigen Schwankungen auf knapp minus 20 %. Biden's Anfangswert beträgt fast 20 %, ähnlich wie Clinton und seine Werte sinken auf knapp minus 20 %, was dem Niveau von Trump entspricht.
+
+2.5) ID: 014e6bf3927ddaf505c8053e37c8b688
+Kurzbeschreibung: Liniendiagramm. Titel: Konsumentenpreise in den USA um 7 Prozent gestiegen. Untertitel: Veränderung des Verbraucherpreisindex in % gegenüber Vorjahresmonat. Waagrechte Achse: Zeitraum 2016 bis 2021. Senkrechte Achse: Minus 2 bis 8 %. Daten: Monatliche Werte. Drei Linien: Deutschland (dunkelblau), Schweiz (rot), USA (hellblau). Senkrechte Linie als Markierung: Beginn der Corona-Pandemie in China.
+Überblick: Die Konsumentenpreise steigen zwischen 2016 und 2018 leicht an und sinken danach wieder bis 2021. Ab 2021 steigen die Konsumpreise stark an.
+Lange Beschreibung: Von 2016 bis Mitte 2018 steigen die Konsumentenpreise: Deutschland von 0.5 % auf rund 2 %, Schweiz von −1.5 % auf etwa 1 %, USA von 1 % auf knapp 3 %. Mitte 2018 bis 2020 gehen die Preise in allen drei Ländern leicht zurück. Nach dem Beginn der Corona-Pandemie fallen sie zunächst, am stärksten in den USA. Danach steigen sie wieder an: USA und Deutschland auf 7 und 5 % und in der Schweiz auf 1.5 %.
+
+2.6) ID: 01c8403779c54eaa3618b44952e9f888
+Kurzbeschreibung: Liniendiagramm. Titel: Chinas Abhängigkeit von Ausfuhren schrumpft. Untertitel: Aussenhandelsintensität, in % des BIP im Vergleich. Waagrechte Achse: Zeitraum 1981 bis 2017. Senkrechte Achse: Ausschnitt von 20 bis 140 %. Daten: Jährliche Werte. Acht Linien: China, Deutschland, USA, UK, JPN, CH, EU und Welt.
+Überblick: Die Aussenhandelsintensität steigt in allen Ländern sowie in der EU und weltweit. Die Schweiz bewegt sich zwischen 20 und 40 % über den anderen Regionen. USA und Japan bewegen sich zuunterst. Die anderen Regionen liegen dazwischen.
+Lange Beschreibung:
+China: Beginnt 1980 bei rund 12 %, steigt ab den 1990er-Jahren stark an, erreicht 2006 mit rund 64 % den Höchstwert und sinkt danach bis 2017 auf etwa 40 %.
+Deutschland: 1980 bei rund 40 %, bleibt bis Anfang der 1990er-Jahre relativ stabil und steigt danach kontinuierlich auf rund 85 %.
+USA: 1980 bei rund 20 % und steigt moderat auf etwa 27 % (tiefster Endwert).
+UK: 1980 bei knapp 50 % und steigt leicht auf rund 60 %.
+Japan: 1980 bei rund 27 % und steigt auf rund 34 %.
+CH: 1980 bei rund 96% leichter Rückgang bis 1994 (knapp 77%) und steigt auf knapp 120% (höchster Endwert).
+EU: 1980 bei etwa 50 % und steigt auf rund 85 %.
+Welt: 1980 bei etwa 40 % und steigt auf knapp 60 % im 2017.
+
+2.7) ID: 0819c8effbf081938ef522a36909fa85
+Kurzbeschreibung: Liniendiagramm. Titel: KI-Ingenieure verdienen in den USA immer mehr. Untertitel: Medianjahreslohn in den USA, in Tausend Dollar. Waagrechte Achse: Zeitraum August 2022 bis Januar 2024. Senkrechte Achse: 0 bis 300'000 Dollar. Daten: Monatliche Werte. Zwei Linien: KI-Ingenieure (blau), Nicht-KI-Ingenieure (türkis).
+Überblick: Das Medianjahresgehalt von Nicht-KI-Ingenieuren bleibt auf einem ähnlichen Niveau, während das von KI-Ingenieuren mit leichten Schwankungen steigt und stets über dem der Nicht-KI-Ingenieure liegt.
+Lange Beschreibung: KI-Ingenieure: Medianjahreslohn steigt von 230'000 im August 2022 auf 270'000 Dollar im Januar 2024. Nicht-KI-Ingenieure: Der Lohn liegen meist zwischen 165'000 und 180'000, mit einem Tief von etwa 155'000 im Dezember 2022 und einem Hoch von 180'000 im Dezember 2023. Die Gehaltslücke variiert zwischen knapp 70'000 (November 2022) und knapp 100'000 (März 2023).
+
+3.1) ID: 0057a266a9c555637dabccece11c5468
+Kurzbeschreibung: Senkrechtes Balkendiagramm. Titel: Besucher am Züri-Fäscht. Untertitel: (in Millionen). Waagrechte Achse: 1998 bis 2019 in Dreijahresabständen. Senkrechte Achse: 0 bis 2.5 Millionen Besucher.
+Überblick: Die Anzahl Besucher am Züri-Fäscht steigt.
+Lange Beschreibung: 1998 sind es 1.5 Millionen Besucher am Züri-Fäscht. In den folgenden Jahren steigt die Zahl stetig an und überschreitet 2007 die 2-Millionen-Marke. Danach schwanken die Werte zwischen 2 und 2.3 Millionen, bis 2019 die Besucherzahl auf gut 2.5 Millionen steigt, den Höchststand.
+
+3.2) ID: 01c8403779c54eaa3618b44952a05470
+Kurzbeschreibung: Senkrechtes Balkendiagramm. Titel: Vor allem die Jungen zahlen. Untertitel: Mehrbelastung in Franken über die verbleibende Lebensdauer bei Umsetzung des Pakets Steuern/AHV und AHV 21. Basisjahr 2016. Annahme: Realzins von 2 % pro Jahr, Produktivitätswachstum 1 %. Waagrechte Achse: Alter 0 bis 100 Jahre in 5-Jahres-Schritten. Senkrechte Achse: 0 bis 35'000 Franken.
+Überblick: Die Mehrbelastung ist bei jungen Menschen am höchsten und sinkt mit zunehmendem Alter deutlich.
+Lange Beschreibung: Die Mehrbelastung beginnt bei rund 27'000 Franken mit 0 Jahren, steigt bis 15 Jahre auf ihren Höchststand von gut 30'000 Franken und sinkt dann wieder. Bis 40 Jahre sind es noch über 25'000 Franken. Ab 45 Jahren sinkt sie deutlich, beträgt mit 50 Jahren rund 17'000 Franken und mit 55 Jahren etwa 10'000 Franken. Mit 70 unterschreitet sie die 5'000-Franken-Marke und sinkt dann auf den Tiefstwert von 10 Franken mit 100 Jahren.
+
+3.3) ID: 008af45f10ff96b79bbc850c1ee5766d
+Kurzbeschreibung: Senkrechtes Balkendiagramm. Titel: Westafrika produziert am meisten Kakao. Untertitel: Schätzungen Produktion 2015/16 in t (in Millionen). Waagrechte Achse: Côte d’Ivoire, Ghana, Indonesien, Kamerun, Ecuador, Nigeria und Brasilien. Senkrechte Achse: 0 bis 1.6 Millionen Tonnen Kakao.
+Überblick: Côte d’Ivoire produziert mindestens doppelt so viel Kakao wie alle anderen Länder einzeln.
+Lange Beschreibung: Côte d’Ivoire produziert knapp 1.6 Millionen Tonnen Kakao, Ghana knapp 0.8 und Indonesien 0.35. Kamerun, Ecuador, Nigeria und Brasilien produzieren je zwischen 0.15 und 0.25 Millionen Tonnen Kakao.
+
+3.4) ID: 009b187b6b1fe7ca85fcde3801650eb8
+Kurzbeschreibung: Waagrechtes Balkendiagramm. Titel: Graubünden wurde von Postauto am stärksten geschröpft. Untertitel: Umgebuchter Gewinn in der Sparte "Regionaler Personenverkehr", nach Region, 2007 bis 2015, in Mio. Fr. "Umgebuchter Gewinn" meint vereinfacht gesagt den Betrag, den die Regionen über die eigentlichen Kosten der Firma Postauto hinaus zu viel an Subventionen bezahlt haben. Waagrechte Achse: Minus 5 bis 35 Millionen Franken. Senkrechte Achse: 16 Regionen.
+Überblick: Graubünden hat den höchsten umgebuchten Gewinn, vor Tessin und Aarau. Die meisten anderen Regionen zahlen deutlich weniger.
+Lange Beschreibung: Graubünden zahlt gut 30 Millionen Franken, Tessin 13 Millionen und Aargau etwa 12 Millionen. Bern, St. Gallen und Basel: Zwischen 5 und 8 Millionen. Sion, Zentralschweiz, Interlaken, Brig, Delémont, Yverdon, Balsthal, Frauenfeld und Uznach: Zwischen 1 und 3 Millionen. Der Hauptsitz weist einen umgebuchten Gewinn von minus 0,1 Millionen Franken auf.
+
+3.5) ID: 016934e7c13b1b546fdea80efd074e02
+Kurzbeschreibung: Waagrechtes Balkendiagramm. Titel: Manchen Ländern droht der Bevölkerungskollaps. Untertitel: Entwicklung der Zahl der Einwohner, 2100 gegenüber 2023, in %; Prognosen auf Basis von Geburtenraten und Lebenserwartungen der Gegenwart. Waagrechte Achse: Ausschnitt minus 60 bis 120 %. Senkrechte Achse: 12 Länder.
+Überblick: Sechs Länder zeigen ein negatives, sechs Länder ein positives prognostiziertes Bevölkerungswachstum.
+Lange Beschreibung: China: Prognose Minus 55 %. Italien, Japan: Je etwa minus 40 %. Türkei, Brasilien, Deutschland: Je etwa minus 20 %. Frankreich, Indien, Indonesien, Grossbritannien: 3 % bis 8 %. USA: 23 %. Nigeria: 109 %.
+
+3.6) ID: 016934e7c13b1b546fdea80efd7b5963
+Kurzbeschreibung: Waagrechtes Balkendiagramm. Titel: Mehrwertsteuer müsste mit der Mitte-Initiative auf 9,6 Prozent erhöht werden. Untertitel: Normalsatz der Mehrwertsteuer (MWSt) in %. Waagrechte Achse: 0 bis 10 Prozent. Senkrechte Achse: 1995, 1999, 2001, 2018, 2024, 2027 und 2030. Prognosen ab 2027. Pro Balken ist ein Ereignis erwähnt. Nicht abgebildet ist die befristete Erhöhung für die IV von 2011 bis 2017.
+Überblick: Seit der Einführung der Mehrwertsteuer im Jahr 1995 ist sie kontinuierlich gestiegen. Auch die Prognosen sind steigend.
+Lange Beschreibung: 1995 wird die Mehrwertsteuer mit einem Satz von 6.5 Prozent eingeführt. Mit der Erhöhung der AHV wird sie 1999 auf 7.5 Prozent erhöht. Mit der Erhöhung der Bahn- und AHV-Beiträge steigt sie bis 2024 auf 8.1 Prozent. Für die 13. AHV-Rente will der Bundesrat die Mehrwertsteuer bis 2027 um 0.7 Prozent erhöhen (auf 8.8). Wird die Mitte-Initiative über die Mehrwertsteuer finanziert, ist eine Erhöhung auf 9.6% nötig. Die Finanzierungslücken durch die Pensionierung der Babyboomer-Generation sind damit noch nicht behoben.
+
+3.7) ID: 016934e7c13b1b546fdea80efd96eba5
+Kurzbeschreibung: Waagrechtes Balkendiagramm. Titel: An Unterbrüchen von Unterseekabeln ist meist der Mensch schuld. Untertitel: Ursachen von Störungen als Anteil an der Zahl der Vorfälle, in %. Waagrechte Achse: 0 bis 40 %. Senkrechte Achse: Fischerei, Schiffsanker, andere menschliche Aktivitäten, Naturkatastrophen, Verschleiss, Störungen an Komponenten, Andere Gründe.
+Überblick: Rund 70 % der Unterbrüche von Unterseekabeln werden durch Fischerei, Schiffsanker und andere menschliche Aktivitäten verursacht.
+Lange Beschreibung: Fischerei verursacht knapp 40 % der Unterbrüche, Schiffsanker 25 % und andere menschliche Aktivitäten rund 10 %. Naturkatastrophen, Verschleiss, Störungen an Komponenten und andere Gründe machen jeweils 6 % aus.
+
+3.8) ID: 01ba465f792500066ff5d6bee1dc9387
+Kurzbeschreibung: Waagrechtes Balkendiagramm. Titel: Manchester United hat bisher am meisten für neue Spieler ausgegeben. Untertitel: Transferausgaben der Top 6 im Sommer 2019 (in Mio Euro). Waagrechte Achse: 0 bis 160 Millionen Euro. Senkrechte Achse: Manchester City, Liverpool, Chelsea, Tottenham, Arsenal, Manchester United.
+Überblick: Die Transferausgaben der Fussballklubs variieren zwischen knapp 2 und 160 Millionen Euro.
+Lange Beschreibung: Manchester City: 90, Liverpool: 1.9 (tiefster Wert), Chelsea: 45, Tottenham: 71, Arsenal: rund 117, Manchester United: 159 (höchster Wert).
+
+3.9) ID: 01da15f0f6a6396873566efb70b639df
+Kurzbeschreibung: Waagrechtes Balkendiagramm. Titel: Europäer sind die spendabelsten Touristen in Japan. Untertitel: Ausgaben pro Tourist nach grossen Herkunftsländern im Jahr 2023, in Yen (in Tausend). Waagrechte Achse: 0 bis 400 Tausend Yen. Senkrechte Achse: Grossbritannien, Australien, Spanien, Frankreich, Italien, Deutschland, China, Taiwan und Südkorea.
+Überblick: Europäische Touristen und die aus Australien geben im Durchschnitt deutlich mehr aus als Touristen aus Vergleichsländer aus Asien.
+Lange Beschreibung: In Grossbritannien, Australien, Spanien, Frankreich, Italien und Deutschland geben Touristen zwischen rund 330 und 370 Tausend Yen aus. Andere Länder im Vergleich: China: 285, Taiwan: 181, Südkorea: 101.
+
+3.10) ID: 01e843ba181f97facd55faf6789b906a
+Kurzbeschreibung: Senkrechtes Balkendiagramm. Titel: Bisher regnete es dieses Jahr in Zürich vergleichsweise wenig, doch es folgen weitere Regentage. Untertitel: Niederschlagsmenge im April und Mai an der Messstation Zürich Fluntern, in Millimetern, pro Jahr. Die Niederschlagsmenge für Mai 2021 umfasst die Tage vom 1. bis 19. Mai. Waagrechte Achse: Jahre 2000 bis 2021. Senkrechte Achse: 0 bis 350 Millimeter.
+Überblick: Die Niederschlagsmenge in Zürich im April und Mai zeigt zwischen 2000 und 2021 keine klare Tendenz. Die Werte schwanken zwischen 100 und 350 Millimetern pro Jahr.
+Lange Beschreibung: Im betrachteten Zeitraum liegt der Durchschnitt bei rund 200 Millimetern. In einzelnen Jahren, sind es höhere Werte von über 300 Millimetern (2006, 2015), während die Niederschlagsmenge in anderen Jahren zwischen 100 und 150 Millimetern liegt (2007, 2009, 2011, 2018, 2020). Im Jahr 2021 beträgt die bisher gemessene Niederschlagsmenge rund 130 Millimeter, basierend auf Messungen bis zum 19. Mai.
+
+4.1) ID: 0023e8fed9d111fed753bb3f6b0afe78
+Kurzbeschreibung: Senkrechtes Balkendiagramm. Titel: Auch der Handel mit der EU mit Autoteilen ist aus Sicht der USA defizitär. Untertitel: in Mrd. $. Waagrechte Achse: 2012 bis 2017. Senkrechte Achse: 0 bis 20 Milliarden $. Zwei Balken pro Jahr: US-Exporte (blau), US-Importe (türkis).
+Überblick: Jedes Jahr übersteigen die US-Importe die Exporte um etwa 10 bis 14 Milliarden $. Die Exporte steigen leicht, die Importe bleiben auf ähnlichem Niveau.
+Lange Beschreibung: Die US-Importe bewegen sich zwischen 17 und 21 Milliarden $. Die US-Exporte steigen von etwa 5 auf knapp 8 Milliarden $. Das Handelsdefizit liegt zwischen 10 und 14 Milliarden $.
+
+4.2) ID: 014e6bf3927ddaf505c8053e37c2dd5a
+Kurzbeschreibung: Senkrechtes Balkendiagramm. Titel: Weniger Verletzte, teurere Blechschäden. Untertitel: Prämieneinnahmen in Millionen Franken. Waagrechte Achse: 2012 bis 2021. Senkrechte Achse: 0 bis 3500 Millionen Franken. Zwei Balken pro Jahr: Kaskoversicherung (Motor, blau), Haftpflicht (Motor, türkis).
+Überblick: Die Prämieneinnahmen aus Kaskoversicherungen steigen über die Jahre leicht, während die aus Haftpflichtversicherungen tendenziell leicht sinken.
+Lange Beschreibung: Prämieneinnahmen aus Kaskoversicherungen steigen von knapp 3000 auf rund 3500 Millionen Franken. Einnahmen aus Haftpflichtversicherungen sinken von etwa 2700 auf rund 2500 Millionen Franken. Dadurch vergrössert sich die Differenz zwischen den beiden Versicherungsarten von 200 auf knapp 1000 Millionen Franken.
+
+4.3) ID: 015b1d1184288f807143043e2def547f
+Kurzbeschreibung: Waagrechtes Balkendiagramm. Titel: Die Zentraleuropäer testen heute viel mehr. Untertitel: Anzahl Tests pro Millionen Einwohner (Sieben-Tage-Durchschnitt). Waagrechte Achse: 0 bis 2800 Tests. Senkrechte Achse: Wien, Österreich, Tschechien, Ungarn und Slowakei. Zwei Balken pro Region: 14.6. (blau), 14.9. (türkis).
+Überblick: Zwischen Juni und September steigen die durchschnittlichen Testzahlen in allen dargestellten Regionen zwischen zweieinhalb und viermal.
+Lange Beschreibung: Im Juni in allen Regionen zwischen 200 und 900 Tests pro Million Einwohner. Im September rund 700 bis über 2600 Tests pro Million Einwohner. Entwicklung wie folgt: Wien: 900 auf 2600, Österreich: 600 auf 1400, Tschechien: 300 auf 1300, Ungarn: 400 auf 1000, Slowakei: 200 auf 700.
+
+4.4) ID: 01ba465f792500066ff5d6bee1f170c1
+Kurzbeschreibung: Senkrechtes Balkendiagramm. Titel: Kollabierte Erträge. Untertitel: Geschäftszahlen von Harland & Wolff in Mio. £. Waagrechte Achse: 2004 bis 2016. Senkrechte Achse: Minus 10 bis 70 Millionen £. Zwei Balken pro Jahr: Umsatz (blau), Gewinn (türkis).
+Überblick: Zwischen 2004 und 2016 schwanken Umsatz und Gewinn von Harland & Wolff deutlich, wobei der Umsatz in allen Jahren höher ausfällt als der Gewinn.
+Lange Beschreibung: Von 2004 bis 2011 liegt der Umsatz überwiegend zwischen 20 und 30 Millionen Pfund, mit einem Ausreisser nach unten auf etwa 6 Millionen Pfund (2010). Zwischen 2012 und 2015 steigt der Umsatz auf über 60 Millionen Pfund, bevor er 2016 auf unter 10 Millionen fällt. Der Gewinn zeigt im gleichen Zeitraum Schwankungen zwischen rund 9 Millionen und minus 7 Millionen Pfund. Ein klarer Zusammenhang zwischen Umsatz und Gewinn ist nicht erkennbar.
+
+4.5) ID: 0313da61de86779a1c0b46f57186449c
+Kurzbeschreibung: Senkrechtes Balkendiagramm. Titel: Wirtschaftlich gesehen sind die Bauern in Deutschland und der Schweiz eher unwichtig. Untertitel: Anteil des Primärsektors (Landwirtschaft) an der Gesamtwirtschaft in der EU und Efta-Ländern, provisorische Zahlen 2022, in Prozent. Waagrechte Achse: 0 bis 30 Prozent. Senkrechte Achse: 30 Länder sowie den EU-Schnitt. Pro Land zwei Balken: Anteil Beschäftigter (blau), Anteil Bruttowertschöpfung (türkis).
+Überblick: Der Anteil Beschäftigter ist in den meisten Ländern höher als der Anteil der Bruttowertschöpfung. Ungarn, Island und Estland sind eine Ausnahme.
+Lange Beschreibung: Der Anteil der im Primärsektor Beschäftigten beträgt zwischen knapp 1 Prozent (Luxemburg) bis über 21 Prozent (Rumänien). Die Spannweite der Bruttowertschöpfung liegt zwischen 0,3 Prozent (Luxemburg) und knapp 6 Prozent (Lettland). Im EU-Schnitt beträgt der Anteil der Bruttowertschöpfung etwa 2 Prozent und der Anteil der Beschäftigten rund 4 Prozent. In der Schweiz sind es knapp 1 und rund 2 Prozent, in Deutschland sind beide Werte etwa 1 Prozent. Sortiert nach Bruttowertschöpfung liegt der EU-Schnitt an Stelle 10, die Schweiz an 23. und Deutschland an 29. Stelle.
+
+4.6) ID: 0819c8effbf081938ef522a369204c9b
+Kurzbeschreibung: Waagrechtes Balkendiagramm. Titel: Chinesen essen mittlerweile viel Fleisch. Untertitel: Pro-Kopf-Konsum ausgewählter Nahrungsmittel pro Jahr, in Kilogramm (2022). Waagrechte Achse: 0 bis 300 Kilogramm. Senkrechte Achse: Zucker, Eier, Fleisch, Früchte, Gemüse, Getreide und Milch und Milchprodukte. Zwei Balken pro Nahrungsmittel: China (rot), Schweiz (gelb).
+Überblick: Die Schweiz konsumiert mehr Zucker, Früchte, Fleisch und besonders Milchprodukte. China konsumiert etwas mehr Eier und Gemüse sowie deutlich mehr Getreide.
+Lange Beschreibung: Pro-Kopf-Konsum in Kilogramm pro Kategorie. Zucker: China 1,2 , Schweiz 39. Eier: China 13,5 , Schweiz 13 . Fleisch: China 34,6 , Schweiz 47 . Früchte: China 61 , Schweiz 108 . Gemüse: China 108,2 , Schweiz 103. Getreide: China 136.8 , Schweiz 97.
+
+4.7) ID: 0819c8effbf081938ef522a3693b1b52
+Kurzbeschreibung: Waagrechtes Balkendiagramm. Titel: Die Ukraine erhält nur wenige Waffen aus den westlichen Beständen. Untertitel: Bei Kriegsbeginn 2022 vorhandenes und funktions­tüchtiges Kriegsgerät in westlichen Arsenalen. Waagrechte Achse: 0 bis 11'000 Waffen. Senkrechte Achse: Kampf- und Schützenpanzer, 155- und 152-Haubitzen, Mehrfachraketenwerfer. Drei Balken pro Waffen-Kategorie: Nato ohne EU-Staaten (dunkelblau), EU-Staaten (hellblau), Zusagen an die Ukraine (orange).
+Überblick: Der Anteil der zugesagten Waffen an die Ukraine umfassen einen kleinen Teil (zwischen 7 und 12 Prozent) des einsatzbereiten Kriegsgeräts in westlichen Arsenalen.
+Lange Beschreibung: Kampf- und Schützenpanzer sind knapp 11'000 (Nato ohne EU-Staaten) und etwa 4700 (EU-Staaten) verfügbar. Insgesamt sind der Ukraine knapp 790 zugesagt. Haubitzen sind rund 4100(Nato) und knapp 2700 (EU) verfügbar. Zugesagt an die Ukraine gut 650. Mehrfachraketenwerfer besitzen beide Gruppen je rund 820, zugesagt an die Ukraine sind 100.
+
+4.8) ID: 0819c8effbf081938ef522a36994376d
+Kurzbeschreibung: Waagrechtes Balkendiagramm. Titel: Erneuerbare Energien legen zu. Untertitel: Anteile an der Gesamtstromerzeugung in %. Waagrechte Achse: 0 bis 50 %. Senkrechte Achse: Photovoltaik, Wind an Land, Wind auf See, Biomasse, Sonstige, Kernkraft und fossile Energieträger. Pro Energiequelle drei Balken: 2021 (blau), 2022 (türkis), 2023 (orange).
+Überblick: Die Anteile von Kernkraft und fossilen Energieträgern sinken, diejenigen aller anderen Energiequellen steigen. Der Anteil fossiler Energieträger an der Gesamtstromerzeugung ist der grösste Anteil (knapp 45 bis 50%) in allen drei Jahren.
+Lange Beschreibung: Zwischen 2021 und 2023 sinkt der Anteil fossiler Energieträger an der Stromerzeugung von knapp 50 % auf 45 %, während die Kernkraft im selben Zeitraum von etwa 12% auf 1 % sinkt. Gleichzeitig steigt der Anteil von Windenergie an Land deutlich von rund 15 % auf fast 25 % und der Anteil der Photovoltaik von etwa 8 % auf 12%. Auch Biomasse (von 8 % auf 9 %), Wind auf See (von 4 % auf 5%) und sonstige erneuerbare Quellen (von 4,5 % auf 5 %) steigen leicht.
+
+5.1) ID: 014e6bf3927ddaf505c8053e37226a1e
+Kurzbeschreibung: Waagrechtes Balkendiagramm. Titel: Seit 1971 steigt der Frauenanteil an, bei der letzten Wahl lag er bei 39 Prozent. Untertitel: Geschlechterverteilung im Kantonsrat seit 1967 (letztes Jahr ohne Frauen), in Prozent. Waagrechte Achse: 0 bis 100 Prozent. Senkrechte Achse: 1967 bis 2019 in Vierjahreschritten. Pro Jahr ein Balken, unterteilt in zwei Anteile: Männer (grün), Frauen (violett).
+Überblick: Seit 1971 steigt der Frauenanteil im Zürcher Kantonsrat stetig von 0 auf knapp 40 Prozent an.
+Lange Beschreibung: 1967 besteht der Zürcher Kantonsrat ausschliesslich aus Männern. Bis 1980 liegt der Frauenanteil bei knapp 10 Prozent, bis 1999 steigt er auf rund 25 Prozent. Ab 2007 beträgt er etwa ein Drittel und steigt bis 2019 knapp 40 Prozent.
+
+5.2) ID: 014e6bf3927ddaf505c8053e37ce75f6
+Kurzbeschreibung: Waagrechtes Balkendiagramm. Titel: Das Vereinigte Königreich ist 2022 bislang der grösste Geldgeber. Untertitel: Aufschlüsselung der bisher zugesagten 101,6 Millionen $ (in %-Anteilen). Waagrechte Achse: 0 bis 100 Prozent. Ein Balken unterteilt in sechs Anteile: Vereinigtes Königreich, EU, Deutschland, Italien, Irland und Schweiz.
+Überblick: Das Vereinigte Königreich stellt mit 88 Prozent den grössten Anteil.
+Lange Beschreibung: Vereinigtes Königreich: 88 %. Anteile EU und Deutschland je etwa 4 %, Italien, Irland und Schweiz je etwa 1 %.
+
+5.3) ID: 07d00172c0f2b9dd3facaed885de0c8d
+Kurzbeschreibung: Senkrechtes Balkendiagramm. Titel: Der ANC erreichte seit den ersten freien Parlamentswahlen in Südafrika stets das absolute Mehr. Untertitel: in Prozent der Stimmen. Waagrechte Achse: 1994 bis 2019 in Fünfjahresschritten. Senkrechte Achse: 0 bis 100 Prozent. Pro Jahr ein Balken, unterteilt in zwei Anteile: ANC (blau), andere Parteien (türkis).
+Überblick: Der ANC hat bei jeder Wahl in Südafrika die absolute Mehrheit der Stimmen.
+Lange Beschreibung: Der ANC steigert seinen Stimmenanteil von rund 63 % (1994) auf etwa 70 % (2004), den Höchstwert. Seither sinkt er kontinuierlich und beträgt 2019 knapp 60 %.
+
+5.4) ID: 0819c8effbf081938ef522a3692143e5
+Kurzbeschreibung: Waagrechtes Balkendiagramm. Titel: So viel gibt die Waadt für Prämienverbilligungen aus. Untertitel: Zahlen für 2023, in Millionen Franken, gerundet. Waagrechte Achse: 0 bis 900 Millionen Franken. Ein Balken unterteilt in drei Anteile: «Normale» Prämienverbilligungen (blau), AHV/IV-Ergänzungsleistungen und Sozialhilfe (türkis), 10-Prozent-Deckel (orange).
+Überblick: Der Kanton Waadt gibt im Jahr 2023 rund 800 Millionen Franken für Prämienverbilligungen aus.
+Lange Beschreibung: Der Anteil von normalen Prämienverbilligungen beträgt 370 Millionen Franken, von AHV/IV-Ergänzungsleistungen und Sozialhilfe 310 Millionen Franken und derjenige vom 10-Prozent-Deckel rund 120 Millionen.
+
+5.5) ID: 08e996c76bf1a7d4bec453e674c16d25
+Kurzbeschreibung: Waagrechtes Balkendiagramm. Titel: Die Berufswahl folgt alten Rollenmustern. Untertitel: Frauen- und Männeranteile in verschiedenen Berufen im Jahr 2022, in Prozent. Waagrechte Achse: 0 bis 100 Prozent. Senkrechte Achse: Krankenpflege und Geburtshilfe (Berufliche Grundbildung), Elektrizität und Energie (Berufliche Grundbildung), Soziale Arbeit (Studierende an den Fachhochschulen), Technik und IT (Studierende an den Fachhochschulen), Humanmedizin (Studierende an den universitären Hochschulen), Maschinen- und Elektroingenieurwesen (Studierende an den universitären Hochschulen). Pro Beruf ein Balken, unterteilt in zwei Anteile: Frauen (violett), Männer (grün).
+Überblick: In den meisten Berufsbereichen zeigt sich eine geschlechtsspezifische Verteilung.
+Lange Beschreibung: Frauen sind in der Krankenpflege und Geburtshilfe (85 %) sowie in der Sozialen Arbeit (72 %) stark vertreten. Männer dagegen sind in den Berufen Elektrizität und Energie (97 %), in Technik und IT (86 %) sowie im Maschinen- und Elektroingenieurwesen (80 %) stärker vertreten. Eine ausgeglichenere Verteilung zeigt sich in der Humanmedizin mit einem Verhältnis von rund 60 zu 40 % Frauen zu Männern.
+
+6.1) ID: 0154a0854ad542755c62796906582f56
+Kurzbeschreibung: Senkrechtes Balkendiagramm. Titel: Erst kamen die jungen Eritreer, nun die Afghanen. Untertitel: UMA nach Nationalität. Waagrechte Achse: 2004 bis 2022. Senkrechte Achse: 0 bis 2'500 UMA. Pro Jahr einen Balken unterteilt in zehn Anteile: Afghanistan, Eritrea, Somalia, Syrien, Guinea, Äthiopien, Algerien, Nigeria, Marokko und Irak.
+Überblick: Pro Jahr sind es insgesamt zwischen 100 und knapp 900 UMA, mit zwei Spitzen von jeweils über 1800 (2015, 2016 und 2022). Eritrea und Afghanistan machen zum Ende des Beobachtungszeitraums einzeln oder zusammen den grössten Anteil aus.
+Lange Beschreibung: Von 2004 bis 2013 liegt die Zahl der UMA zwischen 100 und 300, gleichmässig verteilt auf mehrere Nationalitäten. In den Jahren 2015 und 2016 kommt es zu einem deutlichen Anstieg auf über 2'500 UMA beziehungsweise 1'700. In dieser Phase stammte die Mehrheit aus Eritrea mit Anteilen zwischen 50 und 70 Prozent. Ab 2017 sinken die Zahlen auf 300 bis 500. 2021 und 2022 steigen sie erneut auf 900 und über 2'700. Während der Anteil aus Eritrea ab 2017 sinkt, steigt der Anteil der Afghanen ab 2015 stetig an und beträgt 2022 über 90 Prozent.
+
+6.2) ID: 016934e7c13b1b546fdea80efd365b3b
+Kurzbeschreibung: Waagrechtes Balkendiagramm. Titel: Die Discounter legen bei Bio zu. Untertitel: Marktanteile der Verkaufskanäle am gesamten Bio-Umsatz. Waagrechte Achse: 0 bis 100 Prozent. Senkrechte Achse: 2018 bis 2022. Pro Jahr ein Balken unterteilt in vier Anteile: Klassischer Detailhandel mit Online (blau), Discounter (türkis), Fachhandel (orange), Marktstand/Bauernhöfe (rot).
+Überblick: Von 2018 bis 2022 verschieben sich die Marktanteile der Verkaufskanäle zwischen jeweils 1 bis 3 Prozent. Klassischer Detailhandel macht immer fast 90 Prozent aus. Die drei anderen Verkaufskanäle teilen sich die restlichen Prozente.
+Lange Beschreibung: Der Anteil vom klassischen Detailhandel beträgt 2018 fast 90 Prozent und sinkt bis 2022 um knapp ein Prozent. Die Anteile von Fachhandel und Marktstände/Bauernhöhe sind 2.5 und 4.5 Prozent und sinken je knapp ein Prozent. Dafür stiegt der Anteil der Discounter von etwa 3.5 auf 6 Prozent.
+
+6.3) ID: 016b459adf53c4e44c03cc7e70dbd26c
+Kurzbeschreibung: Senkrechtes Balkendiagramm. Titel: Die Zürcher werden immer sportlicher. Untertitel: Sportaktivität, in Prozent. Wohnbevölkerung im Alter ab 15 Jahren; Anzahl Befragte: 2020: 2864; 2014: 2796; 2008: 3127; 2003: 2311. Waagrechte Achse: 2003, 2008, 2014, 2020. Senkrechte Achse: 0 bis 100 Prozent. Pro Jahr ein Balken unterteilt in fünf Anteile: nie (blau), unregelmässig/selten (grün), mindestens einmal pro Woche, aber insgesamt weniger als zwei Stunden (orange), mindestens einmal pro Woche, insgesamt zwei Stunden und mehr (rot), mehrmals pro Woche drei Stunden, insgesamt drei Stunden und mehr (türkis).
+Überblick: Von 2003 bis 2020 verändern sich die Aktivitätsanteile jeweils um minus 8 bis 11 Prozent. Am meisten steigt der Anteil von mehrmals pro Woche, insgesamt drei Stunden und mehr.
+Lange Beschreibung: Zwischen 2003 und 2020 sinkt der Anteil derjenigen, die nie aktiv sind, um 8 Prozent, während der Anteil derjenigen, die mehrmals pro Woche aktiv sind, um 11 Prozent steigt. Die anderen Aktivitätsformen verändern sich weniger: unregelmässig/selten (plus 3 Prozent), mindestens einmal pro Woche, aber insgesamt weniger als zwei Stunden (minus 6 Prozent) und mindestens einmal pro Woche, insgesamt zwei Stunden und mehr (keine Veränderung).
+
+6.4) ID: 01e843ba181f97facd55faf678039c21
+Kurzbeschreibung: Senkrechtes Balkendiagramm. Titel: Verbreitung von Kurzarbeit bleibt hartnäckig hoch. Untertitel: Beschäftigte in Kurzarbeit, nach Wirtschaftssektoren. Waagrechte Achse: Monate Januar 2020 bis Februar 2021. Senkrechte Achse: 0 bis 1,4 Millionen Beschäftigte. Pro Jahr ein Balken unterteilt in zwölf Anteile.
+Überblick: Zwischen März und Mai 2020 steigt die Zahl der Kurzarbeitenden von rund 5'000 auf bis zu 1,5 Millionen und sinkt ab Juli wieder auf etwa 400'000.
+Lange Beschreibung:
+Januar bis Februar 2020: kaum Kurzarbeit (rund 5 000 Personen). März und April 2020: starker Anstieg auf über 1,3 Millionen Beschäftigte. Mai bis Juli 2020: deutlicher Rückgang auf etwa 420'000. August und Oktober 2020: weiterer Rückgang auf rund 250'000. November 2020 bis Februar 2021: erneuter Anstieg auf etwa 400'000 bis 450'000.
+Branchenanteile: Die drei grössten Sektoren ( Restaurants/Hotellerie, Handel/Garagen sowie Industrie/Chemie/Pharma) stellen zusammen meist 50 bis 60 % der Kurzarbeitenden. Restaurants/Hotellerie häufig 15 bis 25 %. Handel/Garagen und Industrie/Chemie/Pharma jeweils 10 bis 20 %. Freiberufliche Dienstleistungen, Transport/Logistik sowie Kunst/Unterhaltung/Erholung tragen je 5 bis 10 % bei.
+Baugewerbe/Bau, Medien/Kommunikation/IT, Gesundheits- und Sozialwesen, Banken/Versicherungen sowie Immobilien liegen jeweils bei 0,5 bis 4 %.
+
+6.5) ID: 022a672b3f9fa2b1be4ea3c48a553889
+Kurzbeschreibung: Waagrechtes Balkendiagramm. Titel: Das Globalbudget hat einen schweren Stand. Untertitel: in Prozent der Stimmberechtigten. Waagrechte Achse: 0 bis 100 Prozent. Senkrechte Achse: Keine freie Arztwahl mehr (Da die Patienten im vierten Quartal zu demjenigen Arzt gehen müssten, der sein Budget noch nicht ausgeschöpft hat.), Längere Wartezeiten (Da im vierten Quartal nicht mehr alle Behandlungen angeboten würden.), Schlechtere Qualität im Gesundheitswesen, Nicht alle Patienten erhalten notwendige Medikamente, Niedrigere Prämien. Pro Folge des Globaldbudgets ein Balken unterteilt in fünf Anteile: Stimme sehr zu, Stimme eher zu, Weiss nicht/keine Antwort, Stimme eher nicht zu, Stimme gar nicht zu.
+Überblick: Klare Mehrheit erwartet negative Folgen (eingeschränkte Arztwahl, längere Wartezeiten, schlechtere Qualität, eingeschränkter Zugang zu Medikamenten), während niedrigere Prämien mehrheitlich verneint wird.
+Lange Beschreibung: Die Grafik zeigt, wie rund 1.200 Stimmberechtigte die Folgen eines Globalbudgets einschätzen (Gesundheitsmonitor 2018; Fehlermarge ±2,3 bis 2,9 Prozentpunkte). Anteile, die einer Aussage sehr oder eher zustimmen: Keine freie Arztwahl mehr: 91 %. Längere Wartezeiten: 91 %. Schlechtere Qualität im Gesundheitswesen: 86 %. Nicht alle Patienten erhalten notwendige Medikamente: 74 %. Niedrigere Prämien: 31 %.
+
+6.6) ID: 0313da61de86779a1c0b46f571670e55
+Kurzbeschreibung: Senkrechtes Balkendiagramm. Titel: Der am häufigsten gejagte Rabenvogel ist die Krähe. Untertitel: Jährliche Abschüsse der drei wichtigsten Rabenvogelarten im Kanton Zürich. Waagrechte Achse: Jahre 2013 bis 2022. Senkrechte Achse: 0 bis 2500 Abschüsse. Pro Jahr ein Balken unterteilt in drei Anteile: Rabenkrähe (dunkelblau), Elster (türkis), Eichelhäher (orange).
+Überblick: Nach einem Anstieg bis 2021 ging die Gesamtzahl 2022 auf etwa 1’500 zurück. Die Rabenkrähe stellt mit über 90 % in allen Jahren den grössten Anteil der Abschüsse.
+Lange Beschreibung: Anzahl Abschüsse pro Jahr: 2013 bis 2016 etwa 650 bis 950; 2017 bis 2019 etwa 1’000 bis 1’200; 2020 Anstieg auf rund 1’900; 2021 Höchstwert mit rund 2’400; 2022 Rückgang auf etwa 1’500.
+Anteile nach Art: Rabenkrähe 94 bis 99 %, Elster 1 bis 7 %, Eichelhäher meist unter 2 %.

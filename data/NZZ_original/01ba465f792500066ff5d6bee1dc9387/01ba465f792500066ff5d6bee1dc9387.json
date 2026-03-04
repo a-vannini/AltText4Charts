@@ -1,0 +1,86 @@
+{
+  "_id": "01ba465f792500066ff5d6bee1dc9387",
+  "_rev": "21-f06265f23e0ac842f98779b79f7c172a",
+  "data": [
+    [
+      "Klub",
+      null
+    ],
+    [
+      "Manchester City",
+      "90"
+    ],
+    [
+      "Liverpool",
+      "1.9"
+    ],
+    [
+      "Chelsea",
+      "45"
+    ],
+    [
+      "Tottenham",
+      "71"
+    ],
+    [
+      "Arsenal",
+      "116.7"
+    ],
+    [
+      "Manchester United",
+      "159"
+    ]
+  ],
+  "allowDownloadData": false,
+  "sources": [
+    {
+      "link": {
+        "url": "https://www.transfermarkt.ch/premier-league/transfers/wettbewerb/GB1",
+        "isValid": true
+      },
+      "text": "Transfermarkt"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": false,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "year",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": []
+  },
+  "tool": "chart",
+  "department": "Sport",
+  "publication": "nzz",
+  "acronym": "",
+  "active": true,
+  "title": "Manchester United hat bisher am meisten ausgegeben für neue Spieler",
+  "subtitle": "Transferausgaben der Top 6 im Sommer 2019 (in Mio Euro)",
+  "createdDate": "2019-08-06T13:10:48.394Z",
+  "createdBy": "claudia.rey@nzz.ch",
+  "updatedDate": "2019-08-06T13:22:16.941Z",
+  "updatedBy": "claudia.rey@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/01ba465f792500066ff5d6bee1dc9387-thumbnail.jpeg"
+}

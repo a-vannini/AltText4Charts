@@ -1,0 +1,130 @@
+{
+  "_id": "08e996c76bf1a7d4bec453e674cb9498",
+  "_rev": "15-5ca431a33fc5afac6401f686b42bbf23",
+  "department": "Visuals",
+  "publication": "nzz",
+  "acronym": "fsl.",
+  "allowDownloadData": false,
+  "active": true,
+  "tool": "chart",
+  "title": "Pharmasektor dominiert Aussenhandel mit Russland",
+  "subtitle": "Schweizer Exporte nach Russland, Exportwert in Franken",
+  "data": [
+    [
+      "null",
+      "Produkte der chemisch-pharmazeutischen Industrie",
+      "Andere"
+    ],
+    [
+      "2013",
+      "1321673313",
+      "1821057339"
+    ],
+    [
+      "2014",
+      "1086433094",
+      "1821717788"
+    ],
+    [
+      "2015",
+      "1015300598",
+      "1289371823"
+    ],
+    [
+      "2016",
+      "949936915",
+      "1067647673"
+    ],
+    [
+      "2017",
+      "1062008450",
+      "1198680814"
+    ],
+    [
+      "2018",
+      "1215394134",
+      "1307308543"
+    ],
+    [
+      "2019",
+      "1830433680",
+      "1288109082"
+    ],
+    [
+      "2020",
+      "1543714448",
+      "1264726294"
+    ],
+    [
+      "2021",
+      "1761951177",
+      "1609713063"
+    ],
+    [
+      "2022",
+      "2337608546",
+      "694991291"
+    ],
+    [
+      "2023",
+      "2104466799",
+      "482395527"
+    ]
+  ],
+  "sources": [
+    {
+      "text": "Bundesamt für Zoll und Grenzsicherheit",
+      "link": {
+        "url": ""
+      }
+    }
+  ],
+  "events": [
+    {
+      "type": "point",
+      "label": "Invasion der Ukraine (2022)",
+      "date": "2022-01-01"
+    }
+  ],
+  "options": {
+    "annotations": {},
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "chartType": "Area",
+    "colorOverwritesRows": [],
+    "colorOverwritesSeries": [],
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "many",
+      "prognosisStart": null
+    },
+    "dotplotOptions": {},
+    "hideAxisLabel": true,
+    "highlightDataRows": [],
+    "highlightDataSeries": [],
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "createdDate": "2024-06-11T13:40:46.963Z",
+  "createdBy": "florian.seliger@nzz.ch",
+  "updatedDate": "2024-06-12T14:03:34.098Z",
+  "updatedBy": "florian.seliger@nzz.ch",
+  "activateDate": "2024-06-11T15:40:13.140Z"
+}

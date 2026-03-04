@@ -1,0 +1,150 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Gaëtan Bally / Keystone",
+      "firstTitle": "Hochschulen im Tief – die Bildungslobby kämpft um ihre Milliarden",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "U6W8ClqlRfRvjnAFo2WMJ",
+        "locale": "de-CH"
+      },
+      "title": "Hochschulen im Tief – die Bildungslobby muss um ihre Bundesmilliarden kämpfen",
+      "seoTitle": "Bundesrat muss sparen - Unis kämpfen um ihre Millionen ",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Fabian Schäfer (fab)",
+          "id": 1451881,
+          "shortName": "fab"
+        }
+      ],
+      "designName": "morpheus",
+      "nzzPrintTitle": "Hochschulen im Tief",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-04-23T03:19:59.863Z",
+      "department": {
+        "path": "/schweiz",
+        "premium": false,
+        "level": 1,
+        "name": "Schweiz"
+      },
+      "publicationDate": "2024-04-22T15:19:59.863Z",
+      "slug": "hochschulen-im-tief-die-bildungslobby-muss-um-ihre-milliarden-kaempfen",
+      "firstPublicationDate": "2024-04-22T15:19:59.863Z",
+      "nzzCharacterCount": 6501,
+      "owner": "NZZ",
+      "authorLine": "Fabian Schäfer, Bern",
+      "numberOfContentComponents": 21,
+      "germanyRelevant": true,
+      "leadText": "Der Spardruck ist so gross, dass der Bundesrat auch bei Forschung und Bildung bremsen will. Die ETH und die Universitäten leiden unter dem Ende der «Friedensdividende».",
+      "publicationLastUpdated": "2024-04-22T15:52:33.089Z",
+      "nzzArticleSnippet": "Der Spardruck ist so gross, dass der Bundesrat auch bei Forschung und Bildung bremsen will. Die ETH und die Universitäten leiden unter dem Ende der «Friedensdividende».",
+      "urlPath": "/schweiz/hochschulen-im-tief-die-bildungslobby-muss-um-ihre-milliarden-kaempfen-ld.1827361",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 4992,
+        "originalUrl": "https://img.nzz.ch/2024/01/10/5fff9fa2-7604-4570-b911-1f4464b094ff.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 4992,
+            "name": "16:9",
+            "y": 260,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/C=W4992,H2808,X0,Y260/O=75/https://img.nzz.ch/2024/01/10/5fff9fa2-7604-4570-b911-1f4464b094ff.jpeg",
+            "height": 2808,
+            "ratio": 1.77778
+          },
+          {
+            "x": 832,
+            "width": 3328,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/C=W3328,H3328,X832,Y0/O=75/https://img.nzz.ch/2024/01/10/5fff9fa2-7604-4570-b911-1f4464b094ff.jpeg",
+            "height": 3328,
+            "ratio": 1
+          },
+          {
+            "x": 277,
+            "width": 4437,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/C=W4437,H3328,X277,Y0/O=75/https://img.nzz.ch/2024/01/10/5fff9fa2-7604-4570-b911-1f4464b094ff.jpeg",
+            "height": 3328,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1248,
+            "width": 2496,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/C=W2496,H3328,X1248,Y0/O=75/https://img.nzz.ch/2024/01/10/5fff9fa2-7604-4570-b911-1f4464b094ff.jpeg",
+            "height": 3328,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "RjxJ0KjRuuRX",
+        "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/01/10/5fff9fa2-7604-4570-b911-1f4464b094ff.jpeg",
+        "height": 3328
+      },
+      "nzzId": "ld.1827361",
+      "url": "https://www.nzz.ch/schweiz/hochschulen-im-tief-die-bildungslobby-muss-um-ihre-milliarden-kaempfen-ld.1827361",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hs32q4jn1"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "estimationWordCount": 999,
+      "nzzPrintSubtitle": "Bildungslobby muss um Milliarden kämpfen - sie leidet unter dem Ende der \"Friedensdividende\"",
+      "embeds": {
+        "images": [
+          {
+            "author": "Gaëtan Bally / Keystone",
+            "caption": "Die Studierendenzahlen steigen stärker als die Bundesbeiträge (Vorlesung an der Hochschule St. Gallen).&nbsp;",
+            "origins": [
+              {
+                "identifier": "1897531691",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/01/10/5fff9fa2-7604-4570-b911-1f4464b094ff.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0819c8effbf081938ef522a3691e688b"
+          },
+          {
+            "id": "64d3df3ff8944eb8b41a1540ea9cc9a5"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/schweiz",
+          "name": "Schweiz"
+        }
+      ],
+      "teaserCaption": "Die Studierendenzahlen steigen stärker als die Bundesbeiträge (Vorlesung an der Hochschule St. Gallen).",
+      "documentId": "1827361",
+      "product": "NZZ.ch"
+    }
+  }
+]

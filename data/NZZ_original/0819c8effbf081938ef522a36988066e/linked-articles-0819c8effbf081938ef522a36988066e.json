@@ -1,0 +1,166 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "Imago",
+      "contentTypeGroup": "web",
+      "firstTitle": "China ist auf ausländische Lebensmittel angewiesen. Das macht die Staatsführung nervös",
+      "flag": "International View",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "bhVk39SLXaa1JlE8kFQhi",
+        "locale": "en-US"
+      },
+      "title": "China's growing dependence on food imports poses a major security risk",
+      "seoTitle": "China's risky dependence on food imports",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Katrin Büchenbacher (k.b.)",
+          "id": 1533538,
+          "shortName": "k.b.",
+          "proLitterisId": "885012"
+        }
+      ],
+      "designName": "morpheus",
+      "premium": false,
+      "seoSocialMediaTitle": "China's risky dependence on food imports",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-05-03T00:28:35.181Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Marco Kauffmann (kam)",
+          "id": 1372868,
+          "shortName": "kam"
+        }
+      ],
+      "department": {
+        "path": "/english",
+        "premium": false,
+        "level": 1,
+        "name": "NZZ in English"
+      },
+      "publicationDate": "2024-05-02T12:28:35.181Z",
+      "showComments": false,
+      "slug": "chinas-risky-dependence-on-food-imports",
+      "firstPublicationDate": "2024-05-02T12:28:35.181Z",
+      "owner": "NZZ",
+      "nzzCharacterCount": 6269,
+      "authorLine": "Katrin Büchenbacher",
+      "numberOfContentComponents": 26,
+      "seoDescription": "China’s agricultural sector is increasingly struggling to meet the demands of its large population. In the event of a military conflict, the country’s reliance on food imports could pose a serious security threat.",
+      "germanyRelevant": false,
+      "leadText": "For Xi Jinping, the population’s food security has top priority. China's dependence on food imports is growing, however. This could be a risk in the event of a military conflict.",
+      "publicationLastUpdated": "2024-05-02T12:28:35.181Z",
+      "nzzArticleSnippet": "For Xi Jinping, the population’s food security has top priority. China's dependence on food imports is growing, however. This could be a risk in the event of a military conflict.",
+      "urlPath": "/english/chinas-risky-dependence-on-food-imports-ld.1828616",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 4605,
+        "originalUrl": "https://img.nzz.ch/2024/04/24/0c1d0e48-1367-427c-ad93-d19bcbae567a.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 4605,
+            "name": "16:9",
+            "y": 316,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/24/0c1d0e48-1367-427c-ad93-d19bcbae567a.jpeg?crop=4605,2590,x0,y316&width=1024&quality=75&auto=webp",
+            "height": 2590,
+            "ratio": 1.77778
+          },
+          {
+            "x": 2652,
+            "width": 945,
+            "name": "1:1",
+            "y": 708,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/24/0c1d0e48-1367-427c-ad93-d19bcbae567a.jpeg?crop=945,945,x2652,y708&width=1024&quality=75&auto=webp",
+            "height": 945,
+            "ratio": 1
+          },
+          {
+            "x": 309,
+            "width": 4093,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/24/0c1d0e48-1367-427c-ad93-d19bcbae567a.jpeg?crop=4093,3070,x309,y0&width=1024&quality=75&auto=webp",
+            "height": 3070,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1727,
+            "width": 2303,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/24/0c1d0e48-1367-427c-ad93-d19bcbae567a.jpeg?crop=2303,3070,x1727,y0&width=1024&quality=75&auto=webp",
+            "height": 3070,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "j0S6R0qx-da7",
+        "url": "https://img.nzz.ch/2024/04/24/0c1d0e48-1367-427c-ad93-d19bcbae567a.jpeg?width=1024&quality=75&auto=webp",
+        "key": "2024/04/24/0c1d0e48-1367-427c-ad93-d19bcbae567a.jpeg",
+        "height": 3070
+      },
+      "nzzId": "ld.1828616",
+      "url": "https://www.nzz.ch/english/chinas-risky-dependence-on-food-imports-ld.1828616",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hs8cce001"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "estimationWordCount": 1081,
+      "embeds": {
+        "images": [
+          {
+            "author": "Imago",
+            "caption": "Rice plant seedlings on a conveyor belt: Ultramodern facilities like this are still rare in China. However, the state is pushing for their development.",
+            "origins": [
+              {
+                "identifier": "2154481830",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/04/24/0c1d0e48-1367-427c-ad93-d19bcbae567a.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0819c8effbf081938ef522a3698764f0"
+          },
+          {
+            "id": "0819c8effbf081938ef522a36987c57e"
+          },
+          {
+            "id": "0819c8effbf081938ef522a36988066e"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Rice plant seedlings on a conveyor belt: Ultramodern facilities like this are still rare in China. However, the state is pushing for their development.",
+      "breadcrumbs": [
+        {
+          "path": "/english",
+          "name": "NZZ in English"
+        }
+      ],
+      "documentId": "1828616",
+      "product": "NZZ.ch"
+    }
+  }
+]

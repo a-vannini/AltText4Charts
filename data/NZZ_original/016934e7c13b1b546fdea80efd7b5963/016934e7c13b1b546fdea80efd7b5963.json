@@ -1,0 +1,123 @@
+{
+  "_id": "016934e7c13b1b546fdea80efd7b5963",
+  "_rev": "13-90e25c4c477f70b05b7dec5be69f4f05",
+  "allowDownloadData": false,
+  "active": true,
+  "tool": "chart",
+  "title": "Mehrwertsteuer müsste mit der Mitte-Initiative auf 9,6 Prozent erhöht werden ",
+  "subtitle": "Normalsatz der Mehrwertsteuer (MWSt) in % ",
+  "department": "Visuals",
+  "publication": "nzz",
+  "acronym": "fab.",
+  "data": [
+    [
+      "Zeitpunkt",
+      "Normalsatz"
+    ],
+    [
+      "1995 ",
+      "6.5"
+    ],
+    [
+      "1999 ",
+      "7.5"
+    ],
+    [
+      "2001",
+      "7.6"
+    ],
+    [
+      "2018",
+      "7.7"
+    ],
+    [
+      "2024 ",
+      "8.1"
+    ],
+    [
+      "2027",
+      "8.8"
+    ],
+    [
+      "2030",
+      "9.6"
+    ]
+  ],
+  "sources": [],
+  "events": [
+    {
+      "type": "point",
+      "label": "Einführung der MWSt.",
+      "date": "1995"
+    },
+    {
+      "type": "point",
+      "label": "Erhöhung für die AHV.",
+      "date": "1999"
+    },
+    {
+      "type": "range",
+      "label": "Erhöhungen für die Bahn.",
+      "dateFrom": "2001",
+      "dateTo": "2018"
+    },
+    {
+      "type": "point",
+      "label": "Erneute Erhöhung für die AHV.",
+      "date": "2024"
+    },
+    {
+      "type": "point",
+      "label": "Bundesrat will die MWSt für die 13. AHV-Rente um 0,7 Punkte erhöhen.",
+      "date": "2027"
+    },
+    {
+      "type": "point",
+      "label": "Wird die Mitte-Initiative über die MWSt finanziert, ist eine Erhöhung um 0,8 Punkte nötig. Die Finanzierungslücken durch die Pensionierung der Babyboomer-Generation sind damit noch nicht behoben.",
+      "date": "2030"
+    }
+  ],
+  "options": {
+    "annotations": {
+      "valuesOnBars": true
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "chartType": "Bar",
+    "colorOverwritesRows": [],
+    "colorOverwritesSeries": [],
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "many",
+      "prognosisStart": 5
+    },
+    "dotplotOptions": {},
+    "hideAxisLabel": true,
+    "highlightDataRows": [],
+    "highlightDataSeries": [],
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "createdDate": "2025-03-07T09:20:11.231Z",
+  "createdBy": "fabian.schaefer@nzz.ch",
+  "updatedDate": "2025-03-07T15:02:27.485Z",
+  "updatedBy": "franziska.landolt@nzz.ch",
+  "notes": "Nicht abgebildet ist die befristete Erhöhung für die IV von 2011 bis 2017. "
+}

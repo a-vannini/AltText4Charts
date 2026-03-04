@@ -1,0 +1,215 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Annick Ramp / NZZ",
+      "firstTitle": "Steigt die Mehrwertsteuer bald auf 10 Prozent? Die AHV-Initiative der Mitte-Partei reisst neue Löcher",
+      "significantUpdate": true,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "GwJbLygDcyh_g1nf8n40q",
+        "locale": "de-CH"
+      },
+      "title": "Von wegen «Heiratsstrafe» bei der AHV – Ehepaare sind sogar noch stärker privilegiert als angenommen",
+      "seoTitle": "AHV-Initiative der Mitte: steigende Mehrwertsteuer zur Rentenfinanzierung?",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "pianoId": "e73eb238-bf36-457a-b61b-92c2b3e821a9",
+          "name": "Fabian Schäfer (fab)",
+          "id": 1451881,
+          "shortName": "fab"
+        }
+      ],
+      "designName": "morpheus",
+      "nzzPrintTitle": "«Ehebonus» in der AHV noch grösser als gemeint",
+      "seoSocialMediaTitle": "Steigt die Mehrwertsteuer auf 10 Prozent? AHV-Initiative der Mitte reisst neue Löcher",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2025-03-08T04:02:48.460Z",
+      "department": {
+        "path": "/schweiz",
+        "premium": false,
+        "level": 1,
+        "name": "Schweiz"
+      },
+      "publicationDate": "2025-03-07T16:02:48.460Z",
+      "slug": "steigt-die-mehrwertsteuer-bald-auf-10-prozent-die-ahv-initiative-der-mitte-partei-reisst-neue-loecher",
+      "firstPublicationDate": "2025-03-07T14:47:01.637Z",
+      "nzzCharacterCount": 6507,
+      "authorLine": "Fabian Schäfer, Bern",
+      "owner": "NZZ",
+      "numberOfContentComponents": 21,
+      "germanyRelevant": true,
+      "leadText": "Die Mitte-Partei fordert höhere Renten für Ehepaare. Neue Zahlen zeigen, dass Verheiratete schon heute im Vorteil sind – und dass die Mehrwertsteuer bald fast 10 Prozent betragen könnte.",
+      "publicationLastUpdated": "2025-03-07T18:11:43.066Z",
+      "nzzArticleSnippet": "Die Mitte-Partei fordert höhere Renten für Ehepaare. Neue Zahlen zeigen, dass Verheiratete schon heute im Vorteil sind – und dass die Mehrwertsteuer bald fast 10 Prozent betragen könnte.",
+      "urlPath": "/schweiz/steigt-die-mehrwertsteuer-bald-auf-10-prozent-die-ahv-initiative-der-mitte-partei-reisst-neue-loecher-ld.1874396",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 4928,
+        "originalUrl": "https://img.nzz.ch/2022/02/04/be4c591a-1ba6-4a26-ac7c-cd0494e59dc3.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 4928,
+            "name": "16:9",
+            "y": 348,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2022/02/04/be4c591a-1ba6-4a26-ac7c-cd0494e59dc3.jpeg?crop=4928,2772,x0,y348&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2022/02/04/be4c591a-1ba6-4a26-ac7c-cd0494e59dc3.jpeg?crop=4928,2772,x0,y348&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2022/02/04/be4c591a-1ba6-4a26-ac7c-cd0494e59dc3.jpeg?crop=4928,2772,x0,y348&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2022/02/04/be4c591a-1ba6-4a26-ac7c-cd0494e59dc3.jpeg?crop=4928,2772,x0,y348&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2022/02/04/be4c591a-1ba6-4a26-ac7c-cd0494e59dc3.jpeg?crop=4928,2772,x0,y348&width=1024&quality=75&auto=webp",
+            "height": 2772,
+            "ratio": 1.77778
+          },
+          {
+            "x": 1913,
+            "width": 1438,
+            "name": "1:1",
+            "y": 791,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2022/02/04/be4c591a-1ba6-4a26-ac7c-cd0494e59dc3.jpeg?crop=1438,1438,x1913,y791&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2022/02/04/be4c591a-1ba6-4a26-ac7c-cd0494e59dc3.jpeg?crop=1438,1438,x1913,y791&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2022/02/04/be4c591a-1ba6-4a26-ac7c-cd0494e59dc3.jpeg?crop=1438,1438,x1913,y791&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2022/02/04/be4c591a-1ba6-4a26-ac7c-cd0494e59dc3.jpeg?crop=1438,1438,x1913,y791&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2022/02/04/be4c591a-1ba6-4a26-ac7c-cd0494e59dc3.jpeg?crop=1438,1438,x1913,y791&width=1024&quality=75&auto=webp",
+            "height": 1438,
+            "ratio": 1
+          },
+          {
+            "x": 555,
+            "width": 4373,
+            "name": "4:3",
+            "y": 0,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2022/02/04/be4c591a-1ba6-4a26-ac7c-cd0494e59dc3.jpeg?crop=4373,3280,x555,y0&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2022/02/04/be4c591a-1ba6-4a26-ac7c-cd0494e59dc3.jpeg?crop=4373,3280,x555,y0&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2022/02/04/be4c591a-1ba6-4a26-ac7c-cd0494e59dc3.jpeg?crop=4373,3280,x555,y0&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2022/02/04/be4c591a-1ba6-4a26-ac7c-cd0494e59dc3.jpeg?crop=4373,3280,x555,y0&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2022/02/04/be4c591a-1ba6-4a26-ac7c-cd0494e59dc3.jpeg?crop=4373,3280,x555,y0&width=1024&quality=75&auto=webp",
+            "height": 3280,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1622,
+            "width": 1944,
+            "name": "3:4",
+            "y": 688,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2022/02/04/be4c591a-1ba6-4a26-ac7c-cd0494e59dc3.jpeg?crop=1944,2592,x1622,y688&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2022/02/04/be4c591a-1ba6-4a26-ac7c-cd0494e59dc3.jpeg?crop=1944,2592,x1622,y688&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2022/02/04/be4c591a-1ba6-4a26-ac7c-cd0494e59dc3.jpeg?crop=1944,2592,x1622,y688&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2022/02/04/be4c591a-1ba6-4a26-ac7c-cd0494e59dc3.jpeg?crop=1944,2592,x1622,y688&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2022/02/04/be4c591a-1ba6-4a26-ac7c-cd0494e59dc3.jpeg?crop=1944,2592,x1622,y688&width=1024&quality=75&auto=webp",
+            "height": 2592,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "08EaYi23lJ3f",
+        "key": "2022/02/04/be4c591a-1ba6-4a26-ac7c-cd0494e59dc3.jpeg",
+        "url": "https://img.nzz.ch/2022/02/04/be4c591a-1ba6-4a26-ac7c-cd0494e59dc3.jpeg?width=1024&quality=75&auto=webp",
+        "height": 3280
+      },
+      "nzzId": "ld.1874396",
+      "url": "https://www.nzz.ch/schweiz/steigt-die-mehrwertsteuer-bald-auf-10-prozent-die-ahv-initiative-der-mitte-partei-reisst-neue-loecher-ld.1874396",
+      "dependencies": {},
+      "layout": "regular",
+      "estimationWordCount": 978,
+      "nzzPrintSubtitle": "Von einer \"Heiratsstrafe\" kann keine Rede sein - und mit der Mitte-Initiative könnte die Mehrwertsteuer bald 10 Prozent betragen",
+      "embeds": {
+        "images": [
+          {
+            "author": "Annick Ramp / NZZ",
+            "caption": "Die Ehe ist trotz vermeintlichen und echten&nbsp;«Heiratsstrafen» immer noch hoch im Kurs.",
+            "origins": [
+              {
+                "identifier": "22517483",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2022/02/04/be4c591a-1ba6-4a26-ac7c-cd0494e59dc3.jpeg?width=1024&quality=75&auto=webp"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "016934e7c13b1b546fdea80efd7b5963"
+          },
+          {
+            "id": "331572324702ef8e788e86b6bd938b2e"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/schweiz",
+          "name": "Schweiz"
+        }
+      ],
+      "teaserCaption": "Die Ehe ist trotz vermeintlichen und echten «Heiratsstrafen» immer noch hoch im Kurs.",
+      "documentId": "1874396",
+      "product": "NZZ.ch"
+    }
+  }
+]

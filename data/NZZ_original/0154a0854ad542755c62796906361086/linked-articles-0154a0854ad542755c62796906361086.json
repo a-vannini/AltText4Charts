@@ -1,0 +1,186 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "Kevin Frayer / Getty",
+      "contentTypeGroup": "web",
+      "flag": "Kommentar",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "ds2XGsPSJ1Wm",
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Xi Jinping will Studenten aufs Land schicken. Das weckt böse Erinnerungen und zeigt, wie tief Chinas Jugend in der Krise steckt",
+      "seoTitle": "China: Xi Jinping will die jungen Leute aufs Land schicken",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Katrin Büchenbacher (k.b.)",
+          "id": 1533538,
+          "shortName": "k.b."
+        }
+      ],
+      "designName": "morpheus",
+      "nzzPrintTitle": "Xi Jinping fürchtet die Jugend",
+      "premium": false,
+      "significantUpdateTill": "2023-05-12T18:58:22.097Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Peter Rásonyi (pra)",
+          "id": 1373452,
+          "shortName": "pra"
+        }
+      ],
+      "department": {
+        "path": "/meinung",
+        "premium": false,
+        "level": 1,
+        "name": "Meinung"
+      },
+      "publicationDate": "2023-05-17T03:30:00.000Z",
+      "slug": "china-xi-jinping-will-die-jungen-leute-aufs-land-schicken",
+      "showComments": true,
+      "firstPublicationDate": "2023-05-12T06:58:22.097Z",
+      "authorLine": "Katrin Büchenbacher",
+      "owner": "NZZ",
+      "nzzCharacterCount": 9484,
+      "numberOfContentComponents": 29,
+      "germanyRelevant": true,
+      "leadText": "Unter den jungen, gebildeten Chinesen hat sich eine No-Future-Stimmung ausgebreitet. Das ist gefährlich für Xi Jinping.",
+      "publicationLastUpdated": "2023-05-17T21:15:36.586Z",
+      "nzzArticleSnippet": "Unter den jungen, gebildeten Chinesen hat sich eine No-Future-Stimmung ausgebreitet. Das ist gefährlich für Xi Jinping.",
+      "urlPath": "/meinung/china-xi-jinping-will-die-jungen-leute-aufs-land-schicken-ld.1737523",
+      "nzzId": "ld.1737523",
+      "url": "https://www.nzz.ch/meinung/china-xi-jinping-will-die-jungen-leute-aufs-land-schicken-ld.1737523",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 5760,
+        "originalUrl": "https://img.nzz.ch/2023/03/16/3b162ea4-4075-40f3-80fb-a89412030706.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 2919,
+            "width": 2841,
+            "name": "16:9",
+            "y": 1446,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W2841,H1598,X2919,Y1446/O=75/https://img.nzz.ch/2023/03/16/3b162ea4-4075-40f3-80fb-a89412030706.jpeg",
+            "height": 1598,
+            "ratio": 1.77778
+          },
+          {
+            "x": 3276,
+            "width": 1894,
+            "name": "1:1",
+            "y": 1324,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W1894,H1894,X3276,Y1324/O=75/https://img.nzz.ch/2023/03/16/3b162ea4-4075-40f3-80fb-a89412030706.jpeg",
+            "height": 1894,
+            "ratio": 1
+          },
+          {
+            "x": 640,
+            "width": 5120,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W5120,H3840,X640,Y0/O=75/https://img.nzz.ch/2023/03/16/3b162ea4-4075-40f3-80fb-a89412030706.jpeg",
+            "height": 3840,
+            "ratio": 1.33333
+          },
+          {
+            "x": 2880,
+            "width": 2880,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W2880,H3840,X2880,Y0/O=75/https://img.nzz.ch/2023/03/16/3b162ea4-4075-40f3-80fb-a89412030706.jpeg",
+            "height": 3840,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "seaWJSb5LOiL",
+        "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2023/03/16/3b162ea4-4075-40f3-80fb-a89412030706.jpeg",
+        "height": 3840
+      },
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1h0i67hv80",
+              "doc-1h0i8scmh1"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "opinion",
+      "estimationWordCount": 1476,
+      "nzzPrintSubtitle": "Chinas Kommunisten wollen Studenten aufs Land schicken. Das weckt böse Erinnerungen",
+      "embeds": {
+        "images": [
+          {
+            "author": "Kevin Frayer / Getty",
+            "caption": "«Wir sind die letzte Generation»: Die Jungen in China sind unter Druck. Sie müssen sich gegen Hunderttausende auf dem Arbeitsmarkt&nbsp;durchsetzen. Immer mehr gehen leer aus. Jeder fünfte 16-24-Jährige ist arbeitslos.",
+            "origins": [
+              {
+                "identifier": "2142179808",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/C=W5120,H3413,X640,Y235/O=75/https://img.nzz.ch/2023/03/16/3b162ea4-4075-40f3-80fb-a89412030706.jpeg"
+          },
+          {
+            "author": "Kevin Frayer / Getty",
+            "caption": "Mit leeren, weissen Papieren demonstrierten sie im November gegen das Covid-Regime von Xi Jinping: genau jene jungen, gebildeten Leute, die die Regierung aufs Land verbannen will.",
+            "origins": [
+              {
+                "identifier": "2137820194",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2022/11/28/6749a06c-e142-4209-a919-b4ea26dd8eb5.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "1e12e6513c41607fe8d1fe19d3b54502"
+          },
+          {
+            "id": "1e12e6513c41607fe8d1fe19d3b89b10"
+          },
+          {
+            "id": "0154a0854ad542755c62796906361086"
+          },
+          {
+            "id": "a1260c4629a8c0387b9d8d15634d6ee8"
+          }
+        ],
+        "videos": [
+          {
+            "provider": "jw",
+            "id": "iWURFdzO",
+            "teaser": false,
+            "duration": 367,
+            "sources": []
+          }
+        ]
+      },
+      "breadcrumbs": [
+        {
+          "path": "/meinung",
+          "name": "Meinung"
+        }
+      ],
+      "teaserCaption": "«Wir sind die letzte Generation»: Die Jungen in China sind unter Druck. Sie müssen sich gegen Hunderttausende auf dem Arbeitsmarkt durchsetzen. Immer mehr gehen leer aus. Jeder fünfte 16-24-Jährige ist arbeitslos.",
+      "documentId": "1737523",
+      "product": "NZZ.ch"
+    }
+  }
+]

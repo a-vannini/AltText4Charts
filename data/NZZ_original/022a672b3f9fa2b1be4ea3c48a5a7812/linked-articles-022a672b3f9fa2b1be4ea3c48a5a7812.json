@@ -1,0 +1,114 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Laut einer Studie sind 85 Prozent aller Handfeuerwaffen in Privatbesitz",
+      "nzzAuthors": [
+        {
+          "name": "Deutsche Presse-Agentur (DPA)",
+          "id": 1394236
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2018-06-19T19:19:50.965Z",
+      "department": {
+        "path": "/international",
+        "level": 1,
+        "name": "International"
+      },
+      "publicationDate": "2018-06-19T07:19:50.965Z",
+      "slug": "laut-einer-studie-sind-85-prozent-aller-handfeuerwaffen-in-privatbesitz",
+      "firstPublicationDate": "2018-06-19T07:19:50.965Z",
+      "nzzCharacterCount": 1646,
+      "numberOfContentComponents": 10,
+      "leadText": "Weltweit sind über eine Milliarde Handfeuerwaffen im Umlauf. Nur etwa 100 Millionen der Waffen von Zivilisten sind registriert.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2018-06-19T08:56:08.919Z",
+      "urlPath": "/international/laut-einer-studie-sind-85-prozent-aller-handfeuerwaffen-in-privatbesitz-ld.1396039",
+      "nzzId": "ld.1396039",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 5616,
+        "originalUrl": "https://nzz-img.s3.amazonaws.com/2018/6/19/d603e4aa-6341-46df-85b8-7cb2e25670fd.jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 0,
+            "width": 5616,
+            "y": 78,
+            "url": "https://img.nzz.ch/C=W5616,H3159,X0,Y78/O=75/https://nzz-img.s3.amazonaws.com/2018/6/19/d603e4aa-6341-46df-85b8-7cb2e25670fd.jpeg",
+            "height": 3159
+          },
+          {
+            "name": "1:1",
+            "x": 707,
+            "width": 3744,
+            "y": 0,
+            "url": "https://img.nzz.ch/C=W3744,H3744,X707,Y0/O=75/https://nzz-img.s3.amazonaws.com/2018/6/19/d603e4aa-6341-46df-85b8-7cb2e25670fd.jpeg",
+            "height": 3744
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2018/6/19/d603e4aa-6341-46df-85b8-7cb2e25670fd.jpeg",
+        "height": 3744
+      },
+      "url": "https://www.nzz.ch/international/laut-einer-studie-sind-85-prozent-aller-handfeuerwaffen-in-privatbesitz-ld.1396039",
+      "dependencies": {
+        "js": [
+          {
+            "code": "window.twttr = (function (d, s, id) {\n  var t, js, fjs = d.getElementsByTagName(s)[0];\n  if (d.getElementById(id)) return;\n  js = d.createElement(s); js.id = id;\n  js.src= \"https://platform.twitter.com/widgets.js\";\n  fjs.parentNode.insertBefore(js, fjs);\n  return window.twttr || (t = { _e: [], ready: function (f) { t._e.push(f) } });\n}(document, \"script\", \"twitter-wjs\"));\nwindow.twttr.ready(function(twttr){\n  twttr.widgets.load();\n});",
+            "inline": true,
+            "componentIds": [
+              "doc-1cgbd4ui10"
+            ],
+            "namespace": "embeds.twitter"
+          },
+          {
+            "componentIds": [
+              "doc-1cgbduan20"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "embeds": {
+        "images": [
+          {
+            "caption": "Eine Ordonnanzpistole 75 der Schweizer Armee, Modell SIG P220, und eine Handvoll 9mm-Pistolenpatronen. (Bild: Martin Ruetschi/Keystone)<br>",
+            "origins": [
+              {
+                "identifier": "picture-1967051220",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2018/6/19/d603e4aa-6341-46df-85b8-7cb2e25670fd.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "2a4fbba7040add3138eeca990edd2b42"
+          },
+          {
+            "id": "022a672b3f9fa2b1be4ea3c48a5a7812"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Eine Ordonnanzpistole 75 der Schweizer Armee, Modell SIG P220, und eine Handvoll 9mm-Pistolenpatronen. (Bild: Martin Ruetschi/Keystone)",
+      "breadcrumbs": [
+        {
+          "path": "/international",
+          "name": "International"
+        }
+      ],
+      "documentId": "1396039",
+      "product": "NZZ.ch"
+    }
+  }
+]

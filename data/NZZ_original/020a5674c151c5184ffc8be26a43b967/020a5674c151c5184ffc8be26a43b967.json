@@ -1,0 +1,104 @@
+{
+  "_id": "020a5674c151c5184ffc8be26a43b967",
+  "_rev": "59-3086c4e3764b33a42b9fa70a078f81eb",
+  "department": "Sport",
+  "publication": "nzz",
+  "acronym": "bir.",
+  "data": [
+    [
+      "Saison",
+      "Löhne"
+    ],
+    [
+      "2010/11",
+      "71"
+    ],
+    [
+      "2011/12",
+      "123"
+    ],
+    [
+      "2012/13",
+      "224"
+    ],
+    [
+      "2013/14",
+      "249"
+    ],
+    [
+      "2014/15",
+      "252"
+    ],
+    [
+      "2015/16",
+      "263"
+    ],
+    [
+      "2016/17",
+      "271"
+    ],
+    [
+      "2017/18",
+      "327"
+    ],
+    [
+      "2018/19",
+      "369"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {},
+      "text": "Harvard Business School"
+    }
+  ],
+  "options": {
+    "chartType": "Line",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {
+      "first": true,
+      "max": true
+    },
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "title": "PSG-Lohnsumme steigt stark",
+  "subtitle": "in Millionen Euro",
+  "notes": "",
+  "createdDate": "2021-04-29T07:29:45.298Z",
+  "createdBy": "peter.birrer@nzz.ch",
+  "updatedDate": "2021-04-29T12:42:54.247Z",
+  "updatedBy": "christof.krapf@nzz.ch",
+  "active": true,
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/020a5674c151c5184ffc8be26a43b967-thumbnail.jpeg"
+}

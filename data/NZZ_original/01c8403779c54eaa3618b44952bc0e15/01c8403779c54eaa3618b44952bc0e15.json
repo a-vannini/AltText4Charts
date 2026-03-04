@@ -1,0 +1,109 @@
+{
+  "_id": "01c8403779c54eaa3618b44952bc0e15",
+  "_rev": "37-c4775426429c054e8aa79d460876a2d7",
+  "department": "Schweiz",
+  "publication": "nzz",
+  "acronym": "ase.",
+  "data": [
+    [
+      "Stadt",
+      "2017",
+      "2018"
+    ],
+    [
+      "Biel",
+      "2.07",
+      "2.43"
+    ],
+    [
+      "St. Gallen",
+      "1.78",
+      "2.32"
+    ],
+    [
+      "Lugano",
+      "1.25",
+      "2.21"
+    ],
+    [
+      "Luzern",
+      "1.03",
+      "1.02"
+    ],
+    [
+      "Winterthur",
+      "0.66",
+      "0.56"
+    ],
+    [
+      "Genf",
+      "0.57",
+      "0.62"
+    ],
+    [
+      "Bern",
+      "0.56",
+      "0.44"
+    ],
+    [
+      "Basel",
+      "0.47",
+      "0.7"
+    ],
+    [
+      "Lausanne",
+      "0.38",
+      "0.68"
+    ],
+    [
+      "Zürich",
+      "0.21",
+      "0.2"
+    ],
+    [
+      "Gesamte Schweiz",
+      "1.45",
+      "1.62"
+    ]
+  ],
+  "allowDownloadData": false,
+  "sources": [
+    {
+      "link": {},
+      "text": "Bundesamt für Statistik"
+    }
+  ],
+  "options": {
+    "chartType": "Arrow",
+    "hideAxisLabel": false,
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "year",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0
+    },
+    "highlightDataSeries": [],
+    "colorOverwritesSeries": []
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "In vielen Städten entspannt sich die Lage",
+  "subtitle": "Leerwohnungsziffer in grossen Schweizer Städten, in Prozent",
+  "createdDate": "2019-06-25T12:58:42.903Z",
+  "createdBy": "erich.aschwanden@nzz.ch",
+  "updatedDate": "2019-07-01T09:14:58.933Z",
+  "updatedBy": "david.bauer@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/01c8403779c54eaa3618b44952bc0e15-thumbnail.jpeg"
+}

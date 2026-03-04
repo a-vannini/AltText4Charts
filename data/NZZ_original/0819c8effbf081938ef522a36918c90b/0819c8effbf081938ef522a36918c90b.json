@@ -1,0 +1,104 @@
+{
+  "_id": "0819c8effbf081938ef522a36918c90b",
+  "_rev": "4-cb2f7d192ef41758963719d34d70cded",
+  "title": "Kopie von  Kopie von  Switzerland pays the best AI salaries outside the US",
+  "tool": "chart",
+  "department": "default",
+  "publication": "nzz",
+  "data": [
+    [
+      "Country",
+      "Median Salary"
+    ],
+    [
+      "USA",
+      "251000"
+    ],
+    [
+      "Switzerland",
+      "197026"
+    ],
+    [
+      "Israel",
+      "155360"
+    ],
+    [
+      "Great Britain",
+      "141781"
+    ],
+    [
+      "Canada",
+      "112845"
+    ],
+    [
+      "Singapore",
+      "107314"
+    ],
+    [
+      "Australia",
+      "103073"
+    ],
+    [
+      "Germany",
+      "93262"
+    ],
+    [
+      "Ireland",
+      "93056"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {},
+      "text": "Levels.fyi"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {
+      "valuesOnBars": true
+    },
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 1
+    }
+  },
+  "subtitle": "Total remuneration including share options and salary for a software engineer specializing in AI, in dollars, April 2023 to April 2024",
+  "notes": "Source: Levels.fyi",
+  "createdDate": "2024-04-21T15:16:54.361Z",
+  "createdBy": "eliza.rozeboom@lieferanten.nzz.ch",
+  "updatedDate": "2024-04-21T15:17:13.222Z",
+  "updatedBy": "eliza.rozeboom@lieferanten.nzz.ch",
+  "active": true,
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/0819c8effbf081938ef522a36918c90b-thumbnail.jpeg"
+}

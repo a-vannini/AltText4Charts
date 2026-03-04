@@ -1,0 +1,159 @@
+{
+  "_id": "08e996c76bf1a7d4bec453e674c29e14",
+  "_rev": "5-ec1eaaad29db5ead98936ca413b1e393",
+  "allowDownloadData": false,
+  "active": true,
+  "tool": "chart",
+  "title": "Zug zahlt erstmals mehr als Zürich",
+  "subtitle": "Einzahlungen in den nationalen Finanzausgleich, in Millionen Franken",
+  "department": "Visuals",
+  "publication": "nzz",
+  "acronym": "fab.",
+  "data": [
+    [
+      "Jahr",
+      "Zürich",
+      "Zug"
+    ],
+    [
+      "2008",
+      "434822830",
+      "178889303"
+    ],
+    [
+      "2009",
+      "525766128",
+      "194000487"
+    ],
+    [
+      "2010",
+      "552201054",
+      "217302415"
+    ],
+    [
+      "2011",
+      "490823328",
+      "239644679"
+    ],
+    [
+      "2012",
+      "432568822",
+      "263363104"
+    ],
+    [
+      "2013",
+      "377936263",
+      "275216836"
+    ],
+    [
+      "2014",
+      "367281754",
+      "279484127"
+    ],
+    [
+      "2015",
+      "417027652",
+      "316613373"
+    ],
+    [
+      "2016",
+      "441822164",
+      "326184287"
+    ],
+    [
+      "2017",
+      "444050341",
+      "341341600"
+    ],
+    [
+      "2018",
+      "461560668",
+      "312771035"
+    ],
+    [
+      "2019",
+      "487175525",
+      "329429814"
+    ],
+    [
+      "2020",
+      "516940574",
+      "329718209"
+    ],
+    [
+      "2021",
+      "499654330",
+      "331887194"
+    ],
+    [
+      "2022",
+      "492501026",
+      "327760069"
+    ],
+    [
+      "2023",
+      "497163977",
+      "365944443"
+    ],
+    [
+      "2024",
+      "462177231",
+      "382917531"
+    ],
+    [
+      "2025",
+      "419261183",
+      "431067845"
+    ]
+  ],
+  "sources": [
+    {
+      "text": "Eidg. Finanzverwaltung ",
+      "link": {
+        "url": "https://www.efv.admin.ch/efv/de/home/aktuell/brennpunkt/finanzausgleich-2025.html"
+      }
+    }
+  ],
+  "events": [],
+  "options": {
+    "annotations": {},
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "chartType": "Line",
+    "colorOverwritesRows": [],
+    "colorOverwritesSeries": [],
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "dotplotOptions": {},
+    "hideAxisLabel": true,
+    "highlightDataRows": [],
+    "highlightDataSeries": [],
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "largeNumbers": {
+      "divideBy": 1000000
+    }
+  },
+  "createdDate": "2024-06-11T09:21:39.009Z",
+  "createdBy": "fabian.schaefer@nzz.ch",
+  "updatedDate": "2024-10-11T13:31:50.014Z",
+  "updatedBy": "armin.kaelin@nzz.ch",
+  "notes": "Nettozahlen (d. h. Abgaben an andere Kantone minus Einnahmen aus Lastenausgleich) "
+}

@@ -1,0 +1,158 @@
+{
+  "_id": "01e843ba181f97facd55faf6789b906a",
+  "_rev": "58-d208bfe46ecc60a493304146fb7e431c",
+  "department": "Visuals",
+  "publication": "nzz",
+  "acronym": "naw.",
+  "data": [
+    [
+      "Datum",
+      "Niederschlagsmenge"
+    ],
+    [
+      "2000-05",
+      "186.6"
+    ],
+    [
+      "2001-05",
+      "246"
+    ],
+    [
+      "2002-05",
+      "250.4"
+    ],
+    [
+      "2003-05",
+      "169.8"
+    ],
+    [
+      "2004-05",
+      "217.9"
+    ],
+    [
+      "2005-05",
+      "258.8"
+    ],
+    [
+      "2006-05",
+      "340.8"
+    ],
+    [
+      "2007-05",
+      "127.3"
+    ],
+    [
+      "2008-05",
+      "251"
+    ],
+    [
+      "2009-05",
+      "108"
+    ],
+    [
+      "2010-05",
+      "173.8"
+    ],
+    [
+      "2011-05",
+      "113.6"
+    ],
+    [
+      "2012-05",
+      "169.8"
+    ],
+    [
+      "2013-05",
+      "286.9"
+    ],
+    [
+      "2014-05",
+      "203.9"
+    ],
+    [
+      "2015-05",
+      "306.4"
+    ],
+    [
+      "2016-05",
+      "297.3"
+    ],
+    [
+      "2017-05",
+      "192.7"
+    ],
+    [
+      "2018-05",
+      "119.4"
+    ],
+    [
+      "2019-05",
+      "199.3"
+    ],
+    [
+      "2020-05",
+      "113.6"
+    ],
+    [
+      "2021-05",
+      "130.8"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {
+        "url": "https://www.meteoschweiz.admin.ch/product/output/climate-data/homogenous-monthly-data-processing/data/homog_mo_SMA.txt",
+        "isValid": true
+      },
+      "text": "Meteo Schweiz"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [
+      21
+    ],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "Bisher regnete es dieses Jahr in Zürich vergleichsweise wenig, doch es folgen weitere Regentage",
+  "subtitle": "Niederschlagsmenge im April und Mai an der Messstation Zürich Fluntern, in Millimeter, pro Jahr",
+  "notes": "Die Niederschlagsmenge für Mai 2021 umfasst die Tage vom 1. bis 19. Mai.",
+  "createdDate": "2021-05-20T13:35:25.715Z",
+  "createdBy": "natalie.wenger@nzz.ch",
+  "updatedDate": "2021-05-20T14:46:57.464Z",
+  "updatedBy": "lena.frische@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/01e843ba181f97facd55faf6789b906a-thumbnail.jpeg"
+}

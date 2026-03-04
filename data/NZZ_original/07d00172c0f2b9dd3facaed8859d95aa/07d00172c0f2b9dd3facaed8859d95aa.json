@@ -1,0 +1,95 @@
+{
+  "_id": "07d00172c0f2b9dd3facaed8859d95aa",
+  "_rev": "32-f572389043c508c11c0540dbcbc89ec7",
+  "department": "Wirtschaft",
+  "publication": "nzz",
+  "acronym": "mbe.",
+  "data": [
+    [
+      null,
+      null
+    ],
+    [
+      "Wirtschaft",
+      "5064"
+    ],
+    [
+      "Börse (inkl. Reflexe)",
+      "654"
+    ],
+    [
+      "Frontseite",
+      "221"
+    ],
+    [
+      "Meinung & Debatte",
+      "136"
+    ],
+    [
+      "International",
+      "75"
+    ],
+    [
+      "Schweiz",
+      "38"
+    ],
+    [
+      "Anderes (Beilagen, Panorama, Feuilleton, Sport...)",
+      "119"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {},
+      "text": "NZZ Archiv"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {
+      "valuesOnBars": true
+    },
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "title": "Die Eisenring-Produktion",
+  "subtitle": "Anzahl Print-Artikel nach Ressort/Rubrik",
+  "createdDate": "2024-05-22T15:25:15.076Z",
+  "createdBy": "matthias.benz@nzz.ch",
+  "updatedDate": "2024-05-24T12:03:45.046Z",
+  "updatedBy": "matthias.benz@nzz.ch",
+  "active": true
+}

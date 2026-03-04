@@ -1,0 +1,85 @@
+{
+  "_id": "07d00172c0f2b9dd3facaed8858c95c6",
+  "_rev": "23-2a421a570acd061f1523a41c80da399c",
+  "data": [
+    [
+      null,
+      null
+    ],
+    [
+      "1. Schweiz",
+      "102839"
+    ],
+    [
+      "2. USA",
+      "92378"
+    ],
+    [
+      "3. Israel",
+      "76500"
+    ],
+    [
+      "24. China",
+      "36574"
+    ],
+    [
+      "26. Japan",
+      "36061"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {},
+      "text": "Human Resocia"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": false,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "department": "default",
+  "publication": "nzz",
+  "acronym": "koe.",
+  "active": true,
+  "title": "Einkommen von IT-Ingenieuren im globalen Vergleich (in US-Dollar)",
+  "createdDate": "2024-05-22T12:37:40.594Z",
+  "createdBy": "martin.koelling@nzz.ch",
+  "updatedDate": "2024-05-24T16:12:18.699Z",
+  "updatedBy": "carmen.graf@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/07d00172c0f2b9dd3facaed8858c95c6-thumbnail.jpeg"
+}

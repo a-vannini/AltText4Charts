@@ -1,0 +1,56 @@
+{
+  "_id": "005e2925d4b679defb5afa4daef05ee5",
+  "_rev": "11-7956dbf4b9c359235c61397f6cb9b7ef",
+  "annotations": "",
+  "title": "59,1 % der Italiener sagen «Nein» zur Verfassungsreform",
+  "tool": "chart",
+  "data": [
+    [
+      "",
+      "Ergebnis der Volksabstimmung in Prozent"
+    ],
+    [
+      "Ja",
+      "40.9"
+    ],
+    [
+      "Nein",
+      "59.1"
+    ]
+  ],
+  "options": {
+    "chartType": "Bar",
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": true
+    },
+    "lineChartOptions": {
+      "isStockChart": false
+    },
+    "dateSeriesOptions": {},
+    "highlightDataSeries": [],
+    "annotations": {
+      "first": false
+    }
+  },
+  "sources": [
+    {
+      "text": "RAI News",
+      "link": {
+        "url": "http://www.rainews.it/",
+        "isValid": true
+      }
+    }
+  ],
+  "createdDate": "2016-12-05T08:34:30.606Z",
+  "createdBy": "alexandra.kohler@nzz.ch",
+  "department": "Visuals",
+  "active": true,
+  "activateDate": "2016-12-05T08:47:24.894Z",
+  "notes": "",
+  "subtitle": "Ergebnis der Volksabstimmung in Prozent",
+  "updatedBy": "alexandra.kohler@nzz.ch",
+  "publication": "nzz",
+  "updatedDate": "2016-12-05T08:34:30.606Z",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/005e2925d4b679defb5afa4daef05ee5-thumbnail.jpeg"
+}

@@ -1,0 +1,257 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Wachstumsmotor oder Lärmmaschine? 18 Antworten zum Zürcher Flughafen",
+      "seoTitle": "Flughafen Zürich: Lärmschutz, Sicherheit und Wachstum in Kloten",
+      "nzzAuthors": [
+        {
+          "name": "Michael von Ledebur (mvl)",
+          "id": 1373270
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2018-06-27T03:20:10.887Z",
+      "department": {
+        "path": "/zuerich",
+        "level": 1,
+        "name": "Zürich"
+      },
+      "publicationDate": "2018-12-07T10:50:00.000Z",
+      "slug": "flughafen-zuerich-laermschutz-sicherheit-und-wachstum-in-kloten",
+      "firstPublicationDate": "2018-06-26T15:20:10.887Z",
+      "nzzCharacterCount": 36920,
+      "authorLine": "Michael von Ledebur",
+      "numberOfContentComponents": 119,
+      "bestBeforeDate": "2018-08-03T14:17:20.270Z",
+      "leadText": "Der Flughafen Zürich ist das Tor zur Welt – und stets im Spannungsfeld zwischen Wachstum, Lärmschutz und Sicherheit. Die wichtigsten Fragen und Antworten in der Übersicht.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2019-12-06T15:37:37.283Z",
+      "nzzArticleSnippet": "Der Flughafen Zürich ist das Tor zur Welt – und stets im Spannungsfeld zwischen Wachstum, Lärmschutz und Sicherheit. Die wichtigsten Fragen und Antworten in der Übersicht.",
+      "urlPath": "/zuerich/flughafen-zuerich-laermschutz-sicherheit-und-wachstum-in-kloten-ld.1360624",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 3032,
+        "originalUrl": "https://nzz-img.s3.amazonaws.com/2018/6/12/695182a4-3864-431c-a39b-944b0a9c2538.jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 0,
+            "width": 3032,
+            "y": 112,
+            "url": "https://img.nzz.ch/C=W3032,H1706,X0,Y112/O=75/https://nzz-img.s3.amazonaws.com/2018/6/12/695182a4-3864-431c-a39b-944b0a9c2538.jpeg",
+            "height": 1706
+          },
+          {
+            "name": "1:1",
+            "x": 552,
+            "width": 1929,
+            "y": 0,
+            "url": "https://img.nzz.ch/C=W1929,H1929,X552,Y0/O=75/https://nzz-img.s3.amazonaws.com/2018/6/12/695182a4-3864-431c-a39b-944b0a9c2538.jpeg",
+            "height": 1929
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2018/6/12/695182a4-3864-431c-a39b-944b0a9c2538.jpeg",
+        "height": 1929
+      },
+      "nzzId": "ld.1360624",
+      "url": "https://www.nzz.ch/zuerich/flughafen-zuerich-laermschutz-sicherheit-und-wachstum-in-kloten-ld.1360624",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1c7jnm2720",
+              "doc-1cfq0jjvc0",
+              "doc-1cfq0o1v10",
+              "doc-1cfq0h74j0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "longformstandard",
+      "embeds": {
+        "images": [
+          {
+            "caption": "Startende Flugzeuge in Kloten, aufgenommen mit Langzeitbelichtung: Die Flugrouten gleichen einem Wollknäuel. (Bild: Alessandro Della Bella / Keystone)",
+            "origins": [
+              {
+                "identifier": "picture-23338611",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/http://nzz-img.s3.amazonaws.com/2018/3/2/8b622bed-23c8-498d-8d5b-6d7e4103f3fe.jpeg"
+          },
+          {
+            "caption": "Wo er landen will, entscheidet immer der Pilot. In Zürich führt dies bisweilen zu einem Südanflug. (Bild:&nbsp;Karin Hofer / NZZ)<br><br>",
+            "origins": [
+              {
+                "identifier": "picture-1891486448",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2018/6/12/10f3a6ff-2959-4df7-9ba5-ba43fc00cebf.jpeg"
+          },
+          {
+            "caption": "Flugzeug über Kloten: Fluglärm gehört zum Alltag der Anrainergemeinden. (Bild: Christian Mathis / NZZ)",
+            "origins": [
+              {
+                "identifier": "picture-20407206",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2018/6/12/695182a4-3864-431c-a39b-944b0a9c2538.jpeg"
+          },
+          {
+            "caption": "Ein Swiss-Flugzeug der neuen C-Series der kanadischen Firma Bombardier. Es steht für den Trend hin zu leiseren Maschinen, die die Lärmbelastung reduzieren sollen.&nbsp;(Bild: Goran Basic / NZZ)",
+            "origins": [
+              {
+                "identifier": "picture-26670902",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2018/6/12/be9670ba-931a-41c0-a350-de6599fdfdba.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0541c0e7b511b418ce809ecfb9e7799b"
+          },
+          {
+            "id": "9b6513551a86b38bb88ac2f9dea79aba"
+          },
+          {
+            "id": "009b187b6b1fe7ca85fcde3801e0c555"
+          },
+          {
+            "id": "9ec1f3804d0b35b836fa59ec9d6886c9"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Startende Flugzeuge in Kloten, aufgenommen mit Langzeitbelichtung: Die Flugrouten gleichen einem Wollknäuel. (Bild: Alessandro Della Bella / Keystone)",
+      "breadcrumbs": [
+        {
+          "path": "/zuerich",
+          "name": "Zürich"
+        }
+      ],
+      "documentId": "1360624",
+      "product": "NZZ.ch"
+    }
+  },
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "flag": "Kommentar",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Die Lähmung in der Flughafenfrage gefährdet den Wohlstand",
+      "nzzAuthors": [
+        {
+          "name": "Michael von Ledebur (mvl)",
+          "id": 1373270
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2018-10-27T23:10:50.080Z",
+      "department": {
+        "path": "/meinung",
+        "level": 1,
+        "name": "Meinung"
+      },
+      "publicationDate": "2018-10-27T11:10:50.080Z",
+      "slug": "die-laehmung-in-der-flughafenfrage-gefaehrdet-den-wohlstand",
+      "firstPublicationDate": "2018-10-27T11:10:50.080Z",
+      "nzzCharacterCount": 9199,
+      "authorLine": "Michael von Ledebur",
+      "numberOfContentComponents": 28,
+      "leadText": "Der Flughafen Zürich stösst bereits heute an die Kapazitätsgrenze. Besserung ist nicht in Sicht, die Politik agiert planlos. Diese Lethargie ist gefährlich.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2018-10-27T11:13:44.148Z",
+      "nzzArticleSnippet": "Der Flughafen Zürich stösst bereits heute an die Kapazitätsgrenze. Besserung ist nicht in Sicht, die Politik agiert planlos. Diese Lethargie ist gefährlich.",
+      "copySourceId": 1431413,
+      "urlPath": "/meinung/die-laehmung-in-der-flughafenfrage-gefaehrdet-den-wohlstand-ld.1431557",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 3224,
+        "originalUrl": "https://nzz-img.s3.amazonaws.com/2018/10/27/7874f4ea-40e9-4ab3-84ad-fc12b3d0c681.jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 0,
+            "width": 3224,
+            "y": 197,
+            "url": "https://img.nzz.ch/C=W3224,H1814,X0,Y197/O=75/https://nzz-img.s3.amazonaws.com/2018/10/27/7874f4ea-40e9-4ab3-84ad-fc12b3d0c681.jpeg",
+            "height": 1814
+          },
+          {
+            "name": "1:1",
+            "x": 145,
+            "width": 1696,
+            "y": 0,
+            "url": "https://img.nzz.ch/C=W1696,H1696,X145,Y0/O=75/https://nzz-img.s3.amazonaws.com/2018/10/27/7874f4ea-40e9-4ab3-84ad-fc12b3d0c681.jpeg",
+            "height": 1696
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2018/10/27/7874f4ea-40e9-4ab3-84ad-fc12b3d0c681.jpeg",
+        "height": 2146
+      },
+      "nzzId": "ld.1431557",
+      "url": "https://www.nzz.ch/meinung/die-laehmung-in-der-flughafenfrage-gefaehrdet-den-wohlstand-ld.1431557",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1cqof3tn80"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "opinion",
+      "embeds": {
+        "images": [
+          {
+            "caption": "Ob am Boden oder in der Luft: Der Zürcher Flughafen hat zu viele Kreuzungspunkte. Diese müssen reduziert werden, soll der Betrieb effizienter werden. Die Rezepte sind bekannt, aber die Politik setzt sie nicht um. (Bild: Karin Hofer / NZZ)",
+            "origins": [
+              {
+                "identifier": "picture-1955345521",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2018/10/26/d21107f2-e90e-4ebd-9f87-dec2cfa332a8.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "009b187b6b1fe7ca85fcde3801e0c555"
+          },
+          {
+            "id": "e999e2ebe9ba41840e769cd1daebcb3f"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Ob am Boden oder in der Luft: Der Zürcher Flughafen hat zu viele Kreuzungspunkte. Diese müssen reduziert werden, soll der Betrieb effizienter werden. Die Rezepte sind bekannt, aber die Politik setzt sie nicht um. (Bild: Karin Hofer / NZZ)",
+      "breadcrumbs": [
+        {
+          "path": "/meinung",
+          "name": "Meinung"
+        }
+      ],
+      "documentId": "1431557",
+      "product": "NZZ.ch"
+    }
+  }
+]

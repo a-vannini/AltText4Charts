@@ -1,0 +1,149 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Emilio Morenatti / AP",
+      "firstTitle": "Die Unabhängigkeitsbefürworter in Katalonien könnten ihre Mehrheit verlieren",
+      "significantUpdate": true,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "_C9xRZdZdN3SNPvk5GvNc",
+        "locale": "de-CH"
+      },
+      "seoTitle": "Katalonien-Wahl: Separatisten verfehlen erstmals seit über zehn Jahren Mehrheit",
+      "title": "Die Unabhängigkeitsbefürworter in Katalonien verlieren ihre Mehrheit",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Julia Monn (jum)",
+          "id": 1532350,
+          "shortName": "jum"
+        }
+      ],
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-05-13T09:14:08.749Z",
+      "department": {
+        "path": "/international",
+        "premium": false,
+        "level": 1,
+        "name": "International"
+      },
+      "publicationDate": "2024-05-12T21:14:08.749Z",
+      "slug": "katalonien-wahl-separatisten-verfehlen-erstmals-seit-ueber-zehn-jahren-mehrheit",
+      "firstPublicationDate": "2024-05-12T19:51:47.986Z",
+      "nzzCharacterCount": 4132,
+      "owner": "NZZ",
+      "authorLine": "Julia Monn",
+      "numberOfContentComponents": 14,
+      "germanyRelevant": true,
+      "leadText": "Die Sozialisten gewinnen zwar die Wahl in der Mittelmeerregion. Doch ein alter Bekannter hält nicht nur in Barcelona, sondern auch in Madrid den Schlüssel zur Regierung in seiner Hand.",
+      "publicationLastUpdated": "2024-05-12T21:14:08.749Z",
+      "nzzArticleSnippet": "Die Sozialisten gewinnen zwar die Wahl in der Mittelmeerregion. Doch ein alter Bekannter hält nicht nur in Barcelona, sondern auch in Madrid den Schlüssel zur Regierung in seiner Hand.",
+      "urlPath": "/international/katalonien-wahl-separatisten-verfehlen-erstmals-seit-ueber-zehn-jahren-mehrheit-ld.1830105",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 6000,
+        "originalUrl": "https://img.nzz.ch/2024/05/12/555c2566-8ceb-4c17-9694-16bc1832c950.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 6000,
+            "name": "16:9",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/12/555c2566-8ceb-4c17-9694-16bc1832c950.jpeg?crop=6000,3375,x0,y0&quality=75&auto=webp",
+            "height": 3375,
+            "ratio": 1.77778
+          },
+          {
+            "x": 1577,
+            "width": 3160,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/12/555c2566-8ceb-4c17-9694-16bc1832c950.jpeg?crop=3160,3160,x1577,y0&quality=75&auto=webp",
+            "height": 3160,
+            "ratio": 1
+          },
+          {
+            "x": 667,
+            "width": 5333,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/12/555c2566-8ceb-4c17-9694-16bc1832c950.jpeg?crop=5333,4000,x667,y0&quality=75&auto=webp",
+            "height": 4000,
+            "ratio": 1.33333
+          },
+          {
+            "x": 2065,
+            "width": 2370,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/12/555c2566-8ceb-4c17-9694-16bc1832c950.jpeg?crop=2370,3160,x2065,y0&quality=75&auto=webp",
+            "height": 3160,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "FASYfEKSBYU4",
+        "url": "https://img.nzz.ch/2024/05/12/555c2566-8ceb-4c17-9694-16bc1832c950.jpeg?quality=75&auto=webp",
+        "key": "2024/05/12/555c2566-8ceb-4c17-9694-16bc1832c950.jpeg",
+        "height": 4000
+      },
+      "nzzId": "ld.1830105",
+      "url": "https://www.nzz.ch/international/katalonien-wahl-separatisten-verfehlen-erstmals-seit-ueber-zehn-jahren-mehrheit-ld.1830105",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1htmnr5nn1"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "estimationWordCount": 613,
+      "embeds": {
+        "images": [
+          {
+            "author": "Emilio Morenatti / AP",
+            "caption": "Der Urnengang in Katalonien entscheidet auch über die Regierungsfähigkeit der Sozialisten in der spanischen Hauptstadt Madrid.",
+            "origins": [
+              {
+                "identifier": "2155661788",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/05/12/555c2566-8ceb-4c17-9694-16bc1832c950.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "01da15f0f6a6396873566efb70abc218"
+          },
+          {
+            "id": "01da15f0f6a6396873566efb70ac7f0d"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/international",
+          "name": "International"
+        }
+      ],
+      "teaserCaption": "Der Urnengang in Katalonien entscheidet auch über die Regierungsfähigkeit der Sozialisten in der spanischen Hauptstadt Madrid.",
+      "documentId": "1830105",
+      "product": "NZZ.ch"
+    }
+  }
+]

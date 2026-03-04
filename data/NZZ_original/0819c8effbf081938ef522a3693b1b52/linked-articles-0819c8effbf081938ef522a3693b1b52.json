@@ -1,0 +1,160 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Diego Herrera Carcedo / Anadolu / Getty",
+      "firstTitle": "Ukraine-Hilfen: Oder wie geizig Europa wirklich ist",
+      "flag": "Datenanalyse",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "VxGrEv6vpbDi",
+        "locale": "de-CH"
+      },
+      "title": "Ukraine-Hilfe: Wie geizig ist Europa wirklich?",
+      "seoTitle": "Ukraine-Hilfe: Europas Lieferungen im Vergleich zu den USA",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Julia Monn (jum)",
+          "id": 1532350,
+          "shortName": "jum"
+        }
+      ],
+      "nzzPrintTitle": "Geizt Europa bei der Ukraine-Hilfe?",
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-04-26T15:30:00.000Z",
+      "department": {
+        "path": "/international",
+        "premium": false,
+        "level": 1,
+        "name": "International"
+      },
+      "publicationDate": "2024-04-26T03:30:00.000Z",
+      "slug": "ukraine-hilfe-wie-viel-weniger-liefert-europa",
+      "firstPublicationDate": "2024-04-26T03:30:00.000Z",
+      "nzzCharacterCount": 5170,
+      "owner": "NZZ",
+      "authorLine": "Julia Monn",
+      "numberOfContentComponents": 21,
+      "germanyRelevant": true,
+      "leadText": "Den EU-Staaten ist es nicht gelungen, das monatelange Ausbleiben der amerikanischen Militärhilfe zu kompensieren. Wo die grössten Schwachstellen sind, zeigen neue Zahlen.",
+      "publicationLastUpdated": "2024-05-10T09:27:55.340Z",
+      "nzzArticleSnippet": "Den EU-Staaten ist es nicht gelungen, das monatelange Ausbleiben der amerikanischen Militärhilfe zu kompensieren. Wo die grössten Schwachstellen sind, zeigen neue Zahlen.",
+      "urlPath": "/international/ukraine-hilfe-wie-viel-weniger-liefert-europa-ld.1827717",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 7500,
+        "originalUrl": "https://img.nzz.ch/2024/04/25/8d0b8001-1dc4-476a-a8fc-4168b6edd663.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 7500,
+            "name": "16:9",
+            "y": 782,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/25/8d0b8001-1dc4-476a-a8fc-4168b6edd663.jpeg?crop=7500,4218,x0,y782&width=1024&quality=75&auto=webp",
+            "height": 4218,
+            "ratio": 1.77778
+          },
+          {
+            "x": 2176,
+            "width": 5000,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/25/8d0b8001-1dc4-476a-a8fc-4168b6edd663.jpeg?crop=5000,5000,x2176,y0&width=1024&quality=75&auto=webp",
+            "height": 5000,
+            "ratio": 1
+          },
+          {
+            "x": 833,
+            "width": 6667,
+            "name": "4:3",
+            "y": 1,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/25/8d0b8001-1dc4-476a-a8fc-4168b6edd663.jpeg?crop=6667,4999,x833,y1&width=1024&quality=75&auto=webp",
+            "height": 4999,
+            "ratio": 1.33333
+          },
+          {
+            "x": 3313,
+            "width": 3750,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/25/8d0b8001-1dc4-476a-a8fc-4168b6edd663.jpeg?crop=3750,5000,x3313,y0&width=1024&quality=75&auto=webp",
+            "height": 5000,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "mmJTktyXUl4g",
+        "url": "https://img.nzz.ch/2024/04/25/8d0b8001-1dc4-476a-a8fc-4168b6edd663.jpeg?width=1024&quality=75&auto=webp",
+        "key": "2024/04/25/8d0b8001-1dc4-476a-a8fc-4168b6edd663.jpeg",
+        "height": 5000
+      },
+      "nzzId": "ld.1827717",
+      "url": "https://www.nzz.ch/international/ukraine-hilfe-wie-viel-weniger-liefert-europa-ld.1827717",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hsappt800"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "longformstandard",
+      "estimationWordCount": 765,
+      "embeds": {
+        "images": [
+          {
+            "author": "Diego Herrera Carcedo&nbsp;/ Anadolu / Getty",
+            "caption": "Die europäische Rüstungsindustrie ist noch immer nicht in der Lage, die Ukraine mit ausreichend Munition zu versorgen.",
+            "origins": [
+              {
+                "identifier": "2155125218",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/04/25/8d0b8001-1dc4-476a-a8fc-4168b6edd663.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "64d3df3ff8944eb8b41a1540eabacfe9"
+          },
+          {
+            "id": "64d3df3ff8944eb8b41a1540eaad4ad9"
+          },
+          {
+            "id": "64d3df3ff8944eb8b41a1540eaae6290"
+          },
+          {
+            "id": "64d3df3ff8944eb8b41a1540eab63961"
+          },
+          {
+            "id": "0819c8effbf081938ef522a3693b1b52"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/international",
+          "name": "International"
+        }
+      ],
+      "teaserCaption": "Die europäische Rüstungsindustrie ist noch immer nicht in der Lage, die Ukraine mit ausreichend Munition zu versorgen.",
+      "documentId": "1827717",
+      "product": "NZZ.ch"
+    }
+  }
+]

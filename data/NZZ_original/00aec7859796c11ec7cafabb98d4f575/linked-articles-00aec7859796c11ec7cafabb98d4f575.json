@@ -1,0 +1,123 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Der Kongress beschert Präsident Trump die langersehnte Steuerreform",
+      "nzzAuthors": [
+        {
+          "name": "Martin Lanz",
+          "id": 1373195
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2017-12-20T18:09:37.971Z",
+      "department": {
+        "path": "/wirtschaft",
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2017-12-20T06:09:37.971Z",
+      "slug": "der-kongress-beschert-praesident-trump-die-langersehnte-steuerreform",
+      "firstPublicationDate": "2017-12-20T06:09:37.971Z",
+      "nzzCharacterCount": 6473,
+      "authorLine": "Martin Lanz, Washington",
+      "numberOfContentComponents": 27,
+      "leadText": "Das Repräsentantenhaus muss zwar am Mittwoch noch ein zweites Mal abstimmen. Der erste grössere Umbau des US-Steuersystems seit 1986 ist mit der Zustimmung des Senats aber in trockenen Tüchern.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2019-07-09T23:31:13.915Z",
+      "nzzArticleSnippet": "Das Repräsentantenhaus muss zwar am Mittwoch noch ein zweites Mal abstimmen. Der erste grössere Umbau des US-Steuersystems seit 1986 ist mit der Zustimmung des Senats aber in trockenen Tüchern.",
+      "urlPath": "/wirtschaft/der-kongress-beschert-praesident-trump-die-langersehnte-steuerreform-ld.1341291",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 5472,
+        "originalUrl": "http://nzz-img.s3.amazonaws.com/2017/12/20/0fbcf15a-f76c-45a8-a183-823d7fc583a3.jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 0,
+            "width": 5472,
+            "y": 195,
+            "url": "https://img.nzz.ch/C=W5472,H3078,X0,Y195/O=75/http://nzz-img.s3.amazonaws.com/2017/12/20/0fbcf15a-f76c-45a8-a183-823d7fc583a3.jpeg",
+            "height": 3078
+          },
+          {
+            "name": "1:1",
+            "x": 1824,
+            "width": 3648,
+            "y": 0,
+            "url": "https://img.nzz.ch/C=W3648,H3648,X1824,Y0/O=75/http://nzz-img.s3.amazonaws.com/2017/12/20/0fbcf15a-f76c-45a8-a183-823d7fc583a3.jpeg",
+            "height": 3648
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/http://nzz-img.s3.amazonaws.com/2017/12/20/0fbcf15a-f76c-45a8-a183-823d7fc583a3.jpeg",
+        "height": 3648
+      },
+      "nzzId": "ld.1341291",
+      "url": "https://www.nzz.ch/wirtschaft/der-kongress-beschert-praesident-trump-die-langersehnte-steuerreform-ld.1341291",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1c1p867520"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "embeds": {
+        "images": [
+          {
+            "caption": "Die Republikaner unter der Leitung des Mehrheitsführers Mitch McConnell (Mitte) nahmen in der Nacht auf Mittwoch die Steuerreform an. (Bild: Michael Reynolds / EPA)",
+            "origins": [
+              {
+                "identifier": "picture-1931766396",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/C=W5472,H3074,X0,Y287/O=75/http://nzz-img.s3.amazonaws.com/2017/12/20/0fbcf15a-f76c-45a8-a183-823d7fc583a3.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "f52c7361b8653bb397fe0f37ac41ff46"
+          },
+          {
+            "id": "c621966870e36cbd2d9a3afc1de8132d"
+          },
+          {
+            "id": "00aec7859796c11ec7cafabb98d4f575"
+          },
+          {
+            "id": "0d00f95c61ccb8119c02cf9290a027b0"
+          },
+          {
+            "id": "52fe9c81d68695be68245be2e6579977"
+          },
+          {
+            "id": "7a38f5f7f8ae99f7f0684e463de085e4"
+          },
+          {
+            "id": "ae301e41a2efe8c0f15398e891431ba8"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Die Republikaner unter der Leitung des Mehrheitsführers Mitch McConnell (Mitte) nahmen in der Nacht auf Mittwoch die Steuerreform an. (Bild: Michael Reynolds / EPA)",
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "documentId": "1341291",
+      "product": "NZZ.ch"
+    }
+  }
+]

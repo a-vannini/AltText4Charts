@@ -1,0 +1,153 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Andrea Zahler / CH Media",
+      "firstTitle": "«Der Devisenmarkt ist keine Einbahnstrasse»: Der Franken schwächelt in diesem Jahr – das sind die Gründe",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "IAMpwuZ_JhEDCQykRQNhs",
+        "locale": "de-CH"
+      },
+      "title": "«Der Devisenmarkt ist keine Einbahnstrasse»: Der Franken schwächelt in diesem Jahr – das sind die Gründe",
+      "seoTitle": "Franken und SNB: Die Gründe für die Schwäche der Währung zu Euro und Dollar",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Michael Ferber (feb)",
+          "id": 1372418,
+          "shortName": "feb",
+          "proLitterisId": "155122"
+        }
+      ],
+      "nzzPrintTitle": "«Der Devisenmarkt ist keine Einbahnstrasse»",
+      "designName": "morpheus",
+      "premium": true,
+      "seoSocialMediaTitle": "«Der Devisenmarkt ist keine Einbahnstrasse»: Der Franken schwächelt ein wenig – die Gründe",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-04-20T15:30:00.000Z",
+      "department": {
+        "path": "/finanzen",
+        "premium": false,
+        "level": 1,
+        "name": "Finanzen"
+      },
+      "publicationDate": "2024-04-20T03:30:00.000Z",
+      "slug": "franken-und-snb-die-gruende-fuer-die-schwaeche-der-waehrung-zu-euro-und-dollar",
+      "firstPublicationDate": "2024-04-20T03:30:00.000Z",
+      "nzzCharacterCount": 7372,
+      "owner": "NZZ",
+      "authorLine": "Michael Ferber",
+      "numberOfContentComponents": 25,
+      "seoDescription": "Ungewohnterweise hat der Franken in diesem Jahr gegenüber Euro und Dollar nachgegeben. Woran das liegt, was das für Sparer heisst und womit Währungsspezialisten nun rechnen.",
+      "germanyRelevant": true,
+      "leadText": "Ungewohnterweise hat die Schweizer Währung in diesem Jahr gegenüber dem Euro und dem Dollar nachgegeben. Woran das liegt, was das für Sparer heisst und womit Währungsspezialisten nun rechnen.",
+      "publicationLastUpdated": "2024-04-20T03:30:00.000Z",
+      "nzzArticleSnippet": "Ungewohnterweise hat die Schweizer Währung in diesem Jahr gegenüber dem Euro und dem Dollar nachgegeben. Woran das liegt, was das für Sparer heisst und womit Währungsspezialisten nun rechnen.",
+      "urlPath": "/finanzen/franken-und-snb-die-gruende-fuer-die-schwaeche-der-waehrung-zu-euro-und-dollar-ld.1827057",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 4000,
+        "originalUrl": "https://img.nzz.ch/2024/04/19/b45f935a-5abc-41dc-ab45-4cf6e1c40d90.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 4000,
+            "name": "16:9",
+            "y": 2805,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/19/b45f935a-5abc-41dc-ab45-4cf6e1c40d90.jpeg?crop=4000,2250,x0,y2805&width=1024&quality=75&auto=webp",
+            "height": 2250,
+            "ratio": 1.77778
+          },
+          {
+            "x": 743,
+            "width": 2220,
+            "name": "1:1",
+            "y": 2790,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/19/b45f935a-5abc-41dc-ab45-4cf6e1c40d90.jpeg?crop=2220,2220,x743,y2790&width=1024&quality=75&auto=webp",
+            "height": 2220,
+            "ratio": 1
+          },
+          {
+            "x": 211,
+            "width": 3556,
+            "name": "4:3",
+            "y": 2589,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/19/b45f935a-5abc-41dc-ab45-4cf6e1c40d90.jpeg?crop=3556,2667,x211,y2589&width=1024&quality=75&auto=webp",
+            "height": 2667,
+            "ratio": 1.33333
+          },
+          {
+            "x": 616,
+            "width": 2497,
+            "name": "3:4",
+            "y": 1707,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/19/b45f935a-5abc-41dc-ab45-4cf6e1c40d90.jpeg?crop=2497,3329,x616,y1707&width=1024&quality=75&auto=webp",
+            "height": 3329,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "JZ8d-EKmgVem",
+        "url": "https://img.nzz.ch/2024/04/19/b45f935a-5abc-41dc-ab45-4cf6e1c40d90.jpeg?width=1024&quality=75&auto=webp",
+        "key": "2024/04/19/b45f935a-5abc-41dc-ab45-4cf6e1c40d90.jpeg",
+        "height": 6000
+      },
+      "nzzId": "ld.1827057",
+      "url": "https://www.nzz.ch/finanzen/franken-und-snb-die-gruende-fuer-die-schwaeche-der-waehrung-zu-euro-und-dollar-ld.1827057",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hrqosvo10"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "commentCount": 1,
+      "layout": "regular",
+      "estimationWordCount": 1107,
+      "nzzPrintSubtitle": "Der Franken schwächelt in diesem Jahr – das sind die Gründe\n",
+      "embeds": {
+        "images": [
+          {
+            "author": "Andrea Zahler / CH Media",
+            "caption": "Fällt der Franken weiter? In diesem Jahr hat er gegenüber Euro und Dollar nachgegeben.",
+            "origins": [
+              {
+                "identifier": "2150245237",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/04/19/b45f935a-5abc-41dc-ab45-4cf6e1c40d90.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0819c8effbf081938ef522a3690dfc58"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/finanzen",
+          "name": "Finanzen"
+        }
+      ],
+      "teaserCaption": "Fällt der Franken weiter? In diesem Jahr hat er gegenüber Euro und Dollar nachgegeben.",
+      "documentId": "1827057",
+      "product": "NZZ.ch"
+    }
+  }
+]

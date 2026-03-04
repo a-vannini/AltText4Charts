@@ -1,0 +1,155 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Illustration: Olivia Meyer / NZZ",
+      "firstTitle": "Europawahl: Die Ergebnisse für Deutschland im Überblick",
+      "significantUpdate": true,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "LUddQhn8d5bp2CUWi0Yfw",
+        "locale": "de-CH"
+      },
+      "title": "Europawahl: Die Ergebnisse für Deutschland im Überblick",
+      "seoTitle": "Europawahl 2024: Die Ergebnisse für Deutschland in der Übersicht",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Eike Hoppmann (eik)",
+          "id": 1572107,
+          "shortName": "eik"
+        },
+        {
+          "external": false,
+          "name": "Julia Monn (jum)",
+          "id": 1532350,
+          "shortName": "jum"
+        }
+      ],
+      "designName": "morpheus",
+      "seoSocialMediaTitle": "Europawahl 2024: Die Ergebnisse für Deutschland in der Übersicht",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-06-10T19:51:14.722Z",
+      "department": {
+        "path": "/visuals",
+        "premium": false,
+        "level": 1,
+        "name": "Visuals"
+      },
+      "publicationDate": "2024-06-10T07:51:14.722Z",
+      "slug": "europawahl-die-ergebnisse-fuer-deutschland-im-ueberblick",
+      "firstPublicationDate": "2024-06-09T16:00:00.000Z",
+      "nzzCharacterCount": 705,
+      "owner": "NZZ",
+      "authorLine": "Eike Hoppmann, Julia Monn",
+      "numberOfContentComponents": 18,
+      "seoDescription": "Die wichtigsten Grafiken zu den Resultaten",
+      "germanyRelevant": true,
+      "leadText": "Hier finden Sie Grafiken zu den Resultaten in Deutschland.",
+      "publicationLastUpdated": "2024-08-29T13:33:23.892Z",
+      "nzzArticleSnippet": "Hier finden Sie Grafiken zu den Resultaten in Deutschland.",
+      "urlPath": "/visuals/europawahl-die-ergebnisse-fuer-deutschland-im-ueberblick-ld.1833751",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 1800,
+        "originalUrl": "https://img.nzz.ch/2024/06/07/444c0cbd-107f-4566-88cb-07f36ebfa7e7.png",
+        "mimeType": "image/png",
+        "crops": [
+          {
+            "x": 0,
+            "width": 1800,
+            "name": "16:9",
+            "y": 237,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/07/444c0cbd-107f-4566-88cb-07f36ebfa7e7.png?crop=1800,1012,x0,y237&width=1024&quality=75&auto=webp",
+            "height": 1012,
+            "ratio": 1.77778
+          },
+          {
+            "x": 150,
+            "width": 1351,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/07/444c0cbd-107f-4566-88cb-07f36ebfa7e7.png?crop=1351,1351,x150,y0&width=1024&quality=75&auto=webp",
+            "height": 1351,
+            "ratio": 1
+          },
+          {
+            "x": 0,
+            "width": 1800,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/06/07/444c0cbd-107f-4566-88cb-07f36ebfa7e7.png?crop=1800,1350,x0,y0&width=1024&quality=75&auto=webp",
+            "height": 1350,
+            "ratio": 1.33333
+          },
+          {
+            "x": 372,
+            "width": 1013,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/07/444c0cbd-107f-4566-88cb-07f36ebfa7e7.png?crop=1013,1351,x372,y0&width=1024&quality=75&auto=webp",
+            "height": 1351,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "k0gPpjdoC2IU",
+        "url": "https://img.nzz.ch/2024/06/07/444c0cbd-107f-4566-88cb-07f36ebfa7e7.png?width=1024&quality=75&auto=webp",
+        "key": "2024/06/07/444c0cbd-107f-4566-88cb-07f36ebfa7e7.png",
+        "height": 1351
+      },
+      "nzzId": "ld.1833751",
+      "url": "https://www.nzz.ch/visuals/europawahl-die-ergebnisse-fuer-deutschland-im-ueberblick-ld.1833751",
+      "dependencies": {},
+      "commentCount": 1,
+      "layout": "longformstandard",
+      "estimationWordCount": 123,
+      "embeds": {
+        "images": [
+          {
+            "author": "Illustration:&nbsp;Olivia Meyer / NZZ",
+            "url": "https://img.nzz.ch/2024/06/07/444c0cbd-107f-4566-88cb-07f36ebfa7e7.png?width=1024&quality=75&auto=webp"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "5e9a2f52a857eb6da525204dda02599f"
+          },
+          {
+            "id": "174f1ad3796e95d0b64fd128e486f046"
+          },
+          {
+            "id": "afb5202fdb5e75ba28283d656a775424"
+          },
+          {
+            "id": "174f1ad3796e95d0b64fd128e4872edf"
+          },
+          {
+            "id": "9c34f843abc41325f7ff6d735f6cd52a"
+          },
+          {
+            "id": "9c34f843abc41325f7ff6d735f63b98c"
+          },
+          {
+            "id": "08e996c76bf1a7d4bec453e674564fde"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/visuals",
+          "name": "Visuals"
+        }
+      ],
+      "documentId": "1833751",
+      "product": "NZZ.ch"
+    }
+  }
+]

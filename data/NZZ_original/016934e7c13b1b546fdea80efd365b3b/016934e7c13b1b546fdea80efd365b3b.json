@@ -1,0 +1,107 @@
+{
+  "_id": "016934e7c13b1b546fdea80efd365b3b",
+  "_rev": "5-bf32e4f60db70c494a1712c91bcdbf6a",
+  "allowDownloadData": false,
+  "active": true,
+  "tool": "chart",
+  "title": "Die Discounter legen bei Bio zu",
+  "subtitle": "Marktanteile der Verkaufskanäle gemessen am gesamten Bio-Umsatz",
+  "department": "Visuals",
+  "publication": "nzz",
+  "acronym": "wej.",
+  "data": [
+    [
+      null,
+      "Klassischer Detailhandel mit Online",
+      "Discounter",
+      "Fachhandel",
+      "Marktstand / Bauernhöfe"
+    ],
+    [
+      "2022",
+      "88.3",
+      "6.1",
+      "3.5",
+      "2.1"
+    ],
+    [
+      "2021",
+      "87.9",
+      "5.5",
+      "4.1",
+      "2.5"
+    ],
+    [
+      "2020",
+      "87.9",
+      "5.1",
+      "4.3",
+      "2.7"
+    ],
+    [
+      "2019",
+      "88.9",
+      "4.6",
+      "3.9",
+      "2.6"
+    ],
+    [
+      "2018",
+      "89.2",
+      "3.6",
+      "4.5",
+      "2.4"
+    ]
+  ],
+  "sources": [
+    {
+      "text": "Bundesamt für Landwirtschaft",
+      "link": {
+        "url": ""
+      }
+    }
+  ],
+  "events": [],
+  "options": {
+    "annotations": {
+      "valuesOnBars": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "chartType": "StackedBar",
+    "colorOverwritesRows": [],
+    "colorOverwritesSeries": [],
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "many",
+      "prognosisStart": null
+    },
+    "dotplotOptions": {},
+    "hideAxisLabel": true,
+    "highlightDataRows": [],
+    "highlightDataSeries": [],
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "createdDate": "2025-03-06T15:05:44.512Z",
+  "createdBy": "janique.weder@nzz.ch",
+  "updatedDate": "2025-03-06T15:45:07.954Z",
+  "updatedBy": "isabel.hagen@nzz.ch"
+}

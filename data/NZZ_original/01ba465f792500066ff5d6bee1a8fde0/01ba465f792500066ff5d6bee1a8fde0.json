@@ -1,0 +1,102 @@
+{
+  "_id": "01ba465f792500066ff5d6bee1a8fde0",
+  "_rev": "17-42d927690c48dfedf99df4321131b7da",
+  "title": "Top 10 kurze Standzeiten Schweizer Gebrauchtwagen",
+  "tool": "chart",
+  "department": "Gesellschaft / Wochenende",
+  "publication": "nzz",
+  "acronym": "hdt.",
+  "data": [
+    [
+      "Modell",
+      "Anzahl Tage"
+    ],
+    [
+      "BMW X5 4x4 Diesel",
+      "8"
+    ],
+    [
+      "Hyundai Kona Elektro",
+      "10"
+    ],
+    [
+      "Ford Focus Station Wagon Benzin",
+      "11"
+    ],
+    [
+      "Volvo V60 4x4 Benzin",
+      "12"
+    ],
+    [
+      "BMW X4 Diesel",
+      "15"
+    ],
+    [
+      "Mercedes A-Klasse 4x4 Benzin",
+      "15"
+    ],
+    [
+      "Hyundai Tucson 4x4 Benzin",
+      "18"
+    ],
+    [
+      "Jeep Wrangler 4x4 Diesel",
+      "18"
+    ],
+    [
+      "Volvo XC40 4x4 Benzin",
+      "18"
+    ],
+    [
+      "Audi Q3 4x4 Benzinn",
+      "19"
+    ]
+  ],
+  "allowDownloadData": false,
+  "sources": [
+    {
+      "link": {
+        "url": "https://www.auto-i-dat.ch",
+        "isValid": true
+      },
+      "text": "auto-i-dat"
+    }
+  ],
+  "options": {
+    "chartType": "Dotplot",
+    "hideAxisLabel": false,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "year",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": []
+  },
+  "subtitle": "1. Semester 2019 nach Modellen",
+  "createdDate": "2019-08-06T07:13:22.632Z",
+  "createdBy": "herbert.schmidt@nzz.ch",
+  "updatedDate": "2019-08-06T07:17:52.293Z",
+  "updatedBy": "herbert.schmidt@nzz.ch",
+  "active": true,
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/01ba465f792500066ff5d6bee1a8fde0-thumbnail.jpeg"
+}

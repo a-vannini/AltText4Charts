@@ -1,0 +1,148 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Annick Ramp NZZ",
+      "firstTitle": "Prämiendeckel: Die Initianten verweisen gerne auf die Waadt, die dieses Modell bereits kennt – doch der Vergleich hinkt",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "h8vY6Wo16u2Ib3-f96VYg",
+        "locale": "de-CH"
+      },
+      "title": "Prämiendeckel: Die Initianten verweisen gerne auf die Waadt, die dieses Modell bereits kennt – doch der Vergleich hinkt",
+      "seoTitle": "Prämieninitiative der SP: Darum hinkt der 10-Prozent-Vergleich mit der Waadt",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Antonio Fumagalli (fum)",
+          "id": 1383127,
+          "shortName": "fum",
+          "proLitterisId": "763937"
+        }
+      ],
+      "designName": "morpheus",
+      "nzzPrintTitle": "Der Prämiendeckel-Vergleich hinkt",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-04-25T15:30:00.000Z",
+      "department": {
+        "path": "/schweiz",
+        "premium": false,
+        "level": 1,
+        "name": "Schweiz"
+      },
+      "publicationDate": "2024-04-25T03:30:00.000Z",
+      "slug": "praemieninitiative-der-sp-darum-hinkt-der-10-prozent-vergleich-mit-der-waadt",
+      "firstPublicationDate": "2024-04-25T03:30:00.000Z",
+      "nzzCharacterCount": 7366,
+      "owner": "NZZ",
+      "authorLine": "Antonio Fumagalli, Lausanne",
+      "numberOfContentComponents": 25,
+      "germanyRelevant": true,
+      "leadText": "Pierre-Yves Maillard hat durchgesetzt, dass in seinem Heimatkanton niemand mehr als zehn Prozent für die Krankenkasse ausgibt. Dass die Kosten deswegen nicht explodiert sind, hat einen spezifischen Grund.",
+      "publicationLastUpdated": "2024-04-25T08:14:05.024Z",
+      "nzzArticleSnippet": "Pierre-Yves Maillard hat durchgesetzt, dass in seinem Heimatkanton niemand mehr als zehn Prozent für die Krankenkasse ausgibt. Dass die Kosten deswegen nicht explodiert sind, hat einen spezifischen Grund.",
+      "urlPath": "/schweiz/praemieninitiative-der-sp-darum-hinkt-der-10-prozent-vergleich-mit-der-waadt-ld.1826818",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 6048,
+        "originalUrl": "https://img.nzz.ch/2022/11/24/85318bcf-d73a-44b7-a906-4ca0dc5a1b5d.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 6048,
+            "name": "16:9",
+            "y": 311,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/C=W6048,H3402,X0,Y311/O=75/https://img.nzz.ch/2022/11/24/85318bcf-d73a-44b7-a906-4ca0dc5a1b5d.jpeg",
+            "height": 3402,
+            "ratio": 1.77778
+          },
+          {
+            "x": 1012,
+            "width": 4024,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/C=W4024,H4024,X1012,Y0/O=75/https://img.nzz.ch/2022/11/24/85318bcf-d73a-44b7-a906-4ca0dc5a1b5d.jpeg",
+            "height": 4024,
+            "ratio": 1
+          },
+          {
+            "x": 341,
+            "width": 5365,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/C=W5365,H4024,X341,Y0/O=75/https://img.nzz.ch/2022/11/24/85318bcf-d73a-44b7-a906-4ca0dc5a1b5d.jpeg",
+            "height": 4024,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1395,
+            "width": 3018,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W3018,H4024,X1395,Y0/O=75/https://img.nzz.ch/2022/11/24/85318bcf-d73a-44b7-a906-4ca0dc5a1b5d.jpeg",
+            "height": 4024,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "IeibqutFI3D8",
+        "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2022/11/24/85318bcf-d73a-44b7-a906-4ca0dc5a1b5d.jpeg",
+        "height": 4024
+      },
+      "nzzId": "ld.1826818",
+      "url": "https://www.nzz.ch/schweiz/praemieninitiative-der-sp-darum-hinkt-der-10-prozent-vergleich-mit-der-waadt-ld.1826818",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hs56a7uk1"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "estimationWordCount": 1094,
+      "nzzPrintSubtitle": "In der Waadt muss seit 2019 niemand mehr als 10 Prozent für die Krankenkasse ausgeben – doch die Ausgangslage war anders",
+      "embeds": {
+        "images": [
+          {
+            "author": "Annick Ramp NZZ&nbsp;",
+            "caption": "Bei&nbsp;einem Ja zur Prämieninitiative kämen gemäss Schätzungen 3,5 bis 5 Milliarden Franken pro Jahr auf Bund und Kantone zu.&nbsp;",
+            "origins": [
+              {
+                "identifier": "2137489695",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2022/11/24/85318bcf-d73a-44b7-a906-4ca0dc5a1b5d.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0819c8effbf081938ef522a3692143e5"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/schweiz",
+          "name": "Schweiz"
+        }
+      ],
+      "teaserCaption": "Bei einem Ja zur Prämieninitiative kämen gemäss Schätzungen 3,5 bis 5 Milliarden Franken pro Jahr auf Bund und Kantone zu.",
+      "documentId": "1826818",
+      "product": "NZZ.ch"
+    }
+  }
+]

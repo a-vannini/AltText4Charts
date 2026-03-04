@@ -1,0 +1,97 @@
+{
+  "_id": "07d00172c0f2b9dd3facaed885d20cb6",
+  "_rev": "17-452375b4bdc2361788fe697d07df4963",
+  "department": "International",
+  "publication": "nzz",
+  "acronym": "paz.",
+  "data": [
+    [
+      "Jahr",
+      "Ja",
+      "Weder noch",
+      "Nein"
+    ],
+    [
+      "2021",
+      "57.4",
+      "23.2",
+      "19.4"
+    ],
+    [
+      "2023",
+      "64.8",
+      "18.6",
+      "16.6"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {
+        "url": "https://www.brookings.edu/articles/taiwanese-perceptions-of-conflict-continuity-in-the-face-of-change/?b=1",
+        "isValid": true
+      },
+      "text": "Brookings"
+    }
+  ],
+  "options": {
+    "chartType": "StackedBar",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "year",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [
+      {
+        "color": "#ce4631",
+        "position": 1
+      },
+      {
+        "color": "#c7c7c7",
+        "position": 2
+      },
+      {
+        "color": "#374e8e",
+        "position": 3
+      }
+    ],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "Die Taiwaner machen sich zunehmend Sorgen wegen der Situation an der Taiwanstrasse",
+  "subtitle": "Antworten auf die Frage: «Befürchten Sie einen Krieg in der Taiwanstrasse?», in Prozent der Befragten",
+  "createdDate": "2024-05-23T08:33:51.645Z",
+  "createdBy": "patrick.zoll@nzz.ch",
+  "updatedDate": "2024-05-23T13:23:14.481Z",
+  "updatedBy": "nikolai.thelitz@nzz.ch",
+  "notes": "Im Jahr 2021 wurden 1200 Taiwanerinnen und Taiwaner befragt, im Jahr 2023 waren es ebenfalls 1200. Zu Repräsentativität und statistischer Fehlermarge machen die Autoren keine Angaben.",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/07d00172c0f2b9dd3facaed885d20cb6-thumbnail.jpeg"
+}

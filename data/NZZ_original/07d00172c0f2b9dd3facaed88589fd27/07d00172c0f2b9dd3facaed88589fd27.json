@@ -1,0 +1,119 @@
+{
+  "_id": "07d00172c0f2b9dd3facaed88589fd27",
+  "_rev": "19-a00a3b82b09a7a56e5cdd24ca546de76",
+  "department": "default",
+  "publication": "nzz",
+  "acronym": "koe.",
+  "data": [
+    [
+      null,
+      null
+    ],
+    [
+      "2012",
+      "2033656"
+    ],
+    [
+      "2013",
+      "2066445"
+    ],
+    [
+      "2014",
+      "2121831"
+    ],
+    [
+      "2015",
+      "2232189"
+    ],
+    [
+      "2016",
+      "2382822"
+    ],
+    [
+      "2017",
+      "2561848"
+    ],
+    [
+      "2018",
+      "2731093"
+    ],
+    [
+      "2019",
+      "2933137"
+    ],
+    [
+      "2020",
+      "2887116"
+    ],
+    [
+      "2021",
+      "2760635"
+    ],
+    [
+      "2022",
+      "3075213"
+    ],
+    [
+      "2023",
+      "3410992"
+    ]
+  ],
+  "allowDownloadData": true,
+  "events": [],
+  "sources": [
+    {
+      "link": {
+        "url": "https://www.moj.go.jp/isa/publications/press/13_00040.html",
+        "isValid": true
+      },
+      "text": "Japanisches Justizministerium"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": false,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {
+      "valuesOnBars": false
+    },
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "Japan auf dem Weg zum Einwanderungsland",
+  "createdDate": "2024-05-22T12:06:53.739Z",
+  "createdBy": "martin.koelling@nzz.ch",
+  "updatedDate": "2024-05-25T09:27:07.855Z",
+  "updatedBy": "marco.kauffmann@nzz.ch",
+  "subtitle": "Ausländische Bevölkerung",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/07d00172c0f2b9dd3facaed88589fd27-thumbnail.jpeg"
+}

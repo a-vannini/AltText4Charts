@@ -1,0 +1,155 @@
+{
+  "_id": "0819c8effbf081938ef522a36940fb25",
+  "_rev": "13-0864724a803616f97a18063ece89ca1f",
+  "department": "Visuals",
+  "publication": "nzz",
+  "acronym": "fsl.",
+  "allowDownloadData": false,
+  "active": true,
+  "tool": "chart",
+  "title": "Die Solarenergie wird stark ausgebaut",
+  "subtitle": "Stromerzeugung mit CO₂-armen Energieträgern, in Terawattstunden",
+  "data": [
+    [
+      null,
+      "Solar",
+      "Wind",
+      "Wasser",
+      "Andere erneuerbare Energien",
+      "Kernkraft"
+    ],
+    [
+      "2010",
+      "32",
+      "342",
+      "3456",
+      "379",
+      "2756"
+    ],
+    [
+      "2021",
+      "1032",
+      "1865",
+      "4299",
+      "778",
+      "2810"
+    ],
+    [
+      "2022",
+      "1291",
+      "2125",
+      "4378",
+      "805",
+      "2682"
+    ],
+    [
+      "2030",
+      "5405",
+      "5229",
+      "4981",
+      "1301",
+      "3351"
+    ],
+    [
+      "2035",
+      "8657",
+      "7502",
+      "5293",
+      "1599",
+      "3665"
+    ],
+    [
+      "2040",
+      "11961",
+      "9275",
+      "5554",
+      "1932",
+      "3886"
+    ],
+    [
+      "2050",
+      "17220",
+      "11801",
+      "6351",
+      "2601",
+      "4353"
+    ]
+  ],
+  "sources": [
+    {
+      "text": "Internationale Energieagentur",
+      "link": {
+        "url": "https://www.iea.org/reports/world-energy-outlook-2023"
+      }
+    }
+  ],
+  "events": [],
+  "options": {
+    "annotations": {},
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "chartType": "Area",
+    "colorOverwritesRows": [],
+    "colorOverwritesSeries": [
+      {
+        "color": "#E3B13E",
+        "colorLight": "",
+        "position": 1
+      },
+      {
+        "color": "#4FBBAE",
+        "colorLight": "",
+        "position": 2
+      },
+      {
+        "color": "#374E8E",
+        "colorLight": "",
+        "position": 3
+      },
+      {
+        "color": "#478C5B",
+        "colorLight": "",
+        "position": 4
+      },
+      {
+        "color": "#DF7C18",
+        "colorLight": "",
+        "position": 5
+      }
+    ],
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "many",
+      "prognosisStart": 2
+    },
+    "dotplotOptions": {},
+    "hideAxisLabel": true,
+    "highlightDataRows": [],
+    "highlightDataSeries": [],
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "createdDate": "2024-04-26T09:18:40.832Z",
+  "createdBy": "florian.seliger@nzz.ch",
+  "updatedDate": "2024-05-27T16:43:46.259Z",
+  "updatedBy": "giuliano.musio@nzz.ch",
+  "notes": "Die künftige Entwicklung basiert auf einem Szenario, bei dem die Länder ihre jetzige Politik fortsetzen.",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/0819c8effbf081938ef522a36940fb25-thumbnail.jpeg"
+}

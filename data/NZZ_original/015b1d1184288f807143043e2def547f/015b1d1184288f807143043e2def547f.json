@@ -1,0 +1,92 @@
+{
+  "_id": "015b1d1184288f807143043e2def547f",
+  "_rev": "14-841a2ede1e01904374afeb33089b5156",
+  "department": "International",
+  "publication": "nzz",
+  "acronym": "mij.",
+  "data": [
+    [
+      "Ort",
+      "14. 6.",
+      "14. 9."
+    ],
+    [
+      "Wien",
+      "912",
+      "2622"
+    ],
+    [
+      "Österreich",
+      "560",
+      "1350"
+    ],
+    [
+      "Tschechien",
+      "310",
+      "1260"
+    ],
+    [
+      "Ungarn",
+      "350",
+      "1000"
+    ],
+    [
+      "Slowakei",
+      "190",
+      "720"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {
+        "url": "https://ourworldindata.org/grapher/daily-tests-per-thousand-people-smoothed-7-day?tab=table&time=2020-06-14..2020-09-14",
+        "isValid": true
+      },
+      "text": "Our World in Data, Stadt Wien"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {
+      "valuesOnBars": true
+    },
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": []
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "Die Zentraleuropäer testen heute viel mehr",
+  "subtitle": "Anzahl Tests pro Million Einwohner (Sieben-Tage-Durchschnitt)",
+  "createdDate": "2020-09-16T15:14:28.951Z",
+  "createdBy": "ivo.mijnssen@nzz.ch",
+  "updatedDate": "2020-09-16T15:47:06.648Z",
+  "updatedBy": "armin.kaelin@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/015b1d1184288f807143043e2def547f-thumbnail.jpeg"
+}

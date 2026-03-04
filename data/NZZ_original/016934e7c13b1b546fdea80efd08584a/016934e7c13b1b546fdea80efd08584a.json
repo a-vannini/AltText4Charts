@@ -1,0 +1,105 @@
+{
+  "_id": "016934e7c13b1b546fdea80efd08584a",
+  "_rev": "26-8a877742800cd864d2db018f4cbf7db1",
+  "department": "Wirtschaft",
+  "publication": "nzz",
+  "acronym": "feb.",
+  "data": [
+    [
+      "Land",
+      "Zusätzliche Personen in % der Bevölkerungszahl 2021"
+    ],
+    [
+      "Japan",
+      "15"
+    ],
+    [
+      "Frankreich",
+      "27"
+    ],
+    [
+      "Italien",
+      "30"
+    ],
+    [
+      "Grossbritannien",
+      "30"
+    ],
+    [
+      "Deutschland",
+      "31"
+    ],
+    [
+      "Spanien",
+      "39"
+    ],
+    [
+      "Australien",
+      "44"
+    ],
+    [
+      "USA",
+      "52"
+    ],
+    [
+      "Grosschina",
+      "76"
+    ],
+    [
+      "Südkorea",
+      "157"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {},
+      "text": "Uno / McKinsey Global Institute"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": false,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "Massiver Effekt der niedrigeren Geburtenraten",
+  "subtitle": "Zusätzliche Personen, die bei gleichbleibender Geburtenrate im Zeitraum 1960 bis 2021 geboren worden wären, in % der Bevölkerungszahl im Jahr 2021",
+  "createdDate": "2025-03-05T21:26:27.771Z",
+  "createdBy": "michael.ferber@nzz.ch",
+  "updatedDate": "2025-03-06T20:05:55.415Z",
+  "updatedBy": "dolores.romano@nzz.ch"
+}

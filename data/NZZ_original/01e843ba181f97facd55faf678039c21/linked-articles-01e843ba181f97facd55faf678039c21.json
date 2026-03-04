@@ -1,0 +1,129 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "Pablo Gianinazzi / Ti-Press / Keystone",
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Allheilmittel Kurzarbeit: Was dahintersteckt und wieso es nicht mehr lange so weitergehen sollte",
+      "seoTitle": "Kurzarbeit: Analyse von Inanspruchnahme, Wirkung und Missbrauch",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Peter A. Fischer (pfi)",
+          "id": 1373404
+        }
+      ],
+      "nzzPrintTitle": "Erstaunliches und Problematisches zur Kurzarbeit",
+      "designName": "morpheus",
+      "significantUpdateTill": "2021-05-21T08:43:41.200Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Lucie Paska (lpa)",
+          "id": 1373063
+        }
+      ],
+      "department": {
+        "path": "/wirtschaft",
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2021-05-21T03:30:00.000Z",
+      "slug": "kurzarbeit-analyse-von-inanspruchnahme-wirkung-und-missbrauch",
+      "firstPublicationDate": "2021-05-20T20:43:41.200Z",
+      "nzzCharacterCount": 7464,
+      "authorLine": "Peter A. Fischer",
+      "numberOfContentComponents": 25,
+      "leadText": "Der Bundesrat hat die maximale Dauer des Bezugs von Kurzarbeitsgeldern auf 24 Monate erhöht. Das Instrument hat bei der Krisenbewältigung schnell und unbürokratisch geholfen. Doch eine Analyse seiner Inanspruchnahme fördert Überraschendes und auch Problematisches zutage.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2021-05-20T20:43:41.200Z",
+      "nzzArticleSnippet": "Der Bundesrat hat die maximale Dauer des Bezugs von Kurzarbeitsgeldern auf 24 Monate erhöht. Das Instrument hat bei der Krisenbewältigung schnell und unbürokratisch geholfen. Doch eine Analyse seiner Inanspruchnahme fördert Überraschendes und auch Problematisches zutage.",
+      "urlPath": "/wirtschaft/kurzarbeit-analyse-von-inanspruchnahme-wirkung-und-missbrauch-ld.1626243",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 4922,
+        "originalUrl": "https://nzz-img.s3.amazonaws.com/2021/5/20/ece23fec-c939-4a9c-b0cb-3170f7d56d87.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 0,
+            "width": 4922,
+            "y": 91,
+            "url": "https://img.nzz.ch/C=W4922,H2769,X0,Y91/O=75/https://nzz-img.s3.amazonaws.com/2021/5/20/ece23fec-c939-4a9c-b0cb-3170f7d56d87.jpeg",
+            "height": 2769
+          },
+          {
+            "name": "1:1",
+            "x": 2165,
+            "width": 2048,
+            "y": 339,
+            "url": "https://img.nzz.ch/C=W2048,H2048,X2165,Y339/O=75/https://nzz-img.s3.amazonaws.com/2021/5/20/ece23fec-c939-4a9c-b0cb-3170f7d56d87.jpeg",
+            "height": 2048
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2021/5/20/ece23fec-c939-4a9c-b0cb-3170f7d56d87.jpeg",
+        "height": 3281
+      },
+      "nzzId": "ld.1626243",
+      "url": "https://www.nzz.ch/wirtschaft/kurzarbeit-analyse-von-inanspruchnahme-wirkung-und-missbrauch-ld.1626243",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1f65aamq40"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "commentCount": 2,
+      "layout": "regular",
+      "nzzPrintSubtitle": "Auch dieses wirkungsvolle Mittel sollte nicht blindlings eingesetzt werden",
+      "embeds": {
+        "images": [
+          {
+            "author": "Pablo Gianinazzi / Ti-Press / Keystone",
+            "caption": "Blick auf die geschlossene Baustelle entlang der A 2 bei Grancia, am Montag, 23. März 2020. Das Tessin hat wegen der Ausbreitung des Coronavirus alle Baustellen geschlossen. Der Bund kritisierte am Montag, dass die Massnahmen nicht vereinbar mit Bundesrecht seien.",
+            "origins": [
+              {
+                "identifier": "picture-2121249341",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2021/5/20/ece23fec-c939-4a9c-b0cb-3170f7d56d87.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "3d4d657a034f467df8f041978ac11189"
+          },
+          {
+            "id": "01e843ba181f97facd55faf678039c21"
+          },
+          {
+            "id": "01e843ba181f97facd55faf678009756"
+          },
+          {
+            "id": "01e843ba181f97facd55faf6787a67ee"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Blick auf die geschlossene Baustelle entlang der A 2 bei Grancia, am Montag, 23. März 2020. Das Tessin hat wegen der Ausbreitung des Coronavirus alle Baustellen geschlossen. Der Bund kritisierte am Montag, dass die Massnahmen nicht vereinbar mit Bundesrecht seien.",
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "documentId": "1626243",
+      "product": "NZZ.ch"
+    }
+  }
+]

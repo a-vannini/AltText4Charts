@@ -1,0 +1,113 @@
+{
+  "_id": "01da15f0f6a6396873566efb70b639df",
+  "_rev": "19-d844759d733d6a605b456d14d9015cd8",
+  "data": [
+    [
+      null,
+      null
+    ],
+    [
+      "Grossbritannien",
+      "373025"
+    ],
+    [
+      "Australien",
+      "359500"
+    ],
+    [
+      "Spanien",
+      "346703"
+    ],
+    [
+      "Frankreich",
+      "343891"
+    ],
+    [
+      "Italien",
+      "334700"
+    ],
+    [
+      "Deutschland",
+      "330929"
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      "andere\n  Länder zum Vergleich",
+      null
+    ],
+    [
+      "China",
+      "285115"
+    ],
+    [
+      "Taiwan",
+      "180510"
+    ],
+    [
+      "Südkorea",
+      "101110"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {
+        "url": "https://www.mlit.go.jp/kankocho/content/001734815.pdf",
+        "isValid": true
+      },
+      "text": "Japans Ministerium für Land, Infrastruktur und Verkehr"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": false,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "department": "default",
+  "publication": "nzz",
+  "acronym": "koe.",
+  "active": true,
+  "title": "Europäer sind die spendabelsten Touristen in Japan",
+  "subtitle": "Ausgaben pro Tourist nach grossen Herkunftsländern im Jahr 2023, in Yen",
+  "createdDate": "2024-05-13T05:02:01.596Z",
+  "createdBy": "martin.koelling@nzz.ch",
+  "updatedDate": "2024-05-14T10:25:46.224Z",
+  "updatedBy": "armin.kaelin@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/01da15f0f6a6396873566efb70b639df-thumbnail.jpeg"
+}

@@ -1,0 +1,91 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Schokolade wächst auf Bäumen",
+      "nzzAuthors": [
+        {
+          "name": "Patrick Zoll",
+          "id": 1373382
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2017-01-07T07:29:17.265Z",
+      "department": {
+        "path": "/finanzen",
+        "is_visible": true,
+        "is_mobile": true,
+        "level": 1,
+        "name": "Finanzen"
+      },
+      "publicationDate": "2017-01-07T09:00:00.000Z",
+      "slug": "kakao-wo-schokolade-an-den-baeumen-waechst",
+      "firstPublicationDate": "2017-01-06T19:29:17.265Z",
+      "authorLine": "Patrick Zoll",
+      "numberOfContentComponents": 23,
+      "leadText": "Kakao kommt aus tropischen Ländern und wird von reichen Gesellschaften konsumiert. Doch andere Regionen kommen auch auf den Geschmack.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2017-01-18T09:53:26.943Z",
+      "urlPath": "/finanzen/kakao-wo-schokolade-an-den-baeumen-waechst-ld.137775",
+      "nzzId": "ld.137775",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 2016,
+        "originalUrl": "https://img.nzz.ch/2017/1/6/71c66615-3d00-4678-b8b9-7666139d9a19.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 0,
+            "width": 2016,
+            "y": 324,
+            "url": "https://img.nzz.ch/2017/1/6/71c66615-3d00-4678-b8b9-7666139d9a19.jpeg?crop=2016,1134,x0,y324&width=1024&quality=75&auto=webp",
+            "height": 1134
+          },
+          {
+            "name": "1:1",
+            "x": 78,
+            "width": 1210,
+            "y": 266,
+            "url": "https://img.nzz.ch/2017/1/6/71c66615-3d00-4678-b8b9-7666139d9a19.jpeg?crop=1210,1210,x78,y266&width=1024&quality=75&auto=webp",
+            "height": 1210
+          }
+        ],
+        "url": "https://img.nzz.ch/2017/1/6/71c66615-3d00-4678-b8b9-7666139d9a19.jpeg?width=1024&quality=75&auto=webp",
+        "key": "2017/1/6/71c66615-3d00-4678-b8b9-7666139d9a19.jpeg",
+        "height": 1512
+      },
+      "url": "https://www.nzz.ch/finanzen/kakao-wo-schokolade-an-den-baeumen-waechst-ld.137775",
+      "dependencies": {},
+      "layout": "regular",
+      "embeds": {
+        "images": [
+          {
+            "caption": "Am Kakaomarkt herrschte im vergangenen Jahr Unruhe, der Preis fuhr Achterbahn. (Bild: PD)",
+            "url": "https://img.nzz.ch/O=75/http://nzz-img.s3.amazonaws.com/2017/1/6/71c66615-3d00-4678-b8b9-7666139d9a19.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "008af45f10ff96b79bbc850c1ee5766d"
+          },
+          {
+            "id": "f6a897ed75f5e980ea220a17fe56eb1f"
+          },
+          {
+            "id": "c85878c7f717e555ad5ad445d5b6fb2c"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Am Kakaomarkt herrschte im vergangenen Jahr Unruhe, der Preis fuhr Achterbahn. (Bild: PD)",
+      "documentId": "137775",
+      "product": "NZZ.ch"
+    }
+  }
+]

@@ -1,0 +1,214 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Georgios Kefalas / Keystone",
+      "firstTitle": "Trotz Durchlöcherung der Schuldenbremse in Deutschland: Schweizer Finanzpolitiker wollen lieber höhere Steuern als höhere Schulden",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "Sk2nabhnI4tiTOmRIlbWr",
+        "locale": "de-CH"
+      },
+      "title": "Trotz der Zeitenwende in Deutschland halten Schweizer Finanzpolitiker an den strengen Regeln der Schuldenbremse fest",
+      "seoTitle": "Schweizer Finanzpolitiker halten an Schuldenbremse fest",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "pianoId": "fe956970-50a5-4157-9dc3-0688d13aa9a8",
+          "name": "Hansueli Schöchli (hus)",
+          "id": 1372717,
+          "shortName": "hus",
+          "proLitterisId": "4769"
+        }
+      ],
+      "nzzPrintTitle": "Lieber höhere Steuern als höhere Schulden",
+      "designName": "morpheus",
+      "seoSocialMediaTitle": "Schweizer Bekenntnis zur Schuldenbremse: Finanzpolitiker wollen Regeln behalten",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2025-03-07T16:30:00.000Z",
+      "department": {
+        "path": "/wirtschaft",
+        "premium": false,
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2025-03-07T04:30:00.000Z",
+      "slug": "trotz-durchloecherung-der-schuldenbremse-in-deutschland-schweizer-finanzpolitiker-wollen-lieber-hoehere-steuern-als-hoehere-schulden",
+      "firstPublicationDate": "2025-03-07T04:30:00.000Z",
+      "nzzCharacterCount": 6515,
+      "authorLine": "Hansueli Schöchli",
+      "owner": "NZZ",
+      "numberOfContentComponents": 20,
+      "germanyRelevant": true,
+      "leadText": "Deutschland und die EU weichen die Haushaltsregeln auf. In der Schweiz wollen die Bürgerlichen dabei bleiben. Doch die Frage ist, für wie lange.",
+      "publicationLastUpdated": "2025-03-07T06:24:48.962Z",
+      "nzzArticleSnippet": "Deutschland und die EU weichen die Haushaltsregeln auf. In der Schweiz wollen die Bürgerlichen dabei bleiben. Doch die Frage ist, für wie lange.",
+      "urlPath": "/wirtschaft/trotz-durchloecherung-der-schuldenbremse-in-deutschland-schweizer-finanzpolitiker-wollen-lieber-hoehere-steuern-als-hoehere-schulden-ld.1874267",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 4036,
+        "originalUrl": "https://img.nzz.ch/2025/03/06/b511ceb3-b312-4f74-bd6e-d382eed82b72.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 4036,
+            "name": "16:9",
+            "y": 15,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2025/03/06/b511ceb3-b312-4f74-bd6e-d382eed82b72.jpeg?crop=4036,2270,x0,y15&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2025/03/06/b511ceb3-b312-4f74-bd6e-d382eed82b72.jpeg?crop=4036,2270,x0,y15&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2025/03/06/b511ceb3-b312-4f74-bd6e-d382eed82b72.jpeg?crop=4036,2270,x0,y15&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2025/03/06/b511ceb3-b312-4f74-bd6e-d382eed82b72.jpeg?crop=4036,2270,x0,y15&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2025/03/06/b511ceb3-b312-4f74-bd6e-d382eed82b72.jpeg?crop=4036,2270,x0,y15&width=1024&quality=75&auto=webp",
+            "height": 2270,
+            "ratio": 1.77778
+          },
+          {
+            "x": 673,
+            "width": 2691,
+            "name": "1:1",
+            "y": 0,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2025/03/06/b511ceb3-b312-4f74-bd6e-d382eed82b72.jpeg?crop=2691,2691,x673,y0&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2025/03/06/b511ceb3-b312-4f74-bd6e-d382eed82b72.jpeg?crop=2691,2691,x673,y0&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2025/03/06/b511ceb3-b312-4f74-bd6e-d382eed82b72.jpeg?crop=2691,2691,x673,y0&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2025/03/06/b511ceb3-b312-4f74-bd6e-d382eed82b72.jpeg?crop=2691,2691,x673,y0&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2025/03/06/b511ceb3-b312-4f74-bd6e-d382eed82b72.jpeg?crop=2691,2691,x673,y0&width=1024&quality=75&auto=webp",
+            "height": 2691,
+            "ratio": 1
+          },
+          {
+            "x": 224,
+            "width": 3588,
+            "name": "4:3",
+            "y": 0,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2025/03/06/b511ceb3-b312-4f74-bd6e-d382eed82b72.jpeg?crop=3588,2691,x224,y0&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2025/03/06/b511ceb3-b312-4f74-bd6e-d382eed82b72.jpeg?crop=3588,2691,x224,y0&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2025/03/06/b511ceb3-b312-4f74-bd6e-d382eed82b72.jpeg?crop=3588,2691,x224,y0&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2025/03/06/b511ceb3-b312-4f74-bd6e-d382eed82b72.jpeg?crop=3588,2691,x224,y0&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2025/03/06/b511ceb3-b312-4f74-bd6e-d382eed82b72.jpeg?crop=3588,2691,x224,y0&width=1024&quality=75&auto=webp",
+            "height": 2691,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1009,
+            "width": 2018,
+            "name": "3:4",
+            "y": 0,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2025/03/06/b511ceb3-b312-4f74-bd6e-d382eed82b72.jpeg?crop=2018,2691,x1009,y0&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2025/03/06/b511ceb3-b312-4f74-bd6e-d382eed82b72.jpeg?crop=2018,2691,x1009,y0&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2025/03/06/b511ceb3-b312-4f74-bd6e-d382eed82b72.jpeg?crop=2018,2691,x1009,y0&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2025/03/06/b511ceb3-b312-4f74-bd6e-d382eed82b72.jpeg?crop=2018,2691,x1009,y0&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2025/03/06/b511ceb3-b312-4f74-bd6e-d382eed82b72.jpeg?crop=2018,2691,x1009,y0&width=1024&quality=75&auto=webp",
+            "height": 2691,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "EEwiMUkwIPMF",
+        "key": "2025/03/06/b511ceb3-b312-4f74-bd6e-d382eed82b72.jpeg",
+        "url": "https://img.nzz.ch/2025/03/06/b511ceb3-b312-4f74-bd6e-d382eed82b72.jpeg?width=1024&quality=75&auto=webp",
+        "height": 2691
+      },
+      "nzzId": "ld.1874267",
+      "url": "https://www.nzz.ch/wirtschaft/trotz-durchloecherung-der-schuldenbremse-in-deutschland-schweizer-finanzpolitiker-wollen-lieber-hoehere-steuern-als-hoehere-schulden-ld.1874267",
+      "dependencies": {},
+      "commentCount": 1,
+      "layout": "regular",
+      "estimationWordCount": 966,
+      "nzzPrintSubtitle": "Trotz der Zeitenwende in Deutschland halten Schweizer Finanzpolitiker an den strengen Regeln der Schuldenbremse fest",
+      "embeds": {
+        "images": [
+          {
+            "author": "Georgios Kefalas / Keystone",
+            "caption": "Die geplante Erhöhung der Armeeausgaben bringt Druck auf die Bundeskasse.",
+            "origins": [
+              {
+                "identifier": "2166971244",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2025/03/06/b511ceb3-b312-4f74-bd6e-d382eed82b72.jpeg?width=1024&quality=75&auto=webp"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "016934e7c13b1b546fdea80efd26a43b"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "teaserCaption": "Die geplante Erhöhung der Armeeausgaben bringt Druck auf die Bundeskasse.",
+      "documentId": "1874267",
+      "product": "NZZ.ch"
+    }
+  }
+]

@@ -1,0 +1,101 @@
+{
+  "_id": "07d00172c0f2b9dd3facaed885e0b980",
+  "_rev": "16-f0c673cdc3990f143515639152a8577a",
+  "department": "default",
+  "publication": "nzz",
+  "acronym": "lia.",
+  "data": [
+    [
+      null,
+      "Männer",
+      "Frauen"
+    ],
+    [
+      "2012",
+      "18.0",
+      "17.0"
+    ],
+    [
+      "2017",
+      "20.9",
+      "21.6"
+    ],
+    [
+      "2022",
+      "21.1",
+      "24.9"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {
+        "url": "https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/gesundheitszustand/psychische.gnpdetail.2024-0181.html",
+        "isValid": true
+      },
+      "text": "Schweizerische Gesundheitsbefragung, Bundesamt für Statistik"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": false,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {
+      "valuesOnBars": true
+    },
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false,
+      "minValue": 15,
+      "maxValue": 28
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [
+      {
+        "color": "#24B39C",
+        "colorLight": "#7dd1c3",
+        "position": 1
+      },
+      {
+        "color": "#6C43C0",
+        "colorLight": "#aa90de",
+        "position": 2
+      }
+    ],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "title": "Frauen sind gestresster als Männer",
+  "subtitle": "Anteil der Erwerbstätigen, die bei der Arbeit meistens oder immer Stress erleben. Angaben in Prozent",
+  "createdDate": "2024-05-23T13:14:02.392Z",
+  "createdBy": "lia.pescatore@nzz.ch",
+  "updatedDate": "2024-05-27T13:10:51.279Z",
+  "updatedBy": "elena.oberholzer@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/07d00172c0f2b9dd3facaed885e0b980-thumbnail.jpeg",
+  "active": true,
+  "notes": ""
+}

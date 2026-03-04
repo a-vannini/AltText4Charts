@@ -1,0 +1,153 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Ivan Alvarado / Reuters",
+      "firstTitle": "Mega-Übernahme in der Bergbaubranche: Kupfer elektrisiert die Minenkonzerne. Für die Energiewende reicht es aber nicht, dass die Vorkommen nur die Eigentümer wechseln.",
+      "flag": "Kommentar",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "Jxf7mC4gjMbcFZ23Y7EVm",
+        "locale": "de-CH"
+      },
+      "title": "Ohne Kupfer gibt es keine Energiewende: Aber es reicht nicht, wenn die Minen nur die Eigentümer wechseln",
+      "seoTitle": "Kupfermarkt: Der Kampf um Anglo American zeigt Problem der Branche auf",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Gerald Hosp (gho)",
+          "id": 1372536,
+          "shortName": "gho"
+        }
+      ],
+      "nzzPrintTitle": "OT: Übernahmekampf um Bergbaukonzern\nTitel: Die Energiewende braucht neue Kupferminen",
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-05-11T15:30:00.000Z",
+      "department": {
+        "path": "/meinung",
+        "premium": false,
+        "level": 1,
+        "name": "Meinung"
+      },
+      "publicationDate": "2024-05-11T03:30:00.000Z",
+      "slug": "mega-uebernahme-in-der-bergbaubranche-kupfer-elektrisiert-die-minenkonzerne-fuer-die-energiewende-reicht-es-aber-nicht-dass-die-vorkommen-nur-die-eigentuemer-wechseln",
+      "showComments": true,
+      "firstPublicationDate": "2024-05-11T03:30:00.000Z",
+      "nzzCharacterCount": 3971,
+      "owner": "NZZ",
+      "authorLine": "Gerald Hosp",
+      "numberOfContentComponents": 15,
+      "seoDescription": "Kupfermarkt: Der Kampf um Anglo American zeigt Problem der Branche auf",
+      "leadText": "Der Bergbauriese BHP will den Mitbewerber Anglo American übernehmen. Der Fall zeigt, wo die Probleme in der Branche liegen.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2024-05-11T04:56:35.167Z",
+      "nzzArticleSnippet": "Der Bergbauriese BHP will den Mitbewerber Anglo American übernehmen. Der Fall zeigt, wo die Probleme in der Branche liegen.",
+      "urlPath": "/meinung/mega-uebernahme-in-der-bergbaubranche-kupfer-elektrisiert-die-minenkonzerne-fuer-die-energiewende-reicht-es-aber-nicht-dass-die-vorkommen-nur-die-eigentuemer-wechseln-ld.1829936",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 3500,
+        "originalUrl": "https://img.nzz.ch/2024/05/10/15a0b271-31f5-4b07-9ddb-a4268b6ec15f.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 175,
+            "width": 1942,
+            "name": "16:9",
+            "y": 370,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/10/15a0b271-31f5-4b07-9ddb-a4268b6ec15f.jpeg?crop=1942,1093,x175,y370&quality=75&auto=webp",
+            "height": 1093,
+            "ratio": 1.77778
+          },
+          {
+            "x": 248,
+            "width": 1639,
+            "name": "1:1",
+            "y": 298,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/10/15a0b271-31f5-4b07-9ddb-a4268b6ec15f.jpeg?crop=1639,1639,x248,y298&quality=75&auto=webp",
+            "height": 1639,
+            "ratio": 1
+          },
+          {
+            "x": 209,
+            "width": 1942,
+            "name": "4:3",
+            "y": 292,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/10/15a0b271-31f5-4b07-9ddb-a4268b6ec15f.jpeg?crop=1942,1456,x209,y292&quality=75&auto=webp",
+            "height": 1456,
+            "ratio": 1.33333
+          },
+          {
+            "x": 246,
+            "width": 1750,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/10/15a0b271-31f5-4b07-9ddb-a4268b6ec15f.jpeg?crop=1750,2333,x246,y0&quality=75&auto=webp",
+            "height": 2333,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "7ktML5zruurz",
+        "url": "https://img.nzz.ch/2024/05/10/15a0b271-31f5-4b07-9ddb-a4268b6ec15f.jpeg?quality=75&auto=webp",
+        "key": "2024/05/10/15a0b271-31f5-4b07-9ddb-a4268b6ec15f.jpeg",
+        "height": 2333
+      },
+      "nzzId": "ld.1829936",
+      "url": "https://www.nzz.ch/meinung/mega-uebernahme-in-der-bergbaubranche-kupfer-elektrisiert-die-minenkonzerne-fuer-die-energiewende-reicht-es-aber-nicht-dass-die-vorkommen-nur-die-eigentuemer-wechseln-ld.1829936",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hthfkgtg1"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "opinion",
+      "estimationWordCount": 616,
+      "embeds": {
+        "images": [
+          {
+            "author": "Ivan Alvarado / Reuters",
+            "caption": "BHP kontrolliert bereits Escondida, die grösste Kupfermine der Welt in Chile.",
+            "origins": [
+              {
+                "identifier": "2145878031",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/05/10/15a0b271-31f5-4b07-9ddb-a4268b6ec15f.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "01da15f0f6a6396873566efb701f3887"
+          },
+          {
+            "id": "dc0cb7e1eafe3fae23045527398ced38"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/meinung",
+          "name": "Meinung"
+        }
+      ],
+      "teaserCaption": "BHP kontrolliert bereits Escondida, die grösste Kupfermine der Welt in Chile.",
+      "documentId": "1829936",
+      "product": "NZZ.ch"
+    }
+  }
+]

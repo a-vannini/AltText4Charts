@@ -1,0 +1,111 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "Susan Walsh / AP",
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Und wieder einmal vollführt der Bitcoin Kurssprünge",
+      "seoTitle": "Bitcoin vollführt erneut Kurssprünge | NZZ",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Werner Grundlehner (gru)",
+          "id": 1372570
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2019-10-28T20:37:31.135Z",
+      "department": {
+        "path": "/finanzen",
+        "level": 1,
+        "name": "Finanzen"
+      },
+      "publicationDate": "2019-10-28T09:00:00.000Z",
+      "slug": "und-wieder-einmal-vollfuehrt-der-der-bitcoin-kursspruenge",
+      "firstPublicationDate": "2019-10-28T08:37:31.135Z",
+      "nzzCharacterCount": 4062,
+      "authorLine": "Werner Grundlehner",
+      "numberOfContentComponents": 15,
+      "leadText": "Leerverkäufer, Mark Zuckerberg und Chinas Begeisterung für die Blockchain werden als Erklärung für das Bitcoin-Rally herumgereicht. Richtig zu überzeugen vermag aber keine dieser Argumentationen.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2019-11-27T15:06:23.938Z",
+      "nzzArticleSnippet": "Leerverkäufer, Mark Zuckerberg und Chinas Begeisterung für die Blockchain werden als Erklärung für das Bitcoin-Rally herumgereicht. Richtig zu überzeugen vermag aber keine dieser Argumentationen.",
+      "urlPath": "/finanzen/und-wieder-einmal-vollfuehrt-der-der-bitcoin-kursspruenge-ld.1518205",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 2894,
+        "originalUrl": "https://img.nzz.ch/2019/10/28/6949ec3b-8e1b-4057-9874-2dca4066fdd5.jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 0,
+            "width": 2894,
+            "y": 108,
+            "url": "https://img.nzz.ch/2019/10/28/6949ec3b-8e1b-4057-9874-2dca4066fdd5.jpeg?crop=2894,1628,x0,y108&width=1024&quality=75&auto=webp",
+            "height": 1628
+          },
+          {
+            "name": "1:1",
+            "x": 1303,
+            "width": 1204,
+            "y": 141,
+            "url": "https://img.nzz.ch/2019/10/28/6949ec3b-8e1b-4057-9874-2dca4066fdd5.jpeg?crop=1204,1204,x1303,y141&width=1024&quality=75&auto=webp",
+            "height": 1204
+          }
+        ],
+        "mimeType": "image/jpeg",
+        "url": "https://img.nzz.ch/2019/10/28/6949ec3b-8e1b-4057-9874-2dca4066fdd5.jpeg?width=1024&quality=75&auto=webp",
+        "key": "2019/10/28/6949ec3b-8e1b-4057-9874-2dca4066fdd5.jpeg",
+        "height": 1929
+      },
+      "nzzId": "ld.1518205",
+      "url": "https://www.nzz.ch/finanzen/und-wieder-einmal-vollfuehrt-der-der-bitcoin-kursspruenge-ld.1518205",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1do8nbm8m0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "embeds": {
+        "images": [
+          {
+            "author": "Susan Walsh / AP",
+            "caption": "Der politische&nbsp;Widerstand gegen Kryptowährungen –&nbsp;etwa durch den US-Kongress gegen das Projekt Libra des Facebook-CEO Mark Zuckerberg – nimmt weiter zu.",
+            "origins": [
+              {
+                "identifier": "picture-2070342810",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2019/10/28/6949ec3b-8e1b-4057-9874-2dca4066fdd5.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "01c2ff365bbb7d826377798d5edc4a33"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Der politische Widerstand gegen Kryptowährungen – etwa durch den US-Kongress gegen das Projekt Libra des Facebook-CEO Mark Zuckerberg – nimmt weiter zu.",
+      "breadcrumbs": [
+        {
+          "path": "/finanzen",
+          "name": "Finanzen"
+        }
+      ],
+      "documentId": "1518205",
+      "product": "NZZ.ch"
+    }
+  }
+]

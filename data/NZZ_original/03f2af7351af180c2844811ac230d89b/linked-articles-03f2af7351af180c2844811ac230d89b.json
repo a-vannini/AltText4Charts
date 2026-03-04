@@ -1,0 +1,165 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "Viacheslav Ratynskyi / Reuters",
+      "contentTypeGroup": "web",
+      "firstTitle": "Die Zahl der Krisen wächst – dennoch ist die Angst vor dem Dritten Weltkrieg unbegründet",
+      "flag": "International View",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "wwyiP-qpoR4I",
+        "locale": "en-US"
+      },
+      "title": "Opinion • The growing number of crises doesn’t have to herald World War III",
+      "seoTitle": "The growing number of crises doesn’t herald World War III",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Eric Gujer (eg)",
+          "id": 1372334,
+          "shortName": "eg",
+          "proLitterisId": "2622"
+        }
+      ],
+      "designName": "morpheus",
+      "premium": false,
+      "seoSocialMediaTitle": "The growing number of crises doesn’t herald World War III",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-03-19T02:09:17.296Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Marco Seliger (mse)",
+          "id": 1720515,
+          "shortName": "mse",
+          "proLitterisId": "889986"
+        }
+      ],
+      "department": {
+        "path": "/english",
+        "premium": false,
+        "level": 1,
+        "name": "NZZ in English"
+      },
+      "publicationDate": "2024-03-18T14:09:17.296Z",
+      "showComments": false,
+      "slug": "the-growing-number-of-crises-doesnt-herald-world-war-iii",
+      "firstPublicationDate": "2024-03-18T14:09:17.296Z",
+      "owner": "NZZ",
+      "nzzCharacterCount": 8993,
+      "authorLine": "Eric Gujer",
+      "numberOfContentComponents": 35,
+      "seoDescription": "Ukraine, Gaza and Taiwan remain regional conflicts, but fears of a global escalation are growing. The Cold War, of all things, is an example of how the worst can be avoided.",
+      "leadText": "Ukraine, Gaza and Taiwan remain regional conflicts, but fears of a global escalation are growing. The Cold War, of all things, is an example of how the worst can be avoided.",
+      "germanyRelevant": false,
+      "publicationLastUpdated": "2024-03-18T17:50:32.150Z",
+      "nzzArticleSnippet": "Ukraine, Gaza and Taiwan remain regional conflicts, but fears of a global escalation are growing. The Cold War, of all things, is an example of how the worst can be avoided.",
+      "copySourceId": 1821736,
+      "urlPath": "/english/the-growing-number-of-crises-doesnt-herald-world-war-iii-ld.1822342",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 4364,
+        "originalUrl": "https://img.nzz.ch/2024/03/14/4d1cd526-5531-4780-b1e1-73f5b68f6ccb.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 4364,
+            "name": "16:9",
+            "y": 454,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/03/14/4d1cd526-5531-4780-b1e1-73f5b68f6ccb.jpeg?crop=4364,2455,x0,y454&width=1024&quality=75&auto=webp",
+            "height": 2455,
+            "ratio": 1.77778
+          },
+          {
+            "x": 691,
+            "width": 2909,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/03/14/4d1cd526-5531-4780-b1e1-73f5b68f6ccb.jpeg?crop=2909,2909,x691,y0&width=1024&quality=75&auto=webp",
+            "height": 2909,
+            "ratio": 1
+          },
+          {
+            "x": 485,
+            "width": 3879,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/03/14/4d1cd526-5531-4780-b1e1-73f5b68f6ccb.jpeg?crop=3879,2909,x485,y0&width=1024&quality=75&auto=webp",
+            "height": 2909,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1081,
+            "width": 1940,
+            "name": "3:4",
+            "y": 323,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/03/14/4d1cd526-5531-4780-b1e1-73f5b68f6ccb.jpeg?crop=1940,2586,x1081,y323&width=1024&quality=75&auto=webp",
+            "height": 2586,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "Hj1RP6C3tmtr",
+        "url": "https://img.nzz.ch/2024/03/14/4d1cd526-5531-4780-b1e1-73f5b68f6ccb.jpeg?width=1024&quality=75&auto=webp",
+        "key": "2024/03/14/4d1cd526-5531-4780-b1e1-73f5b68f6ccb.jpeg",
+        "height": 2909
+      },
+      "nzzId": "ld.1822342",
+      "url": "https://www.nzz.ch/english/the-growing-number-of-crises-doesnt-herald-world-war-iii-ld.1822342",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1houhl4rf0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "opinion",
+      "estimationWordCount": 1592,
+      "embeds": {
+        "images": [
+          {
+            "author": "Viacheslav Ratynskyi / Reuters",
+            "caption": "Barbed wire and trenches: The situation in Ukraine is reminiscent of World War I in many ways, not least with regard to the training of Ukrainian soldiers, photographed on March 12 this year in central Ukraine.",
+            "origins": [
+              {
+                "identifier": "2153784595",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/C=W4363,H2909,X1,Y0/O=75/https://img.nzz.ch/2024/03/14/4d1cd526-5531-4780-b1e1-73f5b68f6ccb.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "03f2af7351af180c2844811ac230d89b"
+          },
+          {
+            "id": "4485b24b64884b52a4e7f00c33205bb7"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Barbed wire and trenches: The situation in Ukraine is reminiscent of World War I in many ways, not least with regard to the training of Ukrainian soldiers, photographed on March 12 this year in central Ukraine.",
+      "breadcrumbs": [
+        {
+          "path": "/english",
+          "name": "NZZ in English"
+        }
+      ],
+      "documentId": "1822342",
+      "product": "NZZ.ch"
+    }
+  }
+]

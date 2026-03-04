@@ -1,0 +1,148 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Christian Beutler / Keystone",
+      "firstTitle": "Fehlprognose beim Solarstrom: Plötzlich fehlte der Schweiz die Produktion eines grossen Kernkraftwerkes",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "g93CgKmejpbWlc0oOOnz5",
+        "locale": "de-CH"
+      },
+      "title": "Fehlprognose beim Solarstrom: Plötzlich fehlte der Schweiz die Produktion eines grossen Kernkraftwerkes",
+      "seoTitle": "Fehlprognose bei Solarstrom: Swissgrid musste teuren Ausgleichsstrom beschaffen",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Christoph Eisenring (cei)",
+          "id": 1372114,
+          "shortName": "cei",
+          "proLitterisId": "13375"
+        }
+      ],
+      "nzzPrintTitle": "Plötzlich fehlte so viel Strom wie von der Produktion eines grossen Kernkraftwerkes ",
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-04-30T15:30:00.000Z",
+      "department": {
+        "path": "/wirtschaft",
+        "premium": false,
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2024-04-30T03:30:00.000Z",
+      "slug": "fehlprognose-beim-solarstrom-ploetzlich-fehlte-der-schweiz-die-produktion-eines-grossen-kernkraftwerkes",
+      "firstPublicationDate": "2024-04-30T03:30:00.000Z",
+      "nzzCharacterCount": 5478,
+      "owner": "NZZ",
+      "authorLine": "Christoph Eisenring",
+      "numberOfContentComponents": 18,
+      "germanyRelevant": true,
+      "leadText": "Schlechte Prognosen über die Einspeisung von Solarstrom haben vor einer Woche dazu geführt, dass viel zu wenig Strom im System war. Die Netzgesellschaft Swissgrid konnte für einen Ausgleich sorgen – zu horrenden Kosten von schätzungsweise 30 Millionen Franken.",
+      "publicationLastUpdated": "2024-04-30T03:30:00.000Z",
+      "nzzArticleSnippet": "Schlechte Prognosen über die Einspeisung von Solarstrom haben vor einer Woche dazu geführt, dass viel zu wenig Strom im System war. Die Netzgesellschaft Swissgrid konnte für einen Ausgleich sorgen – zu horrenden Kosten von schätzungsweise 30 Millionen Franken.",
+      "urlPath": "/wirtschaft/fehlprognose-beim-solarstrom-ploetzlich-fehlte-der-schweiz-die-produktion-eines-grossen-kernkraftwerkes-ld.1828058",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 5268,
+        "originalUrl": "https://img.nzz.ch/2023/05/15/bfa43fe4-e78a-4104-abfe-599214d0218c.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 5268,
+            "name": "16:9",
+            "y": 44,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W5268,H2963,X0,Y44/O=75/https://img.nzz.ch/2023/05/15/bfa43fe4-e78a-4104-abfe-599214d0218c.jpeg",
+            "height": 2963,
+            "ratio": 1.77778
+          },
+          {
+            "x": 3266,
+            "width": 374,
+            "name": "1:1",
+            "y": 1633,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W374,H374,X3266,Y1633/O=75/https://img.nzz.ch/2023/05/15/bfa43fe4-e78a-4104-abfe-599214d0218c.jpeg",
+            "height": 374,
+            "ratio": 1
+          },
+          {
+            "x": 223,
+            "width": 4159,
+            "name": "4:3",
+            "y": 360,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W4159,H3119,X223,Y360/O=75/https://img.nzz.ch/2023/05/15/bfa43fe4-e78a-4104-abfe-599214d0218c.jpeg",
+            "height": 3119,
+            "ratio": 1.33333
+          },
+          {
+            "x": 2331,
+            "width": 2632,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W2632,H3509,X2331,Y0/O=75/https://img.nzz.ch/2023/05/15/bfa43fe4-e78a-4104-abfe-599214d0218c.jpeg",
+            "height": 3509,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "qrx5l17aZHTx",
+        "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2023/05/15/bfa43fe4-e78a-4104-abfe-599214d0218c.jpeg",
+        "height": 3509
+      },
+      "nzzId": "ld.1828058",
+      "url": "https://www.nzz.ch/wirtschaft/fehlprognose-beim-solarstrom-ploetzlich-fehlte-der-schweiz-die-produktion-eines-grossen-kernkraftwerkes-ld.1828058",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hsf584vm0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "estimationWordCount": 829,
+      "nzzPrintSubtitle": "Ursache waren schlechte Prognosen über Solarstrom - Kosten von schätzungsweise 30 Millionen Franken",
+      "embeds": {
+        "images": [
+          {
+            "author": "Christian Beutler / Keystone",
+            "caption": "Photovoltaikanlagen auf Dächern in Rotkreuz. Falsche Prognosen für Solarstrom können teuer werden.",
+            "origins": [
+              {
+                "identifier": "2143927738",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2023/05/15/bfa43fe4-e78a-4104-abfe-599214d0218c.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0819c8effbf081938ef522a369492b8e"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "teaserCaption": "Photovoltaikanlagen auf Dächern in Rotkreuz. Falsche Prognosen für Solarstrom können teuer werden.",
+      "documentId": "1828058",
+      "product": "NZZ.ch"
+    }
+  }
+]

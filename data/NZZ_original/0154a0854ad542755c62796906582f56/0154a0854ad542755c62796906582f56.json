@@ -1,0 +1,322 @@
+{
+  "_id": "0154a0854ad542755c62796906582f56",
+  "_rev": "13-f8cf9e63a5cacb01182a6ae40d969307",
+  "department": "Visuals",
+  "publication": "nzz",
+  "acronym": "nth.",
+  "data": [
+    [
+      "...1",
+      "Afghanistan",
+      "Eritrea",
+      "Somalia",
+      "Syrien",
+      "Guinea",
+      "Äthiopien",
+      "Algerien",
+      "Nigeria",
+      "Marokko",
+      "Irak"
+    ],
+    [
+      "2004",
+      "14",
+      "11",
+      "96",
+      "3",
+      "90",
+      "17",
+      "24",
+      "61",
+      "0",
+      "23"
+    ],
+    [
+      "2005",
+      "30",
+      "5",
+      "36",
+      "0",
+      "54",
+      "6",
+      "5",
+      "20",
+      "2",
+      "14"
+    ],
+    [
+      "2006",
+      "15",
+      "13",
+      "10",
+      "0",
+      "12",
+      "2",
+      "2",
+      "12",
+      "0",
+      "22"
+    ],
+    [
+      "2007",
+      "21",
+      "21",
+      "11",
+      "1",
+      "14",
+      "9",
+      "2",
+      "11",
+      "0",
+      "15"
+    ],
+    [
+      "2008",
+      "22",
+      "24",
+      "96",
+      "1",
+      "63",
+      "10",
+      "4",
+      "61",
+      "0",
+      "23"
+    ],
+    [
+      "2009",
+      "42",
+      "13",
+      "40",
+      "2",
+      "34",
+      "8",
+      "1",
+      "46",
+      "1",
+      "14"
+    ],
+    [
+      "2010",
+      "49",
+      "21",
+      "4",
+      "8",
+      "17",
+      "4",
+      "3",
+      "2",
+      "2",
+      "8"
+    ],
+    [
+      "2011",
+      "54",
+      "30",
+      "16",
+      "6",
+      "17",
+      "12",
+      "8",
+      "6",
+      "10",
+      "2"
+    ],
+    [
+      "2012",
+      "60",
+      "107",
+      "23",
+      "24",
+      "24",
+      "12",
+      "5",
+      "8",
+      "9",
+      "4"
+    ],
+    [
+      "2013",
+      "48",
+      "58",
+      "23",
+      "37",
+      "19",
+      "5",
+      "4",
+      "4",
+      "16",
+      "2"
+    ],
+    [
+      "2014",
+      "46",
+      "511",
+      "48",
+      "43",
+      "12",
+      "8",
+      "4",
+      "1",
+      "11",
+      "3"
+    ],
+    [
+      "2015",
+      "896",
+      "1165",
+      "101",
+      "226",
+      "29",
+      "44",
+      "3",
+      "5",
+      "6",
+      "40"
+    ],
+    [
+      "2016",
+      "347",
+      "840",
+      "219",
+      "50",
+      "100",
+      "173",
+      "6",
+      "15",
+      "16",
+      "17"
+    ],
+    [
+      "2017",
+      "141",
+      "85",
+      "111",
+      "35",
+      "81",
+      "32",
+      "18",
+      "9",
+      "23",
+      "12"
+    ],
+    [
+      "2018",
+      "97",
+      "51",
+      "39",
+      "21",
+      "17",
+      "10",
+      "21",
+      "4",
+      "31",
+      "5"
+    ],
+    [
+      "2019",
+      "191",
+      "16",
+      "20",
+      "17",
+      "8",
+      "8",
+      "37",
+      "0",
+      "20",
+      "10"
+    ],
+    [
+      "2020",
+      "314",
+      "8",
+      "26",
+      "21",
+      "8",
+      "0",
+      "55",
+      "0",
+      "23",
+      "6"
+    ],
+    [
+      "2021",
+      "646",
+      "9",
+      "61",
+      "35",
+      "2",
+      "9",
+      "56",
+      "0",
+      "40",
+      "9"
+    ],
+    [
+      "2022",
+      "2451",
+      "25",
+      "65",
+      "88",
+      "15",
+      "12",
+      "60",
+      "0",
+      "28",
+      "4"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {},
+      "text": "SEM"
+    }
+  ],
+  "options": {
+    "chartType": "StackedBar",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "title": "Erst kamen die jungen Eritreer, nun die Afghanen",
+  "createdDate": "2023-05-11T15:17:40.498Z",
+  "createdBy": "nikolai.thelitz@nzz.ch",
+  "updatedDate": "2023-07-21T14:08:20.467Z",
+  "updatedBy": "nikolai.thelitz@nzz.ch",
+  "subtitle": "UMA nach Nationalität",
+  "active": true,
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/0154a0854ad542755c62796906582f56-thumbnail.jpeg"
+}

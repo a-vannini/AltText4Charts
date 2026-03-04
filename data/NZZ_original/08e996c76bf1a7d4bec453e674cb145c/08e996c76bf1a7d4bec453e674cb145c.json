@@ -1,0 +1,118 @@
+{
+  "_id": "08e996c76bf1a7d4bec453e674cb145c",
+  "_rev": "9-4cbca2e70e742b2b5069f924ca321f43",
+  "department": "Visuals",
+  "publication": "nzz",
+  "acronym": "fsl.",
+  "allowDownloadData": false,
+  "active": true,
+  "tool": "chart",
+  "title": "Pharmaexporte erreichen im ersten Kriegsjahr einen Höhepunkt",
+  "subtitle": "Schweizer Exporte der chemisch-pharmazeutischen Industrie nach Russland, Exportwert in Franken",
+  "data": [
+    [
+      null,
+      "Russland"
+    ],
+    [
+      "2013",
+      "1321673313"
+    ],
+    [
+      "2014",
+      "1086433094"
+    ],
+    [
+      "2015",
+      "1015300598"
+    ],
+    [
+      "2016",
+      "949936915"
+    ],
+    [
+      "2017",
+      "1062008450"
+    ],
+    [
+      "2018",
+      "1215394134"
+    ],
+    [
+      "2019",
+      "1830433680"
+    ],
+    [
+      "2020",
+      "1543714448"
+    ],
+    [
+      "2021",
+      "1761951177"
+    ],
+    [
+      "2022",
+      "2337608546"
+    ],
+    [
+      "2023",
+      "2104466799"
+    ]
+  ],
+  "sources": [
+    {
+      "text": "Bundesamt für Zoll und Grenzsicherheit",
+      "link": {
+        "url": ""
+      }
+    }
+  ],
+  "events": [
+    {
+      "type": "point",
+      "label": "Invasion der Ukraine (2022)",
+      "date": "2022-01-01"
+    }
+  ],
+  "options": {
+    "annotations": {},
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "chartType": "Line",
+    "colorOverwritesRows": [],
+    "colorOverwritesSeries": [],
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "many",
+      "prognosisStart": null
+    },
+    "dotplotOptions": {},
+    "hideAxisLabel": true,
+    "highlightDataRows": [],
+    "highlightDataSeries": [],
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "createdDate": "2024-06-11T13:19:34.312Z",
+  "createdBy": "florian.seliger@nzz.ch",
+  "updatedDate": "2024-06-12T08:42:15.912Z",
+  "updatedBy": "dominik.feldges@nzz.ch",
+  "activateDate": "2024-06-11T15:40:47.238Z"
+}

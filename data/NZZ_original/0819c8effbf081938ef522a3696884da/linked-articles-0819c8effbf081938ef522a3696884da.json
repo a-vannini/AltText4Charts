@@ -1,0 +1,148 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Gaëtan Bally / Keystone",
+      "firstTitle": "Neue Studie: Kopfverletzungen nach E-Bike-Unfällen sind ähnlich wie nach einem Motorrad-Crash",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "Psi0J5WWbt7vFtNP3IiEY",
+        "locale": "de-CH"
+      },
+      "title": "Ein Sturz mit dem E-Bike kann so schlimm enden wie einer mit dem Töff – ein Arzt fordert Fahrtrainings",
+      "seoTitle": "E-Bike: Unfälle so schwerwiegend wie mit dem Motorrad",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Michele Coviello (cov)",
+          "id": 1372188,
+          "shortName": "cov",
+          "proLitterisId": "263025"
+        }
+      ],
+      "designName": "morpheus",
+      "seoSocialMediaTitle": "Ein Sturz mit dem E-Bike kann so schwer enden wie mit dem Töff, sagt eine Zürcher Studie",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-05-01T15:30:00.000Z",
+      "department": {
+        "path": "/panorama",
+        "premium": false,
+        "level": 1,
+        "name": "Panorama"
+      },
+      "publicationDate": "2024-05-01T03:30:00.000Z",
+      "slug": "neue-studie-kopfverletzungen-nach-e-bike-unfaellen-sind-aehnlich-wie-nach-einem-motorrad-crash",
+      "firstPublicationDate": "2024-05-01T03:30:00.000Z",
+      "nzzCharacterCount": 5038,
+      "owner": "NZZ",
+      "authorLine": "Michele Coviello",
+      "numberOfContentComponents": 20,
+      "germanyRelevant": true,
+      "leadText": "Eine neue Studie des Universitätsspitals Zürich zeigt deutlich auf: Kopfverletzungen nach E-Bike-Unfällen sind ähnlich wie nach einem Motorrad-Crash. Ohne Helm fahren? Schlechte Idee.",
+      "publicationLastUpdated": "2024-05-01T17:31:20.952Z",
+      "nzzArticleSnippet": "Eine neue Studie des Universitätsspitals Zürich zeigt deutlich auf: Kopfverletzungen nach E-Bike-Unfällen sind ähnlich wie nach einem Motorrad-Crash. Ohne Helm fahren? Schlechte Idee.",
+      "urlPath": "/panorama/neue-studie-kopfverletzungen-nach-e-bike-unfaellen-sind-aehnlich-wie-nach-einem-motorrad-crash-ld.1828574",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 5760,
+        "originalUrl": "https://img.nzz.ch/2022/01/01/5d055154-9d36-4b42-9b42-98ef8490bb38.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 5760,
+            "name": "16:9",
+            "y": 220,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2022/01/01/5d055154-9d36-4b42-9b42-98ef8490bb38.jpeg?crop=5760,3240,x0,y220&quality=75&auto=webp",
+            "height": 3240,
+            "ratio": 1.77778
+          },
+          {
+            "x": 1367,
+            "width": 3840,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2022/01/01/5d055154-9d36-4b42-9b42-98ef8490bb38.jpeg?crop=3840,3840,x1367,y0&quality=75&auto=webp",
+            "height": 3840,
+            "ratio": 1
+          },
+          {
+            "x": 595,
+            "width": 5120,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2022/01/01/5d055154-9d36-4b42-9b42-98ef8490bb38.jpeg?crop=5120,3840,x595,y0&quality=75&auto=webp",
+            "height": 3840,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1727,
+            "width": 2880,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2022/01/01/5d055154-9d36-4b42-9b42-98ef8490bb38.jpeg?crop=2880,3840,x1727,y0&quality=75&auto=webp",
+            "height": 3840,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "Mwqgm2qt5fxy",
+        "url": "https://img.nzz.ch/2022/01/01/5d055154-9d36-4b42-9b42-98ef8490bb38.jpeg?quality=75&auto=webp",
+        "key": "2022/01/01/5d055154-9d36-4b42-9b42-98ef8490bb38.jpeg",
+        "height": 3840
+      },
+      "nzzId": "ld.1828574",
+      "url": "https://www.nzz.ch/panorama/neue-studie-kopfverletzungen-nach-e-bike-unfaellen-sind-aehnlich-wie-nach-einem-motorrad-crash-ld.1828574",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hsmrulkj1"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "estimationWordCount": 815,
+      "embeds": {
+        "images": [
+          {
+            "author": "Gaëtan Bally / Keystone",
+            "caption": "Auch auf einem langsamen E-Bike ist ein Helm unerlässlich.",
+            "origins": [
+              {
+                "identifier": "2119975826",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2022/01/01/5d055154-9d36-4b42-9b42-98ef8490bb38.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0819c8effbf081938ef522a3696884da"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/panorama",
+          "name": "Panorama"
+        }
+      ],
+      "teaserCaption": "Auch auf einem langsamen E-Bike ist ein Helm unerlässlich.",
+      "documentId": "1828574",
+      "product": "NZZ.ch"
+    }
+  }
+]

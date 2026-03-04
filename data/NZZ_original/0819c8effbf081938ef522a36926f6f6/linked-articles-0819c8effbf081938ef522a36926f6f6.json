@@ -1,0 +1,176 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Anton Geisser / Imago",
+      "firstTitle": "Das oberste Ziel des neuen Novartis-Präsidenten muss sein: den Rückstand auf US-Konkurrenten verringern",
+      "flag": "Kommentar",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "nM-Q4t4qMKrk3vAv9VCbz",
+        "locale": "de-CH"
+      },
+      "title": "Das oberste Ziel des neuen Novartis-Präsidenten muss sein, den Rückstand auf amerikanische Konkurrenten zu verringern",
+      "seoTitle": "Novartis: Giovanni Caforio soll Jörg Reinhardt als VRP ersetzen",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Dominik Feldges (df)",
+          "id": 1372255,
+          "shortName": "df",
+          "proLitterisId": "766329"
+        }
+      ],
+      "nzzPrintTitle": "Novartis muss gegenüber US-Konkurrenz aufholen",
+      "designName": "morpheus",
+      "seoSocialMediaTitle": "Novartis plant unter neuem Präsidenten Aufholjagd gegenüber US-Konkurrenten",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-04-23T22:26:11.149Z",
+      "department": {
+        "path": "/meinung",
+        "premium": false,
+        "level": 1,
+        "name": "Meinung"
+      },
+      "publicationDate": "2024-04-23T10:26:11.149Z",
+      "slug": "novartis-giovanni-caforio-soll-joerg-reinhardt-als-vrp-ersetzen",
+      "showComments": true,
+      "firstPublicationDate": "2024-04-23T10:26:11.149Z",
+      "nzzCharacterCount": 4209,
+      "owner": "NZZ",
+      "authorLine": "Dominik Feldges",
+      "numberOfContentComponents": 16,
+      "leadText": "Unter dem abtretenden Präsidenten Jörg Reinhardt wurde der einstige Gemischtwarenladen Novartis zerlegt. Als reines Spezialitäten-Pharmaunternehmen konnte Novartis an der Börse aber noch nicht überzeugen.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2024-04-23T13:25:26.139Z",
+      "nzzArticleSnippet": "Unter dem abtretenden Präsidenten Jörg Reinhardt wurde der einstige Gemischtwarenladen Novartis zerlegt. Als reines Spezialitäten-Pharmaunternehmen konnte Novartis an der Börse aber noch nicht überzeugen.",
+      "urlPath": "/meinung/novartis-giovanni-caforio-soll-joerg-reinhardt-als-vrp-ersetzen-ld.1827564",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 6000,
+        "originalUrl": "https://img.nzz.ch/2024/04/23/04dd37a9-65c5-4b67-973c-eaa53b5cdbdb.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 416,
+            "width": 5333,
+            "name": "16:9",
+            "y": 562,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/23/04dd37a9-65c5-4b67-973c-eaa53b5cdbdb.jpeg?crop=5333,3000,x416,y562&quality=75&auto=webp",
+            "height": 3000,
+            "ratio": 1.77778
+          },
+          {
+            "x": 2206,
+            "width": 427,
+            "name": "1:1",
+            "y": 1343,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/23/04dd37a9-65c5-4b67-973c-eaa53b5cdbdb.jpeg?crop=427,427,x2206,y1343&quality=75&auto=webp",
+            "height": 427,
+            "ratio": 1
+          },
+          {
+            "x": 223,
+            "width": 5333,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/23/04dd37a9-65c5-4b67-973c-eaa53b5cdbdb.jpeg?crop=5333,4000,x223,y0&quality=75&auto=webp",
+            "height": 4000,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1875,
+            "width": 3000,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/23/04dd37a9-65c5-4b67-973c-eaa53b5cdbdb.jpeg?crop=3000,4000,x1875,y0&quality=75&auto=webp",
+            "height": 4000,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "MTsHjnGiYXug",
+        "url": "https://img.nzz.ch/2024/04/23/04dd37a9-65c5-4b67-973c-eaa53b5cdbdb.jpeg?quality=75&auto=webp",
+        "key": "2024/04/23/04dd37a9-65c5-4b67-973c-eaa53b5cdbdb.jpeg",
+        "height": 4000
+      },
+      "nzzId": "ld.1827564",
+      "url": "https://www.nzz.ch/meinung/novartis-giovanni-caforio-soll-joerg-reinhardt-als-vrp-ersetzen-ld.1827564",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hs59ghs41",
+              "doc-1hs5hf4kg0",
+              "doc-1hs5hcsg51"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "opinion",
+      "estimationWordCount": 653,
+      "nzzPrintSubtitle": "Wechsel im Präsidium",
+      "embeds": {
+        "images": [
+          {
+            "author": "Anton Geisser / Imago",
+            "caption": "Novartis konzentriert sich seit Herbst 2023 auf das Geschäft mit patentgeschützten Medikamenten zur Behandlung schwerer Krankheiten.",
+            "origins": [
+              {
+                "identifier": "2155053915",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/04/23/04dd37a9-65c5-4b67-973c-eaa53b5cdbdb.jpeg"
+          },
+          {
+            "author": "PD",
+            "caption": "Jörg Reinhardt, abtretender Präsident von Novartis.",
+            "origins": [
+              {
+                "identifier": "2155057506",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/04/23/8266fe9a-98f6-4793-9d31-f72da6fe2298.jpeg"
+          },
+          {
+            "author": "Imago",
+            "caption": "Giovanni Caforio, designierter neuer Präsident von Novartis.",
+            "origins": [
+              {
+                "identifier": "2155057544",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/04/23/86da155b-6763-4012-8ead-6bb13a27c9f2.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0819c8effbf081938ef522a36926f6f6"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/meinung",
+          "name": "Meinung"
+        }
+      ],
+      "teaserCaption": "Novartis konzentriert sich seit Herbst 2023 auf das Geschäft mit patentgeschützten Medikamenten zur Behandlung schwerer Krankheiten.",
+      "documentId": "1827564",
+      "product": "NZZ.ch"
+    }
+  }
+]

@@ -1,0 +1,153 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Illustration Simon Tanner / NZZ",
+      "firstTitle": "Bis 2050 könnte sich die Nachfrage nach Strom verdoppeln. Diese Länder sind am besten darauf vorbereitet",
+      "flag": "Datenanalyse",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "BJAzpjRmYIY5",
+        "locale": "de-CH"
+      },
+      "title": "Bis 2050 könnte sich die Nachfrage nach Strom verdoppeln. Diese Länder sind am besten darauf vorbereitet",
+      "seoTitle": "Strom für E-Autos und KI: Diese Länder sind darauf vorbereitet",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Florian Seliger (fsl)",
+          "id": 1556093,
+          "shortName": "fsl",
+          "proLitterisId": "888824"
+        }
+      ],
+      "nzzPrintTitle": "Diese Länder sind auf die grosse Nachfrage nach Strom vorbereitet",
+      "designName": "morpheus",
+      "premium": true,
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-06-27T18:51:19.112Z",
+      "department": {
+        "path": "/pro",
+        "premium": false,
+        "level": 1,
+        "name": "Pro"
+      },
+      "publicationDate": "2024-06-27T06:51:19.112Z",
+      "slug": "bis-2050-koennte-sich-die-nachfrage-nach-strom-verdoppeln-diese-laender-sind-am-besten-darauf-vorbereitet-arbeitstitel",
+      "firstPublicationDate": "2024-06-27T06:51:19.112Z",
+      "nzzCharacterCount": 8475,
+      "owner": "NZZ",
+      "authorLine": "Florian Seliger",
+      "numberOfContentComponents": 43,
+      "germanyRelevant": true,
+      "leadText": "Künstliche Intelligenz, elektrische Autos und mehr Wohlstand in den Entwicklungsländern werden in den nächsten Jahrzehnten den Bedarf an elektrischer Energie in die Höhe treiben. Mehr nachhaltig produzierter Strom wird immer wichtiger.",
+      "publicationLastUpdated": "2024-08-26T04:59:03.036Z",
+      "nzzArticleSnippet": "Künstliche Intelligenz, elektrische Autos und mehr Wohlstand in den Entwicklungsländern werden in den nächsten Jahrzehnten den Bedarf an elektrischer Energie in die Höhe treiben. Mehr nachhaltig produzierter Strom wird immer wichtiger.",
+      "urlPath": "/pro/bis-2050-koennte-sich-die-nachfrage-nach-strom-verdoppeln-diese-laender-sind-am-besten-darauf-vorbereitet-arbeitstitel-ld.1827726",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 900,
+        "originalUrl": "https://img.nzz.ch/2024/05/31/d8b4a227-9a62-4a15-ab96-85e45d49be7e.gif",
+        "mimeType": "image/gif",
+        "crops": [
+          {
+            "x": 0,
+            "width": 900,
+            "name": "16:9",
+            "y": 47,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/05/31/d8b4a227-9a62-4a15-ab96-85e45d49be7e.gif?crop=900,506,x0,y47&width=1024&quality=75&auto=webp",
+            "height": 506,
+            "ratio": 1.77778
+          },
+          {
+            "x": 150,
+            "width": 600,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/05/31/d8b4a227-9a62-4a15-ab96-85e45d49be7e.gif?crop=600,600,x150,y0&width=1024&quality=75&auto=webp",
+            "height": 600,
+            "ratio": 1
+          },
+          {
+            "x": 50,
+            "width": 800,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/05/31/d8b4a227-9a62-4a15-ab96-85e45d49be7e.gif?crop=800,600,x50,y0&width=1024&quality=75&auto=webp",
+            "height": 600,
+            "ratio": 1.33333
+          },
+          {
+            "x": 225,
+            "width": 450,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/05/31/d8b4a227-9a62-4a15-ab96-85e45d49be7e.gif?crop=450,600,x225,y0&width=1024&quality=75&auto=webp",
+            "height": 600,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "DhMEcZPV2QAj",
+        "url": "https://img.nzz.ch/2024/05/31/d8b4a227-9a62-4a15-ab96-85e45d49be7e.gif?width=1024&quality=75&auto=webp",
+        "key": "2024/05/31/d8b4a227-9a62-4a15-ab96-85e45d49be7e.gif",
+        "height": 600
+      },
+      "nzzId": "ld.1827726",
+      "url": "https://www.nzz.ch/pro/bis-2050-koennte-sich-die-nachfrage-nach-strom-verdoppeln-diese-laender-sind-am-besten-darauf-vorbereitet-arbeitstitel-ld.1827726",
+      "dependencies": {},
+      "commentCount": 3,
+      "layout": "longformstandard",
+      "estimationWordCount": 1243,
+      "nzzAbstract": "Welche Länder haben bereits heute einen hohen Anteil an erneuerbaren Energien in ihrem Energiemix?\nWelche Länder sind am schlechtesten auf die steigende Stromnachfrage vorbereitet?\nWelches Land wird seine Stromproduktion bis 2050 am meisten ausbauen?\n",
+      "embeds": {
+        "images": [
+          {
+            "author": "Illustration Simon Tanner / NZZ",
+            "url": "https://img.nzz.ch/2024/05/31/724910f7-66de-4bcb-b36c-36b1ec68a49c.gif?width=1024&quality=75&auto=webp"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0819c8effbf081938ef522a36942874a"
+          },
+          {
+            "id": "64d3df3ff8944eb8b41a1540eac2c0ad"
+          },
+          {
+            "id": "18aac520b7bfcb66995d8023768f1385"
+          },
+          {
+            "id": "01da15f0f6a6396873566efb70d0799b"
+          },
+          {
+            "id": "72bccee5c035ae75d74a44f10a20d722"
+          },
+          {
+            "id": "72bccee5c035ae75d74a44f10a240c67"
+          },
+          {
+            "id": "0819c8effbf081938ef522a36940fb25"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/pro",
+          "name": "Pro"
+        }
+      ],
+      "teaserCaption": "Wenn die Sonne scheint, ist es leicht, grünen Strom zu produzieren, wie hier in Oman.",
+      "documentId": "1827726",
+      "product": "NZZ.ch"
+    }
+  }
+]

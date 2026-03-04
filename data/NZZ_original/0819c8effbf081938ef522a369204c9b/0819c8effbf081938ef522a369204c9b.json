@@ -1,0 +1,126 @@
+{
+  "_id": "0819c8effbf081938ef522a369204c9b",
+  "_rev": "52-3a339b0efe989f73f0a004e60b70435d",
+  "department": "International",
+  "publication": "nzz",
+  "acronym": "k.b.",
+  "data": [
+    [
+      null,
+      "China",
+      "Schweiz"
+    ],
+    [
+      "Zucker",
+      "1.2",
+      "39"
+    ],
+    [
+      "Eier",
+      "13.5",
+      "13"
+    ],
+    [
+      "Fleisch",
+      "34.6",
+      "47"
+    ],
+    [
+      "Früchte",
+      "61",
+      "108"
+    ],
+    [
+      "Gemüse",
+      "108.2",
+      "103"
+    ],
+    [
+      "Getreide",
+      "136.8",
+      "97"
+    ],
+    [
+      "Milch und Milchprodukte",
+      "12.4",
+      "293.4"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {
+        "url": "https://www.stats.gov.cn/sj/ndsj/2023/indexeh.htm",
+        "isValid": true
+      },
+      "text": "Statistisches Jahrbuch Chinas 2023"
+    },
+    {
+      "link": {
+        "url": "https://www.bfs.admin.ch/bfs/de/home/statistiken/land-forstwirtschaft/ernaehrung.assetdetail.30607024.html",
+        "isValid": true
+      },
+      "text": "Schweizerisches Bundesamt für Statistik"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [
+      0
+    ],
+    "highlightDataRows": [],
+    "annotations": {
+      "valuesOnBars": true
+    },
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [
+      {
+        "color": "#c31906",
+        "position": 1
+      },
+      {
+        "color": "#e3b13e",
+        "colorLight": "#e3b13e",
+        "position": 2
+      }
+    ],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "Chinesen essen mittlerweile viel Fleisch",
+  "subtitle": "Pro-Kopf-Konsum ausgewählter Nahrungsmittel pro Jahr, in Kilogramm (2022)",
+  "createdDate": "2024-04-22T13:48:41.030Z",
+  "createdBy": "katrin.buechenbacher@nzz.ch",
+  "updatedDate": "2024-04-24T15:24:39.877Z",
+  "updatedBy": "simon.huwiler@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/0819c8effbf081938ef522a369204c9b-thumbnail.jpeg"
+}

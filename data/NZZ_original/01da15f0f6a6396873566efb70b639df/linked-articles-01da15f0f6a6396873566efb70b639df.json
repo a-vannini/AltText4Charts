@@ -1,0 +1,146 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Kimimasa Mayama / EPA",
+      "firstTitle": "Starkes Image, schwacher Yen: Japan feiert und fürchtet neue Tourismusrekorde",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "-tWLbKQyQXZ5-O2y_AIjt",
+        "locale": "de-CH"
+      },
+      "title": "Starkes Image, schwacher Yen: Japan feiert und fürchtet Tourismusrekorde",
+      "seoTitle": "Japan erlebt Tourismusboom: Strategien gegen Übertourismus",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Martin Koelling (koe)",
+          "id": 1372936,
+          "shortName": "koe"
+        }
+      ],
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-05-15T15:30:00.000Z",
+      "department": {
+        "path": "/wirtschaft",
+        "premium": false,
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2024-05-15T03:30:00.000Z",
+      "slug": "starkes-image-schwacher-yen-japan-feiert-und-fuerchtet-neue-tourismusrekorde",
+      "firstPublicationDate": "2024-05-15T03:30:00.000Z",
+      "nzzCharacterCount": 7412,
+      "owner": "NZZ",
+      "authorLine": "Martin Koelling, Tokio",
+      "numberOfContentComponents": 25,
+      "germanyRelevant": true,
+      "leadText": "Als Schutz gegen die Auswüchse des jüngsten Tourismusbooms ergreifen Einwohner in einigen Topzielen Gegenmassnahmen. Die Regierung will den Regionaltourismus abseits der Massenrouten fördern. Die Hoffnung sind europäische Touristen.",
+      "publicationLastUpdated": "2024-05-15T08:55:25.535Z",
+      "nzzArticleSnippet": "Als Schutz gegen die Auswüchse des jüngsten Tourismusbooms ergreifen Einwohner in einigen Topzielen Gegenmassnahmen. Die Regierung will den Regionaltourismus abseits der Massenrouten fördern. Die Hoffnung sind europäische Touristen.",
+      "urlPath": "/wirtschaft/starkes-image-schwacher-yen-japan-feiert-und-fuerchtet-neue-tourismusrekorde-ld.1830139",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 4399,
+        "originalUrl": "https://img.nzz.ch/2024/05/14/50b40575-3483-4fc4-9cbe-1399c3330bcd.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 4399,
+            "name": "16:9",
+            "y": 297,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/14/50b40575-3483-4fc4-9cbe-1399c3330bcd.jpeg?crop=4399,2474,x0,y297&width=1024&quality=75&auto=webp",
+            "height": 2474,
+            "ratio": 1.77778
+          },
+          {
+            "x": 714,
+            "width": 2127,
+            "name": "1:1",
+            "y": 133,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/14/50b40575-3483-4fc4-9cbe-1399c3330bcd.jpeg?crop=2127,2127,x714,y133&width=1024&quality=75&auto=webp",
+            "height": 2127,
+            "ratio": 1
+          },
+          {
+            "x": 0,
+            "width": 4039,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/14/50b40575-3483-4fc4-9cbe-1399c3330bcd.jpeg?crop=4039,3029,x0,y0&width=1024&quality=75&auto=webp",
+            "height": 3029,
+            "ratio": 1.33333
+          },
+          {
+            "x": 596,
+            "width": 2272,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/14/50b40575-3483-4fc4-9cbe-1399c3330bcd.jpeg?crop=2272,3029,x596,y0&width=1024&quality=75&auto=webp",
+            "height": 3029,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "rgIdcX953pHM",
+        "url": "https://img.nzz.ch/2024/05/14/50b40575-3483-4fc4-9cbe-1399c3330bcd.jpeg?width=1024&quality=75&auto=webp",
+        "key": "2024/05/14/50b40575-3483-4fc4-9cbe-1399c3330bcd.jpeg",
+        "height": 3029
+      },
+      "nzzId": "ld.1830139",
+      "url": "https://www.nzz.ch/wirtschaft/starkes-image-schwacher-yen-japan-feiert-und-fuerchtet-neue-tourismusrekorde-ld.1830139",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1htrhkco11"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "longformstandard",
+      "estimationWordCount": 1123,
+      "embeds": {
+        "images": [
+          {
+            "author": "Kimimasa Mayama / EPA",
+            "caption": "Der Mount Fuji ist bei Touristen ein besonders beliebtes Fotosujet.",
+            "origins": [
+              {
+                "identifier": "2155729023",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/05/14/50b40575-3483-4fc4-9cbe-1399c3330bcd.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "01da15f0f6a6396873566efb70b639df"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "teaserCaption": "Der Mount Fuji ist bei Touristen ein besonders beliebtes Fotosujet.",
+      "documentId": "1830139",
+      "product": "NZZ.ch"
+    }
+  }
+]

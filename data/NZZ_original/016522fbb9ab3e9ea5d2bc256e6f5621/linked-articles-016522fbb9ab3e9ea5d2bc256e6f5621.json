@@ -1,0 +1,96 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Die Schwinger in Zahlen",
+      "nzzAuthors": [
+        {
+          "name": "Marvin Milatz",
+          "id": 1373203
+        },
+        {
+          "name": "Marie-José Kolly",
+          "id": 1407913
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2016-08-27T03:44:05.881Z",
+      "department": {
+        "path": "/bildstrecken/bildstrecken-sport",
+        "is_visible": true,
+        "is_mobile": true,
+        "level": 2,
+        "name": "Sport"
+      },
+      "publicationDate": "2016-08-27T05:30:00.000Z",
+      "slug": "eidgenoessisches-schwingfest-schwinger-in-zahlen",
+      "firstPublicationDate": "2016-08-26T15:44:05.881Z",
+      "authorLine": "Marie-José Kolly, Marvin Milatz",
+      "numberOfContentComponents": 20,
+      "leadText": "Wer in Estavayer mitschwingt, ist meist gross und schwer. Wer Erfolg hat, ist noch grösser und noch schwerer. Ein Blick auf die Teilnehmerliste des Eidgenössischen Schwingfests.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2017-01-18T09:51:27.009Z",
+      "urlPath": "/bildstrecken/bildstrecken-sport/eidgenoessisches-schwingfest-schwinger-in-zahlen-ld.113163",
+      "nzzId": "ld.113163",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 3939,
+        "originalUrl": "http://nzz-img.s3.amazonaws.com/2016/8/26/53260089-2452-4806-a3a8-af0a3ed3f035.jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 0,
+            "width": 3939,
+            "y": 205,
+            "url": "https://img.nzz.ch/C=W3939,H2216,X0,Y205/O=75/http://nzz-img.s3.amazonaws.com/2016/8/26/53260089-2452-4806-a3a8-af0a3ed3f035.jpeg",
+            "height": 2216
+          },
+          {
+            "name": "1:1",
+            "x": 656.5,
+            "width": 2626,
+            "y": 0,
+            "url": "https://img.nzz.ch/C=W2626,H2626,X656.5,Y0/O=75/http://nzz-img.s3.amazonaws.com/2016/8/26/53260089-2452-4806-a3a8-af0a3ed3f035.jpeg",
+            "height": 2626
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/http://nzz-img.s3.amazonaws.com/2016/8/26/53260089-2452-4806-a3a8-af0a3ed3f035.jpeg",
+        "height": 2626
+      },
+      "url": "https://www.nzz.ch/bildstrecken/bildstrecken-sport/eidgenoessisches-schwingfest-schwinger-in-zahlen-ld.113163",
+      "dependencies": {},
+      "layout": "longformstandard",
+      "embeds": {
+        "images": [
+          {
+            "caption": "Einer der grössten, schwersten und erfolgreichsten Schwinger: Christian Stucki (oben) - hier im Kampf mit Schwingerkönig Matthias Sempach. (Bild: Keystone)",
+            "url": "https://img.nzz.ch/O=75/http://nzz-img.s3.amazonaws.com/2016/8/26/53260089-2452-4806-a3a8-af0a3ed3f035.jpeg"
+          },
+          {
+            "url": "https://img.nzz.ch/O=75/http://nzz-img.s3.amazonaws.com/2016/8/26/e495df6a-0947-4072-93c8-ad24819e17e5.png"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "23df876a64db54d34f4375f8ac7ee82d"
+          },
+          {
+            "id": "282f40d0eee1f0d0da93cf0fba3c5e23"
+          },
+          {
+            "id": "016522fbb9ab3e9ea5d2bc256e6f5621"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Einer der grössten, schwersten und erfolgreichsten Schwinger: Christian Stucki (oben) - hier im Kampf mit Schwingerkönig Matthias Sempach. (Bild: Keystone)",
+      "documentId": "113163",
+      "product": "NZZ.ch"
+    }
+  }
+]

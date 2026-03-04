@@ -1,0 +1,221 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "Shuran Huang / Reuters",
+      "contentTypeGroup": "web",
+      "firstTitle": "Die Geschichte der Sanktionen ist eine Geschichte des Misserfolgs",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Die Geschichte der Sanktionen ist eine Geschichte des Misserfolgs",
+      "seoTitle": "Die Geschichte der Sanktionen ist eine Geschichte des Misserfolgs",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Rewert Hoffer (rew)",
+          "id": 1641030,
+          "shortName": "rew"
+        }
+      ],
+      "designName": "morpheus",
+      "premium": true,
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2022-02-03T02:37:52.588Z",
+      "department": {
+        "path": "/pro/perspektiven",
+        "premium": false,
+        "level": 2,
+        "parentPath": "/pro",
+        "name": "Perspektiven"
+      },
+      "publicationDate": "2022-02-03T10:00:00.000Z",
+      "slug": "die-geschichte-der-sanktionen-ist-eine-geschichte-des-misserfolgs",
+      "firstPublicationDate": "2022-02-02T14:37:52.588Z",
+      "nzzCharacterCount": 6924,
+      "authorLine": "Rewert Hoffer",
+      "owner": "NZZ",
+      "numberOfContentComponents": 27,
+      "seoDescription": "Wirtschaftssanktionen haben in der Vergangenheit nur selten die gewünschten Effekte gezeigt. Das ist heute nicht anders.",
+      "germanyRelevant": true,
+      "leadText": "Erstmals verwendete der Völkerbund nach dem Ende des Ersten Weltkrieges Wirtschaftssanktionen als institutionalisiertes Instrument der Aussenpolitik. Die Geschichte zeigt allerdings: Sanktionen verfehlen meist ihren Zweck. Welchen Stellenwert werden Sanktionen zukünftig haben?",
+      "publicationLastUpdated": "2024-08-26T11:25:23.093Z",
+      "nzzArticleSnippet": "Erstmals verwendete der Völkerbund nach dem Ende des Ersten Weltkrieges Wirtschaftssanktionen als institutionalisiertes Instrument der Aussenpolitik. Die Geschichte zeigt allerdings: Sanktionen verfehlen meist ihren Zweck. Welchen Stellenwert werden Sanktionen zukünftig haben?",
+      "urlPath": "/pro/perspektiven/die-geschichte-der-sanktionen-ist-eine-geschichte-des-misserfolgs-ld.1666601",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 3000,
+        "originalUrl": "https://img.nzz.ch/2022/02/03/5d4c7bb4-195a-42eb-a194-592d8ae2ac38.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 3000,
+            "name": "16:9",
+            "y": 65,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2022/02/03/5d4c7bb4-195a-42eb-a194-592d8ae2ac38.jpeg?crop=3000,1687,x0,y65&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2022/02/03/5d4c7bb4-195a-42eb-a194-592d8ae2ac38.jpeg?crop=3000,1687,x0,y65&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2022/02/03/5d4c7bb4-195a-42eb-a194-592d8ae2ac38.jpeg?crop=3000,1687,x0,y65&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2022/02/03/5d4c7bb4-195a-42eb-a194-592d8ae2ac38.jpeg?crop=3000,1687,x0,y65&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2022/02/03/5d4c7bb4-195a-42eb-a194-592d8ae2ac38.jpeg?crop=3000,1687,x0,y65&width=1024&quality=75&auto=webp",
+            "height": 1687,
+            "ratio": 1.77778
+          },
+          {
+            "x": 729,
+            "width": 2000,
+            "name": "1:1",
+            "y": 0,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2022/02/03/5d4c7bb4-195a-42eb-a194-592d8ae2ac38.jpeg?crop=2000,2000,x729,y0&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2022/02/03/5d4c7bb4-195a-42eb-a194-592d8ae2ac38.jpeg?crop=2000,2000,x729,y0&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2022/02/03/5d4c7bb4-195a-42eb-a194-592d8ae2ac38.jpeg?crop=2000,2000,x729,y0&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2022/02/03/5d4c7bb4-195a-42eb-a194-592d8ae2ac38.jpeg?crop=2000,2000,x729,y0&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2022/02/03/5d4c7bb4-195a-42eb-a194-592d8ae2ac38.jpeg?crop=2000,2000,x729,y0&width=1024&quality=75&auto=webp",
+            "height": 2000,
+            "ratio": 1
+          },
+          {
+            "x": 167,
+            "width": 2667,
+            "name": "4:3",
+            "y": 0,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2022/02/03/5d4c7bb4-195a-42eb-a194-592d8ae2ac38.jpeg?crop=2667,2000,x167,y0&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2022/02/03/5d4c7bb4-195a-42eb-a194-592d8ae2ac38.jpeg?crop=2667,2000,x167,y0&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2022/02/03/5d4c7bb4-195a-42eb-a194-592d8ae2ac38.jpeg?crop=2667,2000,x167,y0&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2022/02/03/5d4c7bb4-195a-42eb-a194-592d8ae2ac38.jpeg?crop=2667,2000,x167,y0&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2022/02/03/5d4c7bb4-195a-42eb-a194-592d8ae2ac38.jpeg?crop=2667,2000,x167,y0&width=1024&quality=75&auto=webp",
+            "height": 2000,
+            "ratio": 1.33333
+          },
+          {
+            "x": 750,
+            "width": 1500,
+            "name": "3:4",
+            "y": 0,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2022/02/03/5d4c7bb4-195a-42eb-a194-592d8ae2ac38.jpeg?crop=1500,2000,x750,y0&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2022/02/03/5d4c7bb4-195a-42eb-a194-592d8ae2ac38.jpeg?crop=1500,2000,x750,y0&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2022/02/03/5d4c7bb4-195a-42eb-a194-592d8ae2ac38.jpeg?crop=1500,2000,x750,y0&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2022/02/03/5d4c7bb4-195a-42eb-a194-592d8ae2ac38.jpeg?crop=1500,2000,x750,y0&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2022/02/03/5d4c7bb4-195a-42eb-a194-592d8ae2ac38.jpeg?crop=1500,2000,x750,y0&width=1024&quality=75&auto=webp",
+            "height": 2000,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "Zoum1autCrWm",
+        "key": "2022/02/03/5d4c7bb4-195a-42eb-a194-592d8ae2ac38.jpeg",
+        "url": "https://img.nzz.ch/2022/02/03/5d4c7bb4-195a-42eb-a194-592d8ae2ac38.jpeg?width=1024&quality=75&auto=webp",
+        "height": 2000
+      },
+      "nzzId": "ld.1666601",
+      "url": "https://www.nzz.ch/pro/perspektiven/die-geschichte-der-sanktionen-ist-eine-geschichte-des-misserfolgs-ld.1666601",
+      "dependencies": {},
+      "layout": "regular",
+      "estimationWordCount": 1007,
+      "embeds": {
+        "images": [
+          {
+            "author": "Shuran Huang / Reuters",
+            "caption": "Bei Protesten vor dem Weissen Haus in Washington D.C. fordern Demonstranten härtere Sanktionen gegen Russland. Es ist allerdings fraglich, ob ein Ausschluss Russlands aus dem Bezahlsystem Swift effektvoll wäre.",
+            "origins": [
+              {
+                "identifier": "2128144782",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2022/02/03/5d4c7bb4-195a-42eb-a194-592d8ae2ac38.jpeg?crop=2383,1746,x436,y0&width=1024&quality=75&auto=webp"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "03599a15902e399ebfc46c386e89e3b3"
+          },
+          {
+            "id": "03599a15902e399ebfc46c386ebe6cf3"
+          },
+          {
+            "id": "014e6bf3927ddaf505c8053e374539d9"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Bei Protesten vor dem Weissen Haus in Washington D.C. fordern Demonstranten härtere Sanktionen gegen Russland. Es ist allerdings fraglich, ob ein Ausschluss Russlands aus dem Bezahlsystem Swift effektvoll wäre.",
+      "breadcrumbs": [
+        {
+          "path": "/pro",
+          "name": "Pro"
+        },
+        {
+          "path": "/pro/perspektiven",
+          "name": "Perspektiven"
+        }
+      ],
+      "documentId": "1666601",
+      "product": "NZZ.ch"
+    }
+  }
+]

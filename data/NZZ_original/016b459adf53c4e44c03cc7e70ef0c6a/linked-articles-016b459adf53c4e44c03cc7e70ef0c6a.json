@@ -1,0 +1,121 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "Karin Hofer / NZZ",
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Nach einem Monat Maskenpflicht haben Supermärkte kaum mehr Einbussen. Daten zeigen: Die Leute gewöhnen sich an die Pflicht",
+      "seoTitle": "Corona-Maskenpflicht: Gewöhnung reduziert Einbussen für Geschäfte",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Matthias Benz (mbe)",
+          "id": 1373120
+        }
+      ],
+      "nzzPrintTitle": "Kunden gewöhnen sich an die Maskenpflicht",
+      "designName": "morpheus",
+      "significantUpdateTill": "2020-10-07T14:31:20.890Z",
+      "department": {
+        "path": "/wirtschaft",
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2020-10-07T03:30:00.000Z",
+      "slug": "nach-einem-monat-maskenpflicht-haben-supermaerkte-kaum-mehr-einbussen-echtzeitdaten-zeigen-eine-gewoehnung",
+      "firstPublicationDate": "2020-10-07T02:31:20.890Z",
+      "nzzCharacterCount": 6235,
+      "authorLine": "Matthias Benz",
+      "numberOfContentComponents": 30,
+      "leadText": "Der Kanton Zürich hat eine Maskenpflicht für Geschäfte eingeführt, die umliegenden Kantone nicht. Dieses «Experiment» lässt einmalige Schlüsse zu. Eine NZZ-Analyse zeigt: Die Kunden arrangieren sich – aber nicht überall.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2020-10-07T10:31:43.532Z",
+      "nzzArticleSnippet": "Der Kanton Zürich hat eine Maskenpflicht für Geschäfte eingeführt, die umliegenden Kantone nicht. Dieses «Experiment» lässt einmalige Schlüsse zu. Eine NZZ-Analyse zeigt: Die Kunden arrangieren sich – aber nicht überall.",
+      "urlPath": "/wirtschaft/nach-einem-monat-maskenpflicht-haben-supermaerkte-kaum-mehr-einbussen-echtzeitdaten-zeigen-eine-gewoehnung-ld.1579539",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 4486,
+        "originalUrl": "https://nzz-img.s3.amazonaws.com/2020/10/6/908551fa-a2ba-4c8f-8b21-35c80158f002.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 338,
+            "width": 3988,
+            "y": 256,
+            "url": "https://img.nzz.ch/C=W3988,H2243,X338,Y256/O=75/https://nzz-img.s3.amazonaws.com/2020/10/6/908551fa-a2ba-4c8f-8b21-35c80158f002.jpeg",
+            "height": 2243
+          },
+          {
+            "name": "1:1",
+            "x": 1211,
+            "width": 2363,
+            "y": 284,
+            "url": "https://img.nzz.ch/C=W2363,H2363,X1211,Y284/O=75/https://nzz-img.s3.amazonaws.com/2020/10/6/908551fa-a2ba-4c8f-8b21-35c80158f002.jpeg",
+            "height": 2363
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2020/10/6/908551fa-a2ba-4c8f-8b21-35c80158f002.jpeg",
+        "height": 2991
+      },
+      "nzzId": "ld.1579539",
+      "url": "https://www.nzz.ch/wirtschaft/nach-einem-monat-maskenpflicht-haben-supermaerkte-kaum-mehr-einbussen-echtzeitdaten-zeigen-eine-gewoehnung-ld.1579539",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1ejuiqipj0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "nzzPrintSubtitle": "Nach einem Monat haben die Zürcher Supermärkte kaum mehr Einbussen - andere Detailhändler hingegen schon",
+      "embeds": {
+        "images": [
+          {
+            "author": "Karin Hofer / NZZ",
+            "caption": "Im Kanton Zürich gilt beim Shopping eine Maskenpflicht. Im Bild das&nbsp;Einkaufszentrum Archhöfe in Winterthur.",
+            "origins": [
+              {
+                "identifier": "picture-2113722525",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2020/10/6/908551fa-a2ba-4c8f-8b21-35c80158f002.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "016b459adf53c4e44c03cc7e70ef0c6a"
+          },
+          {
+            "id": "a0abecab3f217f144ed679572c4a21bc"
+          },
+          {
+            "id": "016b459adf53c4e44c03cc7e70f34882"
+          },
+          {
+            "id": "a0abecab3f217f144ed679572c4b6170"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Im Kanton Zürich gilt beim Shopping eine Maskenpflicht. Im Bild das Einkaufszentrum Archhöfe in Winterthur.",
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "documentId": "1579539",
+      "product": "NZZ.ch"
+    }
+  }
+]

@@ -1,0 +1,159 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "Amélie Benoist / Image Point / Imago",
+      "contentTypeGroup": "web",
+      "firstTitle": "Französinnen schaffen Kind und Karriere, weil ihnen niemand Schuldgefühle einredet",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "dLykwC0dYCBL7yCvdxLkC",
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Französinnen schaffen Kind und Karriere, weil ihnen niemand Schuldgefühle einredet",
+      "seoTitle": "Vereinbarkeit: Französinnen sind vom Muttermythos befreit",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Nina Belz (nbe)",
+          "id": 1373290,
+          "shortName": "nbe"
+        }
+      ],
+      "nzzPrintTitle": "Befreit vom Muttermythos",
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-01-16T16:26:00.000Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Andreas Ernst (ahn)",
+          "id": 1371808,
+          "shortName": "ahn"
+        }
+      ],
+      "department": {
+        "path": "/international",
+        "premium": false,
+        "level": 1,
+        "name": "International"
+      },
+      "publicationDate": "2024-01-16T04:26:00.000Z",
+      "slug": "warum-franzoesinnen-kind-und-karriere-schaffen",
+      "firstPublicationDate": "2024-01-16T04:26:00.000Z",
+      "nzzCharacterCount": 11596,
+      "owner": "NZZ",
+      "authorLine": "Nina Belz",
+      "numberOfContentComponents": 32,
+      "seoDescription": "Vereinbarkeit von Kind und Karriere: Französinnen sind vom Muttermythos befreit",
+      "leadText": "In Frankreich sind Mütter oft in Vollzeit berufstätig und bekommen im Durchschnitt am meisten Kinder in Europa. Das liegt am grosszügigen Wohlfahrtsstaat, aber auch an gesellschaftlichen Normen, die die Frau nicht auf die Mutterrolle reduzieren. Ein Erfahrungsbericht.",
+      "publicationLastUpdated": "2024-01-16T04:26:00.000Z",
+      "nzzArticleSnippet": "In Frankreich sind Mütter oft in Vollzeit berufstätig und bekommen im Durchschnitt am meisten Kinder in Europa. Das liegt am grosszügigen Wohlfahrtsstaat, aber auch an gesellschaftlichen Normen, die die Frau nicht auf die Mutterrolle reduzieren. Ein Erfahrungsbericht.",
+      "urlPath": "/international/warum-franzoesinnen-kind-und-karriere-schaffen-ld.1773908",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 5616,
+        "originalUrl": "https://img.nzz.ch/2024/01/15/73765c1a-9bf8-43b9-8df2-ec3fcad4148c.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 34,
+            "width": 4437,
+            "name": "16:9",
+            "y": 214,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W4437,H2496,X34,Y214/O=75/https://img.nzz.ch/2024/01/15/73765c1a-9bf8-43b9-8df2-ec3fcad4148c.jpeg",
+            "height": 2496,
+            "ratio": 1.77778
+          },
+          {
+            "x": 2185,
+            "width": 1641,
+            "name": "1:1",
+            "y": 563,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W1641,H1641,X2185,Y563/O=75/https://img.nzz.ch/2024/01/15/73765c1a-9bf8-43b9-8df2-ec3fcad4148c.jpeg",
+            "height": 1641,
+            "ratio": 1
+          },
+          {
+            "x": 624,
+            "width": 4992,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W4992,H3744,X624,Y0/O=75/https://img.nzz.ch/2024/01/15/73765c1a-9bf8-43b9-8df2-ec3fcad4148c.jpeg",
+            "height": 3744,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1895,
+            "width": 2496,
+            "name": "3:4",
+            "y": 416,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W2496,H3328,X1895,Y416/O=75/https://img.nzz.ch/2024/01/15/73765c1a-9bf8-43b9-8df2-ec3fcad4148c.jpeg",
+            "height": 3328,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "NH0Su4ByheV8",
+        "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/01/15/73765c1a-9bf8-43b9-8df2-ec3fcad4148c.jpeg",
+        "height": 3744
+      },
+      "nzzId": "ld.1773908",
+      "url": "https://www.nzz.ch/international/warum-franzoesinnen-kind-und-karriere-schaffen-ld.1773908",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hk6neuig0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "longformstandard",
+      "estimationWordCount": 1829,
+      "nzzPrintSubtitle": "Französinnen schaffen Kind und Karriere nicht nur wegen des grosszügigen Wohlfahrtsstaats. Ein Essay",
+      "embeds": {
+        "images": [
+          {
+            "author": "Amélie Benoist / Image Point / Imago",
+            "caption": "Französische Kinder werden oft von klein auf ausser Haus betreut; die Kita ist die bei den Eltern beliebteste Betreuungsform. Allerdings müssen viele mit einer anderen Lösung Vorlieb nehmen, weil es nicht genug Plätze gibt.&nbsp;&nbsp;",
+            "origins": [
+              {
+                "identifier": "2151570842",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/C=W5616,H3703,X0,Y41/O=75/https://img.nzz.ch/2024/01/15/73765c1a-9bf8-43b9-8df2-ec3fcad4148c.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0313da61de86779a1c0b46f57123b67d"
+          },
+          {
+            "id": "ff3a99847a7454cd3af598cab02b8da7"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/international",
+          "name": "International"
+        }
+      ],
+      "teaserCaption": "Französische Kinder werden oft von klein auf ausser Haus betreut; die Kita ist die bei den Eltern beliebteste Betreuungsform. Allerdings müssen viele mit einer anderen Lösung Vorlieb nehmen, weil es nicht genug Plätze gibt.",
+      "documentId": "1773908",
+      "product": "NZZ.ch"
+    }
+  }
+]

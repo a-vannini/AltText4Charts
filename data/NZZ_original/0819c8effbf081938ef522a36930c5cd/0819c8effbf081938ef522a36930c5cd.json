@@ -1,0 +1,108 @@
+{
+  "_id": "0819c8effbf081938ef522a36930c5cd",
+  "_rev": "17-e7b05c1698e4fc8ca7baa6c3d0b24758",
+  "data": [
+    [
+      "Jahr",
+      "Fälle"
+    ],
+    [
+      "2023",
+      "43"
+    ],
+    [
+      "2022",
+      "31"
+    ],
+    [
+      "2021",
+      "27"
+    ],
+    [
+      "2020",
+      "18"
+    ],
+    [
+      "2019",
+      "17"
+    ],
+    [
+      "2018",
+      "10"
+    ],
+    [
+      "2017",
+      "7"
+    ],
+    [
+      "2016",
+      "8"
+    ],
+    [
+      "2015",
+      "5"
+    ],
+    [
+      "2014",
+      "10"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {},
+      "text": "Universität Zürich"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {
+      "valuesOnBars": true
+    },
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "department": "Zürich",
+  "publication": "nzz",
+  "acronym": "zge.",
+  "active": true,
+  "title": "Sexuelle Belästigungen an der Universität Zürich",
+  "subtitle": "Gemeldete Fälle 2014 bis 2023",
+  "createdDate": "2024-04-24T12:45:20.951Z",
+  "createdBy": "zeno.geisseler@nzz.ch",
+  "updatedDate": "2024-04-24T12:51:06.137Z",
+  "updatedBy": "zeno.geisseler@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/0819c8effbf081938ef522a36930c5cd-thumbnail.jpeg"
+}

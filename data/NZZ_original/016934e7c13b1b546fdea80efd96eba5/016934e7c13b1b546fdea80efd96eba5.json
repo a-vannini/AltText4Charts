@@ -1,0 +1,107 @@
+{
+  "_id": "016934e7c13b1b546fdea80efd96eba5",
+  "_rev": "3-14a9ef6cb8d21ee22d10d312a3ed16d2",
+  "allowDownloadData": false,
+  "active": true,
+  "tool": "chart",
+  "title": "An Unterbrüchen von Unterseekabeln ist meist der Mensch schuld",
+  "subtitle": "Ursachen von Störungen als Anteil an der Zahl der Vorfälle, in %",
+  "department": "Visuals",
+  "publication": "nzz",
+  "acronym": "joe.",
+  "data": [
+    [
+      "Art",
+      "Anteil"
+    ],
+    [
+      "Fischerei",
+      "38"
+    ],
+    [
+      "Schiffsanker",
+      "25"
+    ],
+    [
+      "Andere menschliche Aktivitäten",
+      "11"
+    ],
+    [
+      "Naturkatastrophen",
+      "8"
+    ],
+    [
+      "Verschleiss",
+      "6"
+    ],
+    [
+      "Störungen an Komponenten",
+      "6"
+    ],
+    [
+      "Andere Gründe",
+      "6"
+    ]
+  ],
+  "sources": [
+    {
+      "text": "Telegeography.com (2022)",
+      "link": {
+        "url": "https://www2.telegeography.com/submarine-cable-faqs-frequently-asked-questions"
+      }
+    }
+  ],
+  "events": [],
+  "options": {
+    "annotations": {
+      "valuesOnBars": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "chartType": "Bar",
+    "colorOverwritesRows": [],
+    "colorOverwritesSeries": [
+      {
+        "color": "#4D7279",
+        "colorLight": "#7fa4ac",
+        "position": 1
+      }
+    ],
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "many",
+      "prognosisStart": null
+    },
+    "dotplotOptions": {},
+    "hideAxisLabel": true,
+    "highlightDataRows": [
+      0,
+      1,
+      2
+    ],
+    "highlightDataSeries": [],
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "createdDate": "2025-03-07T14:39:26.019Z",
+  "createdBy": "jonas.oesch@nzz.ch",
+  "updatedDate": "2025-03-07T14:40:28.959Z",
+  "updatedBy": "jonas.oesch@nzz.ch"
+}

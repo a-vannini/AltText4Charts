@@ -1,0 +1,140 @@
+{
+  "_id": "08e996c76bf1a7d4bec453e674f9211e",
+  "_rev": "4-4530c8bdb5f989b1aeaf8989d5ca6d93",
+  "department": "Visuals",
+  "publication": "nzz",
+  "acronym": "bsk.",
+  "allowDownloadData": false,
+  "active": true,
+  "tool": "chart",
+  "title": "In Spanien und in der Türkei steigen die jährlichen Beschlagnahmungen",
+  "subtitle": "Anzahl Drogenkonfiszierungen in ausgewählten europäischen Ländern, 2014 bis 2022 ",
+  "data": [
+    [
+      "Jahr",
+      "Spanien",
+      "Türkei",
+      "Total ausgewählte Länder"
+    ],
+    [
+      "2022",
+      "435029",
+      "267116",
+      "164903"
+    ],
+    [
+      "2021",
+      "338498",
+      "215771",
+      "161513"
+    ],
+    [
+      "2020",
+      "312491",
+      "159268",
+      "185310"
+    ],
+    [
+      "2019",
+      "411284",
+      "148821",
+      "196170"
+    ],
+    [
+      "2018",
+      "385075",
+      "144819",
+      "217074"
+    ],
+    [
+      "2017",
+      "377544",
+      "118456",
+      "194791"
+    ],
+    [
+      "2016",
+      "395953",
+      "81222",
+      "182309"
+    ],
+    [
+      "2015",
+      "384597",
+      "73017",
+      "166694"
+    ],
+    [
+      "2014",
+      "413140",
+      "77664",
+      "158930"
+    ]
+  ],
+  "sources": [
+    {
+      "text": "European Monitoring Centre for Drugs and Drug Addiction",
+      "link": {
+        "url": "https://www.emcdda.europa.eu/data/stats2024/szr_en"
+      }
+    }
+  ],
+  "events": [],
+  "options": {
+    "annotations": {},
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "chartType": "Line",
+    "colorOverwritesRows": [],
+    "colorOverwritesSeries": [
+      {
+        "color": "#ce4631",
+        "colorLight": "",
+        "position": 2
+      },
+      {
+        "color": "#e3b13e",
+        "colorLight": "",
+        "position": 1
+      },
+      {
+        "color": "#383751",
+        "colorLight": "",
+        "position": 3
+      }
+    ],
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "many",
+      "prognosisStart": null
+    },
+    "dotplotOptions": {},
+    "hideAxisLabel": true,
+    "highlightDataRows": [],
+    "highlightDataSeries": [],
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "largeNumbers": {
+      "divideBy": 1
+    }
+  },
+  "createdDate": "2024-06-12T12:53:21.303Z",
+  "createdBy": "barnaby.skinner@nzz.ch",
+  "updatedDate": "2024-06-12T15:44:03.070Z",
+  "updatedBy": "katrin.buechenbacher@nzz.ch",
+  "notes": "Der Bericht basiert auf Daten der 27 EU-Länder sowie der Türkei und Norwegen."
+}

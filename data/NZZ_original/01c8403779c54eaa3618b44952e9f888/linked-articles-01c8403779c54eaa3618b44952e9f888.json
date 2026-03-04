@@ -1,0 +1,107 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Amerikas Zölle schmerzen China bisher nur begrenzt",
+      "seoTitle": "US-Zölle schmerzen China bisher nur begrenzt",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Matthias Kamp (mka)",
+          "id": 1373189
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2019-06-28T05:48:59.693Z",
+      "department": {
+        "path": "/wirtschaft",
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2019-06-28T03:00:00.000Z",
+      "slug": "us-zoelle-schmerzen-china-bisher-nur-begrenzt",
+      "firstPublicationDate": "2019-06-27T17:48:59.693Z",
+      "nzzCharacterCount": 4768,
+      "authorLine": "Matthias Kamp",
+      "numberOfContentComponents": 16,
+      "leadText": "Der Handelsstreit mit den USA hat die Konjunktur bisher nicht in die Knie zwingen können. Jede mögliche Entschärfung des Konflikts dürfte bei Pekings Wirtschaftsplanern dennoch für Erleichterung sorgen.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2019-06-27T17:48:59.693Z",
+      "nzzArticleSnippet": "Der Handelsstreit mit den USA hat die Konjunktur bisher nicht in die Knie zwingen können. Jede mögliche Entschärfung des Konflikts dürfte bei Pekings Wirtschaftsplanern dennoch für Erleichterung sorgen.",
+      "urlPath": "/wirtschaft/us-zoelle-schmerzen-china-bisher-nur-begrenzt-ld.1492015",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 3961,
+        "originalUrl": "https://nzz-img.s3.amazonaws.com/2019/6/27/4e95cef4-00db-48b9-87bc-29994afc267e.jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 0,
+            "width": 3961,
+            "y": 206,
+            "url": "https://img.nzz.ch/C=W3961,H2228,X0,Y206/O=75/https://nzz-img.s3.amazonaws.com/2019/6/27/4e95cef4-00db-48b9-87bc-29994afc267e.jpeg",
+            "height": 2228
+          },
+          {
+            "name": "1:1",
+            "x": 911,
+            "width": 2641,
+            "y": 0,
+            "url": "https://img.nzz.ch/C=W2641,H2641,X911,Y0/O=75/https://nzz-img.s3.amazonaws.com/2019/6/27/4e95cef4-00db-48b9-87bc-29994afc267e.jpeg",
+            "height": 2641
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2019/6/27/4e95cef4-00db-48b9-87bc-29994afc267e.jpeg",
+        "height": 2641
+      },
+      "nzzId": "ld.1492015",
+      "url": "https://www.nzz.ch/wirtschaft/us-zoelle-schmerzen-china-bisher-nur-begrenzt-ld.1492015",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1ded0mshd0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "embeds": {
+        "images": [
+          {
+            "caption": "Zeitweilige Schwächen beim Export in die USA kann Chinas Wirtschaft inzwischen recht gut verkraften – Skyline von Peking. (Bild: Raj Eiamworakul / Unsplash)",
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2019/6/27/4e95cef4-00db-48b9-87bc-29994afc267e.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "01c8403779c54eaa3618b44952e9f888"
+          },
+          {
+            "id": "01c8403779c54eaa3618b44952eb2d81"
+          },
+          {
+            "id": "964c91723a1b5ca387229205060c162f"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Zeitweilige Schwächen beim Export in die USA kann Chinas Wirtschaft inzwischen recht gut verkraften – Skyline von Peking. (Bild: Raj Eiamworakul / Unsplash)",
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "documentId": "1492015",
+      "product": "NZZ.ch"
+    }
+  }
+]

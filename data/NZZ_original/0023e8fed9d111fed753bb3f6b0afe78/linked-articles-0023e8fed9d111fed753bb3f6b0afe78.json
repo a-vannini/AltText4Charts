@@ -1,0 +1,121 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Warum das Poltern von Trump gegen BMW und Mercedes nach hinten losgehen kann",
+      "nzzAuthors": [
+        {
+          "name": "Martin Lanz",
+          "id": 1373195
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2018-03-13T19:14:06.660Z",
+      "department": {
+        "path": "/wirtschaft",
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2018-03-13T07:14:06.660Z",
+      "slug": "wo-trump-der-schuh-wirklich-drueckt",
+      "firstPublicationDate": "2018-03-13T07:14:06.660Z",
+      "nzzCharacterCount": 9770,
+      "authorLine": "Martin Lanz, Washington",
+      "numberOfContentComponents": 36,
+      "leadText": "Der Streit um die Zölle auf Stahl und Aluminium ist nur Vorgeplänkel. Vis-à-vis der Europäischen Union möchte der US-Präsident vor allem das Ungleichgewicht im Autohandel reduzieren. Das ist aber nicht ohne Tücken.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2018-03-13T10:07:00.785Z",
+      "urlPath": "/wirtschaft/wo-trump-der-schuh-wirklich-drueckt-ld.1365356",
+      "nzzId": "ld.1365356",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 3500,
+        "originalUrl": "http://nzz-img.s3.amazonaws.com/2018/3/13/2f1bd1a9-1a8b-4f68-9624-277cd2bf54d6.jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 0,
+            "width": 3500,
+            "y": 175,
+            "url": "https://img.nzz.ch/C=W3500,H1969,X0,Y175/O=75/http://nzz-img.s3.amazonaws.com/2018/3/13/2f1bd1a9-1a8b-4f68-9624-277cd2bf54d6.jpeg",
+            "height": 1969
+          },
+          {
+            "name": "1:1",
+            "x": 591,
+            "width": 2318,
+            "y": 0,
+            "url": "https://img.nzz.ch/C=W2318,H2318,X591,Y0/O=75/http://nzz-img.s3.amazonaws.com/2018/3/13/2f1bd1a9-1a8b-4f68-9624-277cd2bf54d6.jpeg",
+            "height": 2318
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/http://nzz-img.s3.amazonaws.com/2018/3/13/2f1bd1a9-1a8b-4f68-9624-277cd2bf54d6.jpeg",
+        "height": 2318
+      },
+      "url": "https://www.nzz.ch/wirtschaft/wo-trump-der-schuh-wirklich-drueckt-ld.1365356",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1c8f33kpr0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          },
+          {
+            "code": "window.twttr = (function (d, s, id) {\n  var t, js, fjs = d.getElementsByTagName(s)[0];\n  if (d.getElementById(id)) return;\n  js = d.createElement(s); js.id = id;\n  js.src= \"https://platform.twitter.com/widgets.js\";\n  fjs.parentNode.insertBefore(js, fjs);\n  return window.twttr || (t = { _e: [], ready: function (f) { t._e.push(f) } });\n}(document, \"script\", \"twitter-wjs\"));\nwindow.twttr.ready(function(twttr){\n  twttr.widgets.load();\n});",
+            "inline": true,
+            "componentIds": [
+              "doc-1c8e06nkc0"
+            ],
+            "namespace": "embeds.twitter"
+          }
+        ]
+      },
+      "layout": "regular",
+      "embeds": {
+        "images": [
+          {
+            "caption": "In Spartanburg&nbsp;werden Luxusgeländewagen wie der BMW X4 produziert. (Bild: Chris Keane / Reuters)",
+            "origins": [
+              {
+                "identifier": "picture-1941297344",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/http://nzz-img.s3.amazonaws.com/2018/3/13/2f1bd1a9-1a8b-4f68-9624-277cd2bf54d6.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "11be8526889b2de61319b148fb2ed24f"
+          },
+          {
+            "id": "757f80b0d0c490be10f31234ded07d49"
+          },
+          {
+            "id": "22c0b990abb9b75a640313f4b941d592"
+          },
+          {
+            "id": "0023e8fed9d111fed753bb3f6b0afe78"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "In Spartanburg werden Luxusgeländewagen wie der BMW X4 produziert. (Bild: Chris Keane / Reuters)",
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "documentId": "1365356",
+      "product": "NZZ.ch"
+    }
+  }
+]

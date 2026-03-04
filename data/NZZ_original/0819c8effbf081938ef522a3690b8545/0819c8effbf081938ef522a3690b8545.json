@@ -1,0 +1,241 @@
+{
+  "_id": "0819c8effbf081938ef522a3690b8545",
+  "_rev": "9-5ecf4336b245f0f8f8af56030cd89a2c",
+  "department": "Wirtschaft",
+  "publication": "nzz",
+  "acronym": "cei.",
+  "data": [
+    [
+      null,
+      null
+    ],
+    [
+      "1980",
+      "388.822779073730"
+    ],
+    [
+      "1981",
+      "402.901518168094"
+    ],
+    [
+      "1982",
+      "407.585619686848"
+    ],
+    [
+      "1983",
+      "427.527695760600"
+    ],
+    [
+      "1984",
+      "433.931667099379"
+    ],
+    [
+      "1985",
+      "446.577332351989"
+    ],
+    [
+      "1986",
+      "457.565391227897"
+    ],
+    [
+      "1987",
+      "465.307224190565"
+    ],
+    [
+      "1988",
+      "499.084648111364"
+    ],
+    [
+      "1989",
+      "517.420332134298"
+    ],
+    [
+      "1990",
+      "534.484099596217"
+    ],
+    [
+      "1991",
+      "528.898177048937"
+    ],
+    [
+      "1992",
+      "546.441020507589"
+    ],
+    [
+      "1993",
+      "560.798571770116"
+    ],
+    [
+      "1994",
+      "586.175457569114"
+    ],
+    [
+      "1995",
+      "618.139287922074"
+    ],
+    [
+      "1996",
+      "651.958356588248"
+    ],
+    [
+      "1997",
+      "665.466107558295"
+    ],
+    [
+      "1998",
+      "693.408504763524"
+    ],
+    [
+      "1999",
+      "740.916233292402"
+    ],
+    [
+      "2000",
+      "755.482294038015"
+    ],
+    [
+      "2001",
+      "777.733660311185"
+    ],
+    [
+      "2002",
+      "793.100961797723"
+    ],
+    [
+      "2003",
+      "840.818044260752"
+    ],
+    [
+      "2004",
+      "892.382103499511"
+    ],
+    [
+      "2005",
+      "947.763435288219"
+    ],
+    [
+      "2006",
+      "1008.667137420730"
+    ],
+    [
+      "2007",
+      "1070.131538144050"
+    ],
+    [
+      "2008",
+      "1087.583035549990"
+    ],
+    [
+      "2009",
+      "1156.880665928540"
+    ],
+    [
+      "2010",
+      "1238.014726722980"
+    ],
+    [
+      "2011",
+      "1285.283034354480"
+    ],
+    [
+      "2012",
+      "1337.476110747530"
+    ],
+    [
+      "2013",
+      "1404.545346483570"
+    ],
+    [
+      "2014",
+      "1490.028507579810"
+    ],
+    [
+      "2015",
+      "1590.174331359550"
+    ],
+    [
+      "2016",
+      "1701.184237621660"
+    ],
+    [
+      "2017",
+      "1795.911849727670"
+    ],
+    [
+      "2018",
+      "1891.138435431920"
+    ],
+    [
+      "2019",
+      "1944.314848397510"
+    ],
+    [
+      "2020",
+      "1813.534552732210"
+    ],
+    [
+      "2021",
+      "1961.960889194920"
+    ],
+    [
+      "2022",
+      "2089.734382607900"
+    ]
+  ],
+  "allowDownloadData": true,
+  "events": [],
+  "sources": [
+    {
+      "link": {
+        "url": "https://fred.stlouisfed.org/series/NYGDPPCAPKDIND",
+        "isValid": true
+      },
+      "text": "FRED"
+    }
+  ],
+  "options": {
+    "chartType": "Line",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "Seit 1980 hat sich das Einkommen verfünffacht",
+  "subtitle": "Bruttoinlandprodukt pro Kopf, in Dollar (inflationsbereinigt, Basisjahr 2010)",
+  "createdDate": "2024-04-19T11:23:56.376Z",
+  "createdBy": "christoph.eisenring@nzz.ch",
+  "updatedDate": "2024-04-19T11:32:27.496Z",
+  "updatedBy": "christoph.eisenring@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/0819c8effbf081938ef522a3690b8545-thumbnail.jpeg"
+}

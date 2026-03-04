@@ -1,0 +1,149 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "flag": "Datenanalyse",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "rDfZn9eTrmIU",
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "So viele Menschen wie nie suchen Schutz in der Schweiz – das Asylwesen in Zahlen",
+      "seoTitle": "Asylzahlen Schweiz: So viele Menschen wie nie suchen Schutz",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Nikolai Thelitz (nth)",
+          "id": 1466272,
+          "shortName": "nth"
+        }
+      ],
+      "designName": "morpheus",
+      "nzzPrintTitle": "So viele Menschen wie nie suchen Schutz in der Schweiz",
+      "seoSocialMediaTitle": "So viele Menschen wie nie suchen Schutz in der Schweiz – das Asylwesen in Zahlen",
+      "significantUpdateTill": "2023-07-21T21:55:00.000Z",
+      "department": {
+        "path": "/visuals",
+        "premium": false,
+        "level": 1,
+        "name": "Visuals"
+      },
+      "publicationDate": "2023-07-21T09:55:00.000Z",
+      "slug": "so-viele-menschen-wie-nie-suchen-schutz-in-der-schweiz-das-asylwesen-in-zahlen",
+      "firstPublicationDate": "2023-07-21T09:55:00.000Z",
+      "authorLine": "Nikolai Thelitz",
+      "owner": "NZZ",
+      "nzzCharacterCount": 7100,
+      "numberOfContentComponents": 32,
+      "seoDescription": "Wer kommt, wer bleiben darf und wer nun seine Familie nachzieht.",
+      "germanyRelevant": true,
+      "leadText": "Wer kommt, wer bleiben darf und wer nun seine Familie nachzieht.",
+      "publicationLastUpdated": "2023-07-21T11:49:52.577Z",
+      "nzzArticleSnippet": "Wer kommt, wer bleiben darf und wer nun seine Familie nachzieht.",
+      "urlPath": "/visuals/so-viele-menschen-wie-nie-suchen-schutz-in-der-schweiz-das-asylwesen-in-zahlen-ld.1735536",
+      "url": "https://www.nzz.ch/visuals/so-viele-menschen-wie-nie-suchen-schutz-in-der-schweiz-das-asylwesen-in-zahlen-ld.1735536",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 1800,
+        "originalUrl": "https://img.nzz.ch/2023/07/20/97cbad24-bc68-42ff-aff6-440c58fafadb.png",
+        "mimeType": "image/png",
+        "crops": [
+          {
+            "x": 1,
+            "width": 1797,
+            "name": "16:9",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/C=W1797,H1011,X1,Y0/O=75/https://img.nzz.ch/2023/07/20/97cbad24-bc68-42ff-aff6-440c58fafadb.png",
+            "height": 1011,
+            "ratio": 1.77778
+          },
+          {
+            "x": 558,
+            "width": 1011,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W1011,H1011,X558,Y0/O=75/https://img.nzz.ch/2023/07/20/97cbad24-bc68-42ff-aff6-440c58fafadb.png",
+            "height": 1011,
+            "ratio": 1
+          },
+          {
+            "x": 226,
+            "width": 1348,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/C=W1348,H1011,X226,Y0/O=75/https://img.nzz.ch/2023/07/20/97cbad24-bc68-42ff-aff6-440c58fafadb.png",
+            "height": 1011,
+            "ratio": 1.33333
+          },
+          {
+            "x": 340,
+            "width": 758,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W758,H1011,X340,Y0/O=75/https://img.nzz.ch/2023/07/20/97cbad24-bc68-42ff-aff6-440c58fafadb.png",
+            "height": 1011,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "TiUWqNCjb-a1",
+        "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2023/07/20/97cbad24-bc68-42ff-aff6-440c58fafadb.png",
+        "height": 1011
+      },
+      "nzzId": "ld.1735536",
+      "dependencies": {},
+      "layout": "longformstandard",
+      "estimationWordCount": 1031,
+      "nzzPrintSubtitle": "Wer kommt, wer bleiben darf und wer seine Familie nachzieht",
+      "embeds": {
+        "images": [],
+        "q_embeds": [
+          {
+            "id": "86441917553de6ff8061fae8b2f386b8"
+          },
+          {
+            "id": "12496a04992590f16cb3aaa7495dfb3e"
+          },
+          {
+            "id": "a1260c4629a8c0387b9d8d156371b2ec"
+          },
+          {
+            "id": "a1260c4629a8c0387b9d8d15637b6774"
+          },
+          {
+            "id": "a1260c4629a8c0387b9d8d15637d2793"
+          },
+          {
+            "id": "0154a0854ad542755c62796906582f56"
+          },
+          {
+            "id": "1e12e6513c41607fe8d1fe19d3ae39e6"
+          },
+          {
+            "id": "0154a0854ad542755c6279690638933c"
+          },
+          {
+            "id": "3825a02aa960e2444c539c63f09c9012"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/visuals",
+          "name": "Visuals"
+        }
+      ],
+      "documentId": "1735536",
+      "product": "NZZ.ch"
+    }
+  }
+]

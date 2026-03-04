@@ -1,0 +1,175 @@
+{
+  "_id": "0819c8effbf081938ef522a369f4febf",
+  "_rev": "10-01a0f7149bcb7465bb71f051bcfe31ad",
+  "data": [
+    [
+      null,
+      null
+    ],
+    [
+      "BS",
+      "4675"
+    ],
+    [
+      "GE",
+      "4636"
+    ],
+    [
+      "TI",
+      "4497"
+    ],
+    [
+      "BL",
+      "4263"
+    ],
+    [
+      "NE",
+      "4217"
+    ],
+    [
+      "VD",
+      "4083"
+    ],
+    [
+      "JU",
+      "4070"
+    ],
+    [
+      "BE",
+      "3843"
+    ],
+    [
+      "SO",
+      "3745"
+    ],
+    [
+      "SH",
+      "3602"
+    ],
+    [
+      "ZH",
+      "3592"
+    ],
+    [
+      "FR",
+      "3508"
+    ],
+    [
+      "VS",
+      "3508"
+    ],
+    [
+      "AG",
+      "3422"
+    ],
+    [
+      "TG",
+      "3269"
+    ],
+    [
+      "SG",
+      "3264"
+    ],
+    [
+      "GR",
+      "3262"
+    ],
+    [
+      "GL",
+      "3239"
+    ],
+    [
+      "LU",
+      "3191"
+    ],
+    [
+      "SZ",
+      "3191"
+    ],
+    [
+      "NW",
+      "3147"
+    ],
+    [
+      "AR",
+      "3137"
+    ],
+    [
+      "ZG",
+      "3064"
+    ],
+    [
+      "OW",
+      "3021"
+    ],
+    [
+      "UR",
+      "2790"
+    ],
+    [
+      "AI",
+      "2559"
+    ],
+    [
+      "CH",
+      "3713"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {},
+      "text": "BAG"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": false,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {
+      "valuesOnBars": true
+    },
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "department": "Schweiz",
+  "publication": "nzz",
+  "acronym": "hus.",
+  "active": true,
+  "title": "Grosse Unterschiede zwischen Kantonen",
+  "subtitle": "Nettokosten pro Versicherten in der obligatorischen Krankenpflegeversicherung, in Franken pro Monat, 2022",
+  "createdDate": "2024-05-01T13:30:30.180Z",
+  "createdBy": "hansueli.schoechli@nzz.ch",
+  "updatedDate": "2024-05-01T13:34:20.525Z",
+  "updatedBy": "hansueli.schoechli@nzz.ch"
+}

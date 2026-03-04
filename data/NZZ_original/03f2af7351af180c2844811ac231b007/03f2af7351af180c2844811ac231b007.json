@@ -1,0 +1,117 @@
+{
+  "_id": "03f2af7351af180c2844811ac231b007",
+  "_rev": "17-ed9bdea6298edee06f641170f14d7f40",
+  "department": "Schweiz",
+  "publication": "nzz",
+  "acronym": "hus.",
+  "data": [
+    [
+      null,
+      "Verhältnis Hochlohn 1 (90%) zu Tieflohn 1 (10%)",
+      "Verhältnis Hochlohn 2 (80%) zu Tieflohn 2 (20%)"
+    ],
+    [
+      "2006",
+      "2.68",
+      "1.90"
+    ],
+    [
+      "2008",
+      "2.73",
+      "1.92"
+    ],
+    [
+      "2010",
+      "2.73",
+      "1.92"
+    ],
+    [
+      "2012",
+      "2.92",
+      "2.00"
+    ],
+    [
+      "2014",
+      "2.63",
+      "1.88"
+    ],
+    [
+      "2016",
+      "2.64",
+      "1.89"
+    ],
+    [
+      "2018",
+      "2.72",
+      "1.93"
+    ],
+    [
+      "2020",
+      "2.74",
+      "1.93"
+    ],
+    [
+      "2022",
+      "2.71",
+      "1.92"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {
+        "isValid": false
+      },
+      "text": "BfS, NZZ-Berechnungen"
+    }
+  ],
+  "options": {
+    "chartType": "Line",
+    "hideAxisLabel": false,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false,
+      "minValue": 1.5,
+      "maxValue": 3
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "title": "Ziemlich stabile Lohnverteilung",
+  "subtitle": "Verhältnisse zwischen Hoch- und Tieflöhnen in der Schweiz, 2006 bis 2022",
+  "notes": "Lesebeispiel: Der Hochlohn 1 (jenes Niveau, welches 90% der Lohnempfänger unterschreiten) war im Jahr 2022 etwa 2,71-mal so hoch wie der Tieflohn 1 (jenes Niveau, welches 10% der Lohnempfänger unterschreiten).",
+  "createdDate": "2024-03-18T11:52:46.361Z",
+  "createdBy": "hansueli.schoechli@nzz.ch",
+  "updatedDate": "2024-03-19T13:00:58.237Z",
+  "updatedBy": "armin.kaelin@nzz.ch",
+  "active": true,
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/03f2af7351af180c2844811ac231b007-thumbnail.jpeg"
+}

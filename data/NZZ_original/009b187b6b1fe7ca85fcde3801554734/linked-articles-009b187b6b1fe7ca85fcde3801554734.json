@@ -1,0 +1,98 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Börsenfiasko für den Telekomausrüster ZTE",
+      "nzzAuthors": [
+        {
+          "name": "Michael Radunski (rad)",
+          "id": 1373480
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2018-06-14T00:05:18.839Z",
+      "department": {
+        "path": "/finanzen",
+        "level": 1,
+        "name": "Finanzen"
+      },
+      "publicationDate": "2018-06-13T12:05:18.839Z",
+      "slug": "boersenfiasko-fuer-telekomausruester-zte",
+      "firstPublicationDate": "2018-06-13T12:05:18.839Z",
+      "nzzCharacterCount": 4114,
+      "authorLine": "Michael Radunski, Peking",
+      "numberOfContentComponents": 14,
+      "leadText": "Der chinesische Telekommunikationsausrüster ZTE wird zum Spielball im Handelsstreit zwischen Amerika und China. Als nach zweimonatiger Pause die Aktien wieder gehandelt wurden, verlor das Unternehmen rund 8 Milliarden Dollar.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2018-06-13T12:53:41.741Z",
+      "urlPath": "/finanzen/boersenfiasko-fuer-telekomausruester-zte-ld.1394363",
+      "nzzId": "ld.1394363",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 800,
+        "originalUrl": "https://nzz-img.s3.amazonaws.com/2018/6/13/a5a45078-5006-4de3-bf55-55495b30804e.jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 0,
+            "width": 800,
+            "y": 0,
+            "url": "https://img.nzz.ch/C=W800,H450,X0,Y0/O=75/https://nzz-img.s3.amazonaws.com/2018/6/13/a5a45078-5006-4de3-bf55-55495b30804e.jpeg",
+            "height": 450
+          },
+          {
+            "name": "1:1",
+            "x": 125,
+            "width": 527,
+            "y": 0,
+            "url": "https://img.nzz.ch/C=W527,H527,X125,Y0/O=75/https://nzz-img.s3.amazonaws.com/2018/6/13/a5a45078-5006-4de3-bf55-55495b30804e.jpeg",
+            "height": 527
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2018/6/13/a5a45078-5006-4de3-bf55-55495b30804e.jpeg",
+        "height": 527
+      },
+      "url": "https://www.nzz.ch/finanzen/boersenfiasko-fuer-telekomausruester-zte-ld.1394363",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1cfsf4j5a0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "embeds": {
+        "images": [
+          {
+            "caption": "ZTE&nbsp;zählt in den zukunftsentscheidenden Technologiebereichen wie dem Netzwerkstandard 5G zu den führenden Unternehmen. (Yves Herman / Reuters)",
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2018/6/13/a5a45078-5006-4de3-bf55-55495b30804e.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "009b187b6b1fe7ca85fcde3801554734"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "ZTE zählt in den zukunftsentscheidenden Technologiebereichen wie dem Netzwerkstandard 5G zu den führenden Unternehmen. (Yves Herman / Reuters)",
+      "breadcrumbs": [
+        {
+          "path": "/finanzen",
+          "name": "Finanzen"
+        }
+      ],
+      "documentId": "1394363",
+      "product": "NZZ.ch"
+    }
+  }
+]

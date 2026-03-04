@@ -1,0 +1,245 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Nun ist Mattarella der Königsmacher",
+      "nzzAuthors": [
+        {
+          "name": "Andrea Spalinger",
+          "id": 1373751
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2016-12-05T17:42:43.781Z",
+      "department": {
+        "name": "No department"
+      },
+      "publicationDate": "2016-12-05T05:42:43.781Z",
+      "slug": "neuwahlen-ein-kurzlebiges-uebergangskabinett-oder-ein-neuer-regierungschef-mattarella-als-koenigsmacher",
+      "firstPublicationDate": "2016-12-05T05:42:43.781Z",
+      "authorLine": "Andrea Spalinger, Rom",
+      "numberOfContentComponents": 17,
+      "leadText": "Nach dem Rücktritt von Ministerpräsident Renzi übernimmt Italiens Staatspräsident Mattarella eine wichtige Vermittlungs- und Entscheidungsrolle.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2017-01-18T09:52:11.223Z",
+      "urlPath": "/neuwahlen-ein-kurzlebiges-uebergangskabinett-oder-ein-neuer-regierungschef-mattarella-als-koenigsmacher-ld.132534",
+      "nzzId": "ld.132534",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 2187,
+        "originalUrl": "http://nzz-img.s3.amazonaws.com/2016/12/5/4b53f7a2-7aa1-49ec-84a7-a86ebd518871.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 0,
+            "width": 2187,
+            "y": 349,
+            "url": "https://img.nzz.ch/C=W2187,H1230,X0,Y349/O=75/http://nzz-img.s3.amazonaws.com/2016/12/5/4b53f7a2-7aa1-49ec-84a7-a86ebd518871.jpeg",
+            "height": 1230
+          },
+          {
+            "name": "1:1",
+            "x": 0,
+            "width": 2187,
+            "y": 92,
+            "url": "https://img.nzz.ch/C=W2187,H2187,X0,Y92/O=75/http://nzz-img.s3.amazonaws.com/2016/12/5/4b53f7a2-7aa1-49ec-84a7-a86ebd518871.jpeg",
+            "height": 2187
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/http://nzz-img.s3.amazonaws.com/2016/12/5/4b53f7a2-7aa1-49ec-84a7-a86ebd518871.jpeg",
+        "height": 3072
+      },
+      "url": "https://www.nzz.ch/neuwahlen-ein-kurzlebiges-uebergangskabinett-oder-ein-neuer-regierungschef-mattarella-als-koenigsmacher-ld.132534",
+      "dependencies": {},
+      "layout": "regular",
+      "embeds": {
+        "images": [
+          {
+            "caption": "Der Ball liegt nun bei Staatspräsident Sergio Mattarella. (Bild: Massimo Percossi&nbsp;/ EPA / Keystone)",
+            "url": "https://img.nzz.ch/C=W2187,H1644,X0,Y252/O=75/http://nzz-img.s3.amazonaws.com/2016/12/5/4b53f7a2-7aa1-49ec-84a7-a86ebd518871.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "005e2925d4b679defb5afa4daef05ee5"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Der Ball liegt nun bei Staatspräsident Sergio Mattarella. (Bild: Massimo Percossi / EPA / Keystone)",
+      "documentId": "132534",
+      "product": "NZZ.ch"
+    }
+  },
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Der Sieger heisst Grillo",
+      "nzzAuthors": [
+        {
+          "name": "Andrea Spalinger",
+          "id": 1373751
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2016-12-05T19:11:10.930Z",
+      "department": {
+        "path": "/international",
+        "is_visible": true,
+        "is_mobile": true,
+        "level": 1,
+        "name": "International"
+      },
+      "publicationDate": "2016-12-05T07:30:00.000Z",
+      "slug": "das-referendum-in-italien-und-die-fuenf-sterne-bewegung-der-sieger-heisst-grillo",
+      "firstPublicationDate": "2016-12-05T07:11:10.930Z",
+      "authorLine": "Andrea Spalinger, Rom",
+      "numberOfContentComponents": 16,
+      "leadText": "Die populistische Protestbewegung des Komikers Beppe Grillo ist einer  Machtübernahme in Italien einen Schritt näher gekommen. Eine ausgemachte  Sache ist diese aber noch nicht.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2017-01-18T09:52:00.332Z",
+      "urlPath": "/international/das-referendum-in-italien-und-die-fuenf-sterne-bewegung-der-sieger-heisst-grillo-ld.132537",
+      "nzzId": "ld.132537",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 2480,
+        "originalUrl": "http://nzz-img.s3.amazonaws.com/2016/12/5/32df3b50-336d-4a13-b2a5-2c95e0d0e3f9.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 0,
+            "width": 2480,
+            "y": 117.5,
+            "url": "https://img.nzz.ch/C=W2480,H1395,X0,Y117.5/O=75/http://nzz-img.s3.amazonaws.com/2016/12/5/32df3b50-336d-4a13-b2a5-2c95e0d0e3f9.jpeg",
+            "height": 1395
+          },
+          {
+            "name": "1:1",
+            "x": 425,
+            "width": 1630,
+            "y": 0,
+            "url": "https://img.nzz.ch/C=W1630,H1630,X425,Y0/O=75/http://nzz-img.s3.amazonaws.com/2016/12/5/32df3b50-336d-4a13-b2a5-2c95e0d0e3f9.jpeg",
+            "height": 1630
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/http://nzz-img.s3.amazonaws.com/2016/12/5/32df3b50-336d-4a13-b2a5-2c95e0d0e3f9.jpeg",
+        "height": 1630
+      },
+      "url": "https://www.nzz.ch/international/das-referendum-in-italien-und-die-fuenf-sterne-bewegung-der-sieger-heisst-grillo-ld.132537",
+      "dependencies": {},
+      "layout": "regular",
+      "embeds": {
+        "images": [
+          {
+            "caption": "Beppe Grillo vor wenigen Tagen an einer Veranstaltung in Turin, wo er für eine Ablehnung des Referendums warb. (Bild: Alessandro di Marco / EPA / Keystone)",
+            "url": "https://img.nzz.ch/O=75/http://nzz-img.s3.amazonaws.com/2016/12/5/32df3b50-336d-4a13-b2a5-2c95e0d0e3f9.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "005e2925d4b679defb5afa4daef05ee5"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Beppe Grillo vor wenigen Tagen an einer Veranstaltung in Turin, wo er für eine Ablehnung des Referendums warb. (Bild: Alessandro di Marco / EPA / Keystone)",
+      "documentId": "132537",
+      "product": "NZZ.ch"
+    }
+  },
+  {
+    "metadata": {
+      "authorLine": "syc./nin./Agenturen",
+      "numberOfContentComponents": 46,
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "leadText": "Nach der klaren Niederlage an der Urne zieht Matteo Renzi die Konsequenzen. Wie er vor der Abstimmung bereits angedeutet hatte, will er nach dem «No» zum Verfassungsreferendum vom Amt des Ministerpräsidenten zurücktreten.",
+      "germanyRelevant": true,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "publicationLastUpdated": "2017-01-18T09:53:10.973Z",
+      "title": "Renzi scheitert",
+      "urlPath": "/international/europa/verfassungsreferndum-in-italien-aufregung-um-radierbare-bleistifte-ld.132470",
+      "nzzId": "ld.132470",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 3000,
+        "originalUrl": "http://nzz-img.s3.amazonaws.com/2016/12/5/d09e8463-7992-4f8a-88b4-ff3626174251.jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 0,
+            "width": 3000,
+            "y": 156.25,
+            "url": "https://img.nzz.ch/C=W3000,H1687.5,X0,Y156.25/O=75/http://nzz-img.s3.amazonaws.com/2016/12/5/d09e8463-7992-4f8a-88b4-ff3626174251.jpeg",
+            "height": 1687.5
+          },
+          {
+            "name": "1:1",
+            "x": 843,
+            "width": 2000,
+            "y": 0,
+            "url": "https://img.nzz.ch/C=W2000,H2000,X843,Y0/O=75/http://nzz-img.s3.amazonaws.com/2016/12/5/d09e8463-7992-4f8a-88b4-ff3626174251.jpeg",
+            "height": 2000
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/http://nzz-img.s3.amazonaws.com/2016/12/5/d09e8463-7992-4f8a-88b4-ff3626174251.jpeg",
+        "height": 2000
+      },
+      "url": "https://www.nzz.ch/international/europa/verfassungsreferndum-in-italien-aufregung-um-radierbare-bleistifte-ld.132470",
+      "dependencies": {
+        "js": [
+          {
+            "code": "window.twttr = (function (d, s, id) {\n  var t, js, fjs = d.getElementsByTagName(s)[0];\n  if (d.getElementById(id)) return;\n  js = d.createElement(s); js.id = id;\n  js.src= \"https://platform.twitter.com/widgets.js\";\n  fjs.parentNode.insertBefore(js, fjs);\n  return window.twttr || (t = { _e: [], ready: function (f) { t._e.push(f) } });\n}(document, \"script\", \"twitter-wjs\"));\nwindow.twttr.ready(function(twttr){\n  twttr.widgets.load();\n});",
+            "inline": true,
+            "componentIds": [
+              "doc-1b363v6o70"
+            ],
+            "namespace": "embeds.twitter"
+          }
+        ]
+      },
+      "layout": "regular",
+      "designName": "morpheus",
+      "significantUpdateTill": "2016-12-05T03:18:46.078Z",
+      "department": {
+        "path": "/international/europa",
+        "is_visible": true,
+        "is_mobile": true,
+        "level": 2,
+        "name": "Europa"
+      },
+      "publicationDate": "2016-12-05T11:45:00.000Z",
+      "embeds": {
+        "images": [],
+        "q_embeds": [
+          {
+            "id": "005e2925d4b679defb5afa4daef05ee5"
+          },
+          {
+            "id": "d78e10373ff0d990f44d5e57e0a41837"
+          }
+        ],
+        "videos": []
+      },
+      "slug": "verfassungsreferndum-in-italien-aufregung-um-radierbare-bleistifte",
+      "firstPublicationDate": "2016-12-04T15:18:46.078Z",
+      "documentId": "132470",
+      "product": "NZZ.ch"
+    }
+  }
+]

@@ -1,0 +1,95 @@
+{
+  "_id": "014e6bf3927ddaf505c8053e374539d9",
+  "_rev": "11-117b6b61165de52053a90f16bf0174c6",
+  "department": "default",
+  "publication": "nzz",
+  "acronym": "rew.",
+  "data": [
+    [
+      "Handelspartner",
+      "Import",
+      "Export"
+    ],
+    [
+      "China 2010",
+      "39022772967",
+      "20602102569"
+    ],
+    [
+      "EU 2010",
+      "82710000000",
+      "155797000000"
+    ],
+    [
+      "China 2020",
+      "55338801864",
+      "51082123110"
+    ],
+    [
+      "EU 2020",
+      "78977000000",
+      "95037000000"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {
+        "url": "https://comtrade.un.org/data/",
+        "isValid": true
+      },
+      "text": "UN Comtrade Database"
+    },
+    {
+      "link": {
+        "url": "https://webgate.ec.europa.eu/isdb_results/factsheets/country/details_russia_en.pdf",
+        "isValid": true
+      },
+      "text": "Eurostat"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "title": "Russlands neue Handelsbeziehungen ",
+  "createdDate": "2022-02-01T16:48:04.331Z",
+  "createdBy": "rewert.hoffer@nzz.ch",
+  "updatedDate": "2022-02-02T16:53:17.733Z",
+  "updatedBy": "armin.kaelin@nzz.ch",
+  "active": true,
+  "subtitle": "Umfang von Russlands Handel mit China und der EU, in $",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/014e6bf3927ddaf505c8053e374539d9-thumbnail.jpeg"
+}

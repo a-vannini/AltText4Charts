@@ -1,0 +1,113 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Städte greifen zu immer radikaleren Methoden, um preisgünstige Wohnungen zu schaffen",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Erich Aschwanden (ase)",
+          "id": 1371893
+        },
+        {
+          "external": false,
+          "name": "Daniel Gerny (dgy)",
+          "id": 1372260
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2019-07-01T04:03:39.480Z",
+      "department": {
+        "path": "/schweiz",
+        "level": 1,
+        "name": "Schweiz"
+      },
+      "publicationDate": "2019-07-01T03:30:00.000Z",
+      "slug": "staedte-greifen-zu-immer-radikaleren-methoden-um-preisguenstige-wohnungen-zu-schaffen",
+      "showComments": true,
+      "firstPublicationDate": "2019-06-30T16:03:39.480Z",
+      "nzzCharacterCount": 7452,
+      "authorLine": "Erich Aschwanden, Daniel Gerny",
+      "numberOfContentComponents": 17,
+      "leadText": "Einen «Mietendeckel» wie in Berlin gibt es in Schweizer Städten noch nicht. Doch auch hierzulande wird der Ruf nach erschwinglichen Wohnungen immer lauter. Im nächsten Jahr kommt es zum gesamtschweizerischen Testlauf.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2019-07-03T10:48:15.470Z",
+      "nzzArticleSnippet": "Einen «Mietendeckel» wie in Berlin gibt es in Schweizer Städten noch nicht. Doch auch hierzulande wird der Ruf nach erschwinglichen Wohnungen immer lauter. Im nächsten Jahr kommt es zum gesamtschweizerischen Testlauf.",
+      "urlPath": "/schweiz/staedte-greifen-zu-immer-radikaleren-methoden-um-preisguenstige-wohnungen-zu-schaffen-ld.1489748",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 3115,
+        "originalUrl": "https://nzz-img.s3.amazonaws.com/2019/6/28/01419bb3-56a7-4c73-9739-aab7b53f0487.jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 346,
+            "width": 2769,
+            "y": 309,
+            "url": "https://img.nzz.ch/C=W2769,H1557,X346,Y309/O=75/https://nzz-img.s3.amazonaws.com/2019/6/28/01419bb3-56a7-4c73-9739-aab7b53f0487.jpeg",
+            "height": 1557
+          },
+          {
+            "name": "1:1",
+            "x": 944,
+            "width": 1519,
+            "y": 340,
+            "url": "https://img.nzz.ch/C=W1519,H1519,X944,Y340/O=75/https://nzz-img.s3.amazonaws.com/2019/6/28/01419bb3-56a7-4c73-9739-aab7b53f0487.jpeg",
+            "height": 1519
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2019/6/28/01419bb3-56a7-4c73-9739-aab7b53f0487.jpeg",
+        "height": 2163
+      },
+      "nzzId": "ld.1489748",
+      "url": "https://www.nzz.ch/schweiz/staedte-greifen-zu-immer-radikaleren-methoden-um-preisguenstige-wohnungen-zu-schaffen-ld.1489748",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1deekkrp10"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "commentCount": 1,
+      "layout": "regular",
+      "embeds": {
+        "images": [
+          {
+            "caption": "Die Familienheim-Genossenschaft Zürich erstellt am Friesenberg neue Wohnungen. (Bild: Karin Hofer / NZZ)",
+            "origins": [
+              {
+                "identifier": "picture-1890348843",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2019/6/28/01419bb3-56a7-4c73-9739-aab7b53f0487.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "01c8403779c54eaa3618b44952bc0e15"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Die Familienheim-Genossenschaft Zürich erstellt am Friesenberg neue Wohnungen. (Bild: Karin Hofer / NZZ)",
+      "breadcrumbs": [
+        {
+          "path": "/schweiz",
+          "name": "Schweiz"
+        }
+      ],
+      "documentId": "1489748",
+      "product": "NZZ.ch"
+    }
+  }
+]

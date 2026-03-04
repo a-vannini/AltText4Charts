@@ -1,0 +1,73 @@
+{
+  "_id": "016b459adf53c4e44c03cc7e709845d7",
+  "_rev": "13-df1941e07c3ce137fdad3fb9b1f03da8",
+  "department": "International",
+  "publication": "nzz",
+  "acronym": "cpr.",
+  "data": [
+    [
+      null,
+      null
+    ],
+    [
+      "Dagegen",
+      "62"
+    ],
+    [
+      "Dafür",
+      "34"
+    ],
+    [
+      "Weiss nicht",
+      "4"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {},
+      "text": "Forsa / Münchner Sicherheitskonferenz, 2020"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": false,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": []
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "Bloss keine Machtpolitik",
+  "subtitle": "Meinung der Bundesbürger zum Einsatz der wirtschaftlichen Stärke Deutschlands in der Aussenpolitik",
+  "createdDate": "2020-09-30T12:20:43.543Z",
+  "createdBy": "christoph.prantner@nzz.ch",
+  "updatedDate": "2020-09-30T13:55:05.677Z",
+  "updatedBy": "christoph.prantner@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/016b459adf53c4e44c03cc7e709845d7-thumbnail.jpeg"
+}

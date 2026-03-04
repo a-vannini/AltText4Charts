@@ -1,0 +1,175 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "Illustration: Cian Jochem / NZZ",
+      "contentTypeGroup": "web",
+      "firstTitle": "In der amerikanischen Politik wird alles erfragt und prognostiziert – die fünf Antworten zu Umfragen",
+      "flag": "Inside USA",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "kSNEGqGXiW8VXUmjPg2LG",
+        "locale": "en-US"
+      },
+      "title": "In US election seasons, polls are inescapable. But how accurate are they?",
+      "seoTitle": "Polls are everywhere in US elections. Are they accurate?",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Erika Burri (ebu)",
+          "id": 1719502,
+          "shortName": "ebu",
+          "proLitterisId": "263075"
+        },
+        {
+          "external": false,
+          "name": "Nikolai Thelitz (nth)",
+          "id": 1466272,
+          "shortName": "nth",
+          "proLitterisId": "884371"
+        }
+      ],
+      "designName": "morpheus",
+      "premium": false,
+      "seoSocialMediaTitle": "Polls are everywhere in US elections. Are they accurate?",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-03-15T19:59:42.514Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Peter Rásonyi (pra)",
+          "id": 1373452,
+          "shortName": "pra"
+        }
+      ],
+      "department": {
+        "path": "/english",
+        "premium": false,
+        "level": 1,
+        "name": "NZZ in English"
+      },
+      "publicationDate": "2024-03-15T07:59:42.514Z",
+      "showComments": false,
+      "slug": "polls-are-everywhere-in-us-elections-are-they-accurate",
+      "firstPublicationDate": "2024-03-15T07:59:42.514Z",
+      "owner": "NZZ",
+      "nzzCharacterCount": 11652,
+      "authorLine": "Erika Burri, Nikolai Thelitz",
+      "numberOfContentComponents": 46,
+      "seoDescription": "Who will be elected American president in the fall, Trump or Biden? Polls are constantly measuring who is ahead, and where. We dive deep into the U.S. polling industry, looking at how it works and where it can go wrong.",
+      "germanyRelevant": false,
+      "leadText": "Who will be elected American president in the fall, Trump or Biden? Polls are constantly measuring who is ahead, and where. We dive deep into the U.S. polling industry, looking at how it works and where it can go wrong.",
+      "publicationLastUpdated": "2024-05-31T14:07:53.907Z",
+      "nzzArticleSnippet": "Who will be elected American president in the fall, Trump or Biden? Polls are constantly measuring who is ahead, and where. We dive deep into the U.S. polling industry, looking at how it works and where it can go wrong.",
+      "urlPath": "/english/polls-are-everywhere-in-us-elections-are-they-accurate-ld.1821944",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 1800,
+        "originalUrl": "https://img.nzz.ch/2024/03/12/214f2626-b5f9-423f-bd62-94fcc8fb3351.png",
+        "mimeType": "image/png",
+        "crops": [
+          {
+            "x": 0,
+            "width": 1800,
+            "name": "16:9",
+            "y": 166,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/03/12/214f2626-b5f9-423f-bd62-94fcc8fb3351.png?crop=1800,1012,x0,y166&width=1024&quality=75&auto=webp",
+            "height": 1012,
+            "ratio": 1.77778
+          },
+          {
+            "x": 211,
+            "width": 1351,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/03/12/214f2626-b5f9-423f-bd62-94fcc8fb3351.png?crop=1351,1351,x211,y0&width=1024&quality=75&auto=webp",
+            "height": 1351,
+            "ratio": 1
+          },
+          {
+            "x": 0,
+            "width": 1800,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/03/12/214f2626-b5f9-423f-bd62-94fcc8fb3351.png?crop=1800,1350,x0,y0&width=1024&quality=75&auto=webp",
+            "height": 1350,
+            "ratio": 1.33333
+          },
+          {
+            "x": 381,
+            "width": 1013,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/03/12/214f2626-b5f9-423f-bd62-94fcc8fb3351.png?crop=1013,1351,x381,y0&width=1024&quality=75&auto=webp",
+            "height": 1351,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "ab6JCCOwJRiH",
+        "url": "https://img.nzz.ch/2024/03/12/214f2626-b5f9-423f-bd62-94fcc8fb3351.png?width=1024&quality=75&auto=webp",
+        "key": "2024/03/12/214f2626-b5f9-423f-bd62-94fcc8fb3351.png",
+        "height": 1351
+      },
+      "nzzId": "ld.1821944",
+      "url": "https://www.nzz.ch/english/polls-are-everywhere-in-us-elections-are-they-accurate-ld.1821944",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hopmauc92",
+              "doc-1eg5ta2400"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "estimationWordCount": 1975,
+      "embeds": {
+        "images": [
+          {
+            "author": "Illustration: Cian Jochem / NZZ",
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/03/12/214f2626-b5f9-423f-bd62-94fcc8fb3351.png"
+          },
+          {
+            "author": "Screenshot FiveThirtyEight",
+            "caption": "The news platform FiveThirtyEight was also wrong, but gave Trump a higher chance of winning than others did.",
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2020/8/20/994fe3e4-49a0-40a3-8eae-e5100be28291.png"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "2257f3efb4bf4b5e436aba74d5c52408"
+          },
+          {
+            "id": "010aa6a0bdfe0194f6ac81b94f4a7cc6"
+          },
+          {
+            "id": "2257f3efb4bf4b5e436aba74d5c5bd4f"
+          },
+          {
+            "id": "2257f3efb4bf4b5e436aba74d5c6ec7d"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "The news platform FiveThirtyEight was also wrong, but gave Trump a higher chance of winning than others did.",
+      "breadcrumbs": [
+        {
+          "path": "/english",
+          "name": "NZZ in English"
+        }
+      ],
+      "documentId": "1821944",
+      "product": "NZZ.ch"
+    }
+  }
+]

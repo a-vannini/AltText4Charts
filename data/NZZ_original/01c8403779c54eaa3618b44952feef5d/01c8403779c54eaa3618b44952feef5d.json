@@ -1,0 +1,108 @@
+{
+  "_id": "01c8403779c54eaa3618b44952feef5d",
+  "_rev": "18-ca5ba7aee079aa2a8ef32c9117eb0c22",
+  "department": "Wirtschaft",
+  "publication": "nzz",
+  "acronym": "gho.",
+  "data": [
+    [
+      null,
+      null
+    ],
+    [
+      "Venezuela",
+      "276"
+    ],
+    [
+      "Nigeria",
+      "150"
+    ],
+    [
+      "Iran",
+      "125.6"
+    ],
+    [
+      "Algerien",
+      "116.4"
+    ],
+    [
+      "Saudiarabien",
+      "85.4"
+    ],
+    [
+      "Angola",
+      "80"
+    ],
+    [
+      "Libyen",
+      "71.3"
+    ],
+    [
+      "Vereinigte Arabische Emirate",
+      "65"
+    ],
+    [
+      "Irak",
+      "64.3"
+    ],
+    [
+      "Aserbaidschan",
+      "50.6"
+    ],
+    [
+      "Kuwait",
+      "48.8"
+    ],
+    [
+      "Russland",
+      "40"
+    ]
+  ],
+  "allowDownloadData": false,
+  "sources": [
+    {
+      "link": {},
+      "text": "IMF"
+    },
+    {
+      "link": {},
+      "text": "RBC"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": false,
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "year",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0
+    },
+    "highlightDataSeries": [
+      0
+    ],
+    "colorOverwritesSeries": []
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "Wie hoch muss der Ölpreis für den Staatshaushalt sein?",
+  "subtitle": "Schätzungen für den Erdölpreis für einen ausgeglichenen Haushalt (April 2019), in $ je Fass",
+  "notes": "Russland und Aserbaidschan sind keine Opec-Mitglieder. Die Werte für Venezuela, Nigeria und Angola sind Werte von RBC. In Russland basiert das Budget auf einem Ölpreis von 40 $ je Fass. Überschüsse gehen in einen Staatsfonds.",
+  "createdDate": "2019-06-28T12:31:54.977Z",
+  "createdBy": "gerald.hosp@nzz.ch",
+  "updatedDate": "2019-06-28T16:19:00.169Z",
+  "updatedBy": "armin.kaelin@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/01c8403779c54eaa3618b44952feef5d-thumbnail.jpeg"
+}

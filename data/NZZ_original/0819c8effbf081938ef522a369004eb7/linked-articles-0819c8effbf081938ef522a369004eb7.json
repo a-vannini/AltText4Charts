@@ -1,0 +1,158 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Catherine Falls / Getty",
+      "firstTitle": "Keine Angst vor der Kesb: Was die Behörde darf – und was nicht",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "Xdn5sxwZ0L-L8ce3IIPKY",
+        "locale": "de-CH"
+      },
+      "title": "Ein Alkoholiker mit Dauerrausch, ein Kind im Scheidungsdrama und ein Rentner auf Diebestour: Wer der Kesb alles gemeldet wird – und was sie mit den Fällen tut",
+      "seoTitle": "Was darf die Kesb? Und wie kann ich mich wehren? Die Übersicht – Zürich",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Giorgio Scherrer (sgi)",
+          "id": 1373651,
+          "shortName": "sgi",
+          "proLitterisId": "886514"
+        }
+      ],
+      "nzzPrintTitle": "Variante A:\nWas die Kesb darf – und was nicht\n\nVariante B:\nEin Alkoholiker mit Dauerrausch, ein Kind im Scheidungsdrama und ein Rentner auf Diebestour",
+      "designName": "morpheus",
+      "seoSocialMediaTitle": "Keine Angst vor der Kesb: Was die Behörde darf – und was nicht",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-04-19T15:15:00.000Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Katja Baigger (bai)",
+          "id": 1371941,
+          "shortName": "bai"
+        }
+      ],
+      "department": {
+        "path": "/zuerich",
+        "premium": false,
+        "level": 1,
+        "name": "Zürich"
+      },
+      "publicationDate": "2024-04-19T03:15:00.000Z",
+      "slug": "was-darf-die-kesb-und-wie-kann-ich-mich-wehren-die-uebersicht-zuerich",
+      "firstPublicationDate": "2024-04-19T03:15:00.000Z",
+      "nzzCharacterCount": 8478,
+      "owner": "NZZ",
+      "authorLine": "Giorgio Scherrer",
+      "numberOfContentComponents": 35,
+      "germanyRelevant": true,
+      "leadText": "Die häufigsten Massnahmen, die Rechte der Betroffenen und drei typische Geschichten: die grosse Übersicht zum Kindes- und Erwachsenenschutz.",
+      "publicationLastUpdated": "2024-05-08T12:29:00.205Z",
+      "nzzArticleSnippet": "Die häufigsten Massnahmen, die Rechte der Betroffenen und drei typische Geschichten: die grosse Übersicht zum Kindes- und Erwachsenenschutz.",
+      "urlPath": "/zuerich/was-darf-die-kesb-und-wie-kann-ich-mich-wehren-die-uebersicht-zuerich-ld.1826957",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 8096,
+        "originalUrl": "https://img.nzz.ch/2024/04/18/6156f329-2bbd-4b61-9944-b463306dfcbb.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 8096,
+            "name": "16:9",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W8096,H4554,X0,Y0/O=75/https://img.nzz.ch/2024/04/18/6156f329-2bbd-4b61-9944-b463306dfcbb.jpeg",
+            "height": 4554,
+            "ratio": 1.77778
+          },
+          {
+            "x": 2144,
+            "width": 3790,
+            "name": "1:1",
+            "y": 39,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W3790,H3790,X2144,Y39/O=75/https://img.nzz.ch/2024/04/18/6156f329-2bbd-4b61-9944-b463306dfcbb.jpeg",
+            "height": 3790,
+            "ratio": 1
+          },
+          {
+            "x": 494,
+            "width": 7196,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W7196,H5397,X494,Y0/O=75/https://img.nzz.ch/2024/04/18/6156f329-2bbd-4b61-9944-b463306dfcbb.jpeg",
+            "height": 5397,
+            "ratio": 1.33333
+          },
+          {
+            "x": 2065,
+            "width": 4048,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W4048,H5397,X2065,Y0/O=75/https://img.nzz.ch/2024/04/18/6156f329-2bbd-4b61-9944-b463306dfcbb.jpeg",
+            "height": 5397,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "izG1FTKM4G-b",
+        "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/04/18/6156f329-2bbd-4b61-9944-b463306dfcbb.jpeg",
+        "height": 5397
+      },
+      "nzzId": "ld.1826957",
+      "url": "https://www.nzz.ch/zuerich/was-darf-die-kesb-und-wie-kann-ich-mich-wehren-die-uebersicht-zuerich-ld.1826957",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hrp0qt0v0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "commentCount": 2,
+      "layout": "regular",
+      "estimationWordCount": 1288,
+      "nzzPrintSubtitle": "Variante A:\nDie häufigsten Massnahmen, die Rechte der Betroffenen und drei typische Fälle: eine Übersicht zum Kindes- und Erwachsenenschutz.\n\nVariante B:\nWer der Kesb alles gemeldet wird – und was sie mit den Fällen tut",
+      "embeds": {
+        "images": [
+          {
+            "author": "Catherine Falls / Getty",
+            "caption": "Die Arbeit der Kesb liegt oft im Dunkeln. «Skandalfälle» vermitteln dabei ein verzerrtes Bild.",
+            "origins": [
+              {
+                "identifier": "2154912132",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/04/18/6156f329-2bbd-4b61-9944-b463306dfcbb.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0819c8effbf081938ef522a369004eb7"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/zuerich",
+          "name": "Zürich"
+        }
+      ],
+      "teaserCaption": "Die Arbeit der Kesb liegt oft im Dunkeln. «Skandalfälle» vermitteln dabei ein verzerrtes Bild.",
+      "documentId": "1826957",
+      "product": "NZZ.ch"
+    }
+  }
+]

@@ -1,0 +1,86 @@
+{
+  "_id": "01c8403779c54eaa3618b44952ed45ae",
+  "_rev": "9-811ae1974edd1823570f6a90ff06c652",
+  "department": "default",
+  "publication": "nzz",
+  "acronym": "stt.",
+  "data": [
+    [
+      null,
+      null
+    ],
+    [
+      "Islam",
+      "61.3"
+    ],
+    [
+      "Buddhismus",
+      "19.8"
+    ],
+    [
+      "Christentum",
+      "9.2"
+    ],
+    [
+      "Hinduismus",
+      "6.3"
+    ],
+    [
+      "Konfuzianismus, Taoismus und andere chinesische Religionen",
+      "1.3"
+    ],
+    [
+      "Unbekannt",
+      "1"
+    ],
+    [
+      "Keine Religion",
+      "0.7"
+    ],
+    [
+      "Andere Religion",
+      "0.4"
+    ]
+  ],
+  "allowDownloadData": false,
+  "sources": [
+    {
+      "link": {},
+      "text": "Department of Statistics Malaysia"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": false,
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "year",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0
+    },
+    "highlightDataSeries": [],
+    "colorOverwritesSeries": [],
+    "areaChartOptions": {}
+  },
+  "tool": "chart",
+  "title": "Multi-ethnisch mit einer muslimischen Mehrheit",
+  "subtitle": "Die Bevölkerung Malaysias im Jahr 2010, aufgeteilt nach Zugehörigkeit von Religionen",
+  "createdDate": "2019-06-27T16:34:37.619Z",
+  "createdBy": "michael.settelen@nzz.ch",
+  "updatedDate": "2019-07-02T10:15:01.566Z",
+  "updatedBy": "beni.buess@nzz.ch",
+  "active": true,
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/01c8403779c54eaa3618b44952ed45ae-thumbnail.jpeg"
+}

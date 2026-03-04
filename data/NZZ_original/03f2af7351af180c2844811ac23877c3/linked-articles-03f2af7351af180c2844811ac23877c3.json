@@ -1,0 +1,328 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Christoph Ruckstuhl / NZZ",
+      "firstTitle": "US-Unternehmen haben die Lust auf Zürich etwas verloren, aber aus China sind doppelt so viele Firmen wie im Vorjahr gekommen",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "e_H1UgMQS0mCr0Gs5JkmL",
+        "locale": "de-CH"
+      },
+      "title": "Amerikanische Unternehmen haben die Lust auf Zürich etwas verloren, aber aus China sind doppelt so viele Firmen wie im Vorjahr gekommen",
+      "seoTitle": "Zürich: deutlich weniger Ansiedlungen",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Zeno Geisseler (zge)",
+          "id": 1638489,
+          "shortName": "zge",
+          "proLitterisId": "12608"
+        }
+      ],
+      "nzzPrintTitle": "Einbruch der Ansiedlungen im Wirtschaftsraum Zürich",
+      "designName": "morpheus",
+      "seoSocialMediaTitle": "Ansiedlungen von Unternehmen in der Region Zürich stark gesunken",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-03-23T03:58:00.000Z",
+      "department": {
+        "path": "/zuerich",
+        "premium": false,
+        "level": 1,
+        "name": "Zürich"
+      },
+      "publicationDate": "2024-03-22T15:58:00.000Z",
+      "slug": "wirtschaftsraum-zuerich-markanter-einbruch-bei-der-ansiedlung-von-auslaendischen-unternehmen-doch-die-chinesen-kommen-nach-wie-vor",
+      "firstPublicationDate": "2024-03-22T15:58:00.000Z",
+      "nzzCharacterCount": 5359,
+      "owner": "NZZ",
+      "authorLine": "Zeno Geisseler",
+      "numberOfContentComponents": 25,
+      "germanyRelevant": true,
+      "leadText": "Die Zahl der Zuzüge in den Wirtschaftsraum Zürich war im letzten Jahr so tief wie seit der Pandemie nicht mehr.",
+      "publicationLastUpdated": "2024-03-22T15:58:00.000Z",
+      "nzzArticleSnippet": "Die Zahl der Zuzüge in den Wirtschaftsraum Zürich war im letzten Jahr so tief wie seit der Pandemie nicht mehr.",
+      "urlPath": "/zuerich/wirtschaftsraum-zuerich-markanter-einbruch-bei-der-ansiedlung-von-auslaendischen-unternehmen-doch-die-chinesen-kommen-nach-wie-vor-ld.1821856",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 4670,
+        "originalUrl": "https://img.nzz.ch/2024/03/22/05cfd37c-727b-4818-bee6-80ab70e421b4.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 4670,
+            "name": "16:9",
+            "y": 258,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W4670,H2627,X0,Y258/O=75/https://img.nzz.ch/2024/03/22/05cfd37c-727b-4818-bee6-80ab70e421b4.jpeg",
+            "height": 2627,
+            "ratio": 1.77778
+          },
+          {
+            "x": 716,
+            "width": 3239,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/C=W3239,H3239,X716,Y0/O=75/https://img.nzz.ch/2024/03/22/05cfd37c-727b-4818-bee6-80ab70e421b4.jpeg",
+            "height": 3239,
+            "ratio": 1
+          },
+          {
+            "x": 176,
+            "width": 4319,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/C=W4319,H3239,X176,Y0/O=75/https://img.nzz.ch/2024/03/22/05cfd37c-727b-4818-bee6-80ab70e421b4.jpeg",
+            "height": 3239,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1120,
+            "width": 2429,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/C=W2429,H3239,X1120,Y0/O=75/https://img.nzz.ch/2024/03/22/05cfd37c-727b-4818-bee6-80ab70e421b4.jpeg",
+            "height": 3239,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "T2OBHQZd0XVI",
+        "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/03/22/05cfd37c-727b-4818-bee6-80ab70e421b4.jpeg",
+        "height": 3239
+      },
+      "nzzId": "ld.1821856",
+      "url": "https://www.nzz.ch/zuerich/wirtschaftsraum-zuerich-markanter-einbruch-bei-der-ansiedlung-von-auslaendischen-unternehmen-doch-die-chinesen-kommen-nach-wie-vor-ld.1821856",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hpjdokpc1",
+              "doc-1hpivqs9i1",
+              "doc-1hope7h3s0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "commentCount": 1,
+      "layout": "regular",
+      "estimationWordCount": 828,
+      "nzzPrintSubtitle": "Die Zuzüge aus den USA haben sich halbiert, jene aus China haben sich verdoppelt",
+      "embeds": {
+        "images": [
+          {
+            "author": "Christoph Ruckstuhl / NZZ",
+            "caption": "Letztes Jahr ist aus China unter anderem das Unternehmen&nbsp;Ecoceres nach Baar (im Vordergrund) gekommen.",
+            "origins": [
+              {
+                "identifier": "22811317",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/03/22/05cfd37c-727b-4818-bee6-80ab70e421b4.jpeg"
+          },
+          {
+            "author": "Christian Beutler / Keystone",
+            "caption": "Ein wesentlicher Anziehungsfaktor für ausländische Unternehmen: die ETH.&nbsp;",
+            "origins": [
+              {
+                "identifier": "1924220638",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/C=W9940,H7455,X0,Y87/O=75/https://img.nzz.ch/2023/09/21/1ec5f1a4-6319-451c-94ed-fa6223799723.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "9f08e7dc37e98752eca18fd3f69f5584"
+          },
+          {
+            "id": "03f2af7351af180c2844811ac23877c3"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/zuerich",
+          "name": "Zürich"
+        }
+      ],
+      "teaserCaption": "Letztes Jahr ist aus China unter anderem das Unternehmen Ecoceres nach Baar (im Vordergrund) gekommen.",
+      "documentId": "1821856",
+      "product": "NZZ.ch"
+    }
+  },
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Andreas Haas / Imago",
+      "firstTitle": "Der Wirtschaftsraum Zürich bekommt einen neuen obersten Standortvermarkter. «Einen Kohlehändler», sagt Lukas Huber, «würden wir nicht angehen»",
+      "flag": "Interview",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "zGSsGenDb56-7Ev5NahzL",
+        "locale": "de-CH"
+      },
+      "title": "Der Wirtschaftsraum Zürich bekommt einen neuen Standortvermarkter. «Einen Kohlehändler würden wir nicht aktiv angehen», sagt Lukas Huber",
+      "seoTitle": "Greater Zurich Area: Neue Strategien in der Standortvermarktung",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Zeno Geisseler (zge)",
+          "id": 1638489,
+          "shortName": "zge",
+          "proLitterisId": "12608"
+        }
+      ],
+      "nzzPrintTitle": "\"Einen Kohlehändler würden wir nicht angehen\"",
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-06-25T15:00:00.000Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Marius Huber (hub)",
+          "id": 1719533,
+          "shortName": "hub",
+          "proLitterisId": "765925"
+        }
+      ],
+      "department": {
+        "path": "/zuerich",
+        "premium": false,
+        "level": 1,
+        "name": "Zürich"
+      },
+      "publicationDate": "2024-06-25T03:00:00.000Z",
+      "slug": "greater-zurich-area-neue-strategien-in-der-standortvermarktung",
+      "firstPublicationDate": "2024-06-25T03:00:00.000Z",
+      "nzzCharacterCount": 7991,
+      "owner": "NZZ",
+      "authorLine": "Zeno Geisseler",
+      "numberOfContentComponents": 36,
+      "germanyRelevant": true,
+      "leadText": "Die Greater Zurich Area setzt auf strenge Regeln bei der Nachhaltigkeit. Wenn es um China geht, ist sie toleranter.",
+      "publicationLastUpdated": "2024-06-25T13:09:47.578Z",
+      "nzzArticleSnippet": "Die Greater Zurich Area setzt auf strenge Regeln bei der Nachhaltigkeit. Wenn es um China geht, ist sie toleranter.",
+      "urlPath": "/zuerich/greater-zurich-area-neue-strategien-in-der-standortvermarktung-ld.1836167",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 7680,
+        "originalUrl": "https://img.nzz.ch/2024/06/24/efd29422-867a-423c-a967-e38d8792d50f.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 7680,
+            "name": "16:9",
+            "y": 428,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/24/efd29422-867a-423c-a967-e38d8792d50f.jpeg?crop=7680,4319,x0,y428&quality=75&auto=webp",
+            "height": 4319,
+            "ratio": 1.77778
+          },
+          {
+            "x": 1770,
+            "width": 4747,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/24/efd29422-867a-423c-a967-e38d8792d50f.jpeg?crop=4747,4747,x1770,y0&quality=75&auto=webp",
+            "height": 4747,
+            "ratio": 1
+          },
+          {
+            "x": 792,
+            "width": 6329,
+            "name": "4:3",
+            "y": 1,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/24/efd29422-867a-423c-a967-e38d8792d50f.jpeg?crop=6329,4746,x792,y1&quality=75&auto=webp",
+            "height": 4746,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1206,
+            "width": 3560,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/24/efd29422-867a-423c-a967-e38d8792d50f.jpeg?crop=3560,4747,x1206,y0&quality=75&auto=webp",
+            "height": 4747,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "czxLZmrUWjLg",
+        "key": "2024/06/24/efd29422-867a-423c-a967-e38d8792d50f.jpeg",
+        "url": "https://img.nzz.ch/2024/06/24/efd29422-867a-423c-a967-e38d8792d50f.jpeg?quality=75&auto=webp",
+        "height": 4747
+      },
+      "nzzId": "ld.1836167",
+      "url": "https://www.nzz.ch/zuerich/greater-zurich-area-neue-strategien-in-der-standortvermarktung-ld.1836167",
+      "dependencies": {},
+      "commentCount": 1,
+      "layout": "regular",
+      "estimationWordCount": 1214,
+      "nzzPrintSubtitle": "Der neue Chef der Greater Zurich Area, Lukas Huber, zieht in Umweltfragen klare Linien - toleranter ist er, wenn es um China geht",
+      "embeds": {
+        "images": [
+          {
+            "author": "Andreas Haas / Imago",
+            "caption": "Die Stadt Zürich ist das Lieblingsziel vieler Unternehmen, die in die Schweiz ziehen.",
+            "origins": [
+              {
+                "identifier": "2157245609",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2024/06/24/efd29422-867a-423c-a967-e38d8792d50f.jpeg?quality=75&auto=webp"
+          },
+          {
+            "author": "PD",
+            "caption": "Lukas Huber wird neuer Leiter der&nbsp;Greater Zurich Area.",
+            "origins": [
+              {
+                "identifier": "2157254485",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2024/06/24/75ed5b6e-aa64-4f0b-8dfb-260e2c7c045e.jpeg?quality=75&auto=webp"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "9f08e7dc37e98752eca18fd3f69f5584"
+          },
+          {
+            "id": "03f2af7351af180c2844811ac23877c3"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/zuerich",
+          "name": "Zürich"
+        }
+      ],
+      "teaserCaption": "Die Stadt Zürich ist das Lieblingsziel vieler Unternehmen, die in die Schweiz ziehen.",
+      "documentId": "1836167",
+      "product": "NZZ.ch"
+    }
+  }
+]

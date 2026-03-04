@@ -1,0 +1,114 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Gebrauchtwagen finden nach 2½ Monaten neue Käufer",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Herbie Schmidt (hdt)",
+          "id": 1372624
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2019-08-06T19:25:16.492Z",
+      "department": {
+        "path": "/mobilitaet/auto-mobil",
+        "level": 2,
+        "parentPath": "/mobilitaet",
+        "name": "Auto-Mobil"
+      },
+      "publicationDate": "2019-08-06T07:25:16.492Z",
+      "slug": "gebrauchtwagen-finden-nach-2-monaten-neue-kaeufer",
+      "firstPublicationDate": "2019-08-06T07:25:16.492Z",
+      "nzzCharacterCount": 1513,
+      "authorLine": "Herbie Schmidt",
+      "numberOfContentComponents": 13,
+      "leadText": "Wie der Marktbeobachter auto-i-dat berichtet, liegt in der Schweiz die durchschnittliche Standzeit bei Occasionen bei 77 Tagen. Doch die Unterschiede sind je nach Marke und Modell gross.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2019-08-06T07:25:16.492Z",
+      "nzzArticleSnippet": "Wie der Marktbeobachter auto-i-dat berichtet, liegt in der Schweiz die durchschnittliche Standzeit bei Occasionen bei 77 Tagen. Doch die Unterschiede sind je nach Marke und Modell gross.",
+      "urlPath": "/mobilitaet/auto-mobil/gebrauchtwagen-finden-nach-2-monaten-neue-kaeufer-ld.1500130",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 1920,
+        "originalUrl": "https://nzz-img.s3.amazonaws.com/2019/8/6/a43ff264-2592-4dc4-827e-3c6ed2fe6a2a.jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 973,
+            "width": 947,
+            "y": 547,
+            "url": "https://img.nzz.ch/C=W947,H533,X973,Y547/O=75/https://nzz-img.s3.amazonaws.com/2019/8/6/a43ff264-2592-4dc4-827e-3c6ed2fe6a2a.jpeg",
+            "height": 533
+          },
+          {
+            "name": "1:1",
+            "x": 588,
+            "width": 759,
+            "y": 321,
+            "url": "https://img.nzz.ch/C=W759,H759,X588,Y321/O=75/https://nzz-img.s3.amazonaws.com/2019/8/6/a43ff264-2592-4dc4-827e-3c6ed2fe6a2a.jpeg",
+            "height": 759
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2019/8/6/a43ff264-2592-4dc4-827e-3c6ed2fe6a2a.jpeg",
+        "height": 1080
+      },
+      "nzzId": "ld.1500130",
+      "url": "https://www.nzz.ch/mobilitaet/auto-mobil/gebrauchtwagen-finden-nach-2-monaten-neue-kaeufer-ld.1500130",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1dhirc5o80"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "longformstandard",
+      "embeds": {
+        "images": [
+          {
+            "caption": "In der Schweiz sind die Unterschiede bei den Standzeiten von Gebrauchtwagen gross. Tageszulassungen verzerren die Statistik zusätzlich. (Bild:&nbsp;Gaetan Bally / Keystone)",
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2019/8/6/a43ff264-2592-4dc4-827e-3c6ed2fe6a2a.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "01ba465f792500066ff5d6bee1a8bc23"
+          },
+          {
+            "id": "6103c4f23e7ced0e27f3cd57025de17d"
+          },
+          {
+            "id": "01ba465f792500066ff5d6bee1a8fde0"
+          },
+          {
+            "id": "01ba465f792500066ff5d6bee1a99edc"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "In der Schweiz sind die Unterschiede bei den Standzeiten von Gebrauchtwagen gross. Tageszulassungen verzerren die Statistik zusätzlich. (Bild: Gaetan Bally / Keystone)",
+      "breadcrumbs": [
+        {
+          "path": "/mobilitaet",
+          "name": "Mobilität"
+        },
+        {
+          "path": "/mobilitaet/auto-mobil",
+          "name": "Auto-Mobil"
+        }
+      ],
+      "documentId": "1500130",
+      "product": "NZZ.ch"
+    }
+  }
+]

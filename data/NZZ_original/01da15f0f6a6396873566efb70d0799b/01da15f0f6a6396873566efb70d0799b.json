@@ -1,0 +1,172 @@
+{
+  "_id": "01da15f0f6a6396873566efb70d0799b",
+  "_rev": "32-2c9aadc437c49813e2bca0dc95b03cc7",
+  "department": "Visuals",
+  "publication": "nzz",
+  "acronym": "fsl.",
+  "allowDownloadData": false,
+  "active": true,
+  "tool": "chart",
+  "title": "Welche Länder die klimafreundliche Stromerzeugung am meisten forcieren",
+  "subtitle": "Anteil CO₂-armer Energieträger bei der Stromerzeugung, Veränderung in Prozentpunkten seit 2000 (Deutschland, USA und die Schweiz zum Vergleich)",
+  "data": [
+    [
+      null,
+      "2000",
+      "2023"
+    ],
+    [
+      "1. Dänemark",
+      "15.5",
+      "87.6"
+    ],
+    [
+      "2. Luxemburg",
+      "40",
+      "92.1"
+    ],
+    [
+      "3. Estland",
+      "0.1",
+      "44.3"
+    ],
+    [
+      "4. Niederlande",
+      "7.8",
+      "51.1"
+    ],
+    [
+      "5. Portugal",
+      "29.8",
+      "72.8"
+    ],
+    [
+      "6. Griechenland",
+      "7.8",
+      "50.1"
+    ],
+    [
+      "7. Irland",
+      "5",
+      "43.7"
+    ],
+    [
+      "8. Grossbritannien",
+      "25.2",
+      "60.1"
+    ],
+    [
+      "9. Tschechien",
+      "21.8",
+      "54.8"
+    ],
+    [
+      "10. Ungarn",
+      "41",
+      "70.2"
+    ],
+    [
+      "11. Finnland",
+      "65.5",
+      "94.4"
+    ],
+    [
+      "12. Spanien",
+      "43.8",
+      "71.1"
+    ],
+    [
+      "(...)",
+      "0",
+      "0"
+    ],
+    [
+      "16. Deutschland",
+      "36",
+      "54.2"
+    ],
+    [
+      "23. USA",
+      "29.1",
+      "40.3"
+    ],
+    [
+      "31. Schweiz",
+      "97",
+      "97.6"
+    ]
+  ],
+  "sources": [
+    {
+      "text": "Ember",
+      "link": {
+        "url": "https://ember-climate.org/data-catalogue/yearly-electricity-data/",
+        "isValid": true
+      }
+    }
+  ],
+  "events": [],
+  "options": {
+    "annotations": {
+      "diff": true
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "chartType": "Arrow",
+    "colorOverwritesRows": [],
+    "colorOverwritesSeries": [
+      {
+        "color": "#1b87aa",
+        "colorLight": "",
+        "position": 1
+      },
+      {
+        "color": "#53b4d9",
+        "colorLight": "",
+        "position": 2
+      },
+      {
+        "color": "#b1dcef",
+        "colorLight": "",
+        "position": 3
+      }
+    ],
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "dotplotOptions": {
+      "connectDots": true
+    },
+    "hideAxisLabel": true,
+    "highlightDataRows": [],
+    "highlightDataSeries": [],
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "createdDate": "2024-05-13T13:41:10.239Z",
+  "createdBy": "florian.seliger@nzz.ch",
+  "updatedDate": "2024-05-28T09:58:54.769Z",
+  "updatedBy": "florian.seliger@nzz.ch",
+  "notes": "Nur OECD-Länder",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/01da15f0f6a6396873566efb70d0799b-thumbnail.jpeg",
+  "activateDate": "2024-05-13T14:07:48.605Z"
+}

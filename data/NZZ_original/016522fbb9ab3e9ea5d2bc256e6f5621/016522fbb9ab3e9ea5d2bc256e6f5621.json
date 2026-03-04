@@ -1,0 +1,88 @@
+{
+  "_id": "016522fbb9ab3e9ea5d2bc256e6f5621",
+  "_rev": "11-2ea49ac11e90d12bb8c7811188d0fadb",
+  "annotations": "",
+  "title": "Die zehn erfolgreichsten Schwinger: 80 und mehr Kränze",
+  "tool": "chart",
+  "data": [
+    [
+      "",
+      "Kraenze"
+    ],
+    [
+      "Arnold Forrer",
+      "142"
+    ],
+    [
+      "Bruno Gisler",
+      "115"
+    ],
+    [
+      "Christian Stucki",
+      "109"
+    ],
+    [
+      "Thomas Zaugg",
+      "109"
+    ],
+    [
+      "Matthias Glarner",
+      "108"
+    ],
+    [
+      "Matthias Sempach",
+      "100"
+    ],
+    [
+      "Stefan Burkhalter",
+      "97"
+    ],
+    [
+      "Mario Thürig",
+      "91"
+    ],
+    [
+      "Philipp Laimbacher",
+      "91"
+    ],
+    [
+      "Christoph Bieri",
+      "87"
+    ]
+  ],
+  "options": {
+    "chartType": "Bar",
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": true
+    },
+    "lineChartOptions": {
+      "isStockChart": false
+    },
+    "dateSeriesOptions": {},
+    "highlightDataSeries": [],
+    "annotations": {
+      "first": false
+    }
+  },
+  "sources": [
+    {
+      "text": "Eidgenössischer Schwingerverband",
+      "link": {
+        "url": "https://esv.ch/schwingerportraets/",
+        "isValid": true
+      }
+    }
+  ],
+  "createdDate": "2016-08-26T09:05:26.914Z",
+  "createdBy": "marie-jose.kolly@nzz.ch",
+  "department": "Visuals",
+  "active": true,
+  "activateDate": "2016-08-26T09:12:43.034Z",
+  "notes": "Daten: Teilnehmer am Eidgenössischen Schwingfest 2016",
+  "subtitle": "Anzahl Kränze",
+  "updatedBy": "david.bauer@nzz.ch",
+  "publication": "nzz",
+  "updatedDate": "2016-08-26T09:05:26.914Z",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/016522fbb9ab3e9ea5d2bc256e6f5621-thumbnail.jpeg"
+}

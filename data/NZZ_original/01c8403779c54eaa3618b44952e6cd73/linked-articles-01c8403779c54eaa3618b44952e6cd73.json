@@ -1,0 +1,248 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "flag": "Erklärt",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "EU – Mercosur: Was die grösste Freihandelszone der Welt bedeutet",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Daniel Fritzsche (dfr)",
+          "id": 1372257
+        }
+      ],
+      "designName": "morpheus",
+      "catchline": "",
+      "significantUpdateTill": "2019-06-29T21:28:48.429Z",
+      "department": {
+        "path": "/wirtschaft",
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2019-06-29T09:28:48.429Z",
+      "slug": "eu-mercosur-was-die-groesste-freihandelszone-der-welt-bedeutet",
+      "firstPublicationDate": "2019-06-29T09:28:48.429Z",
+      "nzzCharacterCount": 3569,
+      "authorLine": "Daniel Fritzsche",
+      "numberOfContentComponents": 24,
+      "leadText": "Die EU und vier südamerikanische Länder lockern ihre Zölle. Was ist die Bedeutung dieses «historischen» Abkommens? Und wie ist die Schweiz betroffen? Die wichtigsten Antworten zu den drängendsten Fragen.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2019-06-30T14:21:58.754Z",
+      "nzzArticleSnippet": "Die EU und vier südamerikanische Länder lockern ihre Zölle. Was ist die Bedeutung dieses «historischen» Abkommens? Und wie ist die Schweiz betroffen? Die wichtigsten Antworten zu den drängendsten Fragen.",
+      "urlPath": "/wirtschaft/eu-mercosur-was-die-groesste-freihandelszone-der-welt-bedeutet-ld.1492561",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 3500,
+        "originalUrl": "https://nzz-img.s3.amazonaws.com/2019/6/29/25bad275-ae70-4aeb-ada3-aed0d1c2f4fd.jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 0,
+            "width": 3500,
+            "y": 117,
+            "url": "https://img.nzz.ch/C=W3500,H1969,X0,Y117/O=75/https://nzz-img.s3.amazonaws.com/2019/6/29/25bad275-ae70-4aeb-ada3-aed0d1c2f4fd.jpeg",
+            "ratio": 1.77778,
+            "height": 1969
+          },
+          {
+            "name": "1:1",
+            "x": 649,
+            "width": 2202,
+            "y": 0,
+            "url": "https://img.nzz.ch/C=W2202,H2202,X649,Y0/O=75/https://nzz-img.s3.amazonaws.com/2019/6/29/25bad275-ae70-4aeb-ada3-aed0d1c2f4fd.jpeg",
+            "ratio": 1,
+            "height": 2202
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2019/6/29/25bad275-ae70-4aeb-ada3-aed0d1c2f4fd.jpeg",
+        "height": 2202
+      },
+      "nzzId": "ld.1492561",
+      "url": "https://www.nzz.ch/wirtschaft/eu-mercosur-was-die-groesste-freihandelszone-der-welt-bedeutet-ld.1492561",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1deh855j20"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          },
+          {
+            "code": "\n      window.twttr = (function (d, s, id) {\n      var t, js, fjs = d.getElementsByTagName(s)[0];\n      if (d.getElementById(id)) return;\n      js = d.createElement(s); js.id = id;\n      js.src= \"https://platform.twitter.com/widgets.js\";\n      fjs.parentNode.insertBefore(js, fjs);\n      return window.twttr || (t = { _e: [], ready: function (f) { t._e.push(f) } });\n      }(document, \"script\", \"twitter-wjs\"));\n      window.twttr.ready(function(twttr){\n      twttr.widgets.load();\n      });\n      ",
+            "inline": true,
+            "componentIds": [
+              "doc-1deh60hpu0"
+            ],
+            "namespace": "embeds.twitter"
+          }
+        ]
+      },
+      "layout": "regular",
+      "embeds": {
+        "images": [
+          {
+            "caption": "Blick auf den Porto&nbsp;Maravilha&nbsp;von Rio de Janeiro in Brasilien. Das neue Hafengebiet ist zum Vorzeigeprojekt in der südamerikanischen Metropole geworden. (Bild: Ricardo Moraes / Reuters)",
+            "origins": [
+              {
+                "identifier": "picture-1940467382",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2019/6/29/25bad275-ae70-4aeb-ada3-aed0d1c2f4fd.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "62f3da48d391dac0b49032e7a967f83a"
+          },
+          {
+            "id": "964c91723a1b5ca38722920506083e19"
+          },
+          {
+            "id": "01c8403779c54eaa3618b44952e6cd73"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Blick auf den Porto Maravilha von Rio de Janeiro in Brasilien. Das neue Hafengebiet ist zum Vorzeigeprojekt in der südamerikanischen Metropole geworden. (Bild: Ricardo Moraes / Reuters)",
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "documentId": "1492561",
+      "product": "NZZ.ch"
+    }
+  },
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Unterhändler ringen um ein Handelsabkommen zwischen der EU und den Mercosur-Staaten",
+      "seoTitle": "EU und Mercosur-Staaten ringen um Handelsabkommen",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Christoph G. Schmutz (sco)",
+          "id": 1373658
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2019-06-28T03:54:56.015Z",
+      "department": {
+        "path": "/wirtschaft",
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2019-06-27T15:54:56.015Z",
+      "slug": "eu-und-mercosur-staaten-ringen-um-handelsabkommen",
+      "firstPublicationDate": "2019-06-27T15:54:56.015Z",
+      "nzzCharacterCount": 5858,
+      "authorLine": "Christoph G. Schmutz, Brüssel",
+      "numberOfContentComponents": 23,
+      "leadText": "Nach zwanzig Jahren soll es nun endlich klappen. Vertreter der EU und des Mercosur-Handelsblocks versuchen sich in Brüssel auf ein Abkommen zu einigen. Dem Vorhaben, das den Handel etwa mit brasilianischem Rindfleisch und deutschen Autos erleichtern würde, erwächst aber Widerstand aus der Zivilgesellschaft und von Mitgliedstaaten.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2019-06-27T15:54:56.015Z",
+      "nzzArticleSnippet": "Nach zwanzig Jahren soll es nun endlich klappen. Vertreter der EU und des Mercosur-Handelsblocks versuchen sich in Brüssel auf ein Abkommen zu einigen. Dem Vorhaben, das den Handel etwa mit brasilianischem Rindfleisch und deutschen Autos erleichtern würde, erwächst aber Widerstand aus der Zivilgesellschaft und von Mitgliedstaaten.",
+      "urlPath": "/wirtschaft/eu-und-mercosur-staaten-ringen-um-handelsabkommen-ld.1491974",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 3500,
+        "originalUrl": "https://nzz-img.s3.amazonaws.com/2019/6/27/cb486b66-b54f-4450-b721-83ec8ed3541b.jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 0,
+            "width": 3500,
+            "y": 1,
+            "url": "https://img.nzz.ch/C=W3500,H1969,X0,Y1/O=75/https://nzz-img.s3.amazonaws.com/2019/6/27/cb486b66-b54f-4450-b721-83ec8ed3541b.jpeg",
+            "ratio": 1.77778,
+            "height": 1969
+          },
+          {
+            "name": "1:1",
+            "x": 765,
+            "width": 1971,
+            "y": 0,
+            "url": "https://img.nzz.ch/C=W1971,H1971,X765,Y0/O=75/https://nzz-img.s3.amazonaws.com/2019/6/27/cb486b66-b54f-4450-b721-83ec8ed3541b.jpeg",
+            "ratio": 1,
+            "height": 1971
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2019/6/27/cb486b66-b54f-4450-b721-83ec8ed3541b.jpeg",
+        "height": 1971
+      },
+      "nzzId": "ld.1491974",
+      "url": "https://www.nzz.ch/wirtschaft/eu-und-mercosur-staaten-ringen-um-handelsabkommen-ld.1491974",
+      "dependencies": {
+        "js": [
+          {
+            "code": "\n      window.twttr = (function (d, s, id) {\n      var t, js, fjs = d.getElementsByTagName(s)[0];\n      if (d.getElementById(id)) return;\n      js = d.createElement(s); js.id = id;\n      js.src= \"https://platform.twitter.com/widgets.js\";\n      fjs.parentNode.insertBefore(js, fjs);\n      return window.twttr || (t = { _e: [], ready: function (f) { t._e.push(f) } });\n      }(document, \"script\", \"twitter-wjs\"));\n      window.twttr.ready(function(twttr){\n      twttr.widgets.load();\n      });\n      ",
+            "inline": true,
+            "componentIds": [
+              "doc-1decdkmsu0"
+            ],
+            "namespace": "embeds.twitter"
+          },
+          {
+            "componentIds": [
+              "doc-1decpetsb0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "embeds": {
+        "images": [
+          {
+            "caption": "Importe gerade von Rindfleisch, Geflügel, Zucker und Ethanol seien «besonders sensible» Bereiche für die vier Mitgliedstaaten, heisst es in dem Schreiben von EU-Vertretern – Bild: Rinderfarm in Uruara, Brasilien. (Bild: Nacho Doce / Reuters)",
+            "origins": [
+              {
+                "identifier": "picture-2012776816",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/C=W2621,H1971,X439,Y0/O=75/https://nzz-img.s3.amazonaws.com/2019/6/27/cb486b66-b54f-4450-b721-83ec8ed3541b.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "964c91723a1b5ca3872292050607fb92"
+          },
+          {
+            "id": "964c91723a1b5ca38722920506083e19"
+          },
+          {
+            "id": "01c8403779c54eaa3618b44952e6cd73"
+          },
+          {
+            "id": "01c8403779c54eaa3618b44952e8c440"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Importe gerade von Rindfleisch, Geflügel, Zucker und Ethanol seien «besonders sensible» Bereiche für die vier Mitgliedstaaten, heisst es in dem Schreiben von EU-Vertretern – Bild: Rinderfarm in Uruara, Brasilien. (Bild: Nacho Doce / Reuters)",
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "documentId": "1491974",
+      "product": "NZZ.ch"
+    }
+  }
+]

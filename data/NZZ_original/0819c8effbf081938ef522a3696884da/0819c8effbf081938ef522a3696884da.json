@@ -1,0 +1,90 @@
+{
+  "_id": "0819c8effbf081938ef522a3696884da",
+  "_rev": "31-bc0fcf4957b22e34b0e5297d1a5d011d",
+  "data": [
+    [
+      null,
+      "Reaktionsweg",
+      "Bremsweg"
+    ],
+    [
+      "Velo mit 15 km/h: total 9,9 m",
+      "8.3",
+      "1.6"
+    ],
+    [
+      "E-Bike mit 25 km/h: total 18,4 m",
+      "13.9",
+      "4.5"
+    ],
+    [
+      "E-Bike mit 45 km/h: total 39,5 m",
+      "25",
+      "14.5"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {
+        "url": "https://www.bfu.ch/de/ratgeber/e-bike-fahren",
+        "isValid": true
+      },
+      "text": "Beratungsstelle für Unfallverhütung (BfU)"
+    },
+    {
+      "text": "",
+      "link": {
+        "url": ""
+      }
+    }
+  ],
+  "options": {
+    "chartType": "StackedBar",
+    "hideAxisLabel": false,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "department": "Newsroom",
+  "publication": "nzz",
+  "acronym": "cov.",
+  "active": true,
+  "title": "Längere Reaktions- und Bremswege mit dem E-Bike",
+  "createdDate": "2024-04-30T07:31:01.575Z",
+  "createdBy": "michele.coviello@nzz.ch",
+  "updatedDate": "2024-05-01T09:30:48.646Z",
+  "updatedBy": "samuel.rusch@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/0819c8effbf081938ef522a3696884da-thumbnail.jpeg"
+}

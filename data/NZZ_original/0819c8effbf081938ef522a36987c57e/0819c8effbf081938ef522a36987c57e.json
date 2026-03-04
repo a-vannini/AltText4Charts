@@ -1,0 +1,113 @@
+{
+  "_id": "0819c8effbf081938ef522a36987c57e",
+  "_rev": "24-567354805825c1c13073836582d39a05",
+  "department": "default",
+  "publication": "nzz",
+  "title": "Chinese meat consumption has risen",
+  "tool": "chart",
+  "data": [
+    [
+      null,
+      "China",
+      "Switzerland"
+    ],
+    [
+      "Sugar",
+      "1.2",
+      "39"
+    ],
+    [
+      "Eggs",
+      "13.5",
+      "13"
+    ],
+    [
+      "Meat",
+      "34.6",
+      "47"
+    ],
+    [
+      "Fruit",
+      "61",
+      "108"
+    ],
+    [
+      "Vegetables",
+      "108.2",
+      "103"
+    ],
+    [
+      "Grains",
+      "136.8",
+      "97"
+    ],
+    [
+      "Milk and dairy products",
+      "12.4",
+      "293.4"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [
+      0
+    ],
+    "highlightDataRows": [],
+    "annotations": {
+      "valuesOnBars": true
+    },
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [
+      {
+        "color": "#c31906",
+        "position": 1
+      },
+      {
+        "color": "#e3b13e",
+        "colorLight": "#e3b13e",
+        "position": 2
+      }
+    ],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "subtitle": "Per capita consumption of selected foods per year, in kilograms (2022)",
+  "createdDate": "2024-04-30T11:25:18.344Z",
+  "createdBy": "johanna.russ@lieferanten.nzz.ch",
+  "updatedDate": "2024-05-01T12:04:36.389Z",
+  "updatedBy": "john.borland@lieferanten.nzz.ch",
+  "active": true,
+  "notes": "For technical reasons, numbers are rendered in the German style, with commas instead of decimal points. Readers should thus interpret 1,2 as 1.2, for example. <br><br>Sources: <a href=”https://www.stats.gov.cn/sj/ndsj/2023/indexeh.htm”>China Statistical Yearbook 2023</a>, <a href=”https://www.bfs.admin.ch/bfs/de/home/statistiken/land-forstwirtschaft/ernaehrung.assetdetail.30607024.html”>Federal Statistical Office</a>",
+  "deactivateDate": "2024-04-30T11:51:23.145Z",
+  "activateDate": "2024-04-30T11:51:23.847Z",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/0819c8effbf081938ef522a36987c57e-thumbnail.jpeg"
+}

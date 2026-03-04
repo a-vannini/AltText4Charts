@@ -1,0 +1,363 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Neuer Rekord: 2,5 Millionen Besucherinnen und Besucher am Züri-Fäscht",
+      "seoTitle": "Züri-Fäscht: 2,5 Millionen Besucherinnen und Besucher",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Daniel Fritzsche (dfr)",
+          "id": 1372257
+        },
+        {
+          "external": false,
+          "name": "Lucien Scherrer (lsc)",
+          "id": 1373070
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2019-07-06T23:46:45.262Z",
+      "department": {
+        "path": "/zuerich",
+        "level": 1,
+        "name": "Zürich"
+      },
+      "publicationDate": "2019-07-07T18:58:40.234Z",
+      "slug": "zueri-faescht-25-millionen-besucherinnen-und-besucher",
+      "firstPublicationDate": "2019-07-06T11:46:45.262Z",
+      "nzzCharacterCount": 6024,
+      "authorLine": "Daniel Fritzsche / Lucien Scherrer",
+      "numberOfContentComponents": 25,
+      "leadText": "Trotz Werbeverzicht hat das Züri-Fäscht 2019 so viele Personen angezogen wie keines zuvor. Sorgen bereiten den Veranstaltern die grossen Abfallmengen.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2019-07-08T08:08:04.688Z",
+      "nzzArticleSnippet": "Trotz Werbeverzicht hat das Züri-Fäscht 2019 so viele Personen angezogen wie keines zuvor. Sorgen bereiten den Veranstaltern die grossen Abfallmengen.",
+      "urlPath": "/zuerich/zueri-faescht-25-millionen-besucherinnen-und-besucher-ld.1494240",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 4159,
+        "originalUrl": "https://nzz-img.s3.amazonaws.com/2019/7/7/0111e1b3-01d5-418a-82d2-dee59a20f378.jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 0,
+            "width": 4159,
+            "y": 214,
+            "url": "https://img.nzz.ch/C=W4159,H2339,X0,Y214/O=75/https://nzz-img.s3.amazonaws.com/2019/7/7/0111e1b3-01d5-418a-82d2-dee59a20f378.jpeg",
+            "ratio": 1.77778,
+            "height": 2339
+          },
+          {
+            "name": "1:1",
+            "x": 696,
+            "width": 2768,
+            "y": 0,
+            "url": "https://img.nzz.ch/C=W2768,H2768,X696,Y0/O=75/https://nzz-img.s3.amazonaws.com/2019/7/7/0111e1b3-01d5-418a-82d2-dee59a20f378.jpeg",
+            "ratio": 1,
+            "height": 2768
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2019/7/7/0111e1b3-01d5-418a-82d2-dee59a20f378.jpeg",
+        "height": 2768
+      },
+      "nzzId": "ld.1494240",
+      "url": "https://www.nzz.ch/zuerich/zueri-faescht-25-millionen-besucherinnen-und-besucher-ld.1494240",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1df6f314t0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          },
+          {
+            "code": "\n      window.twttr = (function (d, s, id) {\n      var t, js, fjs = d.getElementsByTagName(s)[0];\n      if (d.getElementById(id)) return;\n      js = d.createElement(s); js.id = id;\n      js.src= \"https://platform.twitter.com/widgets.js\";\n      fjs.parentNode.insertBefore(js, fjs);\n      return window.twttr || (t = { _e: [], ready: function (f) { t._e.push(f) } });\n      }(document, \"script\", \"twitter-wjs\"));\n      window.twttr.ready(function(twttr){\n      twttr.widgets.load();\n      });\n      ",
+            "inline": true,
+            "componentIds": [
+              "doc-1df6u3dga0",
+              "doc-1df3s7ba90",
+              "doc-1df3s6tgr0"
+            ],
+            "namespace": "embeds.twitter"
+          }
+        ]
+      },
+      "layout": "regular",
+      "embeds": {
+        "images": [
+          {
+            "caption": "Ein Gewitter am Samstagnachmittag trübte die Festlaune nur kurz. (Bild: Joël Hunn / NZZ)",
+            "origins": [
+              {
+                "identifier": "picture-2042623942",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2019/7/7/0111e1b3-01d5-418a-82d2-dee59a20f378.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0057a266a9c555637dabccece11c5468"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Ein Gewitter am Samstagnachmittag trübte die Festlaune nur kurz. (Bild: Joël Hunn / NZZ)",
+      "breadcrumbs": [
+        {
+          "path": "/zuerich",
+          "name": "Zürich"
+        }
+      ],
+      "documentId": "1494240",
+      "product": "NZZ.ch"
+    }
+  },
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "flag": "Erklärt",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Das Züri-Fäscht ist eröffnet: 9 Fragen zum grössten Volksfest der Schweiz",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Urs Bühler (urs)",
+          "id": 1373965
+        },
+        {
+          "external": false,
+          "name": "Daniel Fritzsche (dfr)",
+          "id": 1372257
+        },
+        {
+          "external": false,
+          "name": "Adi Kälin (ak)",
+          "id": 1371818
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2019-07-05T18:55:27.621Z",
+      "department": {
+        "path": "/zuerich",
+        "level": 1,
+        "name": "Zürich"
+      },
+      "publicationDate": "2019-07-05T15:46:25.895Z",
+      "slug": "zueri-faescht-9-fragen-zum-groessten-volksfest-der-schweiz",
+      "firstPublicationDate": "2019-07-05T06:55:27.621Z",
+      "nzzCharacterCount": 7102,
+      "authorLine": "Urs Bühler / Daniel Fritzsche / Adi Kälin",
+      "numberOfContentComponents": 41,
+      "leadText": "Stadtpräsidentin Corine Mauch hat am Freitag vom Schiff aus die Festbesucherinnen und Festbesucher begrüsst und das Züri-Fäscht offiziell eröffnet. Was gibt es eigentlich zu sehen? Wie komme ich hin und wieder weg? Antworten zum «Fest der Feste».",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2019-07-05T20:39:42.605Z",
+      "nzzArticleSnippet": "Stadtpräsidentin Corine Mauch hat am Freitag vom Schiff aus die Festbesucherinnen und Festbesucher begrüsst und das Züri-Fäscht offiziell eröffnet. Was gibt es eigentlich zu sehen? Wie komme ich hin und wieder weg? Antworten zum «Fest der Feste».",
+      "urlPath": "/zuerich/zueri-faescht-9-fragen-zum-groessten-volksfest-der-schweiz-ld.1493516",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 4928,
+        "originalUrl": "https://nzz-img.s3.amazonaws.com/2019/7/5/cebbfdd3-8215-4ddc-bc07-214630d4d53e.jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 646,
+            "width": 3894,
+            "y": 482,
+            "url": "https://img.nzz.ch/C=W3894,H2190,X646,Y482/O=75/https://nzz-img.s3.amazonaws.com/2019/7/5/cebbfdd3-8215-4ddc-bc07-214630d4d53e.jpeg",
+            "height": 2190
+          },
+          {
+            "name": "1:1",
+            "x": 1381,
+            "width": 2304,
+            "y": 461,
+            "url": "https://img.nzz.ch/C=W2304,H2304,X1381,Y461/O=75/https://nzz-img.s3.amazonaws.com/2019/7/5/cebbfdd3-8215-4ddc-bc07-214630d4d53e.jpeg",
+            "height": 2304
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2019/7/5/cebbfdd3-8215-4ddc-bc07-214630d4d53e.jpeg",
+        "height": 3280
+      },
+      "nzzId": "ld.1493516",
+      "url": "https://www.nzz.ch/zuerich/zueri-faescht-9-fragen-zum-groessten-volksfest-der-schweiz-ld.1493516",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1df1im7qa0",
+              "doc-1df1ilusn0",
+              "doc-1df1il04b0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "longformstandard",
+      "embeds": {
+        "images": [
+          {
+            "caption": "Züri Fäscht 2019 ist eröffnet. (Bild: Joël Hunn / NZZ)",
+            "origins": [
+              {
+                "identifier": "picture-2042324058",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2019/7/5/cebbfdd3-8215-4ddc-bc07-214630d4d53e.jpeg"
+          },
+          {
+            "caption": "Corine Mauch (2. v. l.) auf dem Schiff der Wasserschutzpolizei. (Bild: Joël Hunn / NZZ)",
+            "origins": [
+              {
+                "identifier": "picture-2042324088",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2019/7/5/f49bfe36-cfa6-46cc-88e0-4485063961d3.jpeg"
+          },
+          {
+            "caption": "(Bild: Joël Hunn / NZZ)",
+            "origins": [
+              {
+                "identifier": "picture-2042327273",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2019/7/5/bc932324-a4f6-4c7b-8837-d34787ef6751.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0057a266a9c555637dabccece11c5468"
+          },
+          {
+            "id": "263a59ed1659cc3b4e2217d8f624718f"
+          },
+          {
+            "id": "330fdf096a989f3e09f6704c2ecf1d41"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Züri Fäscht 2019 ist eröffnet. (Bild: Joël Hunn / NZZ)",
+      "breadcrumbs": [
+        {
+          "path": "/zuerich",
+          "name": "Zürich"
+        }
+      ],
+      "documentId": "1493516",
+      "product": "NZZ.ch"
+    }
+  },
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Das Züri-Fäscht stösst an seine Grenzen",
+      "nzzAuthors": [
+        {
+          "name": "Daniel Fritzsche",
+          "id": 1372257
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2017-07-13T07:34:30.676Z",
+      "department": {
+        "path": "/zuerich",
+        "level": 1,
+        "name": "Zürich"
+      },
+      "publicationDate": "2017-07-13T06:30:00.000Z",
+      "slug": "kein-geld-fuer-zusaetzliche-festivitaeten-das-zueri-faescht-stoesst-an-seine-grenzen",
+      "firstPublicationDate": "2017-07-12T19:34:30.676Z",
+      "authorLine": "Daniel Fritzsche",
+      "numberOfContentComponents": 12,
+      "leadText": "Das Züri-Fäscht ist das grösste Volksfest der Schweiz. Noch grösser als bisher soll es aber nicht werden. Die Organisatoren treten auf die Bremse.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2017-07-13T09:59:59.481Z",
+      "urlPath": "/zuerich/kein-geld-fuer-zusaetzliche-festivitaeten-das-zueri-faescht-stoesst-an-seine-grenzen-ld.1305766",
+      "nzzId": "ld.1305766",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 1024,
+        "originalUrl": "http://nzz-img.s3.amazonaws.com/2017/7/12/931d0c1f-2777-4151-b4d8-0e1b4f70a9ad.jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 0,
+            "width": 1024,
+            "y": 57,
+            "url": "https://img.nzz.ch/C=W1024,H576,X0,Y57/O=75/http://nzz-img.s3.amazonaws.com/2017/7/12/931d0c1f-2777-4151-b4d8-0e1b4f70a9ad.jpeg",
+            "height": 576
+          },
+          {
+            "name": "1:1",
+            "x": 167,
+            "width": 690,
+            "y": 0,
+            "url": "https://img.nzz.ch/C=W690,H690,X167,Y0/O=75/http://nzz-img.s3.amazonaws.com/2017/7/12/931d0c1f-2777-4151-b4d8-0e1b4f70a9ad.jpeg",
+            "height": 690
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/http://nzz-img.s3.amazonaws.com/2017/7/12/931d0c1f-2777-4151-b4d8-0e1b4f70a9ad.jpeg",
+        "height": 690
+      },
+      "url": "https://www.nzz.ch/zuerich/kein-geld-fuer-zusaetzliche-festivitaeten-das-zueri-faescht-stoesst-an-seine-grenzen-ld.1305766",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1bks49n8i0",
+              "doc-1bks4elhd0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "embeds": {
+        "images": [
+          {
+            "caption": "Das Züri-Fäscht ist beliebt. Fast zu beliebt. Weiter wachsen soll das Volksfest nicht mehr. (Bild:&nbsp;Karin Hofer / NZZ)<br>",
+            "url": "https://img.nzz.ch/O=75/http://nzz-img.s3.amazonaws.com/2017/7/12/931d0c1f-2777-4151-b4d8-0e1b4f70a9ad.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0057a266a9c555637dabccece11c5468"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Das Züri-Fäscht ist beliebt. Fast zu beliebt. Weiter wachsen soll das Volksfest nicht mehr. (Bild: Karin Hofer / NZZ)",
+      "breadcrumbs": [
+        {
+          "path": "/zuerich",
+          "name": "Zürich"
+        }
+      ],
+      "documentId": "1305766",
+      "product": "NZZ.ch"
+    }
+  }
+]

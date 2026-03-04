@@ -1,0 +1,199 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "Karin Hofer / NZZ",
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Thomas Posch erforscht die giftige Burgunderblutalge. Er sagt: «Der Zürichsee ist kein Swimmingpool, sondern ein Ökosystem»",
+      "seoTitle": "Die Burgunderblutalge zeigt den Klimawandel im Zürichsee",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Voss Pauline (ine)",
+          "id": 1572108
+        }
+      ],
+      "nzzPrintTitle": "«Der See ist kein Swimmingpool, sondern ein Ökosystem»",
+      "designName": "morpheus",
+      "significantUpdateTill": "2020-09-23T02:50:43.348Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Daniel Fritzsche (dfr)",
+          "id": 1372257
+        }
+      ],
+      "department": {
+        "path": "/zuerich",
+        "level": 1,
+        "name": "Zürich"
+      },
+      "publicationDate": "2020-09-23T03:00:00.000Z",
+      "slug": "die-burgunderblutalge-zeigt-den-klimawandel-im-zuerichsee",
+      "firstPublicationDate": "2020-09-22T14:50:43.348Z",
+      "nzzCharacterCount": 16317,
+      "authorLine": "Pauline Voss, Text; Anja Lemcke, Infografik; Karin Hofer, Bilder",
+      "numberOfContentComponents": 47,
+      "nzzMessage": "Bildlegenden der zusätzlichen Fotos werden noch vervollständigt",
+      "leadText": "Giftige Cyanobakterien im Zürichsee machen den Badegästen Angst. Doch noch viel dramatischer sind die Auswirkungen des Klimawandels auf die Fische und Pflanzen im Wasser.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2020-09-22T15:13:31.673Z",
+      "nzzArticleSnippet": "Giftige Cyanobakterien im Zürichsee machen den Badegästen Angst. Doch noch viel dramatischer sind die Auswirkungen des Klimawandels auf die Fische und Pflanzen im Wasser.",
+      "urlPath": "/zuerich/die-burgunderblutalge-zeigt-den-klimawandel-im-zuerichsee-ld.1577026",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 2829,
+        "originalUrl": "https://nzz-img.s3.amazonaws.com/2020/9/21/11b96625-99df-44fe-92c0-e698d6bd7be8.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 0,
+            "width": 2829,
+            "y": 295,
+            "url": "https://img.nzz.ch/C=W2829,H1591,X0,Y295/O=75/https://nzz-img.s3.amazonaws.com/2020/9/21/11b96625-99df-44fe-92c0-e698d6bd7be8.jpeg",
+            "height": 1591
+          },
+          {
+            "name": "1:1",
+            "x": 1127,
+            "width": 408,
+            "y": 493,
+            "url": "https://img.nzz.ch/C=W408,H408,X1127,Y493/O=75/https://nzz-img.s3.amazonaws.com/2020/9/21/11b96625-99df-44fe-92c0-e698d6bd7be8.jpeg",
+            "height": 408
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2020/9/21/11b96625-99df-44fe-92c0-e698d6bd7be8.jpeg",
+        "height": 1886
+      },
+      "nzzId": "ld.1577026",
+      "url": "https://www.nzz.ch/zuerich/die-burgunderblutalge-zeigt-den-klimawandel-im-zuerichsee-ld.1577026",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1eir3lp6r0",
+              "doc-1eiqotm680",
+              "doc-1eiqortjr0",
+              "doc-1eiqortjj0",
+              "doc-1eir2ncid0",
+              "doc-1einqdc410",
+              "doc-1einqltcg0",
+              "doc-1einqm5m80"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "commentCount": 1,
+      "layout": "longformvisual",
+      "nzzPrintSubtitle": "Giftige Cyanobakterien im Zürichsee machen den Badegästen Angst. Doch dramatischer sind die Auswirkungen auf die Nahrungskette im Wasser. – Auf dem See mit dem Forscher Thomas Posch.",
+      "embeds": {
+        "images": [
+          {
+            "caption": "Die Forscher bringen die Messgeräte zurück ins Labor.",
+            "origins": [
+              {
+                "identifier": "picture-2113311635",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2020/9/22/e117cf71-c9f7-4d08-9ce7-ea2b58c6bca5.jpeg"
+          },
+          {
+            "caption": "Cyanobakterien aus dem Zürichsee unter dem Mikroskop.",
+            "origins": [
+              {
+                "identifier": "picture-2113311540",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2020/9/22/d029f95f-e50a-48ab-a576-0f3e20c8d8f8.jpeg"
+          },
+          {
+            "caption": "Das Bakterium in hundertfacher Vergrösserung.",
+            "origins": [
+              {
+                "identifier": "picture-2113311541",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2020/9/22/23804833-e75a-4b9b-9962-b612960ff7ff.jpeg"
+          },
+          {
+            "caption": "Die Wissenschafter Thomas Posch (Mitte) und Daniel Marty (links) entnehmen Wasserproben aus unterschiedlichen Tiefenstufen. ",
+            "origins": [
+              {
+                "identifier": "picture-2113311576",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2020/9/22/eb277ec8-ea7a-4ff7-b980-8baadb0fe825.jpeg"
+          },
+          {
+            "caption": "Aufkonzentriertes Seewasser, das mithilfe eines Planktonnetzes aus den oberen Wasserschichten geschöpft wird.",
+            "origins": [
+              {
+                "identifier": "picture-2113311533",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2020/9/21/4866ed18-54ec-40bc-9893-5c1cfcbd0579.jpeg"
+          },
+          {
+            "caption": "Wasserproben im Labor der Limnologischen Station Kilchberg.",
+            "origins": [
+              {
+                "identifier": "picture-2113311618",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2020/9/21/f6c2c970-961b-4c6e-be8c-5b5942a8f072.jpeg"
+          },
+          {
+            "caption": "Mit dem Mikroskop vergrössertes Phytoplankton auf einem Bildschirm im Labor.",
+            "origins": [
+              {
+                "identifier": "picture-2113311551",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2020/9/21/7278b208-2ad1-4c30-b649-30d823d13a7e.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0099651643916eeda249aae35ad10f57"
+          },
+          {
+            "id": "0099651643916eeda249aae35ad1b6b1"
+          },
+          {
+            "id": "0099651643916eeda249aae35ab56254"
+          },
+          {
+            "id": "1774d7ed3ad836741ab55a894e273bd2"
+          },
+          {
+            "id": "0099651643916eeda249aae35ace4ed1"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Die Forscher bringen die Messgeräte zurück ins Labor.",
+      "breadcrumbs": [
+        {
+          "path": "/zuerich",
+          "name": "Zürich"
+        }
+      ],
+      "documentId": "1577026",
+      "product": "NZZ.ch"
+    }
+  }
+]

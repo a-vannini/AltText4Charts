@@ -1,0 +1,121 @@
+{
+  "_id": "07d00172c0f2b9dd3facaed8858f0093",
+  "_rev": "21-b86f422e70c87de684b3245eac50b303",
+  "department": "Visuals",
+  "publication": "nzz",
+  "acronym": "fsl.",
+  "title": "China exportiert mehr Hightech und weniger Kleidung",
+  "tool": "chart",
+  "data": [
+    [
+      "Section",
+      "1995",
+      "2022"
+    ],
+    [
+      "Elektronik und Maschinen",
+      "20.641925534980842",
+      "46.2"
+    ],
+    [
+      "Textilien",
+      "22.93746701515979",
+      "8.1"
+    ],
+    [
+      "Metalle",
+      "7.390545764880839",
+      "7.9"
+    ],
+    [
+      "Anderes",
+      "8.505411952276157",
+      "6.7"
+    ],
+    [
+      "Chemische Produkte",
+      "4.863822987182041",
+      "6.6"
+    ],
+    [
+      "Autos, Schiffe und Züge",
+      "1.807879829816904",
+      "5.1"
+    ],
+    [
+      "Kunststoffe und Gummi",
+      "3.0513257528489244",
+      "5.1"
+    ],
+    [
+      "Optische/medizinische Instrumente",
+      "3.2915529611371697",
+      "2.5"
+    ],
+    [
+      "Schuhe",
+      "6.871607746378555",
+      "2.2"
+    ],
+    [
+      "Mineralölprodukte",
+      "3.7837942766493806",
+      "1.9"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {
+        "url": "https://oec.world/en/profile/country/chn?subnationalDepthSelector=productHS2&depthSelector1=HS2Depth&yearSelector1=2022&yearlyTradeFlowSelector=flow0",
+        "isValid": true
+      },
+      "text": "OEC"
+    }
+  ],
+  "options": {
+    "chartType": "Arrow",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {
+      "last": false
+    },
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "subtitle": "Die wichtigsten chinesischen Exportprodukte im Jahr 2022, Anteile am Gesamtexportwert in Prozent (zum Vergleich 1995)",
+  "createdDate": "2024-05-22T12:57:11.298Z",
+  "createdBy": "florian.seliger@nzz.ch",
+  "updatedDate": "2024-05-24T06:22:05.421Z",
+  "updatedBy": "marianne.bosshard@nzz.ch",
+  "active": true
+}

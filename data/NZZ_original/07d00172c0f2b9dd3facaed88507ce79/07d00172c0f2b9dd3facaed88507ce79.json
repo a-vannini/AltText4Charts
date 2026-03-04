@@ -1,0 +1,104 @@
+{
+  "_id": "07d00172c0f2b9dd3facaed88507ce79",
+  "_rev": "6-ad8fad5ed35d40c47679b7a7e7531ca0",
+  "data": [
+    [
+      null,
+      "Eheschliessungen",
+      "Geburten"
+    ],
+    [
+      "1990",
+      "255",
+      "548"
+    ],
+    [
+      "2000",
+      "211",
+      "378"
+    ],
+    [
+      "2005",
+      "207",
+      "364"
+    ],
+    [
+      "2010",
+      "228",
+      "413"
+    ],
+    [
+      "2015",
+      "189",
+      "369"
+    ],
+    [
+      "2019",
+      "183",
+      "375"
+    ],
+    [
+      "2022",
+      "156",
+      "305"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {
+        "url": "https://stat.gov.pl/obszary-tematyczne/roczniki-statystyczne/roczniki-statystyczne/rocznik-statystyczny-rzeczypospolitej-polskiej-2023,2,23.html",
+        "isValid": true
+      },
+      "text": "Statistisches Jahrbuch der Republik Polen, 2023"
+    }
+  ],
+  "options": {
+    "chartType": "Line",
+    "hideAxisLabel": false,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "department": "International",
+  "publication": "nzz",
+  "acronym": "nbe.",
+  "active": true,
+  "title": "Eheschliessungen und Geburten sind in Polen seit der Wende rückläufig",
+  "subtitle": "In Tausend",
+  "createdDate": "2024-05-21T14:12:28.625Z",
+  "createdBy": "nina.belz@nzz.ch",
+  "updatedDate": "2024-06-20T11:01:14.284Z",
+  "updatedBy": "samuel.rusch@nzz.ch"
+}

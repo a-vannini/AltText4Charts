@@ -1,0 +1,186 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Rebecca Conway / Getty",
+      "firstTitle": "Nach 10 Jahren unter Modi: Wie steht es tatsächlich um Indiens Wirtschaft?",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "F2uil3svXU70",
+        "locale": "de-CH"
+      },
+      "title": "Nach 10 Jahren unter Modi: Wie steht es tatsächlich um Indiens Wirtschaft?",
+      "seoTitle": "Nach 10 Jahren Modi: Wie steht es tatsächlich um Indiens Wirtschaft?",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Andreas Babst (abb)",
+          "id": 1371764,
+          "shortName": "abb",
+          "proLitterisId": "766940"
+        }
+      ],
+      "nzzPrintTitle": "Nach 10 Jahren Modi: Wie steht es tatsächlich um Indiens Wirtschaft?",
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-04-22T15:30:00.000Z",
+      "department": {
+        "path": "/wirtschaft",
+        "premium": false,
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2024-04-22T03:30:00.000Z",
+      "slug": "wie-steht-es-tatsaechlich-um-indiens-wirtschaft",
+      "firstPublicationDate": "2024-04-22T03:30:00.000Z",
+      "nzzCharacterCount": 8365,
+      "owner": "NZZ",
+      "authorLine": "Andreas Babst, Delhi",
+      "numberOfContentComponents": 34,
+      "leadText": "Wer will, sieht Indiens Wirtschaft boomen. Wer will, sieht das Gegenteil. Beides ist wahr.",
+      "publicationLastUpdated": "2024-04-22T09:01:19.394Z",
+      "nzzArticleSnippet": "Wer will, sieht Indiens Wirtschaft boomen. Wer will, sieht das Gegenteil. Beides ist wahr.",
+      "urlPath": "/wirtschaft/wie-steht-es-tatsaechlich-um-indiens-wirtschaft-ld.1824700",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 4000,
+        "originalUrl": "https://img.nzz.ch/2024/04/19/25643524-30f8-4222-ac1c-c4bc52aa3df3.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 4000,
+            "name": "16:9",
+            "y": 209,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/C=W4000,H2250,X0,Y209/O=75/https://img.nzz.ch/2024/04/19/25643524-30f8-4222-ac1c-c4bc52aa3df3.jpeg",
+            "height": 2250,
+            "ratio": 1.77778
+          },
+          {
+            "x": 667,
+            "width": 2667,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/C=W2667,H2667,X667,Y0/O=75/https://img.nzz.ch/2024/04/19/25643524-30f8-4222-ac1c-c4bc52aa3df3.jpeg",
+            "height": 2667,
+            "ratio": 1
+          },
+          {
+            "x": 222,
+            "width": 3556,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/C=W3556,H2667,X222,Y0/O=75/https://img.nzz.ch/2024/04/19/25643524-30f8-4222-ac1c-c4bc52aa3df3.jpeg",
+            "height": 2667,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1000,
+            "width": 2000,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/C=W2000,H2667,X1000,Y0/O=75/https://img.nzz.ch/2024/04/19/25643524-30f8-4222-ac1c-c4bc52aa3df3.jpeg",
+            "height": 2667,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "-tMtwS001Lmz",
+        "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/04/19/25643524-30f8-4222-ac1c-c4bc52aa3df3.jpeg",
+        "height": 2667
+      },
+      "nzzId": "ld.1824700",
+      "url": "https://www.nzz.ch/wirtschaft/wie-steht-es-tatsaechlich-um-indiens-wirtschaft-ld.1824700",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hrqn02ck1",
+              "doc-1hrqojtkj1",
+              "doc-1hrqn2sb61",
+              "doc-1hrqssas71"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "longformstandard",
+      "estimationWordCount": 1286,
+      "nzzPrintSubtitle": "Wer will, sieht Indiens Wirtschaft boomen. Wer will, sieht das Gegenteil. Beides stimmt. ",
+      "embeds": {
+        "images": [
+          {
+            "author": "Rebecca Conway / Getty",
+            "caption": "Ein indischer Landwirt reinigt die Solaranlage auf seinem Land. Mit dem selbstproduzierten Strom betreibt er eine Wasserpumpe und ein Bewässerungssystem für seine Felder.&nbsp;",
+            "origins": [
+              {
+                "identifier": "2142520580",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/04/19/25643524-30f8-4222-ac1c-c4bc52aa3df3.jpeg"
+          },
+          {
+            "author": "Dhiraj Singh / Bloomberg / Getty",
+            "caption": "Ein Kunde hält ein neu gekauftes iPhone 15 in der Hand. Apple produziert mittlerweile 12 Prozent aller iPhones in Indien.",
+            "origins": [
+              {
+                "identifier": "2154933084",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/04/19/8022a761-a8ee-485b-a8b5-322581e39c59.jpeg"
+          },
+          {
+            "author": "Anupam Nath / AP",
+            "caption": "Indische Landwirte in Gauhati kehren mit Reisbündeln nach Hause zurück.",
+            "origins": [
+              {
+                "identifier": "12724428",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/04/19/0ff4c454-62f4-4af3-a2db-a997b35e3344.jpeg"
+          },
+          {
+            "author": "Rajanish Kakade / AP",
+            "caption": "Die Menschen sammeln sich auf dem Markt vor dem Bahnhof Dadar in Mumbai.",
+            "origins": [
+              {
+                "identifier": "2154936422",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/04/19/ce41fccf-9ce5-4ed4-addf-a17b7c5d1fc8.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0819c8effbf081938ef522a3690b8545"
+          },
+          {
+            "id": "64d3df3ff8944eb8b41a1540ea862039"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "teaserCaption": "Ein indischer Landwirt reinigt die Solaranlage auf seinem Land. Mit dem selbstproduzierten Strom betreibt er eine Wasserpumpe und ein Bewässerungssystem für seine Felder.",
+      "documentId": "1824700",
+      "product": "NZZ.ch"
+    }
+  }
+]

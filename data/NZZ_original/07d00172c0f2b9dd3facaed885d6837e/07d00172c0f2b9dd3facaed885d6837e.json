@@ -1,0 +1,143 @@
+{
+  "_id": "07d00172c0f2b9dd3facaed885d6837e",
+  "_rev": "30-1388405474462f249b3a48137e83626f",
+  "department": "Visuals",
+  "publication": "nzz",
+  "acronym": "fsl.",
+  "title": "Chinas Ausfuhren finden veränderte Abnehmer",
+  "tool": "chart",
+  "data": [
+    [
+      "own_country",
+      "2018",
+      "2024"
+    ],
+    [
+      "EU",
+      "16.4",
+      "14.6"
+    ],
+    [
+      "Deutschland",
+      "3.2",
+      "3.0"
+    ],
+    [
+      "Schweiz",
+      "0.1",
+      "0.2"
+    ],
+    [
+      "USA",
+      "18.2",
+      "13.8"
+    ],
+    [
+      "Hongkong",
+      "11.9",
+      "8.2"
+    ],
+    [
+      "Afrika",
+      "4.3",
+      "5.1"
+    ],
+    [
+      "Vietnam",
+      "3.4",
+      "4.6"
+    ],
+    [
+      "Japan",
+      "6.2",
+      "4.5"
+    ],
+    [
+      "Südkorea",
+      "4.6",
+      "4.3"
+    ],
+    [
+      "Indien",
+      "3.1",
+      "3.3"
+    ],
+    [
+      "Russland",
+      "1.9",
+      "3.0"
+    ],
+    [
+      "Malay/Indon/Thail/Vietnam",
+      "8.9",
+      "12.0"
+    ],
+    [
+      "Mexico",
+      "1.6",
+      "2.5"
+    ],
+    [
+      "Ozeanien",
+      "2.3",
+      "2.5"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "text": "Chinesische Zollverwaltung GACC",
+      "link": {
+        "url": "http://english.customs.gov.cn/statics/report/monthly2018.html"
+      }
+    }
+  ],
+  "options": {
+    "chartType": "Arrow",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {
+      "last": false,
+      "diff": true
+    },
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "subtitle": "Die wichtigsten Destinationen für Chinas Exporte von Januar bis April 2024, Anteile am Gesamtexportwert in Prozent (Veränderung gegenüber Januar bis April 2018 in Prozentpunkten) ",
+  "createdDate": "2024-05-23T09:33:57.824Z",
+  "createdBy": "florian.seliger@nzz.ch",
+  "updatedDate": "2024-05-24T14:59:18.229Z",
+  "updatedBy": "john.borland@lieferanten.nzz.ch",
+  "active": true,
+  "notes": "",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/07d00172c0f2b9dd3facaed885d6837e-thumbnail.jpeg"
+}

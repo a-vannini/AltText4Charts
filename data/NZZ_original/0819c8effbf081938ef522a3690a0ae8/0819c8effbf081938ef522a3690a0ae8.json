@@ -1,0 +1,159 @@
+{
+  "_id": "0819c8effbf081938ef522a3690a0ae8",
+  "_rev": "4-5030a826e51250b892270e1c2be7e3a7",
+  "title": "Kopie von  Copy of AI engineers are earning more and more in the US",
+  "tool": "chart",
+  "department": "default",
+  "publication": "nzz",
+  "data": [
+    [
+      "Month",
+      "AI engineers",
+      "Nicht-KI Ingenieure"
+    ],
+    [
+      "08.2022",
+      "231.000",
+      "174.000"
+    ],
+    [
+      "09.2022",
+      "253.167",
+      "170.000"
+    ],
+    [
+      "10.2022",
+      "240.000",
+      "165.000"
+    ],
+    [
+      "11.2022",
+      "235.896",
+      "168.000"
+    ],
+    [
+      "12.2022",
+      "245.030",
+      "156.250"
+    ],
+    [
+      "01.2023",
+      "246.250",
+      "164.000"
+    ],
+    [
+      "02.2023",
+      "250.000",
+      "167.000"
+    ],
+    [
+      "03.2023",
+      "270.000",
+      "170.160"
+    ],
+    [
+      "04.2023",
+      "270.000",
+      "175.225"
+    ],
+    [
+      "05.2023",
+      "243.000",
+      "165.000"
+    ],
+    [
+      "06.2023",
+      "246.000",
+      "170.000"
+    ],
+    [
+      "07.2023",
+      "252.000",
+      "170.000"
+    ],
+    [
+      "08.2023",
+      "262.500",
+      "172.000"
+    ],
+    [
+      "09.2023",
+      "260.175",
+      "173.050"
+    ],
+    [
+      "10.2023",
+      "253.263",
+      "178.950"
+    ],
+    [
+      "11.2023",
+      "257.400",
+      "179.000"
+    ],
+    [
+      "12.2023",
+      "260.000",
+      "180.000"
+    ],
+    [
+      "01.2024",
+      "270.000",
+      "177.500"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {},
+      "text": "Levels.fyi"
+    }
+  ],
+  "options": {
+    "chartType": "Line",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "many",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false,
+      "maxValue": 300,
+      "yAxisTicks": "0,50,100,150,200,250,300"
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 1
+    }
+  },
+  "subtitle": "Median annual salary in the USA, figures in dollars (in thousands)",
+  "notes": "Source: Levels.fyi",
+  "createdDate": "2024-04-19T09:34:53.692Z",
+  "createdBy": "eliza.rozeboom@lieferanten.nzz.ch",
+  "updatedDate": "2024-04-19T09:35:13.827Z",
+  "updatedBy": "eliza.rozeboom@lieferanten.nzz.ch",
+  "active": true,
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/0819c8effbf081938ef522a3690a0ae8-thumbnail.jpeg"
+}

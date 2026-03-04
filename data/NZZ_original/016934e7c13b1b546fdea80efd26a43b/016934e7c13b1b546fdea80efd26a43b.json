@@ -1,0 +1,105 @@
+{
+  "_id": "016934e7c13b1b546fdea80efd26a43b",
+  "_rev": "5-c56f2e077889ebb59a8a9baa0532cf8c",
+  "allowDownloadData": false,
+  "active": true,
+  "tool": "chart",
+  "title": "Schweiz sticht heraus",
+  "subtitle": "Schuldenquote des Staatssektors gemäss «Maastricht»-Definition der EU, 2023, in Prozent der jährlichen Wirtschaftsleistung (BIP)",
+  "department": "Visuals",
+  "publication": "nzz",
+  "acronym": "hus.",
+  "data": [
+    [
+      null,
+      null
+    ],
+    [
+      "Schweiz",
+      "26.9"
+    ],
+    [
+      "Schweden",
+      "32.9"
+    ],
+    [
+      "Niederlande",
+      "49.8"
+    ],
+    [
+      "Deutschland",
+      "65.9"
+    ],
+    [
+      "Österreich",
+      "78.2"
+    ],
+    [
+      "Euro-Raum",
+      "92.2"
+    ],
+    [
+      "Belgien",
+      "105.4"
+    ],
+    [
+      "Frankreich",
+      "112.1"
+    ],
+    [
+      "Italien",
+      "141.4"
+    ]
+  ],
+  "sources": [
+    {
+      "text": "EFV",
+      "link": {
+        "url": ""
+      }
+    }
+  ],
+  "events": [],
+  "options": {
+    "annotations": {
+      "valuesOnBars": true
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "chartType": "Bar",
+    "colorOverwritesRows": [],
+    "colorOverwritesSeries": [],
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "many",
+      "prognosisStart": null
+    },
+    "dotplotOptions": {},
+    "hideAxisLabel": true,
+    "highlightDataRows": [],
+    "highlightDataSeries": [],
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "createdDate": "2025-03-06T11:17:37.402Z",
+  "createdBy": "hansueli.schoechli@nzz.ch",
+  "updatedDate": "2025-03-06T17:39:21.549Z",
+  "updatedBy": "monica.schwenk@nzz.ch"
+}

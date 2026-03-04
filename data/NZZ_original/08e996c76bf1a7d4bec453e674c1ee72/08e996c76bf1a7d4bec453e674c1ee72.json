@@ -1,0 +1,97 @@
+{
+  "_id": "08e996c76bf1a7d4bec453e674c1ee72",
+  "_rev": "14-1d5b68ccd08c5e9039791e02ee822929",
+  "data": [
+    [
+      null,
+      "Jahresrente"
+    ],
+    [
+      "Frauen",
+      "35442"
+    ],
+    [
+      "Männer",
+      "52735"
+    ],
+    [
+      "Unterschied",
+      "17293"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "text": "BfS",
+      "link": {
+        "url": "https://genderequality.bfs.admin.ch/de/"
+      }
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": false,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {
+      "valuesOnBars": true
+    },
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [
+      {
+        "color": "#ae49a2",
+        "colorLight": "",
+        "position": 1
+      },
+      {
+        "color": "#006d64",
+        "colorLight": "",
+        "position": 2
+      },
+      {
+        "color": "#c7c7c7",
+        "colorLight": "",
+        "position": 3
+      }
+    ],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "department": "Wirtschaft",
+  "publication": "nzz",
+  "acronym": "sev.",
+  "active": true,
+  "title": "Frauen haben tiefere Renten",
+  "subtitle": "Durchschnittliche Gesamtrente pro Jahr, in Franken",
+  "createdDate": "2024-06-11T09:08:14.931Z",
+  "createdBy": "christin.severin@nzz.ch",
+  "updatedDate": "2024-06-11T10:07:33.369Z",
+  "updatedBy": "florian.seliger@nzz.ch"
+}

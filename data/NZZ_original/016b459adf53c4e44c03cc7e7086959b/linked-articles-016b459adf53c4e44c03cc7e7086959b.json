@@ -1,0 +1,126 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "Karin Hofer / NZZ",
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "In diesen Metropolen droht eine Immobilienblase",
+      "seoTitle": "UBS: «In Zürich, München und Frankfurt drohen Immobilienblasen»",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Michael Schäfer (msf)",
+          "id": 1373246
+        }
+      ],
+      "nzzPrintTitle": "In Zürich droht eine Immobilienblase",
+      "designName": "morpheus",
+      "significantUpdateTill": "2020-10-01T07:57:55.084Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Caspar Hesse (cah)",
+          "id": 1372089
+        }
+      ],
+      "department": {
+        "path": "/finanzen",
+        "level": 1,
+        "name": "Finanzen"
+      },
+      "publicationDate": "2020-10-01T03:30:00.000Z",
+      "slug": "ubs-in-zuerich-muenchen-und-frankfurt-drohen-immobilienblasen",
+      "firstPublicationDate": "2020-09-30T19:57:55.084Z",
+      "nzzCharacterCount": 6403,
+      "authorLine": "Michael Schäfer",
+      "numberOfContentComponents": 29,
+      "leadText": "Trotz der schwersten Rezession seit dem Zweiten Weltkrieg sind die Preise für Wohnimmobilien in vielen Grossstädten weltweit munter weiter gestiegen. Das dürfte nicht ohne Folgen bleiben.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2020-10-01T09:55:16.843Z",
+      "nzzArticleSnippet": "Trotz der schwersten Rezession seit dem Zweiten Weltkrieg sind die Preise für Wohnimmobilien in vielen Grossstädten weltweit munter weiter gestiegen. Das dürfte nicht ohne Folgen bleiben.",
+      "urlPath": "/finanzen/ubs-in-zuerich-muenchen-und-frankfurt-drohen-immobilienblasen-ld.1579243",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 4828,
+        "originalUrl": "https://img.nzz.ch/2020/9/30/3d95fee4-0cf8-443d-b875-0bcd7aa6b3aa.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 490,
+            "width": 3391,
+            "y": 1269,
+            "url": "https://img.nzz.ch/2020/9/30/3d95fee4-0cf8-443d-b875-0bcd7aa6b3aa.jpeg?crop=3391,1907,x490,y1269&quality=75&auto=webp",
+            "height": 1907
+          },
+          {
+            "name": "1:1",
+            "x": 646,
+            "width": 783,
+            "y": 236,
+            "url": "https://img.nzz.ch/2020/9/30/3d95fee4-0cf8-443d-b875-0bcd7aa6b3aa.jpeg?crop=783,783,x646,y236&quality=75&auto=webp",
+            "height": 783
+          }
+        ],
+        "url": "https://img.nzz.ch/2020/9/30/3d95fee4-0cf8-443d-b875-0bcd7aa6b3aa.jpeg?quality=75&auto=webp",
+        "key": "2020/9/30/3d95fee4-0cf8-443d-b875-0bcd7aa6b3aa.jpeg",
+        "height": 3218
+      },
+      "nzzId": "ld.1579243",
+      "url": "https://www.nzz.ch/finanzen/ubs-in-zuerich-muenchen-und-frankfurt-drohen-immobilienblasen-ld.1579243",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1ejg8dsd20"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "nzzPrintSubtitle": "Trotz Rezession sind die Preise für Wohnimmobilien in etlichen Grossstädten munter weiter gestiegen",
+      "embeds": {
+        "images": [
+          {
+            "author": "Karin Hofer / NZZ",
+            "caption": "In der Stadt Zürich werden Wohnimmobilien immer teurer.<br>",
+            "origins": [
+              {
+                "identifier": "picture-2081181637",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/C=W4292,H2860,X307,Y214/O=75/https://nzz-img.s3.amazonaws.com/2020/9/30/3d95fee4-0cf8-443d-b875-0bcd7aa6b3aa.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "016b459adf53c4e44c03cc7e7086959b"
+          },
+          {
+            "id": "d912741d8c952ff0b927bc3a46d01495"
+          },
+          {
+            "id": "a0abecab3f217f144ed679572c0d8cd7"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "In der Stadt Zürich werden Wohnimmobilien immer teurer.",
+      "breadcrumbs": [
+        {
+          "path": "/finanzen",
+          "name": "Finanzen"
+        }
+      ],
+      "documentId": "1579243",
+      "product": "NZZ.ch"
+    }
+  }
+]

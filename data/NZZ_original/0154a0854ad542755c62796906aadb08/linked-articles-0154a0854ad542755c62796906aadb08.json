@@ -1,0 +1,1310 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "Daniel Becerril / Reuters",
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "sy5Ea-ouN0niPy2RZi_oW",
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Bidens härtere Migrationspolitik wirkt: Die Zahl der Grenzübertritte im Süden sinkt",
+      "seoTitle": "Bidens härtere Migrationspolitik wirkt: Übertritte an Südgrenze sinken",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Christian Weisflog (ws)",
+          "id": 1374076,
+          "shortName": "ws"
+        }
+      ],
+      "nzzPrintTitle": "Bidens härtere Migrationspolitik wirkt",
+      "designName": "morpheus",
+      "premium": false,
+      "significantUpdateTill": "2023-07-15T15:30:00.000Z",
+      "department": {
+        "path": "/international",
+        "premium": false,
+        "level": 1,
+        "name": "International"
+      },
+      "publicationDate": "2023-07-15T03:30:00.000Z",
+      "slug": "bidens-haertere-migrationspolitik-wirkt-die-zahl-der-grenzuebertritte-im-sueden-sinkt",
+      "firstPublicationDate": "2023-07-15T03:30:00.000Z",
+      "owner": "NZZ",
+      "authorLine": "Christian Weisflog, Washington",
+      "nzzCharacterCount": 5122,
+      "numberOfContentComponents": 15,
+      "germanyRelevant": true,
+      "leadText": "Nach Ende der Corona-Massnahmen im Mai wurde an der Südgrenze der USA eine grosse Migrationswelle erwartet. Das Gegenteil ist eingetreten. Auch dank Mexikos Mithilfe greift Bidens schärfere Politik. Für seine Wiederwahl könnte dies entscheidend sein.",
+      "publicationLastUpdated": "2023-07-15T03:30:00.000Z",
+      "nzzArticleSnippet": "Nach Ende der Corona-Massnahmen im Mai wurde an der Südgrenze der USA eine grosse Migrationswelle erwartet. Das Gegenteil ist eingetreten. Auch dank Mexikos Mithilfe greift Bidens schärfere Politik. Für seine Wiederwahl könnte dies entscheidend sein.",
+      "urlPath": "/international/bidens-haertere-migrationspolitik-wirkt-die-zahl-der-grenzuebertritte-im-sueden-sinkt-ld.1747422",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 4917,
+        "originalUrl": "https://img.nzz.ch/2023/07/14/a8266424-0f1a-4121-b19c-6fd40d5ec3d4.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 4917,
+            "name": "16:9",
+            "y": 234,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/C=W4917,H2766,X0,Y234/O=75/https://img.nzz.ch/2023/07/14/a8266424-0f1a-4121-b19c-6fd40d5ec3d4.jpeg",
+            "height": 2766,
+            "ratio": 1.77778
+          },
+          {
+            "x": 842,
+            "width": 3234,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/C=W3234,H3234,X842,Y0/O=75/https://img.nzz.ch/2023/07/14/a8266424-0f1a-4121-b19c-6fd40d5ec3d4.jpeg",
+            "height": 3234,
+            "ratio": 1
+          },
+          {
+            "x": 303,
+            "width": 4312,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/C=W4312,H3234,X303,Y0/O=75/https://img.nzz.ch/2023/07/14/a8266424-0f1a-4121-b19c-6fd40d5ec3d4.jpeg",
+            "height": 3234,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1246,
+            "width": 2426,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/C=W2426,H3234,X1246,Y0/O=75/https://img.nzz.ch/2023/07/14/a8266424-0f1a-4121-b19c-6fd40d5ec3d4.jpeg",
+            "height": 3234,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "jUO1UrYKAYBM",
+        "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2023/07/14/a8266424-0f1a-4121-b19c-6fd40d5ec3d4.jpeg",
+        "height": 3234
+      },
+      "nzzId": "ld.1747422",
+      "url": "https://www.nzz.ch/international/bidens-haertere-migrationspolitik-wirkt-die-zahl-der-grenzuebertritte-im-sueden-sinkt-ld.1747422",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1h5aahhgi0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "estimationWordCount": 811,
+      "nzzPrintSubtitle": "Entgegen den Erwartungen sinkt die Zahl der illegalen Grenzübertritte",
+      "embeds": {
+        "images": [
+          {
+            "author": "Daniel Becerril / Reuters",
+            "caption": "Der ganz grosse Ansturm an der Südgrenze der USA ist bisher ausgeblieben. Eine Migrantin watet durch den Rio Grande von mexikanischem auf amerikanisches Staatsgebiet.&nbsp;",
+            "origins": [
+              {
+                "identifier": "2124833585",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2023/07/14/a8266424-0f1a-4121-b19c-6fd40d5ec3d4.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0154a0854ad542755c62796906aadb08"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/international",
+          "name": "International"
+        }
+      ],
+      "teaserCaption": "Der ganz grosse Ansturm an der Südgrenze der USA ist bisher ausgeblieben. Eine Migrantin watet durch den Rio Grande von mexikanischem auf amerikanisches Staatsgebiet.",
+      "documentId": "1747422",
+      "product": "NZZ.ch"
+    }
+  },
+  {
+    "metadata": {
+      "teaserAuthor": "Mike Segar / Reuters",
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "mG85tAVmNukX",
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "New York werden die Migranten zu viel: «Bitte berücksichtigt eine andere Stadt»",
+      "seoTitle": "New York werden die Migranten zu viel – Adams übt Kritik an Biden",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Christian Weisflog (ws)",
+          "id": 1374076,
+          "shortName": "ws"
+        }
+      ],
+      "nzzPrintTitle": "Der Melting Pot will keine Migranten mehr",
+      "designName": "morpheus",
+      "premium": false,
+      "significantUpdateTill": "2023-08-20T15:30:00.000Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Meret Baumann (bam)",
+          "id": 1371945,
+          "shortName": "bam"
+        }
+      ],
+      "department": {
+        "path": "/international",
+        "premium": false,
+        "level": 1,
+        "name": "International"
+      },
+      "publicationDate": "2023-08-20T03:30:00.000Z",
+      "slug": "new-york-werden-die-migranten-zu-viel",
+      "firstPublicationDate": "2023-08-20T03:30:00.000Z",
+      "owner": "NZZ",
+      "authorLine": "Christian Weisflog, New York",
+      "nzzCharacterCount": 12733,
+      "numberOfContentComponents": 39,
+      "germanyRelevant": true,
+      "leadText": "Um links regierten Städten eine Lektion zu erteilen, chauffiert Texas unentwegt Asylsuchende an die Ostküste. Dies zeigt Wirkung: Der demokratische Bürgermeister in New York lässt an der Südgrenze abschreckende Flugblätter verteilen und geht auf Konfrontation mit Präsident Biden.",
+      "publicationLastUpdated": "2023-08-21T15:17:49.720Z",
+      "nzzArticleSnippet": "Um links regierten Städten eine Lektion zu erteilen, chauffiert Texas unentwegt Asylsuchende an die Ostküste. Dies zeigt Wirkung: Der demokratische Bürgermeister in New York lässt an der Südgrenze abschreckende Flugblätter verteilen und geht auf Konfrontation mit Präsident Biden.",
+      "urlPath": "/international/new-york-werden-die-migranten-zu-viel-ld.1749693",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 5202,
+        "originalUrl": "https://img.nzz.ch/2023/08/08/7d537a95-440c-4d7a-b3b2-53ec81c22c8b.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 5202,
+            "name": "16:9",
+            "y": 508,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W5202,H2926,X0,Y508/O=75/https://img.nzz.ch/2023/08/08/7d537a95-440c-4d7a-b3b2-53ec81c22c8b.jpeg",
+            "height": 2926,
+            "ratio": 1.77778
+          },
+          {
+            "x": 2079,
+            "width": 2165,
+            "name": "1:1",
+            "y": 114,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W2165,H2165,X2079,Y114/O=75/https://img.nzz.ch/2023/08/08/7d537a95-440c-4d7a-b3b2-53ec81c22c8b.jpeg",
+            "height": 2165,
+            "ratio": 1
+          },
+          {
+            "x": 385,
+            "width": 4110,
+            "name": "4:3",
+            "y": 386,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W4110,H3082,X385,Y386/O=75/https://img.nzz.ch/2023/08/08/7d537a95-440c-4d7a-b3b2-53ec81c22c8b.jpeg",
+            "height": 3082,
+            "ratio": 1.33333
+          },
+          {
+            "x": 429,
+            "width": 2601,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W2601,H3468,X429,Y0/O=75/https://img.nzz.ch/2023/08/08/7d537a95-440c-4d7a-b3b2-53ec81c22c8b.jpeg",
+            "height": 3468,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "RxKJs62Cfrry",
+        "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2023/08/08/7d537a95-440c-4d7a-b3b2-53ec81c22c8b.jpeg",
+        "height": 3468
+      },
+      "nzzId": "ld.1749693",
+      "url": "https://www.nzz.ch/international/new-york-werden-die-migranten-zu-viel-ld.1749693",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1h7a1020l0",
+              "doc-1h79vm13j0",
+              "doc-1h7a126u20",
+              "doc-1h79vl9tk0",
+              "doc-1h79vklqk0",
+              "doc-1h79vm8vr0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "commentCount": 3,
+      "layout": "longformstandard",
+      "estimationWordCount": 2039,
+      "nzzPrintSubtitle": "Nach dem Zustrom von Zehntausenden von Asylsuchenden vollzieht New Yorks demokratischer Bürgermeister eine Kehrtwende",
+      "embeds": {
+        "images": [
+          {
+            "author": "Mike Segar / Reuters",
+            "caption": "Oft müssen die Migranten vor dem Roosevelt-Hotel in Manhattan in langen Schlangen warten und einzelne Nächte im Freien verbringen.",
+            "origins": [
+              {
+                "identifier": "2146553934",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2023/08/08/7d537a95-440c-4d7a-b3b2-53ec81c22c8b.jpeg"
+          },
+          {
+            "author": "Christian Weisflog / NZZ",
+            "caption": "Regelmässig&nbsp;treffen in New York weitere Busse mit Asylsuchenden von der Südgrenze aus Texas ein. Der Aktivist Power Malu (rechts im Bild) empfängt sie am Busbahnhof und hilft ihnen weiter.",
+            "origins": [
+              {
+                "identifier": "2146633188",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2023/08/08/c1d518f6-3122-4866-8627-f04908186990.jpeg"
+          },
+          {
+            "author": "Luiz C. Ribeiro / Getty",
+            "caption": "In New York gebe es für Migranten «keinen Platz mehr», sagt der demokratische Bürgermeister Eric Adams. Mit seiner offenen Kritik verärgert er seine eigene Partei und das Weisse Haus.&nbsp;",
+            "origins": [
+              {
+                "identifier": "2146633945",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/C=W2106,H1404,X176,Y0/O=75/https://img.nzz.ch/2023/08/08/13d1470a-58f6-4e31-b827-bc443e4783e1.jpeg"
+          },
+          {
+            "author": "Christian Weisflog / NZZ",
+            "caption": "Während die Stadt an ihre Grenzen stösst, gibt es Hilfe aus der Zivilgesellschaft: Im «Little Shop of Kindness» erhalten Migranten umsonst Kleider, Schuhe oder auch Kinderwagen.&nbsp;",
+            "origins": [
+              {
+                "identifier": "2146633189",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2023/08/08/e66a14ae-aae0-4ac9-b02b-fdc7f9da089b.jpeg"
+          },
+          {
+            "author": "NZZ",
+            "caption": "«Einwanderer sind das Lebenselixier der Stadt», sagt die Aktivistin&nbsp;Ilze Thielmann.",
+            "origins": [
+              {
+                "identifier": "2146633186",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2023/08/08/74444963-b2eb-4e8a-9f44-09706a220032.jpeg"
+          },
+          {
+            "author": "NZZ",
+            "caption": "Ester Fuchs, Politologin.",
+            "origins": [
+              {
+                "identifier": "2146633190",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2023/08/08/6fd3676d-83c4-43d1-a306-024171c9a215.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0154a0854ad542755c62796906aadb08"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/international",
+          "name": "International"
+        }
+      ],
+      "teaserCaption": "Oft müssen die Migranten vor dem Roosevelt-Hotel in Manhattan in langen Schlangen warten und einzelne Nächte im Freien verbringen.",
+      "documentId": "1749693",
+      "product": "NZZ.ch"
+    }
+  },
+  {
+    "metadata": {
+      "teaserAuthor": "Eric Gay / AP",
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "YduhOTMzGshSDbiEPSFVT",
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "«Wir sehen Sie vor Gericht, Herr Präsident», sagte der Gouverneur von Texas. Nun erfüllt das Justizministerium seinen Wunsch",
+      "seoTitle": "Migration: Justizministerium verklagt Gouverneur von Texas wegen Grenzbojen",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Renzo Ruf (rru.)",
+          "id": 1476070,
+          "shortName": "rru."
+        }
+      ],
+      "designName": "morpheus",
+      "premium": false,
+      "seoSocialMediaTitle": "Justizministerium verklagt Gouverneur von Texas wegen Grenzbojen",
+      "significantUpdateTill": "2023-07-25T13:21:36.167Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Sonja Blaschke (bso)",
+          "id": 1372053,
+          "shortName": "bso"
+        }
+      ],
+      "department": {
+        "path": "/international",
+        "premium": false,
+        "level": 1,
+        "name": "International"
+      },
+      "publicationDate": "2023-07-25T01:21:36.167Z",
+      "slug": "migration-justizministerium-verklagt-gouverneur-von-texas-wegen-grenz-bojen",
+      "firstPublicationDate": "2023-07-25T01:21:36.167Z",
+      "owner": "NZZ",
+      "authorLine": "Renzo Ruf, Washington",
+      "nzzCharacterCount": 4388,
+      "numberOfContentComponents": 19,
+      "germanyRelevant": true,
+      "leadText": "Eine schwimmende Befestigung aus Bojen im Rio Grande, mit der Texas Migranten aufhalten will, ist zum Stein des Anstosses geworden. Das Justizministerium von Präsident Joe Biden steigt deshalb nun mit dem texanischen Gouverneur Greg Abbott vor Gericht in den Ring. Der Republikaner gibt sich siegessicher.",
+      "publicationLastUpdated": "2023-07-25T10:02:07.752Z",
+      "nzzArticleSnippet": "Eine schwimmende Befestigung aus Bojen im Rio Grande, mit der Texas Migranten aufhalten will, ist zum Stein des Anstosses geworden. Das Justizministerium von Präsident Joe Biden steigt deshalb nun mit dem texanischen Gouverneur Greg Abbott vor Gericht in den Ring. Der Republikaner gibt sich siegessicher.",
+      "urlPath": "/international/migration-justizministerium-verklagt-gouverneur-von-texas-wegen-grenz-bojen-ld.1748775",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 4965,
+        "originalUrl": "https://img.nzz.ch/2023/07/25/699bfd2f-3901-4f45-8dec-53e765ce2514.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 4965,
+            "name": "16:9",
+            "y": 256,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W4965,H2793,X0,Y256/O=75/https://img.nzz.ch/2023/07/25/699bfd2f-3901-4f45-8dec-53e765ce2514.jpeg",
+            "height": 2793,
+            "ratio": 1.77778
+          },
+          {
+            "x": 778,
+            "width": 886,
+            "name": "1:1",
+            "y": 1921,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W886,H886,X778,Y1921/O=75/https://img.nzz.ch/2023/07/25/699bfd2f-3901-4f45-8dec-53e765ce2514.jpeg",
+            "height": 886,
+            "ratio": 1
+          },
+          {
+            "x": 430,
+            "width": 4315,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W4315,H3236,X430,Y0/O=75/https://img.nzz.ch/2023/07/25/699bfd2f-3901-4f45-8dec-53e765ce2514.jpeg",
+            "height": 3236,
+            "ratio": 1.33333
+          },
+          {
+            "x": 662,
+            "width": 2427,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W2427,H3236,X662,Y0/O=75/https://img.nzz.ch/2023/07/25/699bfd2f-3901-4f45-8dec-53e765ce2514.jpeg",
+            "height": 3236,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "mmAo6oj9etv6",
+        "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2023/07/25/699bfd2f-3901-4f45-8dec-53e765ce2514.jpeg",
+        "height": 3236
+      },
+      "nzzId": "ld.1748775",
+      "url": "https://www.nzz.ch/international/migration-justizministerium-verklagt-gouverneur-von-texas-wegen-grenz-bojen-ld.1748775",
+      "dependencies": {
+        "js": [
+          {
+            "code": "\n      window.twttr = (function (d, s, id) {\n      var t, js, fjs = d.getElementsByTagName(s)[0];\n      if (d.getElementById(id)) return;\n      js = d.createElement(s); js.id = id;\n      js.src= \"https://platform.twitter.com/widgets.js\";\n      fjs.parentNode.insertBefore(js, fjs);\n      return window.twttr || (t = { _e: [], ready: function (f) { t._e.push(f) } });\n      }(document, \"script\", \"twitter-wjs\"));\n      window.twttr.ready(function(twttr){\n      twttr.widgets.load();\n      });\n      ",
+            "inline": true,
+            "componentIds": [
+              "doc-1h6567imj0",
+              "doc-1h65666ub0"
+            ],
+            "namespace": "embeds.twitter"
+          }
+        ]
+      },
+      "layout": "regular",
+      "estimationWordCount": 702,
+      "embeds": {
+        "images": [
+          {
+            "author": "Eric Gay / AP",
+            "caption": "Arbeiter installieren eine Bojenkette im Rio Grande – eine Massnahme der Regierung des Gliedstaates Texas in dem Versuch, den Strom von Einwanderern aus Mittel- und Südamerika zu beschränken (24. Juli).",
+            "origins": [
+              {
+                "identifier": "2145861535",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2023/07/25/699bfd2f-3901-4f45-8dec-53e765ce2514.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "d88d6103ea3820a0a31fc59f11f0ca11"
+          },
+          {
+            "id": "0154a0854ad542755c62796906aadb08"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/international",
+          "name": "International"
+        }
+      ],
+      "teaserCaption": "Arbeiter installieren eine Bojenkette im Rio Grande – eine Massnahme der Regierung des Gliedstaates Texas in dem Versuch, den Strom von Einwanderern aus Mittel- und Südamerika zu beschränken (24. Juli).",
+      "documentId": "1748775",
+      "product": "NZZ.ch"
+    }
+  },
+  {
+    "metadata": {
+      "teaserAuthor": "Valerie Gonzalez / AP",
+      "contentTypeGroup": "web",
+      "firstTitle": "Gefängnis oder freiwillige Rückkehr: Texas verabschiedet Gesetz mit «extremen» Folgen für illegale Migranten",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "GNEUROiJNM3167nYbYjy-",
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Gefängnis oder freiwillige Rückkehr: Texas verabschiedet Gesetz mit «extremen» Folgen für irreguläre Migranten",
+      "seoTitle": "Gefängnis oder freiwillige Rückkehr: Texas geht hart gegen Migranten vor",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Christian Weisflog (ws)",
+          "id": 1374076,
+          "shortName": "ws"
+        }
+      ],
+      "nzzPrintTitle": "Gefängnis oder freiwillige Rückkehr",
+      "designName": "morpheus",
+      "seoSocialMediaTitle": "Gefängnis oder freiwillige Rückkehr: Texas geht hart gegen Migranten vor",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2023-12-20T16:30:00.000Z",
+      "department": {
+        "path": "/international",
+        "premium": false,
+        "level": 1,
+        "name": "International"
+      },
+      "publicationDate": "2023-12-20T04:30:00.000Z",
+      "slug": "gefaengnis-oder-freiwillige-rueckkehr-texas-geht-hart-gegen-migranten-vor",
+      "firstPublicationDate": "2023-12-20T04:30:00.000Z",
+      "nzzCharacterCount": 5152,
+      "owner": "NZZ",
+      "authorLine": "Christian Weisflog, Washington",
+      "numberOfContentComponents": 16,
+      "germanyRelevant": true,
+      "leadText": "Die Zahl der illegalen Übertritte an der amerikanischen Südgrenze hat Rekordniveau erreicht. Texas will die Migrationspolitik deshalb nicht mehr Washington überlassen. Ein neues Gesetz ahndet illegale Einwanderung mit harten Strafen. Nun droht ein Verfassungsstreit.",
+      "publicationLastUpdated": "2023-12-20T06:37:09.977Z",
+      "nzzArticleSnippet": "Die Zahl der illegalen Übertritte an der amerikanischen Südgrenze hat Rekordniveau erreicht. Texas will die Migrationspolitik deshalb nicht mehr Washington überlassen. Ein neues Gesetz ahndet illegale Einwanderung mit harten Strafen. Nun droht ein Verfassungsstreit.",
+      "urlPath": "/international/gefaengnis-oder-freiwillige-rueckkehr-texas-geht-hart-gegen-migranten-vor-ld.1771232",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 1620,
+        "originalUrl": "https://img.nzz.ch/2023/12/19/1ee69376-42ea-49f2-a29c-7d8155866f4e.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 1620,
+            "name": "16:9",
+            "y": 4,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W1620,H911,X0,Y4/O=75/https://img.nzz.ch/2023/12/19/1ee69376-42ea-49f2-a29c-7d8155866f4e.jpeg",
+            "height": 911,
+            "ratio": 1.77778
+          },
+          {
+            "x": 625,
+            "width": 208,
+            "name": "1:1",
+            "y": 345,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W208,H208,X625,Y345/O=75/https://img.nzz.ch/2023/12/19/1ee69376-42ea-49f2-a29c-7d8155866f4e.jpeg",
+            "height": 208,
+            "ratio": 1
+          },
+          {
+            "x": 280,
+            "width": 1280,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W1280,H960,X280,Y0/O=75/https://img.nzz.ch/2023/12/19/1ee69376-42ea-49f2-a29c-7d8155866f4e.jpeg",
+            "height": 960,
+            "ratio": 1.33333
+          },
+          {
+            "x": 327,
+            "width": 569,
+            "name": "3:4",
+            "y": 321,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W569,H759,X327,Y321/O=75/https://img.nzz.ch/2023/12/19/1ee69376-42ea-49f2-a29c-7d8155866f4e.jpeg",
+            "height": 759,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "utCXjMhXBK3D",
+        "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2023/12/19/1ee69376-42ea-49f2-a29c-7d8155866f4e.jpeg",
+        "height": 1080
+      },
+      "nzzId": "ld.1771232",
+      "url": "https://www.nzz.ch/international/gefaengnis-oder-freiwillige-rueckkehr-texas-geht-hart-gegen-migranten-vor-ld.1771232",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hi1ifrnk1"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "commentCount": 1,
+      "layout": "regular",
+      "estimationWordCount": 781,
+      "nzzPrintSubtitle": "Texas geht hart gegen illegale Migranten vor",
+      "embeds": {
+        "images": [
+          {
+            "author": "Valerie Gonzalez / AP",
+            "caption": "Der texanische Gouverneur Greg Abbott unterzeichnet die Senate Bill 4 in Brownsville an der Grenze zu Mexiko.&nbsp;",
+            "origins": [
+              {
+                "identifier": "2150851335",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/C=W1280,H853,X279,Y25/O=75/https://img.nzz.ch/2023/12/19/1ee69376-42ea-49f2-a29c-7d8155866f4e.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0154a0854ad542755c62796906aadb08"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/international",
+          "name": "International"
+        }
+      ],
+      "teaserCaption": "Der texanische Gouverneur Greg Abbott unterzeichnet die Senate Bill 4 in Brownsville an der Grenze zu Mexiko.",
+      "documentId": "1771232",
+      "product": "NZZ.ch"
+    }
+  },
+  {
+    "metadata": {
+      "teaserAuthor": "Jose Luis Gonzalez / Reuters",
+      "contentTypeGroup": "web",
+      "firstTitle": "Migrationswelle in den USA: Biden baut doch eine Mauer – zumindest ein bisschen",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "wEou4_ju3DMhhQ_DYgPYN",
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Migrationswelle in den USA: Biden baut doch eine Mauer – zumindest ein bisschen",
+      "seoTitle": "Migrationswelle in den USA: Auch Biden baut nun eine Mauer",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Christian Weisflog (ws)",
+          "id": 1374076,
+          "shortName": "ws"
+        }
+      ],
+      "nzzPrintTitle": "Auch Biden baut nun eine Mauer",
+      "designName": "morpheus",
+      "seoSocialMediaTitle": "Migrationswelle in den USA: Biden baut doch eine Mauer – zumindest ein bisschen",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2023-10-07T15:30:00.000Z",
+      "department": {
+        "path": "/international",
+        "premium": false,
+        "level": 1,
+        "name": "International"
+      },
+      "publicationDate": "2023-10-07T03:30:00.000Z",
+      "slug": "migrationswelle-in-den-usa-biden-baut-doch-eine-mauer-zumindest-ein-bisschen",
+      "firstPublicationDate": "2023-10-07T03:30:00.000Z",
+      "nzzCharacterCount": 4974,
+      "owner": "NZZ",
+      "authorLine": "Christian Weisflog, Washington",
+      "numberOfContentComponents": 15,
+      "germanyRelevant": true,
+      "leadText": "Nach einer kurzen Baisse nehmen die Migrationsströme über die Grenze zwischen Mexiko und dem amerikanischen Süden wieder rasant zu. Aus Angst um seine Wiederwahl kippt Präsident Biden nun ein Wahlversprechen: Er baut ein neues Stück Grenzmauer und setzt dafür Umweltgesetze aus.",
+      "publicationLastUpdated": "2024-02-08T12:12:28.087Z",
+      "nzzArticleSnippet": "Nach einer kurzen Baisse nehmen die Migrationsströme über die Grenze zwischen Mexiko und dem amerikanischen Süden wieder rasant zu. Aus Angst um seine Wiederwahl kippt Präsident Biden nun ein Wahlversprechen: Er baut ein neues Stück Grenzmauer und setzt dafür Umweltgesetze aus.",
+      "urlPath": "/international/migrationswelle-in-den-usa-biden-baut-doch-eine-mauer-zumindest-ein-bisschen-ld.1759716",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 5000,
+        "originalUrl": "https://img.nzz.ch/2023/10/06/cdb0a7fa-a1cc-4314-9692-6f0822e9e611.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 5000,
+            "name": "16:9",
+            "y": 204,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W5000,H2812,X0,Y204/O=75/https://img.nzz.ch/2023/10/06/cdb0a7fa-a1cc-4314-9692-6f0822e9e611.jpeg",
+            "height": 2812,
+            "ratio": 1.77778
+          },
+          {
+            "x": 1860,
+            "width": 912,
+            "name": "1:1",
+            "y": 438,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W912,H912,X1860,Y438/O=75/https://img.nzz.ch/2023/10/06/cdb0a7fa-a1cc-4314-9692-6f0822e9e611.jpeg",
+            "height": 912,
+            "ratio": 1
+          },
+          {
+            "x": 278,
+            "width": 4444,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/C=W4444,H3333,X278,Y0/O=75/https://img.nzz.ch/2023/10/06/cdb0a7fa-a1cc-4314-9692-6f0822e9e611.jpeg",
+            "height": 3333,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1154,
+            "width": 2222,
+            "name": "3:4",
+            "y": 258,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W2222,H2963,X1154,Y258/O=75/https://img.nzz.ch/2023/10/06/cdb0a7fa-a1cc-4314-9692-6f0822e9e611.jpeg",
+            "height": 2963,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "8ZDy1v4yOJCR",
+        "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2023/10/06/cdb0a7fa-a1cc-4314-9692-6f0822e9e611.jpeg",
+        "height": 3333
+      },
+      "nzzId": "ld.1759716",
+      "url": "https://www.nzz.ch/international/migrationswelle-in-den-usa-biden-baut-doch-eine-mauer-zumindest-ein-bisschen-ld.1759716",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hc2hric91",
+              "doc-1hc2htidk0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "estimationWordCount": 817,
+      "nzzPrintSubtitle": "Eine neue Migrationswelle an der Südgrenze zwingt den Präsidenten zum Handeln",
+      "embeds": {
+        "images": [
+          {
+            "author": "Jose Luis Gonzalez / Reuters",
+            "caption": "Wie viele andere Venezolaner will diese Mutter mit ihrer zweijährigen Tochter auf der mexikanischen Seite des Rio Grande in Ciudad Juarez&nbsp;in die USA gelangen.&nbsp;",
+            "origins": [
+              {
+                "identifier": "2148556784",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2023/10/06/cdb0a7fa-a1cc-4314-9692-6f0822e9e611.jpeg"
+          },
+          {
+            "author": "Jose Luis Gonzalez / Reuters",
+            "caption": "Über 700 Kilometer lang ist die Grenzmauer zwischen den USA und Mexiko. Noch gibt es jedoch viele Lücken, wo es keine Befestigungen gibt.&nbsp;",
+            "origins": [
+              {
+                "identifier": "2148548062",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2023/10/06/a9c69f62-a84f-4dea-93c8-6692e1ade11c.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0154a0854ad542755c62796906aadb08"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/international",
+          "name": "International"
+        }
+      ],
+      "teaserCaption": "Wie viele andere Venezolaner will diese Mutter mit ihrer zweijährigen Tochter auf der mexikanischen Seite des Rio Grande in Ciudad Juarez in die USA gelangen.",
+      "documentId": "1759716",
+      "product": "NZZ.ch"
+    }
+  },
+  {
+    "metadata": {
+      "teaserAuthor": "Cheney Orr / Reuters",
+      "contentTypeGroup": "web",
+      "firstTitle": "Die Migrationswelle überfordert die amerikanischen Behörden: «Es ist eine kaschierte offene Grenze»",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "pZzR1H8ZYXp9",
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Die Migrationswelle überfordert die amerikanischen Behörden: «Es ist eine kaschierte offene Grenze»",
+      "seoTitle": "Die Migrationswelle überfordert den amerikanischen Grenzschutz",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Christian Weisflog (ws)",
+          "id": 1374076,
+          "shortName": "ws"
+        }
+      ],
+      "nzzPrintTitle": "\"Es ist eine kaschierte offene Grenze\"",
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2023-12-29T16:30:00.000Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Erika Burri (ebu)",
+          "id": 1719502,
+          "shortName": "ebu"
+        }
+      ],
+      "department": {
+        "path": "/international",
+        "premium": false,
+        "level": 1,
+        "name": "International"
+      },
+      "publicationDate": "2023-12-29T04:30:00.000Z",
+      "slug": "die-migrationswelle-ueberfordert-den-amerikanischen-grenzschutz",
+      "firstPublicationDate": "2023-12-29T04:30:00.000Z",
+      "nzzCharacterCount": 9157,
+      "owner": "NZZ",
+      "authorLine": "Christian Weisflog, Washington",
+      "numberOfContentComponents": 25,
+      "germanyRelevant": true,
+      "leadText": "Angesichts einer rekordhohen Migrationswelle fordern die Republikaner eine restriktivere Einwanderungspolitik. Aber das bringe wenig, sagt der Experte David Bier. Zu lang sei die Grenze, zu stark der wirtschaftliche Sog und zu gut organisiert seien die Schmuggler.",
+      "publicationLastUpdated": "2024-02-01T09:23:52.521Z",
+      "nzzArticleSnippet": "Angesichts einer rekordhohen Migrationswelle fordern die Republikaner eine restriktivere Einwanderungspolitik. Aber das bringe wenig, sagt der Experte David Bier. Zu lang sei die Grenze, zu stark der wirtschaftliche Sog und zu gut organisiert seien die Schmuggler.",
+      "urlPath": "/international/die-migrationswelle-ueberfordert-den-amerikanischen-grenzschutz-ld.1772050",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 4000,
+        "originalUrl": "https://img.nzz.ch/2023/12/27/9c16d2d2-dfff-4b56-bdf2-91262b8a2a17.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 3160,
+            "name": "16:9",
+            "y": 778,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W3160,H1778,X0,Y778/O=75/https://img.nzz.ch/2023/12/27/9c16d2d2-dfff-4b56-bdf2-91262b8a2a17.jpeg",
+            "height": 1778,
+            "ratio": 1.77778
+          },
+          {
+            "x": 1622,
+            "width": 821,
+            "name": "1:1",
+            "y": 968,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W821,H821,X1622,Y968/O=75/https://img.nzz.ch/2023/12/27/9c16d2d2-dfff-4b56-bdf2-91262b8a2a17.jpeg",
+            "height": 821,
+            "ratio": 1
+          },
+          {
+            "x": 86,
+            "width": 2810,
+            "name": "4:3",
+            "y": 560,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W2810,H2107,X86,Y560/O=75/https://img.nzz.ch/2023/12/27/9c16d2d2-dfff-4b56-bdf2-91262b8a2a17.jpeg",
+            "height": 2107,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1324,
+            "width": 1405,
+            "name": "3:4",
+            "y": 794,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W1405,H1873,X1324,Y794/O=75/https://img.nzz.ch/2023/12/27/9c16d2d2-dfff-4b56-bdf2-91262b8a2a17.jpeg",
+            "height": 1873,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "UpU7Co090tms",
+        "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2023/12/27/9c16d2d2-dfff-4b56-bdf2-91262b8a2a17.jpeg",
+        "height": 2667
+      },
+      "nzzId": "ld.1772050",
+      "url": "https://www.nzz.ch/international/die-migrationswelle-ueberfordert-den-amerikanischen-grenzschutz-ld.1772050",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hilakvhu0",
+              "doc-1hilakvi33",
+              "doc-1hilakvi41",
+              "doc-1hilakvi48"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "commentCount": 1,
+      "layout": "longformvisual",
+      "estimationWordCount": 1423,
+      "nzzPrintSubtitle": "Die Migrationswelle überfordert die amerikanischen Behörden, aber eine restriktive Einwanderungspolitik helfe wenig, meint der Experte David Bier",
+      "embeds": {
+        "images": [
+          {
+            "author": "Cheney Orr / Reuters",
+            "caption": "Am 24. Dezember 2023 haben mehrere hundert Migranten den Rio Grande überquert. So auch diese Frau, die ihren Sohn auf dem Rücken trägt und durch den Grenzfluss zwischen Mexiko und den USA watet.&nbsp;",
+            "origins": [
+              {
+                "identifier": "2150996049",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/C=W3160,H2107,X0,Y469/O=75/https://img.nzz.ch/2023/12/27/9c16d2d2-dfff-4b56-bdf2-91262b8a2a17.jpeg"
+          },
+          {
+            "author": "Cheney Orr / Reuters",
+            "caption": "In Eagle Pass, Texas, haben Grenzbeamte kurz vor Weihnachten Migranten aus Venezuela und Honduras aufgegriffen. Sie haben nach der Überquerung des Rio Grande die USA illegal betreten.&nbsp;",
+            "origins": [
+              {
+                "identifier": "2150981837",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2023/12/27/faab1170-b253-452a-9e45-354ad3ec9cb8.jpeg"
+          },
+          {
+            "author": "Cheney Orr / Reuters",
+            "caption": "Migranten überqueren im Dezember den Rio Grande, um Asyl in den USA zu beantragen.",
+            "origins": [
+              {
+                "identifier": "2150996639",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2023/12/27/c8b1989f-520b-43c8-a851-f308e9cd21a2.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0154a0854ad542755c62796906aadb08"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/international",
+          "name": "International"
+        }
+      ],
+      "teaserCaption": "Am 24. Dezember 2023 haben mehrere hundert Migranten den Rio Grande überquert. So auch diese Frau, die ihren Sohn auf dem Rücken trägt und durch den Grenzfluss zwischen Mexiko und den USA watet.",
+      "documentId": "1772050",
+      "product": "NZZ.ch"
+    }
+  },
+  {
+    "metadata": {
+      "teaserAuthor": "Stringer / Reuters",
+      "contentTypeGroup": "web",
+      "flag": "Erklärt",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "U6tT433d-WS7",
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Migration in den USA: Nach dem Ende von «Title 42» rechnet Washington mit chaotischen Zuständen an der Grenze",
+      "seoTitle": "Migration USA: «Title 42»-Ende sorgt für 10 000 Migranten pro Tag",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Philipp Gollmer (phg)",
+          "id": 1474230,
+          "shortName": "phg"
+        }
+      ],
+      "designName": "morpheus",
+      "premium": false,
+      "seoSocialMediaTitle": "Migration in den USA: Ende von «Title 42» sorgt für Tausende von zusätzlichen Migranten",
+      "significantUpdateTill": "2023-05-11T23:56:03.487Z",
+      "department": {
+        "path": "/international",
+        "premium": false,
+        "level": 1,
+        "name": "International"
+      },
+      "publicationDate": "2023-05-12T13:54:54.426Z",
+      "slug": "migration-in-den-usa-nach-dem-ende-von-title-42-werden-an-der-grenze-zu-mexiko-10-000-grenzuebertritte-pro-tag-erwartet",
+      "firstPublicationDate": "2023-05-11T11:56:03.487Z",
+      "authorLine": "Philipp Gollmer",
+      "owner": "NZZ",
+      "nzzCharacterCount": 5561,
+      "numberOfContentComponents": 23,
+      "germanyRelevant": true,
+      "leadText": "Die restriktive amerikanische Pandemieregelung «Title 42» ist in der Nacht auf Freitag ausgelaufen. Tausende von Migranten hoffen nun, in die Vereinigten Staaten einreisen zu können. Was genau ist «Title 42» und was passiert nun?",
+      "publicationLastUpdated": "2023-05-12T15:56:46.865Z",
+      "nzzArticleSnippet": "Die restriktive amerikanische Pandemieregelung «Title 42» ist in der Nacht auf Freitag ausgelaufen. Tausende von Migranten hoffen nun, in die Vereinigten Staaten einreisen zu können. Was genau ist «Title 42» und was passiert nun?",
+      "urlPath": "/international/migration-in-den-usa-nach-dem-ende-von-title-42-werden-an-der-grenze-zu-mexiko-10-000-grenzuebertritte-pro-tag-erwartet-ld.1737514",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 5211,
+        "originalUrl": "https://img.nzz.ch/2023/05/11/7ff607c1-0183-4cc5-9418-04175d9c7599.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 5211,
+            "name": "16:9",
+            "y": 271,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/C=W5211,H2931,X0,Y271/O=75/https://img.nzz.ch/2023/05/11/7ff607c1-0183-4cc5-9418-04175d9c7599.jpeg",
+            "height": 2931,
+            "ratio": 1.77778
+          },
+          {
+            "x": 869,
+            "width": 3474,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/C=W3474,H3474,X869,Y0/O=75/https://img.nzz.ch/2023/05/11/7ff607c1-0183-4cc5-9418-04175d9c7599.jpeg",
+            "height": 3474,
+            "ratio": 1
+          },
+          {
+            "x": 290,
+            "width": 4632,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/C=W4632,H3474,X290,Y0/O=75/https://img.nzz.ch/2023/05/11/7ff607c1-0183-4cc5-9418-04175d9c7599.jpeg",
+            "height": 3474,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1303,
+            "width": 2606,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/C=W2606,H3474,X1303,Y0/O=75/https://img.nzz.ch/2023/05/11/7ff607c1-0183-4cc5-9418-04175d9c7599.jpeg",
+            "height": 3474,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "AxI-z5alK9Pa",
+        "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2023/05/11/7ff607c1-0183-4cc5-9418-04175d9c7599.jpeg",
+        "height": 3474
+      },
+      "nzzId": "ld.1737514",
+      "url": "https://www.nzz.ch/international/migration-in-den-usa-nach-dem-ende-von-title-42-werden-an-der-grenze-zu-mexiko-10-000-grenzuebertritte-pro-tag-erwartet-ld.1737514",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1h050o6fm0",
+              "doc-1h050r29o1"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "estimationWordCount": 903,
+      "embeds": {
+        "images": [
+          {
+            "author": "Stringer / Reuters",
+            "caption": "Soldaten bewachen die amerikanische Grenze zu Mexiko. Mit dem Ende der Corona-Einreiseregelung «Title 42» werden Tausende von zusätzlichen Migranten erwartet.",
+            "origins": [
+              {
+                "identifier": "2143779379",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2023/05/11/7ff607c1-0183-4cc5-9418-04175d9c7599.jpeg"
+          },
+          {
+            "author": "José Luis González / Reuters",
+            "caption": "Migranten in El Paso schlafen auf der Strasse, weil die Auffangzentren in der texanischen Grenzstadt voll sind.",
+            "origins": [
+              {
+                "identifier": "2143747692",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2023/05/11/b063ed58-b21b-461d-8f4f-97511663b0fe.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0154a0854ad542755c62796906aadb08"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/international",
+          "name": "International"
+        }
+      ],
+      "teaserCaption": "Soldaten bewachen die amerikanische Grenze zu Mexiko. Mit dem Ende der Corona-Einreiseregelung «Title 42» werden Tausende von zusätzlichen Migranten erwartet.",
+      "documentId": "1737514",
+      "product": "NZZ.ch"
+    }
+  },
+  {
+    "metadata": {
+      "teaserAuthor": "Kevin Lamarque / Reuters",
+      "contentTypeGroup": "web",
+      "firstTitle": "Die Ukraine ist in republikanischer Geiselhaft – kann Biden sie befreien?",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "tmofF_jQF5QubElR19vnz",
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Die Ukraine ist in republikanischer Geiselhaft – kann Biden sie befreien?",
+      "seoTitle": "Die Ukraine wird zur Geisel der amerikanischen Migrationspolitik",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Christian Weisflog (ws)",
+          "id": 1374076,
+          "shortName": "ws"
+        }
+      ],
+      "nzzPrintTitle": "Die Ukraine ist in republikanischer Geiselhaft",
+      "designName": "morpheus",
+      "premium": true,
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2023-12-09T16:30:00.000Z",
+      "department": {
+        "path": "/international",
+        "premium": false,
+        "level": 1,
+        "name": "International"
+      },
+      "publicationDate": "2023-12-09T04:30:00.000Z",
+      "slug": "die-ukraine-wird-zur-geisel-der-amerikanischen-migrationspolitik",
+      "firstPublicationDate": "2023-12-09T04:30:00.000Z",
+      "nzzCharacterCount": 7489,
+      "owner": "NZZ",
+      "authorLine": "Christian Weisflog, Washington",
+      "numberOfContentComponents": 19,
+      "germanyRelevant": true,
+      "leadText": "Die Ukraine-Hilfe hängt in den USA am strittigsten Thema überhaupt: der Einwanderungspolitik. Ein ausgewogener Kompromiss könnte Präsident Biden bei der Wiederwahl helfen. Aber die Republikaner beharren auf einem «tiefgreifenden Wandel» in der Migrationsfrage.",
+      "publicationLastUpdated": "2023-12-09T04:30:00.000Z",
+      "nzzArticleSnippet": "Die Ukraine-Hilfe hängt in den USA am strittigsten Thema überhaupt: der Einwanderungspolitik. Ein ausgewogener Kompromiss könnte Präsident Biden bei der Wiederwahl helfen. Aber die Republikaner beharren auf einem «tiefgreifenden Wandel» in der Migrationsfrage.",
+      "urlPath": "/international/die-ukraine-wird-zur-geisel-der-amerikanischen-migrationspolitik-ld.1769457",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 5388,
+        "originalUrl": "https://img.nzz.ch/2023/12/08/87794921-f404-4ecc-a070-be950e958f53.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 5388,
+            "name": "16:9",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W5388,H3031,X0,Y0/O=75/https://img.nzz.ch/2023/12/08/87794921-f404-4ecc-a070-be950e958f53.jpeg",
+            "height": 3031,
+            "ratio": 1.77778
+          },
+          {
+            "x": 4072,
+            "width": 993,
+            "name": "1:1",
+            "y": 1181,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W993,H993,X4072,Y1181/O=75/https://img.nzz.ch/2023/12/08/87794921-f404-4ecc-a070-be950e958f53.jpeg",
+            "height": 993,
+            "ratio": 1
+          },
+          {
+            "x": 553,
+            "width": 4835,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W4835,H3626,X553,Y0/O=75/https://img.nzz.ch/2023/12/08/87794921-f404-4ecc-a070-be950e958f53.jpeg",
+            "height": 3626,
+            "ratio": 1.33333
+          },
+          {
+            "x": 3239,
+            "width": 2149,
+            "name": "3:4",
+            "y": 330,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W2149,H2865,X3239,Y330/O=75/https://img.nzz.ch/2023/12/08/87794921-f404-4ecc-a070-be950e958f53.jpeg",
+            "height": 2865,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "NHzCyTqG7ZlV",
+        "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2023/12/08/87794921-f404-4ecc-a070-be950e958f53.jpeg",
+        "height": 3626
+      },
+      "nzzId": "ld.1769457",
+      "url": "https://www.nzz.ch/international/die-ukraine-wird-zur-geisel-der-amerikanischen-migrationspolitik-ld.1769457",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hh4bg5ms1"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "commentCount": 2,
+      "layout": "regular",
+      "estimationWordCount": 1127,
+      "nzzPrintSubtitle": "Präsident Biden verspricht Kompromisse in der Migrationspolitik, aber sein Spielraum nach links ist begrenzt",
+      "embeds": {
+        "images": [
+          {
+            "author": "Kevin Lamarque / Reuters",
+            "caption": "Im Januar besuchte Präsident Biden die Grenze zu Mexiko. Die Migrationsfrage könnte nun über das Schicksal der Ukraine entscheiden.",
+            "origins": [
+              {
+                "identifier": "2139927462",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2023/12/08/87794921-f404-4ecc-a070-be950e958f53.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0154a0854ad542755c62796906aadb08"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/international",
+          "name": "International"
+        }
+      ],
+      "teaserCaption": "Im Januar besuchte Präsident Biden die Grenze zu Mexiko. Die Migrationsfrage könnte nun über das Schicksal der Ukraine entscheiden.",
+      "documentId": "1769457",
+      "product": "NZZ.ch"
+    }
+  }
+]

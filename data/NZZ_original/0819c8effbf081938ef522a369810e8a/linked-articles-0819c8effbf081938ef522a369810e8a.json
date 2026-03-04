@@ -1,0 +1,360 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Florian Gaertner / Imago",
+      "firstTitle": "Ein Land, ein Strompreis? Schluss damit! Energieexperten fordern radikales Umdenken bei der deutschen Energiewende",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "I8Co8rXh9RptYdfbwPvki",
+        "locale": "de-CH"
+      },
+      "title": "Ein Land, ein Strompreis? Schluss damit! Energieexperten fordern radikales Umdenken bei der deutschen Energiewende",
+      "seoTitle": "Strommarkt-Revolution: Experten fordern Ende des Einheitspreises",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Johannes Bockenheimer (JCB)",
+          "id": 1733196,
+          "shortName": "JCB"
+        }
+      ],
+      "designName": "morpheus",
+      "seoSocialMediaTitle": "Strommarkt-Revolution: Experten fordern Ende des Einheitspreises",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-07-26T20:58:05.666Z",
+      "department": {
+        "path": "/international",
+        "premium": false,
+        "level": 1,
+        "name": "International"
+      },
+      "publicationDate": "2024-07-26T08:58:05.666Z",
+      "slug": "ein-land-ein-strompreis-schluss-damit-energieexperten-fordern-radikales-umdenken-bei-der-deutschen-energiewende",
+      "firstPublicationDate": "2024-07-26T08:58:05.666Z",
+      "nzzCharacterCount": 6456,
+      "owner": "NZZ",
+      "authorLine": "Johannes C. Bockenheimer, Berlin",
+      "numberOfContentComponents": 23,
+      "germanyRelevant": true,
+      "leadText": "Wer fernab von Windrädern und Solaranlagen lebt oder produziert, soll künftig auch mehr für Energie zahlen oder Kernkraftwerke bauen dürfen. Das fordern Ökonomen von Wirtschaftsminister Robert Habeck – doch der sperrt sich.",
+      "publicationLastUpdated": "2024-07-26T09:26:49.551Z",
+      "nzzArticleSnippet": "Wer fernab von Windrädern und Solaranlagen lebt oder produziert, soll künftig auch mehr für Energie zahlen oder Kernkraftwerke bauen dürfen. Das fordern Ökonomen von Wirtschaftsminister Robert Habeck – doch der sperrt sich.",
+      "urlPath": "/international/ein-land-ein-strompreis-schluss-damit-energieexperten-fordern-radikales-umdenken-bei-der-deutschen-energiewende-ld.1840834",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 5000,
+        "originalUrl": "https://img.nzz.ch/2024/07/25/d001c1fd-835e-48d6-8333-a2e135eb1887.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 5000,
+            "name": "16:9",
+            "y": 92,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2024/07/25/d001c1fd-835e-48d6-8333-a2e135eb1887.jpeg?crop=5000,2812,x0,y92&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2024/07/25/d001c1fd-835e-48d6-8333-a2e135eb1887.jpeg?crop=5000,2812,x0,y92&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2024/07/25/d001c1fd-835e-48d6-8333-a2e135eb1887.jpeg?crop=5000,2812,x0,y92&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2024/07/25/d001c1fd-835e-48d6-8333-a2e135eb1887.jpeg?crop=5000,2812,x0,y92&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/07/25/d001c1fd-835e-48d6-8333-a2e135eb1887.jpeg?crop=5000,2812,x0,y92&width=1024&quality=75&auto=webp",
+            "height": 2812,
+            "ratio": 1.77778
+          },
+          {
+            "x": 1481,
+            "width": 3333,
+            "name": "1:1",
+            "y": 0,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2024/07/25/d001c1fd-835e-48d6-8333-a2e135eb1887.jpeg?crop=3333,3333,x1481,y0&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2024/07/25/d001c1fd-835e-48d6-8333-a2e135eb1887.jpeg?crop=3333,3333,x1481,y0&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2024/07/25/d001c1fd-835e-48d6-8333-a2e135eb1887.jpeg?crop=3333,3333,x1481,y0&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2024/07/25/d001c1fd-835e-48d6-8333-a2e135eb1887.jpeg?crop=3333,3333,x1481,y0&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/07/25/d001c1fd-835e-48d6-8333-a2e135eb1887.jpeg?crop=3333,3333,x1481,y0&width=1024&quality=75&auto=webp",
+            "height": 3333,
+            "ratio": 1
+          },
+          {
+            "x": 550,
+            "width": 4444,
+            "name": "4:3",
+            "y": 0,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2024/07/25/d001c1fd-835e-48d6-8333-a2e135eb1887.jpeg?crop=4444,3333,x550,y0&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2024/07/25/d001c1fd-835e-48d6-8333-a2e135eb1887.jpeg?crop=4444,3333,x550,y0&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2024/07/25/d001c1fd-835e-48d6-8333-a2e135eb1887.jpeg?crop=4444,3333,x550,y0&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2024/07/25/d001c1fd-835e-48d6-8333-a2e135eb1887.jpeg?crop=4444,3333,x550,y0&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/07/25/d001c1fd-835e-48d6-8333-a2e135eb1887.jpeg?crop=4444,3333,x550,y0&width=1024&quality=75&auto=webp",
+            "height": 3333,
+            "ratio": 1.33333
+          },
+          {
+            "x": 2314,
+            "width": 2500,
+            "name": "3:4",
+            "y": 0,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2024/07/25/d001c1fd-835e-48d6-8333-a2e135eb1887.jpeg?crop=2500,3333,x2314,y0&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2024/07/25/d001c1fd-835e-48d6-8333-a2e135eb1887.jpeg?crop=2500,3333,x2314,y0&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2024/07/25/d001c1fd-835e-48d6-8333-a2e135eb1887.jpeg?crop=2500,3333,x2314,y0&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2024/07/25/d001c1fd-835e-48d6-8333-a2e135eb1887.jpeg?crop=2500,3333,x2314,y0&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/07/25/d001c1fd-835e-48d6-8333-a2e135eb1887.jpeg?crop=2500,3333,x2314,y0&width=1024&quality=75&auto=webp",
+            "height": 3333,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "wqGMeGv6y8WJ",
+        "key": "2024/07/25/d001c1fd-835e-48d6-8333-a2e135eb1887.jpeg",
+        "url": "https://img.nzz.ch/2024/07/25/d001c1fd-835e-48d6-8333-a2e135eb1887.jpeg?width=1024&quality=75&auto=webp",
+        "height": 3333
+      },
+      "nzzId": "ld.1840834",
+      "url": "https://www.nzz.ch/international/ein-land-ein-strompreis-schluss-damit-energieexperten-fordern-radikales-umdenken-bei-der-deutschen-energiewende-ld.1840834",
+      "dependencies": {},
+      "commentCount": 1,
+      "layout": "regular",
+      "estimationWordCount": 929,
+      "embeds": {
+        "images": [
+          {
+            "author": "Florian Gaertner / Imago",
+            "caption": "Kommt beim Netzausbau nur langsam voran: Minister Robert Habeck.",
+            "origins": [
+              {
+                "identifier": "2156467543",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2024/07/25/d001c1fd-835e-48d6-8333-a2e135eb1887.jpeg?width=1024&quality=75&auto=webp"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0819c8effbf081938ef522a369810e8a"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/international",
+          "name": "International"
+        }
+      ],
+      "teaserCaption": "Kommt beim Netzausbau nur langsam voran: Minister Robert Habeck.",
+      "documentId": "1840834",
+      "product": "NZZ.ch"
+    }
+  },
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Jens Büttner / dpa",
+      "firstTitle": "Energiewende: So teuer könnte sie Deutschland zu stehen kommen",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "NRTMYdXIpOhV0H-dLtaou",
+        "locale": "de-CH"
+      },
+      "title": "So teuer könnte die Energiewende Deutschland zu stehen kommen",
+      "seoTitle": "Energiewende soll Deutschland rund 1200 Milliarden Euro kosten",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "René Höltschi (Ht)",
+          "id": 1372707,
+          "shortName": "Ht",
+          "proLitterisId": "1477"
+        }
+      ],
+      "nzzPrintTitle": "Deutsche Energiewende wird teuer",
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-05-01T02:59:37.846Z",
+      "department": {
+        "path": "/wirtschaft",
+        "premium": false,
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2024-04-30T14:59:37.846Z",
+      "slug": "energiewende-soll-deutschland-rund-1200-milliarden-euro-kosten",
+      "firstPublicationDate": "2024-04-30T14:59:37.846Z",
+      "nzzCharacterCount": 6157,
+      "owner": "NZZ",
+      "authorLine": "René Höltschi, Berlin",
+      "numberOfContentComponents": 24,
+      "germanyRelevant": true,
+      "leadText": "Die deutsche Energiewende erfordert laut einer Studie bis 2035 Investitionen in Höhe von gigantischen 1240 Milliarden Euro. Sie generiert aber auch Wachstum – und sie gewinnt an Fahrt.",
+      "publicationLastUpdated": "2024-04-30T15:24:00.671Z",
+      "nzzArticleSnippet": "Die deutsche Energiewende erfordert laut einer Studie bis 2035 Investitionen in Höhe von gigantischen 1240 Milliarden Euro. Sie generiert aber auch Wachstum – und sie gewinnt an Fahrt.",
+      "urlPath": "/wirtschaft/energiewende-soll-deutschland-rund-1200-milliarden-euro-kosten-ld.1828619",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 6000,
+        "originalUrl": "https://img.nzz.ch/2024/04/30/d4a68df9-1492-4fca-8043-5084e4ae7b55.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 6000,
+            "name": "16:9",
+            "y": 24,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/30/d4a68df9-1492-4fca-8043-5084e4ae7b55.jpeg?crop=6000,3375,x0,y24&width=1024&quality=75&auto=webp",
+            "height": 3375,
+            "ratio": 1.77778
+          },
+          {
+            "x": 3639,
+            "width": 283,
+            "name": "1:1",
+            "y": 1614,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/30/d4a68df9-1492-4fca-8043-5084e4ae7b55.jpeg?crop=283,283,x3639,y1614&width=1024&quality=75&auto=webp",
+            "height": 283,
+            "ratio": 1
+          },
+          {
+            "x": 151,
+            "width": 5672,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/30/d4a68df9-1492-4fca-8043-5084e4ae7b55.jpeg?crop=5672,4254,x151,y0&width=1024&quality=75&auto=webp",
+            "height": 4254,
+            "ratio": 1.33333
+          },
+          {
+            "x": 3032,
+            "width": 2836,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/30/d4a68df9-1492-4fca-8043-5084e4ae7b55.jpeg?crop=2836,3781,x3032,y0&width=1024&quality=75&auto=webp",
+            "height": 3781,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "aqH9I5bxRXR4",
+        "url": "https://img.nzz.ch/2024/04/30/d4a68df9-1492-4fca-8043-5084e4ae7b55.jpeg?width=1024&quality=75&auto=webp",
+        "key": "2024/04/30/d4a68df9-1492-4fca-8043-5084e4ae7b55.jpeg",
+        "height": 4254
+      },
+      "nzzId": "ld.1828619",
+      "url": "https://www.nzz.ch/wirtschaft/energiewende-soll-deutschland-rund-1200-milliarden-euro-kosten-ld.1828619",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hsnir5ls1"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "estimationWordCount": 907,
+      "nzzPrintSubtitle": "Laut Studie sind bis 20'35 über 1200 Milliarden Euro an Investitionen nötig",
+      "embeds": {
+        "images": [
+          {
+            "author": "Jens Büttner / dpa",
+            "caption": "Energie aus Sonne und Wind statt aus Kohle und Atom: Die deutsche Energiewende kommt nicht zum Nulltarif.",
+            "origins": [
+              {
+                "identifier": "2155155556",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/04/30/d4a68df9-1492-4fca-8043-5084e4ae7b55.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0819c8effbf081938ef522a369810e8a"
+          },
+          {
+            "id": "0819c8effbf081938ef522a36994376d"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "teaserCaption": "Energie aus Sonne und Wind statt aus Kohle und Atom: Die deutsche Energiewende kommt nicht zum Nulltarif.",
+      "documentId": "1828619",
+      "product": "NZZ.ch"
+    }
+  }
+]

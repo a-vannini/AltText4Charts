@@ -1,0 +1,104 @@
+{
+  "_id": "0819c8effbf081938ef522a369189a01",
+  "_rev": "14-b442929b25d2c245d6102fb0d0882471",
+  "title": "Switzerland pays the best AI salaries outside the US",
+  "tool": "chart",
+  "department": "default",
+  "publication": "nzz",
+  "data": [
+    [
+      "Country",
+      "Median Salary"
+    ],
+    [
+      "USA",
+      "251000"
+    ],
+    [
+      "Switzerland",
+      "197026"
+    ],
+    [
+      "Israel",
+      "155360"
+    ],
+    [
+      "Great Britain",
+      "141781"
+    ],
+    [
+      "Canada",
+      "112845"
+    ],
+    [
+      "Singapore",
+      "107314"
+    ],
+    [
+      "Australia",
+      "103073"
+    ],
+    [
+      "Germany",
+      "93262"
+    ],
+    [
+      "Ireland",
+      "93056"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {},
+      "text": "Levels.fyi"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {
+      "valuesOnBars": true
+    },
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 1
+    }
+  },
+  "subtitle": "Total remuneration including share options and salary for a software engineer specializing in AI, in dollars, April 2023 to April 2024",
+  "createdDate": "2024-04-21T15:10:35.345Z",
+  "createdBy": "eliza.rozeboom@lieferanten.nzz.ch",
+  "updatedDate": "2024-04-21T15:15:26.512Z",
+  "updatedBy": "eliza.rozeboom@lieferanten.nzz.ch",
+  "active": true,
+  "notes": "Source: Levels.fyi",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/0819c8effbf081938ef522a369189a01-thumbnail.jpeg"
+}

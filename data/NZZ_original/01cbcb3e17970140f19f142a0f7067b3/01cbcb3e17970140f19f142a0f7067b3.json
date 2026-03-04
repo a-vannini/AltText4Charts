@@ -1,0 +1,107 @@
+{
+  "_id": "01cbcb3e17970140f19f142a0f7067b3",
+  "_rev": "10-74cf86e6f4ec99fa6b160f823015abc8",
+  "title": "Die grössten bilateralen Defizite der USA im Güterhandel, 2016",
+  "tool": "chart",
+  "data": [
+    [
+      "Land",
+      "Saldo"
+    ],
+    [
+      "China",
+      "-347"
+    ],
+    [
+      "Japan",
+      "-68.9"
+    ],
+    [
+      "Deutschland",
+      "-64.9"
+    ],
+    [
+      "Mexiko",
+      "-63.2"
+    ],
+    [
+      "Irland",
+      "-35.9"
+    ],
+    [
+      "Vietnam",
+      "-32"
+    ],
+    [
+      "Italien",
+      "-28.5"
+    ],
+    [
+      "Südkorea",
+      "-27.7"
+    ],
+    [
+      "Malaysia",
+      "-24.8"
+    ],
+    [
+      "Indien",
+      "-24.3"
+    ],
+    [
+      "Thailand",
+      "-18.9"
+    ],
+    [
+      "Frankreich",
+      "-15.8"
+    ],
+    [
+      "Schweiz",
+      "-13.7"
+    ],
+    [
+      "Taiwan",
+      "-13.3"
+    ],
+    [
+      "Indonesien",
+      "-13.2"
+    ]
+  ],
+  "options": {
+    "chartType": "Bar",
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": true
+    },
+    "lineChartOptions": {
+      "isStockChart": false
+    },
+    "dateSeriesOptions": {},
+    "highlightDataSeries": [],
+    "annotations": {
+      "first": false
+    }
+  },
+  "sources": [
+    {
+      "text": "Census",
+      "link": {
+        "url": "",
+        "isValid": false
+      }
+    }
+  ],
+  "annotations": "",
+  "createdDate": "2017-04-11T16:47:59.409Z",
+  "createdBy": "martin.lanz@nzz.ch",
+  "department": "Wirtschaft",
+  "active": true,
+  "activateDate": "2017-04-11T16:52:04.855Z",
+  "subtitle": "in Mrd. $",
+  "updatedBy": "martin.lanz@nzz.ch",
+  "publication": "nzz",
+  "updatedDate": "2017-04-11T16:47:59.409Z",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/01cbcb3e17970140f19f142a0f7067b3-thumbnail.jpeg"
+}

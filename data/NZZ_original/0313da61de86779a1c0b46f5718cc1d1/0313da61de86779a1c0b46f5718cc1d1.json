@@ -1,0 +1,86 @@
+{
+  "_id": "0313da61de86779a1c0b46f5718cc1d1",
+  "_rev": "15-63c4719f98f59d5633ec4b8ee8212a0c",
+  "department": "Zürich",
+  "publication": "nzz",
+  "acronym": "sgi.",
+  "data": [
+    [
+      "Typ",
+      "Männlich",
+      "Weiblich"
+    ],
+    [
+      "Beschuldigte",
+      "299",
+      "68"
+    ],
+    [
+      "Opfer",
+      "95",
+      "284"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {},
+      "text": "Polizeiliche Kriminalstatistik des Bundes"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [
+      {
+        "color": "#24B39C",
+        "position": 1
+      },
+      {
+        "color": "#6C43C0",
+        "position": 2
+      }
+    ],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "Wenn Männer Frauen töten",
+  "subtitle": "Beschuldigte und Opfer von vollendeten Tötungsdelikten im Kontext häuslicher Gewalt 2009–2023, nach Geschlecht",
+  "createdDate": "2024-01-08T15:23:45.206Z",
+  "createdBy": "giorgio.scherrer@nzz.ch",
+  "updatedDate": "2024-06-10T18:09:00.918Z",
+  "updatedBy": "giorgio.scherrer@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/0313da61de86779a1c0b46f5718cc1d1-thumbnail.jpeg"
+}

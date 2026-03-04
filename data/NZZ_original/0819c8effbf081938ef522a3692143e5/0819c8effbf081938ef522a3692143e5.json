@@ -1,0 +1,71 @@
+{
+  "_id": "0819c8effbf081938ef522a3692143e5",
+  "_rev": "29-a2b7d565a9ccf5b1f19b6deaab7ded26",
+  "department": "Schweiz",
+  "publication": "nzz",
+  "acronym": "fum.",
+  "data": [
+    [
+      null,
+      "«Normale» Prämienverbilligungen",
+      "AHV/IV-Ergänzungsleistungen und Sozialhilfe",
+      "10-Prozent-Deckel"
+    ],
+    [
+      null,
+      "371",
+      "310",
+      "122"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [],
+  "options": {
+    "chartType": "StackedBar",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {
+      "valuesOnBars": true
+    },
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "So viel gibt die Waadt für Prämienverbilligungen aus",
+  "subtitle": "Zahlen für 2023, in Millionen Franken, gerundet",
+  "createdDate": "2024-04-22T15:46:40.755Z",
+  "createdBy": "antonio.fumagalli@nzz.ch",
+  "updatedDate": "2024-04-23T08:56:49.671Z",
+  "updatedBy": "lena.frische@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/0819c8effbf081938ef522a3692143e5-thumbnail.jpeg"
+}

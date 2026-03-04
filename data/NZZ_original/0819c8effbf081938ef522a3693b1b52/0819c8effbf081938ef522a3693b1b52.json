@@ -1,0 +1,101 @@
+{
+  "_id": "0819c8effbf081938ef522a3693b1b52",
+  "_rev": "29-9aafa8c442163d8ba2633809268a80df",
+  "department": "Visuals",
+  "publication": "nzz",
+  "acronym": "jum.",
+  "data": [
+    [
+      "Was",
+      "Nato (ohne EU-Staaten)",
+      "EU-Staaten",
+      "Zusagen an die Ukraine"
+    ],
+    [
+      "Kampf- und Schützenpanzer",
+      "10931",
+      "4696",
+      "788"
+    ],
+    [
+      "155- und 152-Haubitzen",
+      "4130",
+      "2696",
+      "657"
+    ],
+    [
+      "Mehrfachraketenwerfer",
+      "828",
+      "824",
+      "100"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {
+        "url": "https://www.ifw-kiel.de/publications/ukraine-support-tracker-data-20758/",
+        "isValid": true
+      },
+      "text": "Ukraine Support Tracker "
+    },
+    {
+      "link": {},
+      "text": "IISS Military Balance"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {
+      "valuesOnBars": true
+    },
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [
+      {
+        "color": "#a1aecc",
+        "position": 2
+      }
+    ],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "Die Ukraine erhält nur wenige Waffen aus den westlichen Beständen",
+  "subtitle": "Bei Kriegsbeginn 2022 vorhandenes und funktionstüchtiges Kriegsgerät in westlichen Arsenalen",
+  "notes": "",
+  "createdDate": "2024-04-25T14:00:51.425Z",
+  "createdBy": "julia.monn@nzz.ch",
+  "updatedDate": "2024-04-25T17:02:01.297Z",
+  "updatedBy": "julia.monn@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/0819c8effbf081938ef522a3693b1b52-thumbnail.jpeg"
+}

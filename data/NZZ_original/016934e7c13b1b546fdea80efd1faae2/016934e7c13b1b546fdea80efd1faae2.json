@@ -1,0 +1,88 @@
+{
+  "_id": "016934e7c13b1b546fdea80efd1faae2",
+  "_rev": "3-b71711c50f363502136ced7d8b781847",
+  "data": [
+    [
+      null,
+      "Individuals with OQTF status (2019–2022)",
+      "Completed repatriations"
+    ],
+    [
+      "Algeria",
+      "58700",
+      "2600"
+    ],
+    [
+      "Morocco",
+      "29000",
+      "1300"
+    ],
+    [
+      "Tunesia",
+      "26000",
+      "1300"
+    ],
+    [
+      "Albania",
+      "24800",
+      "5400"
+    ],
+    [
+      "Ivory Coast",
+      "16000",
+      "500"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": false,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "department": "International",
+  "publication": "nzz",
+  "acronym": "DSt.",
+  "active": true,
+  "title": "Only a small fraction of the migrants ordered to leave France actually do so",
+  "notes": "* Obligation de quitter le territoire français – an expulsion order<br><br>Source: <a href=\"https://www.ccomptes.fr\">Court of Accounts</a>",
+  "createdDate": "2025-03-06T09:12:42.410Z",
+  "createdBy": "john.borland@lieferanten.nzz.ch",
+  "updatedDate": "2025-03-06T09:17:35.450Z",
+  "updatedBy": "john.borland@lieferanten.nzz.ch",
+  "deactivateDate": "2025-01-30T19:36:59.408Z",
+  "activateDate": "2025-01-30T19:37:01.368Z"
+}

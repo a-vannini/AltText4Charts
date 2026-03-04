@@ -1,0 +1,120 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Die «Erdoganomics» sind auf Kollisionskurs",
+      "nzzAuthors": [
+        {
+          "name": "Marco Kauffmann (kam)",
+          "id": 1372868
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2018-06-21T03:53:38.098Z",
+      "department": {
+        "path": "/wirtschaft",
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2018-06-21T05:00:00.000Z",
+      "slug": "die-erdoganomics-sind-auf-kollisionskurs",
+      "firstPublicationDate": "2018-06-20T15:53:38.098Z",
+      "nzzCharacterCount": 10307,
+      "authorLine": "Marco Kauffmann Bossart, Istanbul",
+      "numberOfContentComponents": 30,
+      "leadText": "Recep Tayyip Erdogan und Wohlstand gingen jahrelang Hand in Hand. Vor den Wahlen vom Sonntag funktioniert diese Erfolgsformel nicht mehr. Eine Spurensuche.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2018-06-21T07:35:57.033Z",
+      "copySourceId": 1396070,
+      "urlPath": "/wirtschaft/die-erdoganomics-sind-auf-kollisionskurs-ld.1396649",
+      "nzzId": "ld.1396649",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 3765,
+        "originalUrl": "https://nzz-img.s3.amazonaws.com/2018/6/20/77bb4dcf-935d-4bf0-bcb9-34378862e599.jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 0,
+            "width": 3765,
+            "y": 220,
+            "url": "https://img.nzz.ch/C=W3765,H2118,X0,Y220/O=75/https://nzz-img.s3.amazonaws.com/2018/6/20/77bb4dcf-935d-4bf0-bcb9-34378862e599.jpeg",
+            "height": 2118
+          },
+          {
+            "name": "1:1",
+            "x": 1065,
+            "width": 1597,
+            "y": 552,
+            "url": "https://img.nzz.ch/C=W1597,H1597,X1065,Y552/O=75/https://nzz-img.s3.amazonaws.com/2018/6/20/77bb4dcf-935d-4bf0-bcb9-34378862e599.jpeg",
+            "height": 1597
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2018/6/20/77bb4dcf-935d-4bf0-bcb9-34378862e599.jpeg",
+        "height": 2558
+      },
+      "url": "https://www.nzz.ch/wirtschaft/die-erdoganomics-sind-auf-kollisionskurs-ld.1396649",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1cgeu0nrr0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "embeds": {
+        "images": [
+          {
+            "caption": "Staatspräsident Erdogan bei der Einweihung einer Gas-Pipeline im Nordwesten der Türkei. (Bild: AP)",
+            "origins": [
+              {
+                "identifier": "picture-1966460428",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2018/6/20/77bb4dcf-935d-4bf0-bcb9-34378862e599.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "6fc401f5c52c2054e21126a399571b14"
+          },
+          {
+            "id": "022a672b3f9fa2b1be4ea3c48ad72ca1"
+          },
+          {
+            "id": "6fc401f5c52c2054e21126a399588617"
+          },
+          {
+            "id": "6fc401f5c52c2054e21126a39959903d"
+          },
+          {
+            "id": "022a672b3f9fa2b1be4ea3c48ad8dde5"
+          },
+          {
+            "id": "022a672b3f9fa2b1be4ea3c48adb64e3"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Staatspräsident Erdogan bei der Einweihung einer Gas-Pipeline im Nordwesten der Türkei. (Bild: AP)",
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "documentId": "1396649",
+      "product": "NZZ.ch"
+    }
+  }
+]

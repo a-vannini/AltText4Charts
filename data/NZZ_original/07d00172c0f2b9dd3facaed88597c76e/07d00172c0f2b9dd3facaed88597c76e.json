@@ -1,0 +1,90 @@
+{
+  "_id": "07d00172c0f2b9dd3facaed88597c76e",
+  "_rev": "8-26949622ff17c27a3bb92a4b17a6e635",
+  "department": "default",
+  "publication": "nzz",
+  "acronym": "EM",
+  "data": [
+    [
+      null,
+      null
+    ],
+    [
+      "Microsoft",
+      "3190"
+    ],
+    [
+      "Apple",
+      "2950"
+    ],
+    [
+      "Nvidia",
+      "2350"
+    ],
+    [
+      "Alphabet",
+      "2210"
+    ],
+    [
+      "Amazon",
+      "1910"
+    ],
+    [
+      "Meta",
+      "1180"
+    ],
+    [
+      "Tesla",
+      "584"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": false,
+    "highlightDataSeries": [],
+    "highlightDataRows": [
+      2
+    ],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": true
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "Nur Apple und Microsoft sind wertvoller als Nvidia",
+  "subtitle": "Börsenkapitalisierung in Milliarden Dollar",
+  "createdDate": "2024-05-22T14:26:33.013Z",
+  "createdBy": "eflamm.mordrelle@nzz.ch",
+  "updatedDate": "2024-05-22T15:01:35.472Z",
+  "updatedBy": "florian.seliger@nzz.ch"
+}

@@ -1,0 +1,897 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Matthias Jurt / LZM",
+      "firstTitle": "Premiere im Schweizer Finanzausgleich: Der kleine Kanton Zug muss erstmals mehr einzahlen als Zürich",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "LcmDawzOfDObq1HhoF6SJ",
+        "locale": "de-CH"
+      },
+      "title": "Premiere im Schweizer Finanzausgleich: Der kleine Kanton Zug muss erstmals mehr einzahlen als Zürich",
+      "seoTitle": "Finanzausgleich: Zürich ist erstmals nicht mehr die Nummer 1 ",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Fabian Schäfer (fab)",
+          "id": 1451881,
+          "shortName": "fab"
+        }
+      ],
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-06-12T02:51:24.793Z",
+      "department": {
+        "path": "/schweiz",
+        "premium": false,
+        "level": 1,
+        "name": "Schweiz"
+      },
+      "publicationDate": "2024-06-11T14:51:24.793Z",
+      "slug": "premiere-im-schweizer-finanzausgleich-der-kleine-kanton-zug-muss-erstmals-mehr-einzahlen-als-zuerich",
+      "firstPublicationDate": "2024-06-11T14:51:24.793Z",
+      "nzzCharacterCount": 6083,
+      "owner": "NZZ",
+      "authorLine": "Fabian Schäfer, Bern",
+      "numberOfContentComponents": 20,
+      "germanyRelevant": true,
+      "leadText": "Stets war Zürich die Nummer 1 der Geberkantone. Jetzt nicht mehr. Zug zieht davon. Die Unterschiede zwischen armen und reichen Kantonen nehmen zu. Das wird teuer.",
+      "publicationLastUpdated": "2024-06-11T16:30:34.774Z",
+      "nzzArticleSnippet": "Stets war Zürich die Nummer 1 der Geberkantone. Jetzt nicht mehr. Zug zieht davon. Die Unterschiede zwischen armen und reichen Kantonen nehmen zu. Das wird teuer.",
+      "urlPath": "/schweiz/premiere-im-schweizer-finanzausgleich-der-kleine-kanton-zug-muss-erstmals-mehr-einzahlen-als-zuerich-ld.1834544",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 6000,
+        "originalUrl": "https://img.nzz.ch/2024/06/11/864657f2-1519-48b9-9c55-65539073a88f.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 721,
+            "width": 3746,
+            "name": "16:9",
+            "y": 219,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/11/864657f2-1519-48b9-9c55-65539073a88f.jpeg?crop=3746,2107,x721,y219&quality=75&auto=webp",
+            "height": 2107,
+            "ratio": 1.77778
+          },
+          {
+            "x": 1945,
+            "width": 1559,
+            "name": "1:1",
+            "y": 811,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/11/864657f2-1519-48b9-9c55-65539073a88f.jpeg?crop=1559,1559,x1945,y811&quality=75&auto=webp",
+            "height": 1559,
+            "ratio": 1
+          },
+          {
+            "x": 312,
+            "width": 5333,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/11/864657f2-1519-48b9-9c55-65539073a88f.jpeg?crop=5333,4000,x312,y0&quality=75&auto=webp",
+            "height": 4000,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1219,
+            "width": 3000,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/11/864657f2-1519-48b9-9c55-65539073a88f.jpeg?crop=3000,4000,x1219,y0&quality=75&auto=webp",
+            "height": 4000,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "4YGRA8sumoC4",
+        "url": "https://img.nzz.ch/2024/06/11/864657f2-1519-48b9-9c55-65539073a88f.jpeg?quality=75&auto=webp",
+        "key": "2024/06/11/864657f2-1519-48b9-9c55-65539073a88f.jpeg",
+        "height": 4000
+      },
+      "nzzId": "ld.1834544",
+      "url": "https://www.nzz.ch/schweiz/premiere-im-schweizer-finanzausgleich-der-kleine-kanton-zug-muss-erstmals-mehr-einzahlen-als-zuerich-ld.1834544",
+      "dependencies": {},
+      "commentCount": 1,
+      "layout": "regular",
+      "estimationWordCount": 993,
+      "embeds": {
+        "images": [
+          {
+            "author": "Matthias Jurt / LZM",
+            "caption": "Hohe Löhne, hohe Vermögen, hohe Firmengewinne: Zug, der Hauptort des Finanzwunderkantons.",
+            "origins": [
+              {
+                "identifier": "2150708688",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2024/06/11/864657f2-1519-48b9-9c55-65539073a88f.jpeg?quality=75&auto=webp"
+          },
+          {
+            "author": "Steffen Schmidt / Keystone",
+            "caption": "Da war Zürich noch Spitzenzahler: Toni Bortoluzzi (l.) und Peter Good von der Zürcher SVP im Abstimmungskampf gegen den neuen Finanzausgleich 2004.",
+            "origins": [
+              {
+                "identifier": "2136449046",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2022/10/18/cfc42df7-4f35-48d0-b03e-16c48d9632d2.jpeg?quality=75&auto=webp"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "08e996c76bf1a7d4bec453e674c29e14"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/schweiz",
+          "name": "Schweiz"
+        }
+      ],
+      "teaserCaption": "Hohe Löhne, hohe Vermögen, hohe Firmengewinne: Zug, der Hauptort des Finanzwunderkantons.",
+      "documentId": "1834544",
+      "product": "NZZ.ch"
+    }
+  },
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "firstTitle": "«Zug ist ein Powerhouse. In Zürich ist man nicht mehr so mutig», sagt der Zuger Finanzdirektor. «Du redest Zürich schlecht», kontert der Zürcher",
+      "flag": "Interview",
+      "significantUpdate": false,
+      "teaserCarouselTwo": {
+        "imageService": "fastly",
+        "width": 2752,
+        "originalUrl": "https://img.nzz.ch/2024/10/11/9f9d55f4-6ae0-44dd-bf41-0ba451047f61.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 2752,
+            "name": "16:9",
+            "y": 1002,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2024/10/11/9f9d55f4-6ae0-44dd-bf41-0ba451047f61.jpeg?crop=2752,1548,x0,y1002&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2024/10/11/9f9d55f4-6ae0-44dd-bf41-0ba451047f61.jpeg?crop=2752,1548,x0,y1002&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2024/10/11/9f9d55f4-6ae0-44dd-bf41-0ba451047f61.jpeg?crop=2752,1548,x0,y1002&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2024/10/11/9f9d55f4-6ae0-44dd-bf41-0ba451047f61.jpeg?crop=2752,1548,x0,y1002&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/10/11/9f9d55f4-6ae0-44dd-bf41-0ba451047f61.jpeg?crop=2752,1548,x0,y1002&width=1024&quality=75&auto=webp",
+            "height": 1548,
+            "ratio": 1.77778
+          },
+          {
+            "x": 522,
+            "width": 1718,
+            "name": "1:1",
+            "y": 701,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2024/10/11/9f9d55f4-6ae0-44dd-bf41-0ba451047f61.jpeg?crop=1718,1718,x522,y701&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2024/10/11/9f9d55f4-6ae0-44dd-bf41-0ba451047f61.jpeg?crop=1718,1718,x522,y701&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2024/10/11/9f9d55f4-6ae0-44dd-bf41-0ba451047f61.jpeg?crop=1718,1718,x522,y701&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2024/10/11/9f9d55f4-6ae0-44dd-bf41-0ba451047f61.jpeg?crop=1718,1718,x522,y701&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/10/11/9f9d55f4-6ae0-44dd-bf41-0ba451047f61.jpeg?crop=1718,1718,x522,y701&width=1024&quality=75&auto=webp",
+            "height": 1718,
+            "ratio": 1
+          },
+          {
+            "x": 0,
+            "width": 2752,
+            "name": "4:3",
+            "y": 712,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2024/10/11/9f9d55f4-6ae0-44dd-bf41-0ba451047f61.jpeg?crop=2752,2064,x0,y712&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2024/10/11/9f9d55f4-6ae0-44dd-bf41-0ba451047f61.jpeg?crop=2752,2064,x0,y712&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2024/10/11/9f9d55f4-6ae0-44dd-bf41-0ba451047f61.jpeg?crop=2752,2064,x0,y712&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2024/10/11/9f9d55f4-6ae0-44dd-bf41-0ba451047f61.jpeg?crop=2752,2064,x0,y712&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/10/11/9f9d55f4-6ae0-44dd-bf41-0ba451047f61.jpeg?crop=2752,2064,x0,y712&width=1024&quality=75&auto=webp",
+            "height": 2064,
+            "ratio": 1.33333
+          },
+          {
+            "x": 246,
+            "width": 2446,
+            "name": "3:4",
+            "y": 742,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2024/10/11/9f9d55f4-6ae0-44dd-bf41-0ba451047f61.jpeg?crop=2446,3261,x246,y742&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2024/10/11/9f9d55f4-6ae0-44dd-bf41-0ba451047f61.jpeg?crop=2446,3261,x246,y742&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2024/10/11/9f9d55f4-6ae0-44dd-bf41-0ba451047f61.jpeg?crop=2446,3261,x246,y742&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2024/10/11/9f9d55f4-6ae0-44dd-bf41-0ba451047f61.jpeg?crop=2446,3261,x246,y742&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/10/11/9f9d55f4-6ae0-44dd-bf41-0ba451047f61.jpeg?crop=2446,3261,x246,y742&width=1024&quality=75&auto=webp",
+            "height": 3261,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "dmVpADYB3XiN",
+        "key": "2024/10/11/9f9d55f4-6ae0-44dd-bf41-0ba451047f61.jpeg",
+        "url": "https://img.nzz.ch/2024/10/11/9f9d55f4-6ae0-44dd-bf41-0ba451047f61.jpeg?width=1024&quality=75&auto=webp",
+        "height": 4128
+      },
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "FCSXCME6OKNv",
+        "locale": "de-CH"
+      },
+      "title": "«Zug ist ein Powerhouse. In Zürich ist man nicht mehr so mutig», sagt der Zuger Finanzdirektor. «Du redest Zürich schlecht», kontert der Zürcher",
+      "seoTitle": "Zug gegen Zürich, Tännler gegen Stocker: Das Finanz-Streitgespräch",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Michael von Ledebur (mvl)",
+          "id": 1373270,
+          "shortName": "mvl",
+          "proLitterisId": "767407"
+        },
+        {
+          "external": false,
+          "name": "Daniel Fritzsche (dfr)",
+          "id": 1372257,
+          "shortName": "dfr",
+          "proLitterisId": "766357"
+        },
+        {
+          "external": false,
+          "name": "Karin Hofer (hfk)",
+          "id": 1372635,
+          "shortName": "hfk"
+        }
+      ],
+      "nzzPrintTitle": "«In Zürich ist man nicht mehr so mutig» – «Du redest Zürich schlecht»",
+      "designName": "morpheus",
+      "seoSocialMediaTitle": "Ist der Steuerwettbewerb ein Fluch oder ein Segen für die Schweiz? Das NZZ-Streitgespräch",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-10-12T15:00:00.000Z",
+      "department": {
+        "path": "/zuerich",
+        "premium": false,
+        "level": 1,
+        "name": "Zürich"
+      },
+      "publicationDate": "2024-10-12T03:00:00.000Z",
+      "slug": "zug-gegen-zuerich-taennler-gegen-stocker-das-finanz-streitgespraech",
+      "firstPublicationDate": "2024-10-12T03:00:00.000Z",
+      "nzzCharacterCount": 16420,
+      "authorLine": "Michael von Ledebur, Daniel Fritzsche (Text), Karin Hofer (Bilder)",
+      "owner": "NZZ",
+      "numberOfContentComponents": 75,
+      "germanyRelevant": true,
+      "leadText": "Ist der Steuerwettbewerb ein Fluch oder ein Segen für die Schweiz? Er halte agil, sagt der Zuger Finanzdirektor Heinz Tännler. Sein Zürcher Pendant Ernst Stocker warnt vor Auswüchsen.",
+      "publicationLastUpdated": "2024-10-12T03:00:00.000Z",
+      "nzzArticleSnippet": "Ist der Steuerwettbewerb ein Fluch oder ein Segen für die Schweiz? Er halte agil, sagt der Zuger Finanzdirektor Heinz Tännler. Sein Zürcher Pendant Ernst Stocker warnt vor Auswüchsen.",
+      "urlPath": "/zuerich/zug-gegen-zuerich-taennler-gegen-stocker-das-finanz-streitgespraech-ld.1852300",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 3787,
+        "originalUrl": "https://img.nzz.ch/2024/10/11/ffd345d6-c88d-42da-adb6-74059dd13cd6.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 3787,
+            "name": "16:9",
+            "y": 91,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2024/10/11/ffd345d6-c88d-42da-adb6-74059dd13cd6.jpeg?crop=3787,2130,x0,y91&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2024/10/11/ffd345d6-c88d-42da-adb6-74059dd13cd6.jpeg?crop=3787,2130,x0,y91&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2024/10/11/ffd345d6-c88d-42da-adb6-74059dd13cd6.jpeg?crop=3787,2130,x0,y91&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2024/10/11/ffd345d6-c88d-42da-adb6-74059dd13cd6.jpeg?crop=3787,2130,x0,y91&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/10/11/ffd345d6-c88d-42da-adb6-74059dd13cd6.jpeg?crop=3787,2130,x0,y91&width=1024&quality=75&auto=webp",
+            "height": 2130,
+            "ratio": 1.77778
+          },
+          {
+            "x": 1785,
+            "width": 1773,
+            "name": "1:1",
+            "y": 367,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2024/10/11/ffd345d6-c88d-42da-adb6-74059dd13cd6.jpeg?crop=1773,1773,x1785,y367&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2024/10/11/ffd345d6-c88d-42da-adb6-74059dd13cd6.jpeg?crop=1773,1773,x1785,y367&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2024/10/11/ffd345d6-c88d-42da-adb6-74059dd13cd6.jpeg?crop=1773,1773,x1785,y367&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2024/10/11/ffd345d6-c88d-42da-adb6-74059dd13cd6.jpeg?crop=1773,1773,x1785,y367&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/10/11/ffd345d6-c88d-42da-adb6-74059dd13cd6.jpeg?crop=1773,1773,x1785,y367&width=1024&quality=75&auto=webp",
+            "height": 1773,
+            "ratio": 1
+          },
+          {
+            "x": 202,
+            "width": 3367,
+            "name": "4:3",
+            "y": 0,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2024/10/11/ffd345d6-c88d-42da-adb6-74059dd13cd6.jpeg?crop=3367,2525,x202,y0&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2024/10/11/ffd345d6-c88d-42da-adb6-74059dd13cd6.jpeg?crop=3367,2525,x202,y0&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2024/10/11/ffd345d6-c88d-42da-adb6-74059dd13cd6.jpeg?crop=3367,2525,x202,y0&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2024/10/11/ffd345d6-c88d-42da-adb6-74059dd13cd6.jpeg?crop=3367,2525,x202,y0&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/10/11/ffd345d6-c88d-42da-adb6-74059dd13cd6.jpeg?crop=3367,2525,x202,y0&width=1024&quality=75&auto=webp",
+            "height": 2525,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1776,
+            "width": 1684,
+            "name": "3:4",
+            "y": 281,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2024/10/11/ffd345d6-c88d-42da-adb6-74059dd13cd6.jpeg?crop=1684,2244,x1776,y281&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2024/10/11/ffd345d6-c88d-42da-adb6-74059dd13cd6.jpeg?crop=1684,2244,x1776,y281&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2024/10/11/ffd345d6-c88d-42da-adb6-74059dd13cd6.jpeg?crop=1684,2244,x1776,y281&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2024/10/11/ffd345d6-c88d-42da-adb6-74059dd13cd6.jpeg?crop=1684,2244,x1776,y281&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/10/11/ffd345d6-c88d-42da-adb6-74059dd13cd6.jpeg?crop=1684,2244,x1776,y281&width=1024&quality=75&auto=webp",
+            "height": 2244,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "0ziIcEnzVpBo",
+        "key": "2024/10/11/ffd345d6-c88d-42da-adb6-74059dd13cd6.jpeg",
+        "url": "https://img.nzz.ch/2024/10/11/ffd345d6-c88d-42da-adb6-74059dd13cd6.jpeg?width=1024&quality=75&auto=webp",
+        "height": 2525
+      },
+      "nzzId": "ld.1852300",
+      "url": "https://www.nzz.ch/zuerich/zug-gegen-zuerich-taennler-gegen-stocker-das-finanz-streitgespraech-ld.1852300",
+      "dependencies": {},
+      "teaserCarouselOne": {
+        "imageService": "fastly",
+        "width": 2752,
+        "originalUrl": "https://img.nzz.ch/2024/10/11/d0a0ea17-7c8f-4d2d-abe1-46d675e4060a.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 2752,
+            "name": "16:9",
+            "y": 1121,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2024/10/11/d0a0ea17-7c8f-4d2d-abe1-46d675e4060a.jpeg?crop=2752,1548,x0,y1121&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2024/10/11/d0a0ea17-7c8f-4d2d-abe1-46d675e4060a.jpeg?crop=2752,1548,x0,y1121&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2024/10/11/d0a0ea17-7c8f-4d2d-abe1-46d675e4060a.jpeg?crop=2752,1548,x0,y1121&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2024/10/11/d0a0ea17-7c8f-4d2d-abe1-46d675e4060a.jpeg?crop=2752,1548,x0,y1121&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/10/11/d0a0ea17-7c8f-4d2d-abe1-46d675e4060a.jpeg?crop=2752,1548,x0,y1121&width=1024&quality=75&auto=webp",
+            "height": 1548,
+            "ratio": 1.77778
+          },
+          {
+            "x": 479,
+            "width": 1718,
+            "name": "1:1",
+            "y": 844,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2024/10/11/d0a0ea17-7c8f-4d2d-abe1-46d675e4060a.jpeg?crop=1718,1718,x479,y844&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2024/10/11/d0a0ea17-7c8f-4d2d-abe1-46d675e4060a.jpeg?crop=1718,1718,x479,y844&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2024/10/11/d0a0ea17-7c8f-4d2d-abe1-46d675e4060a.jpeg?crop=1718,1718,x479,y844&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2024/10/11/d0a0ea17-7c8f-4d2d-abe1-46d675e4060a.jpeg?crop=1718,1718,x479,y844&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/10/11/d0a0ea17-7c8f-4d2d-abe1-46d675e4060a.jpeg?crop=1718,1718,x479,y844&width=1024&quality=75&auto=webp",
+            "height": 1718,
+            "ratio": 1
+          },
+          {
+            "x": 0,
+            "width": 2752,
+            "name": "4:3",
+            "y": 796,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2024/10/11/d0a0ea17-7c8f-4d2d-abe1-46d675e4060a.jpeg?crop=2752,2064,x0,y796&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2024/10/11/d0a0ea17-7c8f-4d2d-abe1-46d675e4060a.jpeg?crop=2752,2064,x0,y796&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2024/10/11/d0a0ea17-7c8f-4d2d-abe1-46d675e4060a.jpeg?crop=2752,2064,x0,y796&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2024/10/11/d0a0ea17-7c8f-4d2d-abe1-46d675e4060a.jpeg?crop=2752,2064,x0,y796&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/10/11/d0a0ea17-7c8f-4d2d-abe1-46d675e4060a.jpeg?crop=2752,2064,x0,y796&width=1024&quality=75&auto=webp",
+            "height": 2064,
+            "ratio": 1.33333
+          },
+          {
+            "x": 160,
+            "width": 2446,
+            "name": "3:4",
+            "y": 802,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2024/10/11/d0a0ea17-7c8f-4d2d-abe1-46d675e4060a.jpeg?crop=2446,3261,x160,y802&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2024/10/11/d0a0ea17-7c8f-4d2d-abe1-46d675e4060a.jpeg?crop=2446,3261,x160,y802&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2024/10/11/d0a0ea17-7c8f-4d2d-abe1-46d675e4060a.jpeg?crop=2446,3261,x160,y802&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2024/10/11/d0a0ea17-7c8f-4d2d-abe1-46d675e4060a.jpeg?crop=2446,3261,x160,y802&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/10/11/d0a0ea17-7c8f-4d2d-abe1-46d675e4060a.jpeg?crop=2446,3261,x160,y802&width=1024&quality=75&auto=webp",
+            "height": 3261,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "HRyeDrZzwwDB",
+        "key": "2024/10/11/d0a0ea17-7c8f-4d2d-abe1-46d675e4060a.jpeg",
+        "url": "https://img.nzz.ch/2024/10/11/d0a0ea17-7c8f-4d2d-abe1-46d675e4060a.jpeg?width=1024&quality=75&auto=webp",
+        "height": 4128
+      },
+      "commentCount": 6,
+      "layout": "longformstandard",
+      "estimationWordCount": 2637,
+      "nzzPrintSubtitle": "Ist der Steuerwettbewerb ein Fluch oder ein Segen für die Schweiz? Er halte agil, sagt der Zuger Finanzdirektor Heinz Tännler. Sein Zürcher Pendant Ernst Stocker warnt vor Auswüchsen.",
+      "embeds": {
+        "images": [
+          {
+            "caption": "Heinz Tännler ärgert sich über das&nbsp;«Zug-Bashing» anderer Kantone. Stocker findet, auch Zürich werde zu schlecht geredet.",
+            "origins": [
+              {
+                "identifier": "2161349947",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2024/10/11/ffd345d6-c88d-42da-adb6-74059dd13cd6.jpeg?width=1024&quality=75&auto=webp"
+          },
+          {
+            "caption": "Wer ist die Nummer 1 in der Schweiz? Finanzpolitisch fordert das kleine Zug den grossen Nachbarn Zürich heraus.",
+            "origins": [
+              {
+                "identifier": "2161349944",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2024/10/11/f7f286fd-540d-41f2-9ba5-1be2dc45f716.jpeg?width=1024&quality=75&auto=webp"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "d9232a33c490e917548b8b545d43d25a"
+          },
+          {
+            "id": "0a38c00ab6936cb0e0d74b560de00bff"
+          },
+          {
+            "id": "08e996c76bf1a7d4bec453e674c29e14"
+          },
+          {
+            "id": "1f3ec054bc95e8ad33ba558a3bd44708"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/zuerich",
+          "name": "Zürich"
+        }
+      ],
+      "teaserCaption": "Heinz Tännler ärgert sich über das «Zug-Bashing» anderer Kantone. Stocker findet, auch Zürich werde zu schlecht geredet.",
+      "documentId": "1852300",
+      "product": "NZZ.ch"
+    }
+  },
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "firstTitle": "Das Wirtschaftszentrum Zürich zehrt zu sehr von seinem Ruf. Seine Finanzpolitik ist ambitionslos – das wird sich rächen",
+      "flag": "Kommentar",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "ZS5fq6MvO5PK2DOPS5p29",
+        "locale": "de-CH"
+      },
+      "title": "Zürich ist die Milchkuh der Schweiz. Aber wie lange noch?",
+      "seoTitle": "Steuern in Zürich: Die Finanzpolitik ist ambitionslos – das wird sich rächen",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Daniel Fritzsche (dfr)",
+          "id": 1372257,
+          "shortName": "dfr",
+          "proLitterisId": "766357"
+        }
+      ],
+      "designName": "morpheus",
+      "nzzPrintTitle": "Das Wirtschaftszentrum Zürich zehrt zu sehr von seinem Ruf",
+      "nzzAuthorsCredited": [
+        {
+          "external": false,
+          "name": "Daniel Fritzsche (dfr)",
+          "id": 1372257,
+          "shortName": "dfr",
+          "proLitterisId": "766357"
+        }
+      ],
+      "seoSocialMediaTitle": "Der Kanton Zürich zehrt zu sehr von seinem Ruf. Seine Finanzpolitik ist ambitionslos",
+      "authorImage": {
+        "imageService": "fastly",
+        "width": 320,
+        "originalUrl": "https://img.nzz.ch/2024/11/06/4df95e4e-2428-476a-927d-a64bf6036dff.webp",
+        "mimeType": "image/webp",
+        "crops": [
+          {
+            "x": 0,
+            "width": 320,
+            "name": "1:1",
+            "y": 0,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2024/11/06/4df95e4e-2428-476a-927d-a64bf6036dff.webp?crop=320,320,x0,y0&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2024/11/06/4df95e4e-2428-476a-927d-a64bf6036dff.webp?crop=320,320,x0,y0&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2024/11/06/4df95e4e-2428-476a-927d-a64bf6036dff.webp?crop=320,320,x0,y0&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2024/11/06/4df95e4e-2428-476a-927d-a64bf6036dff.webp?crop=320,320,x0,y0&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/11/06/4df95e4e-2428-476a-927d-a64bf6036dff.webp?crop=320,320,x0,y0&width=1024&quality=75&auto=webp",
+            "height": 320,
+            "ratio": 1
+          }
+        ],
+        "mediaId": "drwDRraHZ9-3",
+        "key": "2024/11/06/4df95e4e-2428-476a-927d-a64bf6036dff.webp",
+        "url": "https://img.nzz.ch/2024/11/06/4df95e4e-2428-476a-927d-a64bf6036dff.webp?width=1024&quality=75&auto=webp",
+        "height": 320
+      },
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-11-19T16:00:00.000Z",
+      "department": {
+        "path": "/meinung",
+        "premium": false,
+        "level": 1,
+        "name": "Meinung"
+      },
+      "publicationDate": "2024-11-19T04:00:00.000Z",
+      "slug": "steuern-in-zuerich-die-finanzpolitik-ist-ambitionslos-das-wird-sich-raechen",
+      "showComments": true,
+      "firstPublicationDate": "2024-11-19T04:00:00.000Z",
+      "nzzCharacterCount": 8924,
+      "authorLine": "Daniel Fritzsche",
+      "owner": "NZZ",
+      "numberOfContentComponents": 31,
+      "leadText": "Das Wirtschaftszentrum Zürich zehrt zu sehr von seinem Ruf. Seine Finanzpolitik ist ambitionslos. Die Zeichen stehen auf Abstieg.",
+      "publicationLastUpdated": "2024-11-19T05:25:12.781Z",
+      "nzzArticleSnippet": "Das Wirtschaftszentrum Zürich zehrt zu sehr von seinem Ruf. Seine Finanzpolitik ist ambitionslos. Die Zeichen stehen auf Abstieg.",
+      "urlPath": "/meinung/steuern-in-zuerich-die-finanzpolitik-ist-ambitionslos-das-wird-sich-raechen-ld.1856254",
+      "nzzId": "ld.1856254",
+      "url": "https://www.nzz.ch/meinung/steuern-in-zuerich-die-finanzpolitik-ist-ambitionslos-das-wird-sich-raechen-ld.1856254",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 1920,
+        "originalUrl": "https://img.nzz.ch/2024/11/18/4267bf4b-a7a3-4e77-ab74-e9244a0db41f.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 1920,
+            "name": "16:9",
+            "y": 0,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2024/11/18/4267bf4b-a7a3-4e77-ab74-e9244a0db41f.jpeg?crop=1920,1080,x0,y0&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2024/11/18/4267bf4b-a7a3-4e77-ab74-e9244a0db41f.jpeg?crop=1920,1080,x0,y0&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2024/11/18/4267bf4b-a7a3-4e77-ab74-e9244a0db41f.jpeg?crop=1920,1080,x0,y0&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2024/11/18/4267bf4b-a7a3-4e77-ab74-e9244a0db41f.jpeg?crop=1920,1080,x0,y0&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/11/18/4267bf4b-a7a3-4e77-ab74-e9244a0db41f.jpeg?crop=1920,1080,x0,y0&width=1024&quality=75&auto=webp",
+            "height": 1080,
+            "ratio": 1.77778
+          },
+          {
+            "x": 412,
+            "width": 1080,
+            "name": "1:1",
+            "y": 0,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2024/11/18/4267bf4b-a7a3-4e77-ab74-e9244a0db41f.jpeg?crop=1080,1080,x412,y0&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2024/11/18/4267bf4b-a7a3-4e77-ab74-e9244a0db41f.jpeg?crop=1080,1080,x412,y0&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2024/11/18/4267bf4b-a7a3-4e77-ab74-e9244a0db41f.jpeg?crop=1080,1080,x412,y0&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2024/11/18/4267bf4b-a7a3-4e77-ab74-e9244a0db41f.jpeg?crop=1080,1080,x412,y0&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/11/18/4267bf4b-a7a3-4e77-ab74-e9244a0db41f.jpeg?crop=1080,1080,x412,y0&width=1024&quality=75&auto=webp",
+            "height": 1080,
+            "ratio": 1
+          },
+          {
+            "x": 366,
+            "width": 1440,
+            "name": "4:3",
+            "y": 0,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2024/11/18/4267bf4b-a7a3-4e77-ab74-e9244a0db41f.jpeg?crop=1440,1080,x366,y0&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2024/11/18/4267bf4b-a7a3-4e77-ab74-e9244a0db41f.jpeg?crop=1440,1080,x366,y0&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2024/11/18/4267bf4b-a7a3-4e77-ab74-e9244a0db41f.jpeg?crop=1440,1080,x366,y0&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2024/11/18/4267bf4b-a7a3-4e77-ab74-e9244a0db41f.jpeg?crop=1440,1080,x366,y0&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/11/18/4267bf4b-a7a3-4e77-ab74-e9244a0db41f.jpeg?crop=1440,1080,x366,y0&width=1024&quality=75&auto=webp",
+            "height": 1080,
+            "ratio": 1.33333
+          },
+          {
+            "x": 543,
+            "width": 810,
+            "name": "3:4",
+            "y": 0,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2024/11/18/4267bf4b-a7a3-4e77-ab74-e9244a0db41f.jpeg?crop=810,1080,x543,y0&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2024/11/18/4267bf4b-a7a3-4e77-ab74-e9244a0db41f.jpeg?crop=810,1080,x543,y0&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2024/11/18/4267bf4b-a7a3-4e77-ab74-e9244a0db41f.jpeg?crop=810,1080,x543,y0&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2024/11/18/4267bf4b-a7a3-4e77-ab74-e9244a0db41f.jpeg?crop=810,1080,x543,y0&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/11/18/4267bf4b-a7a3-4e77-ab74-e9244a0db41f.jpeg?crop=810,1080,x543,y0&width=1024&quality=75&auto=webp",
+            "height": 1080,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "Nf0b0PLrbKSY",
+        "key": "2024/11/18/4267bf4b-a7a3-4e77-ab74-e9244a0db41f.jpeg",
+        "url": "https://img.nzz.ch/2024/11/18/4267bf4b-a7a3-4e77-ab74-e9244a0db41f.jpeg?width=1024&quality=75&auto=webp",
+        "height": 1080
+      },
+      "dependencies": {},
+      "commentCount": 1,
+      "layout": "opinion",
+      "estimationWordCount": 1285,
+      "embeds": {
+        "images": [
+          {
+            "origins": [
+              {
+                "identifier": "2162985916",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2024/11/18/4267bf4b-a7a3-4e77-ab74-e9244a0db41f.jpeg?width=1024&quality=75&auto=webp"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "08e996c76bf1a7d4bec453e674c29e14"
+          },
+          {
+            "id": "0a38c00ab6936cb0e0d74b560de00bff"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/meinung",
+          "name": "Meinung"
+        }
+      ],
+      "documentId": "1856254",
+      "product": "NZZ.ch"
+    }
+  }
+]

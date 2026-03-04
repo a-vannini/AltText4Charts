@@ -1,0 +1,177 @@
+{
+  "_id": "016b459adf53c4e44c03cc7e7078bb83",
+  "_rev": "23-1a36ef78a38dafaadf8ab323492441f4",
+  "department": "Wirtschaft",
+  "publication": "nzz",
+  "acronym": "gvm.",
+  "data": [
+    [
+      "1990",
+      "100"
+    ],
+    [
+      "1991",
+      "90"
+    ],
+    [
+      "1992",
+      "90"
+    ],
+    [
+      "1993",
+      "80"
+    ],
+    [
+      "1994",
+      "83"
+    ],
+    [
+      "1995",
+      "82"
+    ],
+    [
+      "1996",
+      "70"
+    ],
+    [
+      "1997",
+      "69"
+    ],
+    [
+      "1998",
+      "66"
+    ],
+    [
+      "1999",
+      "64"
+    ],
+    [
+      "2000",
+      "67"
+    ],
+    [
+      "2001",
+      "60"
+    ],
+    [
+      "2002",
+      "55"
+    ],
+    [
+      "2003",
+      "54"
+    ],
+    [
+      "2004",
+      "50"
+    ],
+    [
+      "2005",
+      "54"
+    ],
+    [
+      "2006",
+      "57"
+    ],
+    [
+      "2007",
+      "60"
+    ],
+    [
+      "2008",
+      "55"
+    ],
+    [
+      "2009",
+      "53"
+    ],
+    [
+      "2010",
+      "51"
+    ],
+    [
+      "2011",
+      "47"
+    ],
+    [
+      "2012",
+      "46"
+    ],
+    [
+      "2013",
+      "44"
+    ],
+    [
+      "2014",
+      "45"
+    ],
+    [
+      "20015",
+      "41"
+    ],
+    [
+      "2016",
+      "38"
+    ],
+    [
+      "2017",
+      "36"
+    ],
+    [
+      "2018",
+      "34"
+    ],
+    [
+      "2019",
+      "30.5"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {},
+      "text": "Cemsuisse"
+    }
+  ],
+  "options": {
+    "chartType": "Line",
+    "hideAxisLabel": false,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": []
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "CO₂-Emissionen aus Brennstoffen nehmen ab",
+  "subtitle": "Pro Tonne, Indexiert (1990=100)",
+  "createdDate": "2020-09-30T07:21:28.958Z",
+  "createdBy": "giorgio.mueller@nzz.ch",
+  "updatedDate": "2020-10-01T13:20:23.216Z",
+  "updatedBy": "philipp.hufschmid@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/016b459adf53c4e44c03cc7e7078bb83-thumbnail.jpeg"
+}

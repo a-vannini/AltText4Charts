@@ -1,0 +1,137 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Adrian Baer / NZZ",
+      "firstTitle": "Werden nun die Pommes in der Badi teurer? Die Wetterextreme machen den Kartoffelbauern zu schaffen",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "abQWjMPqLk6SrNVb5-ADs",
+        "locale": "de-CH"
+      },
+      "seoTitle": "Kartoffeln: Pilze und Wetter begünstigen Ernteausfälle",
+      "title": "Werden nun die Pommes in der Badi teurer? Die Wetterextreme machen den Kartoffelbauern zu schaffen",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Jacqueline Lipp (lip)",
+          "id": 1683105,
+          "shortName": "lip",
+          "proLitterisId": "884345"
+        }
+      ],
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-06-15T03:42:26.887Z",
+      "department": {
+        "path": "/panorama",
+        "premium": false,
+        "level": 1,
+        "name": "Panorama"
+      },
+      "publicationDate": "2024-06-14T15:42:26.887Z",
+      "slug": "werden-nun-die-pommes-in-der-badi-teurer-die-wetterextreme-machen-den-kartoffelbauern-zu-schaffen",
+      "firstPublicationDate": "2024-06-14T15:42:26.887Z",
+      "nzzCharacterCount": 4270,
+      "owner": "NZZ",
+      "authorLine": "Jacqueline Lipp",
+      "numberOfContentComponents": 19,
+      "germanyRelevant": true,
+      "leadText": "Die Kraut- und Knollenfäule breitet sich aus und kann Felder innert weniger Wochen zerstören. Die Branche reagiert auf die zunehmenden Wetterextreme.",
+      "publicationLastUpdated": "2024-06-14T15:42:26.887Z",
+      "nzzArticleSnippet": "Die Kraut- und Knollenfäule breitet sich aus und kann Felder innert weniger Wochen zerstören. Die Branche reagiert auf die zunehmenden Wetterextreme.",
+      "urlPath": "/panorama/werden-nun-die-pommes-in-der-badi-teurer-die-wetterextreme-machen-den-kartoffelbauern-zu-schaffen-ld.1834693",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 4928,
+        "originalUrl": "https://img.nzz.ch/2024/06/12/483037bf-fb6f-407f-aa1b-25717c002e93.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 4928,
+            "name": "16:9",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/12/483037bf-fb6f-407f-aa1b-25717c002e93.jpeg?crop=4928,2772,x0,y0&width=1024&quality=75&auto=webp",
+            "height": 2772,
+            "ratio": 1.77778
+          },
+          {
+            "x": 646,
+            "width": 2048,
+            "name": "1:1",
+            "y": 190,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/12/483037bf-fb6f-407f-aa1b-25717c002e93.jpeg?crop=2048,2048,x646,y190&width=1024&quality=75&auto=webp",
+            "height": 2048,
+            "ratio": 1
+          },
+          {
+            "x": 87,
+            "width": 4373,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/12/483037bf-fb6f-407f-aa1b-25717c002e93.jpeg?crop=4373,3280,x87,y0&width=1024&quality=75&auto=webp",
+            "height": 3280,
+            "ratio": 1.33333
+          },
+          {
+            "x": 972,
+            "width": 2460,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/12/483037bf-fb6f-407f-aa1b-25717c002e93.jpeg?crop=2460,3280,x972,y0&width=1024&quality=75&auto=webp",
+            "height": 3280,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "bGGxGVUa0I1s",
+        "url": "https://img.nzz.ch/2024/06/12/483037bf-fb6f-407f-aa1b-25717c002e93.jpeg?width=1024&quality=75&auto=webp",
+        "key": "2024/06/12/483037bf-fb6f-407f-aa1b-25717c002e93.jpeg",
+        "height": 3280
+      },
+      "nzzId": "ld.1834693",
+      "url": "https://www.nzz.ch/panorama/werden-nun-die-pommes-in-der-badi-teurer-die-wetterextreme-machen-den-kartoffelbauern-zu-schaffen-ld.1834693",
+      "dependencies": {},
+      "layout": "regular",
+      "estimationWordCount": 650,
+      "embeds": {
+        "images": [
+          {
+            "author": "Adrian Baer / NZZ",
+            "caption": "Die Kartoffelernte ist in der Schweiz in den vergangenen drei Jahren unterdurchschnittlich ausgefallen.",
+            "origins": [
+              {
+                "identifier": "22683046",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2024/06/12/483037bf-fb6f-407f-aa1b-25717c002e93.jpeg?quality=75&auto=webp"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "08e996c76bf1a7d4bec453e674faf049"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/panorama",
+          "name": "Panorama"
+        }
+      ],
+      "teaserCaption": "Die Kartoffelernte ist in der Schweiz in den vergangenen drei Jahren unterdurchschnittlich ausgefallen.",
+      "documentId": "1834693",
+      "product": "NZZ.ch"
+    }
+  }
+]

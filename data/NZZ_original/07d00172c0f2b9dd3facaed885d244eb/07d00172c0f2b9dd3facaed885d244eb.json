@@ -1,0 +1,99 @@
+{
+  "_id": "07d00172c0f2b9dd3facaed885d244eb",
+  "_rev": "26-fb55324c3e058cee17b9e569172dfd9a",
+  "department": "International",
+  "publication": "nzz",
+  "acronym": "paz.",
+  "data": [
+    [
+      "Jahr",
+      "… wahrscheinlicher",
+      "… weniger wahrscheinlich",
+      "… gleich wahrscheinlich"
+    ],
+    [
+      "2021",
+      "46.1",
+      "44.8",
+      "9.1"
+    ],
+    [
+      "2023",
+      "57.6",
+      "31.3",
+      "11.1"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {
+        "url": "https://www.brookings.edu/articles/taiwanese-perceptions-of-conflict-continuity-in-the-face-of-change/?b=1",
+        "isValid": true
+      },
+      "text": "Brookings"
+    }
+  ],
+  "options": {
+    "chartType": "StackedBar",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {
+      "valuesOnBars": true
+    },
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "year",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [
+      {
+        "color": "#374e8e",
+        "position": 3
+      },
+      {
+        "color": "#ce4631",
+        "position": 1
+      },
+      {
+        "color": "#c7c7c7",
+        "position": 2
+      }
+    ],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "Mehr Taiwaner trauen Chinas Partei- und Staatschef zu, dass er Gewalt gegenüber Taiwan anwendet",
+  "subtitle": "Vervollständigungen der Aussage: «Dass Xi Jinping gegenüber Taiwan Gewalt anwendet, ist im Vergleich zu vor 5 Jahren …», in Prozent der Befragten",
+  "createdDate": "2024-05-23T08:37:25.022Z",
+  "createdBy": "patrick.zoll@nzz.ch",
+  "updatedDate": "2024-09-18T07:57:48.819Z",
+  "updatedBy": "kaspar.manz@nzz.ch",
+  "notes": "Im Jahr 2021 wurden 1200 Taiwanerinnen und Taiwaner befragt, im Jahr 2023 waren es ebenfalls 1200. Zu Repräsentativität und statistischer Fehlermarge machen die Autoren keine Angaben.",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/07d00172c0f2b9dd3facaed885d244eb-thumbnail.jpeg"
+}

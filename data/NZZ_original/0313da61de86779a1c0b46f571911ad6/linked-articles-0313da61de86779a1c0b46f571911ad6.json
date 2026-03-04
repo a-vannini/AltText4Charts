@@ -1,0 +1,294 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "firstTitle": "Die Schweiz wird zum Selbstbedienungsladen. Es regiert das Gefühl, dass andere mehr profitieren als man selbst",
+      "flag": "Kommentar",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "VHi7Z9Umch9q_zJFVH4eO",
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "seoTitle": "AHV: Gedanken zur Schweiz als Selbstbedienungsladen",
+      "title": "Die Schweiz wird zum Selbstbedienungsladen. Es regiert das Gefühl, dass andere mehr profitieren als man selbst",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Samuel Tanner (sta.)",
+          "id": 1455603,
+          "shortName": "sta.",
+          "proLitterisId": "888807"
+        }
+      ],
+      "nzzPrintTitle": "Selbstbedienungsladen Schweiz",
+      "designName": "morpheus",
+      "seoSocialMediaTitle": "Die Schweiz wird zum Selbstbedienungsladen",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-02-15T16:30:00.000Z",
+      "department": {
+        "path": "/meinung",
+        "premium": false,
+        "level": 1,
+        "name": "Meinung"
+      },
+      "publicationDate": "2024-02-15T04:30:00.000Z",
+      "slug": "die-schweiz-wird-zum-selbstbedienungsladen-es-regiert-das-gefuehl-dass-andere-mehr-profitieren-als-man-selbst",
+      "showComments": true,
+      "firstPublicationDate": "2024-02-15T04:30:00.000Z",
+      "nzzCharacterCount": 8426,
+      "owner": "NZZ",
+      "authorLine": "Samuel Tanner",
+      "numberOfContentComponents": 19,
+      "leadText": "Das Vertrauen in die Eliten erodiert. Die Kultur, die alles zusammenhält, ist bedroht.",
+      "publicationLastUpdated": "2024-05-26T17:41:28.071Z",
+      "nzzArticleSnippet": "Das Vertrauen in die Eliten erodiert. Die Kultur, die alles zusammenhält, ist bedroht.",
+      "urlPath": "/meinung/die-schweiz-wird-zum-selbstbedienungsladen-es-regiert-das-gefuehl-dass-andere-mehr-profitieren-als-man-selbst-ld.1807367",
+      "nzzId": "ld.1807367",
+      "url": "https://www.nzz.ch/meinung/die-schweiz-wird-zum-selbstbedienungsladen-es-regiert-das-gefuehl-dass-andere-mehr-profitieren-als-man-selbst-ld.1807367",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 3437,
+        "originalUrl": "https://img.nzz.ch/2024/02/14/147f45d1-ac8a-4483-bb20-ee790282f505.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 453,
+            "width": 2414,
+            "name": "16:9",
+            "y": 314,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W2414,H1358,X453,Y314/O=75/https://img.nzz.ch/2024/02/14/147f45d1-ac8a-4483-bb20-ee790282f505.jpeg",
+            "height": 1358,
+            "ratio": 1.77778
+          },
+          {
+            "x": 750,
+            "width": 1934,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W1934,H1934,X750,Y0/O=75/https://img.nzz.ch/2024/02/14/147f45d1-ac8a-4483-bb20-ee790282f505.jpeg",
+            "height": 1934,
+            "ratio": 1
+          },
+          {
+            "x": 429,
+            "width": 2579,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/C=W2579,H1934,X429,Y0/O=75/https://img.nzz.ch/2024/02/14/147f45d1-ac8a-4483-bb20-ee790282f505.jpeg",
+            "height": 1934,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1153,
+            "width": 1451,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W1451,H1934,X1153,Y0/O=75/https://img.nzz.ch/2024/02/14/147f45d1-ac8a-4483-bb20-ee790282f505.jpeg",
+            "height": 1934,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "SJRwHqQuTP4N",
+        "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/02/14/147f45d1-ac8a-4483-bb20-ee790282f505.jpeg",
+        "height": 1934
+      },
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hmjqlr8a0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "opinion",
+      "estimationWordCount": 1241,
+      "nzzPrintSubtitle": "Das Vertrauen zwischen Bürgerinnen und Bürgern, Wirtschaft und Staat erodiert. Die Kultur, die alles zusammenhält, ist bedroht.",
+      "embeds": {
+        "images": [
+          {
+            "origins": [
+              {
+                "identifier": "2152708328",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/C=W2414,H1358,X497,Y318/O=75/https://img.nzz.ch/2024/02/14/147f45d1-ac8a-4483-bb20-ee790282f505.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0313da61de86779a1c0b46f571911ad6"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/meinung",
+          "name": "Meinung"
+        }
+      ],
+      "documentId": "1807367",
+      "product": "NZZ.ch"
+    }
+  },
+  {
+    "metadata": {
+      "teaserAuthor": "Severin Bigler / AZM",
+      "contentTypeGroup": "web",
+      "firstTitle": "Im Jahr 2024 stimmt die Schweiz mehrfach über einen Staatsausbau ab – gelangt das Zeitalter eines liberalen Sonderfalls an ein Ende?",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "rSoCKKgGvRsw4r1HrXNgs",
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Im Jahr 2024 stimmt die Schweiz mehrfach über einen Ausbau des Staates ab – gelangt ein liberaler Sonderfall an sein Ende?",
+      "seoTitle": "AHV und Co.: Über das Verhältnis der Schweiz zum Sozialstaat",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Samuel Tanner (sta.)",
+          "id": 1455603,
+          "shortName": "sta."
+        }
+      ],
+      "nzzPrintTitle": "Am Anfang war das Vertrauen",
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-01-11T16:30:00.000Z",
+      "department": {
+        "path": "/schweiz",
+        "premium": false,
+        "level": 1,
+        "name": "Schweiz"
+      },
+      "publicationDate": "2024-01-11T04:30:00.000Z",
+      "slug": "im-jahr-2024-stimmt-die-schweiz-mehrfach-ueber-einen-staatsausbau-ab-gelangt-das-zeitalter-eines-liberalen-sonderfalls-an-ein-ende",
+      "firstPublicationDate": "2024-01-11T04:30:00.000Z",
+      "nzzCharacterCount": 8539,
+      "owner": "NZZ",
+      "authorLine": "Samuel Tanner",
+      "numberOfContentComponents": 20,
+      "germanyRelevant": true,
+      "leadText": "Am Anfang war das Vertrauen. Am Schluss wird staatlich reguliert. In Bern stapeln sich die Regelwerke.",
+      "publicationLastUpdated": "2024-01-11T19:12:37.662Z",
+      "nzzArticleSnippet": "Am Anfang war das Vertrauen. Am Schluss wird staatlich reguliert. In Bern stapeln sich die Regelwerke.",
+      "urlPath": "/schweiz/im-jahr-2024-stimmt-die-schweiz-mehrfach-ueber-einen-staatsausbau-ab-gelangt-das-zeitalter-eines-liberalen-sonderfalls-an-ein-ende-ld.1773530",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 5500,
+        "originalUrl": "https://img.nzz.ch/2024/01/09/60ce7e95-19eb-415c-b56a-b08468bdc6e5.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 5500,
+            "name": "16:9",
+            "y": 574,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/01/09/60ce7e95-19eb-415c-b56a-b08468bdc6e5.jpeg?crop=5500,3094,x0,y574&width=1024&quality=75&auto=webp",
+            "height": 3094,
+            "ratio": 1.77778
+          },
+          {
+            "x": 1832,
+            "width": 3668,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/01/09/60ce7e95-19eb-415c-b56a-b08468bdc6e5.jpeg?crop=3668,3668,x1832,y0&width=1024&quality=75&auto=webp",
+            "height": 3668,
+            "ratio": 1
+          },
+          {
+            "x": 609,
+            "width": 4891,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/01/09/60ce7e95-19eb-415c-b56a-b08468bdc6e5.jpeg?crop=4891,3668,x609,y0&width=1024&quality=75&auto=webp",
+            "height": 3668,
+            "ratio": 1.33333
+          },
+          {
+            "x": 2764,
+            "width": 1527,
+            "name": "3:4",
+            "y": 1633,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/01/09/60ce7e95-19eb-415c-b56a-b08468bdc6e5.jpeg?crop=1527,2035,x2764,y1633&width=1024&quality=75&auto=webp",
+            "height": 2035,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "3Vy02RU17mC1",
+        "url": "https://img.nzz.ch/2024/01/09/60ce7e95-19eb-415c-b56a-b08468bdc6e5.jpeg?width=1024&quality=75&auto=webp",
+        "key": "2024/01/09/60ce7e95-19eb-415c-b56a-b08468bdc6e5.jpeg",
+        "height": 3668
+      },
+      "nzzId": "ld.1773530",
+      "url": "https://www.nzz.ch/schweiz/im-jahr-2024-stimmt-die-schweiz-mehrfach-ueber-einen-staatsausbau-ab-gelangt-das-zeitalter-eines-liberalen-sonderfalls-an-ein-ende-ld.1773530",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hjn94guj1"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "estimationWordCount": 1214,
+      "nzzPrintSubtitle": "Am Ende stehen staatliche Regulierungen. Gelangt das Zeitalter eines liberalen Sonderfalls an ein Ende?",
+      "embeds": {
+        "images": [
+          {
+            "author": "Severin Bigler / AZM",
+            "caption": "Der «liberale Gemeinsinn» verliert an Kraft: Gewerkschaftsdemonstration im Jahr 2022 in Zürich.",
+            "origins": [
+              {
+                "identifier": "2137266193",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/01/09/60ce7e95-19eb-415c-b56a-b08468bdc6e5.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0313da61de86779a1c0b46f571911ad6"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/schweiz",
+          "name": "Schweiz"
+        }
+      ],
+      "teaserCaption": "Der «liberale Gemeinsinn» verliert an Kraft: Gewerkschaftsdemonstration im Jahr 2022 in Zürich.",
+      "documentId": "1773530",
+      "product": "NZZ.ch"
+    }
+  }
+]

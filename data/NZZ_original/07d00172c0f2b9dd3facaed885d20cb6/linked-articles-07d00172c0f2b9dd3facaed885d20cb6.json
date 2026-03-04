@@ -1,0 +1,180 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Carlos García Rawlins / Reuters",
+      "firstTitle": "China lanciert grosses Militärmanöver rund um Taiwan, um die «Separatisten» zu bestrafen",
+      "significantUpdate": true,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "9MBsuFxoiws_xaxSEs6Jb",
+        "locale": "de-CH"
+      },
+      "title": "China erhöht den Druck auf Taiwan mit militärischem Grossmanöver so nahe an der Insel wie noch nie",
+      "seoTitle": "Militärübungen Chinas: Warnung an Taiwans neue Führung",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Patrick Zoll (paz)",
+          "id": 1373382,
+          "shortName": "paz"
+        }
+      ],
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-05-23T23:02:11.464Z",
+      "department": {
+        "path": "/international",
+        "premium": false,
+        "level": 1,
+        "name": "International"
+      },
+      "publicationDate": "2024-05-23T11:02:11.464Z",
+      "slug": "militaeruebungen-chinas-warnung-an-taiwans-neue-fuehrung",
+      "firstPublicationDate": "2024-05-23T06:08:53.065Z",
+      "nzzCharacterCount": 5040,
+      "owner": "NZZ",
+      "authorLine": "Patrick Zoll, Taipeh",
+      "numberOfContentComponents": 24,
+      "germanyRelevant": true,
+      "leadText": "Peking reagiert verärgert auf den Amtsantritt von Taiwans Präsidenten Lai Ching-te Anfang Woche. Die Manöver sollen dazu dienen, die «Separatisten» zu bestrafen.",
+      "publicationLastUpdated": "2024-05-23T15:11:00.378Z",
+      "nzzArticleSnippet": "Peking reagiert verärgert auf den Amtsantritt von Taiwans Präsidenten Lai Ching-te Anfang Woche. Die Manöver sollen dazu dienen, die «Separatisten» zu bestrafen.",
+      "urlPath": "/international/militaeruebungen-chinas-warnung-an-taiwans-neue-fuehrung-ld.1831647",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 2365,
+        "originalUrl": "https://img.nzz.ch/2024/05/23/764ec16f-74c9-44ca-b18e-f8398e70bc10.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 263,
+            "width": 2102,
+            "name": "16:9",
+            "y": 395,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/23/764ec16f-74c9-44ca-b18e-f8398e70bc10.jpeg?crop=2102,1182,x263,y395&width=1024&quality=75&auto=webp",
+            "height": 1182,
+            "ratio": 1.77778
+          },
+          {
+            "x": 551,
+            "width": 1402,
+            "name": "1:1",
+            "y": 175,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/23/764ec16f-74c9-44ca-b18e-f8398e70bc10.jpeg?crop=1402,1402,x551,y175&width=1024&quality=75&auto=webp",
+            "height": 1402,
+            "ratio": 1
+          },
+          {
+            "x": 248,
+            "width": 1869,
+            "name": "4:3",
+            "y": 175,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/23/764ec16f-74c9-44ca-b18e-f8398e70bc10.jpeg?crop=1869,1402,x248,y175&width=1024&quality=75&auto=webp",
+            "height": 1402,
+            "ratio": 1.33333
+          },
+          {
+            "x": 545,
+            "width": 1183,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/23/764ec16f-74c9-44ca-b18e-f8398e70bc10.jpeg?crop=1183,1577,x545,y0&width=1024&quality=75&auto=webp",
+            "height": 1577,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "zPJeIZjWoJ0D",
+        "url": "https://img.nzz.ch/2024/05/23/764ec16f-74c9-44ca-b18e-f8398e70bc10.jpeg?width=1024&quality=75&auto=webp",
+        "key": "2024/05/23/764ec16f-74c9-44ca-b18e-f8398e70bc10.jpeg",
+        "height": 1577
+      },
+      "nzzId": "ld.1831647",
+      "url": "https://www.nzz.ch/international/militaeruebungen-chinas-warnung-an-taiwans-neue-fuehrung-ld.1831647",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1huiheu0e1",
+              "doc-1huihh2et0",
+              "doc-1huidt57h1"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "commentCount": 1,
+      "layout": "regular",
+      "estimationWordCount": 778,
+      "embeds": {
+        "images": [
+          {
+            "author": "Carlos García Rawlins / Reuters",
+            "caption": "Ein taiwanischer Kampfjet hebt am Donnerstag ab, um chinesische Flugzeuge abzufangen.",
+            "origins": [
+              {
+                "identifier": "2156057168",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/05/23/764ec16f-74c9-44ca-b18e-f8398e70bc10.jpeg"
+          },
+          {
+            "author": "Taiwan Defence Ministry",
+            "caption": "Ein taiwanischer Seemann beobachtet ein chinesisches Kriegsschiff.",
+            "origins": [
+              {
+                "identifier": "2156061776",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/05/23/e7c2cdb6-94b2-4080-a531-586182a73d1b.jpeg"
+          },
+          {
+            "author": "Ritchie B. Tongo / EPA",
+            "caption": "Präsident Lai Ching-te besucht am Donnerstag eine Militärbasis in Taoyuan, nachdem China ohne Vorwarnung Manöver rund um die Insel begonnen hat.",
+            "origins": [
+              {
+                "identifier": "2156062916",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/05/23/32a4ae28-991b-4c5c-a674-c6a5886ac64c.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "07d00172c0f2b9dd3facaed885dc93c0"
+          },
+          {
+            "id": "4afceb646f42555b7612e63803f93a63"
+          },
+          {
+            "id": "07d00172c0f2b9dd3facaed885d20cb6"
+          },
+          {
+            "id": "07d00172c0f2b9dd3facaed885d244eb"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/international",
+          "name": "International"
+        }
+      ],
+      "teaserCaption": "Ein taiwanischer Kampfjet hebt am Donnerstag ab, um chinesische Flugzeuge abzufangen.",
+      "documentId": "1831647",
+      "product": "NZZ.ch"
+    }
+  }
+]

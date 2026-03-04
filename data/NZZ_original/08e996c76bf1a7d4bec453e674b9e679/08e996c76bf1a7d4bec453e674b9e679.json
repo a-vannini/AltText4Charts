@@ -1,0 +1,103 @@
+{
+  "_id": "08e996c76bf1a7d4bec453e674b9e679",
+  "_rev": "3-6e4273ee5f22e80e61d2c9ba49d75afb",
+  "department": "International",
+  "publication": "nzz",
+  "acronym": "Mue.",
+  "data": [
+    [
+      "Land",
+      "Anteil"
+    ],
+    [
+      "Indonesia",
+      "87.2"
+    ],
+    [
+      "Brunei",
+      "78.8"
+    ],
+    [
+      "Malaysia",
+      "61.3"
+    ],
+    [
+      "Singapore",
+      "14.7"
+    ],
+    [
+      "Philippines",
+      "8"
+    ],
+    [
+      "Myanmar",
+      "4.3"
+    ],
+    [
+      "Thailand",
+      "4.3"
+    ],
+    [
+      "Cambodia",
+      "1.9"
+    ],
+    [
+      "East Timor",
+      "0.1"
+    ],
+    [
+      "Vietnam",
+      "0.1"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {
+      "valuesOnBars": true
+    },
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "Muslims make up 40% of the population in Southeast Asia",
+  "subtitle": "Muslim population by country, in %",
+  "createdDate": "2024-06-11T06:42:16.009Z",
+  "createdBy": "gretchen.vogel@lieferanten.nzz.ch",
+  "updatedDate": "2024-06-11T06:48:08.845Z",
+  "updatedBy": "gretchen.vogel@lieferanten.nzz.ch",
+  "notes": "Source: <a href=\"https://www.statista.com/statistics/1113906/southeast-asia-muslim-population-forecasted-share-by-country/\">Statista</a>"
+}

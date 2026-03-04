@@ -1,0 +1,83 @@
+{
+  "_id": "01da15f0f6a6396873566efb70bed824",
+  "_rev": "5-ff29db9a78ef68849c51b0231f83f9db",
+  "department": "Wirtschaft",
+  "publication": "nzzas",
+  "acronym": "sal.",
+  "data": [
+    [
+      null,
+      "Gross wages",
+      "Net wages"
+    ],
+    [
+      "Switzerland",
+      "100048",
+      "81465"
+    ],
+    [
+      "Germany",
+      "81439",
+      "50959"
+    ],
+    [
+      "United States",
+      "67264",
+      "50954"
+    ],
+    [
+      "Italy",
+      "52734",
+      "38114"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": false,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 1
+    }
+  },
+  "tool": "chart",
+  "title": "Swiss earn the most",
+  "subtitle": "Average wages, before and after taxes and social security contributions, for a single person, in dollars",
+  "createdDate": "2024-05-13T10:01:49.502Z",
+  "createdBy": "gretchen.vogel@lieferanten.nzz.ch",
+  "updatedDate": "2024-05-13T10:42:07.702Z",
+  "updatedBy": "gretchen.vogel@lieferanten.nzz.ch",
+  "active": true,
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/01da15f0f6a6396873566efb70bed824-thumbnail.jpeg",
+  "notes": "Source: OECD"
+}

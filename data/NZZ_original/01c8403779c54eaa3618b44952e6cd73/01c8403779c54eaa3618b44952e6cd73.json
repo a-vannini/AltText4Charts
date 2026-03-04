@@ -1,0 +1,91 @@
+{
+  "_id": "01c8403779c54eaa3618b44952e6cd73",
+  "_rev": "11-4cfa68498c51b673f7ebdb0cd13408e8",
+  "department": "Wirtschaft",
+  "publication": "nzz",
+  "acronym": "sco.",
+  "data": [
+    [
+      "Kategorie",
+      "EU-Import",
+      "EU-Export"
+    ],
+    [
+      "Nahrungsmittel und lebende Tiere",
+      "14.6",
+      "1.2"
+    ],
+    [
+      "Rohwaren (ohne Brennstoffe)",
+      "12.2",
+      "0.6"
+    ],
+    [
+      "Andere",
+      "5.3",
+      "8.0"
+    ],
+    [
+      "Verarbeitete Waren",
+      "4.0",
+      "4.6"
+    ],
+    [
+      "Maschinen und Transportausrüstung",
+      "3.4",
+      "18.9"
+    ],
+    [
+      "Chemikalien",
+      "3.2",
+      "11.7"
+    ]
+  ],
+  "allowDownloadData": false,
+  "sources": [
+    {
+      "link": {
+        "url": "https://webgate.ec.europa.eu/isdb_results/factsheets/region/details_mercosur-4_en.pdf",
+        "isValid": true
+      },
+      "text": "EU-Kommission"
+    }
+  ],
+  "options": {
+    "chartType": "Dotplot",
+    "hideAxisLabel": true,
+    "annotations": {
+      "diff": false
+    },
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "year",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "dotplotOptions": {
+      "connectDots": true
+    },
+    "arrowOptions": {
+      "colorScheme": 0
+    },
+    "highlightDataSeries": [],
+    "colorOverwritesSeries": []
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "Rindfleisch gegen Autos",
+  "subtitle": "Handel zwischen der EU und Mercosur, nach Kategorie, 2018, in Mrd. €",
+  "createdDate": "2019-06-27T10:03:06.782Z",
+  "createdBy": "christoph.schmutz@nzz.ch",
+  "updatedDate": "2019-06-27T14:39:49.733Z",
+  "updatedBy": "barbara.baechli@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/01c8403779c54eaa3618b44952e6cd73-thumbnail.jpeg"
+}

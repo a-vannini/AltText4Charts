@@ -1,0 +1,120 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "Pool / Reuters",
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "«Mit den Lebenslügen der deutschen Aussenpolitik aufräumen»",
+      "seoTitle": "Deutschland: Sicherheitskonferenz fordert mehr Aussenpolitik",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Christoph Prantner (cpr)",
+          "id": 1538252
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2020-10-01T01:54:45.876Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Peter Rasonyi (pra)",
+          "id": 1373452
+        }
+      ],
+      "department": {
+        "path": "/international",
+        "level": 1,
+        "name": "International"
+      },
+      "publicationDate": "2020-09-30T13:54:45.876Z",
+      "slug": "muenchner-sicherheitskonferez-fordert-mehr-deutsche-aussenpolitik",
+      "firstPublicationDate": "2020-09-30T13:54:45.876Z",
+      "nzzCharacterCount": 4927,
+      "authorLine": "Christoph Prantner, Berlin",
+      "numberOfContentComponents": 18,
+      "leadText": "Berlin darf international nicht mehr lavieren, sondern muss endlich Position beziehen. Das ist die zentrale Botschaft in einem Sonderbericht der Münchner Sicherheitskonferenz. Mit dem Papier soll vor der Bundestagswahl Schwung in die aussen- und sicherheitspolitische Debatte kommen.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2020-09-30T14:35:12.253Z",
+      "nzzArticleSnippet": "Berlin darf international nicht mehr lavieren, sondern muss endlich Position beziehen. Das ist die zentrale Botschaft in einem Sonderbericht der Münchner Sicherheitskonferenz. Mit dem Papier soll vor der Bundestagswahl Schwung in die aussen- und sicherheitspolitische Debatte kommen.",
+      "urlPath": "/international/muenchner-sicherheitskonferez-fordert-mehr-deutsche-aussenpolitik-ld.1579300",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 3500,
+        "originalUrl": "https://nzz-img.s3.amazonaws.com/2020/9/30/c96e6549-8c54-4aa2-8840-9e04fd6a010e.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 0,
+            "width": 3500,
+            "y": 120,
+            "url": "https://img.nzz.ch/C=W3500,H1969,X0,Y120/O=75/https://nzz-img.s3.amazonaws.com/2020/9/30/c96e6549-8c54-4aa2-8840-9e04fd6a010e.jpeg",
+            "height": 1969
+          },
+          {
+            "name": "1:1",
+            "x": 256,
+            "width": 2209,
+            "y": 0,
+            "url": "https://img.nzz.ch/C=W2209,H2209,X256,Y0/O=75/https://nzz-img.s3.amazonaws.com/2020/9/30/c96e6549-8c54-4aa2-8840-9e04fd6a010e.jpeg",
+            "height": 2209
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2020/9/30/c96e6549-8c54-4aa2-8840-9e04fd6a010e.jpeg",
+        "height": 2209
+      },
+      "nzzId": "ld.1579300",
+      "url": "https://www.nzz.ch/international/muenchner-sicherheitskonferez-fordert-mehr-deutsche-aussenpolitik-ld.1579300",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1ejfhgkl30"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "embeds": {
+        "images": [
+          {
+            "author": "Pool / Reuters",
+            "caption": "Die Freiheit der Deutschen am Hindukusch verteidigen: Bundeswehrsoldaten&nbsp;im Camp Marmal in Mazar-e Sharif, Afghanistan.",
+            "origins": [
+              {
+                "identifier": "picture-1948149130",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2020/9/30/c96e6549-8c54-4aa2-8840-9e04fd6a010e.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "d912741d8c952ff0b927bc3a46f14062"
+          },
+          {
+            "id": "016b459adf53c4e44c03cc7e709845d7"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Die Freiheit der Deutschen am Hindukusch verteidigen: Bundeswehrsoldaten im Camp Marmal in Mazar-e Sharif, Afghanistan.",
+      "breadcrumbs": [
+        {
+          "path": "/international",
+          "name": "International"
+        }
+      ],
+      "documentId": "1579300",
+      "product": "NZZ.ch"
+    }
+  }
+]

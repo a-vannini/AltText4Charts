@@ -1,0 +1,160 @@
+{
+  "_id": "01e843ba181f97facd55faf6789e14f5",
+  "_rev": "21-9204194e91e3808a9ce0ba8cc4629c93",
+  "data": [
+    [
+      "Land",
+      "Erforderliche Sparquote (in %)"
+    ],
+    [
+      "VAE",
+      "0"
+    ],
+    [
+      "Singapur",
+      "3"
+    ],
+    [
+      "Niederlande",
+      "5"
+    ],
+    [
+      "Australien",
+      "7"
+    ],
+    [
+      "Saudi-Arabien",
+      "7"
+    ],
+    [
+      "Schweden",
+      "9"
+    ],
+    [
+      "Dänemark",
+      "14"
+    ],
+    [
+      "Schweiz",
+      "14"
+    ],
+    [
+      "Grossbritannien",
+      "26"
+    ],
+    [
+      "Italien",
+      "28"
+    ],
+    [
+      "Deutschland",
+      "30"
+    ],
+    [
+      "Indien",
+      "35"
+    ],
+    [
+      "Israel",
+      "41"
+    ],
+    [
+      "USA",
+      "42"
+    ],
+    [
+      "Frankreich",
+      "44"
+    ],
+    [
+      "Südafrika",
+      "49"
+    ],
+    [
+      "Kanada",
+      "50"
+    ],
+    [
+      "Brasilien",
+      "69"
+    ],
+    [
+      "Hongkong",
+      "74"
+    ],
+    [
+      "Chile",
+      "80"
+    ],
+    [
+      "Taiwan",
+      "91"
+    ],
+    [
+      "Japan",
+      "102"
+    ],
+    [
+      "Russland",
+      "108"
+    ],
+    [
+      "Nigeria",
+      "145"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {},
+      "text": "UBS"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": false,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "department": "Wirtschaft",
+  "publication": "nzz",
+  "acronym": "feb.",
+  "active": true,
+  "title": "Vorsorgelücken in verschiedenen Ländern",
+  "subtitle": "Erforderliche Sparquote (% vom Nettoeinkommen) ab Alter 50, um den gewohnten Lebensstandard zu halten",
+  "createdDate": "2021-05-20T14:21:02.779Z",
+  "createdBy": "michael.ferber@nzz.ch",
+  "updatedDate": "2021-05-20T14:27:33.775Z",
+  "updatedBy": "michael.ferber@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/01e843ba181f97facd55faf6789e14f5-thumbnail.jpeg"
+}

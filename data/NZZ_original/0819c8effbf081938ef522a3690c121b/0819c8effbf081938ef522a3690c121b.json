@@ -1,0 +1,104 @@
+{
+  "_id": "0819c8effbf081938ef522a3690c121b",
+  "_rev": "19-cbd90d3893b36bcf236b4498a7c19a51",
+  "data": [
+    [
+      "Land",
+      "Anteil"
+    ],
+    [
+      "Luxemburg",
+      "43.6"
+    ],
+    [
+      "Schweiz",
+      "8.00"
+    ],
+    [
+      "Österrreich",
+      "3.6"
+    ],
+    [
+      "Belgien",
+      "1.8"
+    ],
+    [
+      "Niederlande",
+      "1.5"
+    ],
+    [
+      "Norwegen",
+      "1.4"
+    ],
+    [
+      "Deutschland",
+      "1.0"
+    ],
+    [
+      "Dänemark",
+      "1.0"
+    ],
+    [
+      "Tschechien",
+      "0.4"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {},
+      "text": "EU-Kommission"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": false,
+    "highlightDataSeries": [],
+    "highlightDataRows": [
+      1
+    ],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "department": "Wirtschaft",
+  "publication": "nzz",
+  "acronym": "imr.",
+  "active": true,
+  "title": "Erfolgreiche Länder ziehen Migranten an",
+  "subtitle": "Arbeitskräfte aus der EU und der Efta, in Prozent",
+  "createdDate": "2024-04-19T14:00:37.494Z",
+  "createdBy": "daniel.imwinkelried@nzz.ch",
+  "updatedDate": "2024-04-19T16:42:37.474Z",
+  "updatedBy": "daniel.imwinkelried@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/0819c8effbf081938ef522a3690c121b-thumbnail.jpeg"
+}

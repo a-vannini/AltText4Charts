@@ -1,0 +1,108 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Wo die Wut der gelben Westen ihren Ursprung hat",
+      "nzzAuthors": [
+        {
+          "name": "Nina Belz (nbe)",
+          "id": 1373290
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2018-12-14T05:16:26.409Z",
+      "department": {
+        "path": "/wirtschaft",
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2018-12-14T05:00:00.000Z",
+      "slug": "wo-die-wut-der-gelben-westen-ihren-ursprung-hat",
+      "firstPublicationDate": "2018-12-13T17:16:26.409Z",
+      "nzzCharacterCount": 7016,
+      "authorLine": "Nina Belz, Paris",
+      "numberOfContentComponents": 22,
+      "leadText": "Der Protest der Gelbwesten in Frankreich drückt eine tiefe Unzufriedenheit mit dem französischen Steuersystem aus. Der Staat sorgt zudem für eine gerechtere Einkommensverteilung – zu einem allerdings hohen Preis.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2019-02-01T10:55:42.689Z",
+      "nzzArticleSnippet": "Der Protest der Gelbwesten in Frankreich drückt eine tiefe Unzufriedenheit mit dem französischen Steuersystem aus. Der Staat sorgt zudem für eine gerechtere Einkommensverteilung – zu einem allerdings hohen Preis.",
+      "urlPath": "/wirtschaft/wo-die-wut-der-gelben-westen-ihren-ursprung-hat-ld.1443732",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 5000,
+        "originalUrl": "https://nzz-img.s3.amazonaws.com/2018/12/13/0f67490c-e728-467a-b945-4348d7c3ce8b.jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 176,
+            "width": 4444,
+            "y": 832,
+            "url": "https://img.nzz.ch/C=W4444,H2500,X176,Y832/O=75/https://nzz-img.s3.amazonaws.com/2018/12/13/0f67490c-e728-467a-b945-4348d7c3ce8b.jpeg",
+            "height": 2500
+          },
+          {
+            "name": "1:1",
+            "x": 26,
+            "width": 3346,
+            "y": 0,
+            "url": "https://img.nzz.ch/C=W3346,H3346,X26,Y0/O=75/https://nzz-img.s3.amazonaws.com/2018/12/13/0f67490c-e728-467a-b945-4348d7c3ce8b.jpeg",
+            "height": 3346
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2018/12/13/0f67490c-e728-467a-b945-4348d7c3ce8b.jpeg",
+        "height": 3346
+      },
+      "nzzId": "ld.1443732",
+      "url": "https://www.nzz.ch/wirtschaft/wo-die-wut-der-gelben-westen-ihren-ursprung-hat-ld.1443732",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1cuk8sjrm0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "embeds": {
+        "images": [
+          {
+            "caption": "8. Dezember in Paris: Die Wut der Gelbwesten&nbsp;ebbt nicht ab. (Bild: Ian Langsdon / EPA)",
+            "origins": [
+              {
+                "identifier": "picture-2001922728",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2018/12/13/0f67490c-e728-467a-b945-4348d7c3ce8b.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "013aa2423f5043129536660cffcac8a1"
+          },
+          {
+            "id": "cf4e45ffb9475f16978ed1a9305eb393"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "8. Dezember in Paris: Die Wut der Gelbwesten ebbt nicht ab. (Bild: Ian Langsdon / EPA)",
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "documentId": "1443732",
+      "product": "NZZ.ch"
+    }
+  }
+]

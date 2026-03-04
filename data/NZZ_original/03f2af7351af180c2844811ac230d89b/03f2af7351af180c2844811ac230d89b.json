@@ -1,0 +1,148 @@
+{
+  "_id": "03f2af7351af180c2844811ac230d89b",
+  "_rev": "18-8a27a0c67ca4dc281384456dbdc7edf7",
+  "title": "The war in Ukraine claims the most victims",
+  "tool": "chart",
+  "department": "default",
+  "publication": "nzz",
+  "data": [
+    [
+      "Country",
+      "Deaths"
+    ],
+    [
+      "Ukraine",
+      "31407"
+    ],
+    [
+      "Israel-Palestine",
+      "25263"
+    ],
+    [
+      "Myanmar",
+      "16207"
+    ],
+    [
+      "Sudan",
+      "13365"
+    ],
+    [
+      "Nigeria",
+      "8714"
+    ],
+    [
+      "Burkina Faso",
+      "8576"
+    ],
+    [
+      "Somalia",
+      "8566"
+    ],
+    [
+      "Mexico",
+      "7264"
+    ],
+    [
+      "Brazil",
+      "7137"
+    ],
+    [
+      "Syria",
+      "6438"
+    ],
+    [
+      "Mali",
+      "4418"
+    ],
+    [
+      "Congo",
+      "4078"
+    ],
+    [
+      "Ethiopia",
+      "3897"
+    ],
+    [
+      "Yemen",
+      "3258"
+    ],
+    [
+      "Pakistan",
+      "2190"
+    ],
+    [
+      "Colombia",
+      "1986"
+    ],
+    [
+      "Haiti",
+      "1755"
+    ],
+    [
+      "Iraq",
+      "1406"
+    ],
+    [
+      "South Sudan",
+      "1278"
+    ],
+    [
+      "Niger",
+      "1242"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {
+      "valuesOnBars": true
+    },
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [
+      {
+        "color": "#383751",
+        "position": 1
+      }
+    ],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "subtitle": "Number of deaths in violent conflicts since January 2023",
+  "notes": "Source: Acled</br>Data as of Jan. 12, 2024",
+  "createdDate": "2024-03-18T11:43:48.785Z",
+  "createdBy": "gretchen.vogel@lieferanten.nzz.ch",
+  "updatedDate": "2024-03-18T12:08:58.792Z",
+  "updatedBy": "gretchen.vogel@lieferanten.nzz.ch",
+  "active": true,
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/03f2af7351af180c2844811ac230d89b-thumbnail.jpeg"
+}

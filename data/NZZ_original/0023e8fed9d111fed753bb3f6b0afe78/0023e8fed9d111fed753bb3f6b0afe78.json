@@ -1,0 +1,81 @@
+{
+  "_id": "0023e8fed9d111fed753bb3f6b0afe78",
+  "_rev": "9-196cc586a401ca48c8424f72349fa7da",
+  "department": "Wirtschaft",
+  "publication": "nzz",
+  "acronym": "mla",
+  "data": [
+    [
+      "Jahr",
+      "US-Exporte",
+      "US-Importe"
+    ],
+    [
+      "2012",
+      "5.01155899",
+      "17.13526297"
+    ],
+    [
+      "2013",
+      "5.213826694",
+      "17.60693078"
+    ],
+    [
+      "2014",
+      "6.311403535",
+      "20.1374926"
+    ],
+    [
+      "2015",
+      "7.15338434",
+      "20.79092879"
+    ],
+    [
+      "2016",
+      "6.839551951",
+      "18.31447899"
+    ],
+    [
+      "2017",
+      "7.592373641",
+      "18.21277669"
+    ]
+  ],
+  "sources": [
+    {
+      "link": {},
+      "text": "ITA"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": true,
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "year",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "highlightDataSeries": [],
+    "annotations": {
+      "first": false
+    },
+    "colorOverwritesSeries": []
+  },
+  "tool": "chart",
+  "title": "Auch der Handel mit der EU mit Autoteilen ist aus Sicht der USA defizitär",
+  "subtitle": "in Mrd. $",
+  "active": true,
+  "createdDate": "2018-03-11T22:10:51.757Z",
+  "createdBy": "martin.lanz@nzz.ch",
+  "updatedDate": "2018-03-12T07:46:23.267Z",
+  "updatedBy": "marie-jose.kolly@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/0023e8fed9d111fed753bb3f6b0afe78-thumbnail.jpeg"
+}

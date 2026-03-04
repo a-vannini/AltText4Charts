@@ -1,0 +1,160 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Akio Kon / Bloomberg",
+      "firstTitle": "Zu wenig Ausländer – wie Japan mehr Arbeitsmigranten anziehen will",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "hvXSk-btuunLE37hno815",
+        "locale": "de-CH"
+      },
+      "title": "Zu wenig Ausländer – wie Japan mehr Arbeitsmigranten anziehen will",
+      "seoTitle": "Migration: Japan auf dem Weg zum Einwanderungsland",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Martin Koelling (koe)",
+          "id": 1372936,
+          "shortName": "koe"
+        }
+      ],
+      "designName": "morpheus",
+      "premium": true,
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-05-27T15:30:00.000Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Marco Kauffmann (kam)",
+          "id": 1372868,
+          "shortName": "kam"
+        }
+      ],
+      "department": {
+        "path": "/international",
+        "premium": false,
+        "level": 1,
+        "name": "International"
+      },
+      "publicationDate": "2024-05-27T03:30:00.000Z",
+      "slug": "gescholtenes-land-wie-japan-mehr-arbeitsmigranten-anziehen-will",
+      "firstPublicationDate": "2024-05-27T03:30:00.000Z",
+      "nzzCharacterCount": 7482,
+      "owner": "NZZ",
+      "authorLine": "Martin Kölling, Tokio",
+      "numberOfContentComponents": 30,
+      "seoDescription": "US-Präsident Joe Biden kritisierte Japan als «fremdenfeindlich», weil es keine Einwanderung wolle. Dabei öffnet die Regierung die Grenzen immer weiter.",
+      "germanyRelevant": true,
+      "leadText": "Der amerikanische Präsident Joe Biden hat Japan kürzlich als «fremdenfeindlich» bezeichnet, weil es keine Einwanderung wolle. Dabei öffnet die Regierung die Grenzen immer weiter.",
+      "publicationLastUpdated": "2024-05-27T14:28:44.010Z",
+      "nzzArticleSnippet": "Der amerikanische Präsident Joe Biden hat Japan kürzlich als «fremdenfeindlich» bezeichnet, weil es keine Einwanderung wolle. Dabei öffnet die Regierung die Grenzen immer weiter.",
+      "urlPath": "/international/gescholtenes-land-wie-japan-mehr-arbeitsmigranten-anziehen-will-ld.1831463",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 4000,
+        "originalUrl": "https://img.nzz.ch/2024/05/24/182fcc67-2734-42d1-ae58-f5a018d7b27b.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 4000,
+            "name": "16:9",
+            "y": 124,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/24/182fcc67-2734-42d1-ae58-f5a018d7b27b.jpeg?crop=4000,2250,x0,y124&width=1024&quality=75&auto=webp",
+            "height": 2250,
+            "ratio": 1.77778
+          },
+          {
+            "x": 1843,
+            "width": 1316,
+            "name": "1:1",
+            "y": 259,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/24/182fcc67-2734-42d1-ae58-f5a018d7b27b.jpeg?crop=1316,1316,x1843,y259&width=1024&quality=75&auto=webp",
+            "height": 1316,
+            "ratio": 1
+          },
+          {
+            "x": 0,
+            "width": 3556,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/24/182fcc67-2734-42d1-ae58-f5a018d7b27b.jpeg?crop=3556,2667,x0,y0&width=1024&quality=75&auto=webp",
+            "height": 2667,
+            "ratio": 1.33333
+          },
+          {
+            "x": 889,
+            "width": 2000,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/24/182fcc67-2734-42d1-ae58-f5a018d7b27b.jpeg?crop=2000,2667,x889,y0&width=1024&quality=75&auto=webp",
+            "height": 2667,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "Zt-4rasvBW5-",
+        "url": "https://img.nzz.ch/2024/05/24/182fcc67-2734-42d1-ae58-f5a018d7b27b.jpeg?width=1024&quality=75&auto=webp",
+        "key": "2024/05/24/182fcc67-2734-42d1-ae58-f5a018d7b27b.jpeg",
+        "height": 2667
+      },
+      "nzzId": "ld.1831463",
+      "url": "https://www.nzz.ch/international/gescholtenes-land-wie-japan-mehr-arbeitsmigranten-anziehen-will-ld.1831463",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hulfku391"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "commentCount": 1,
+      "layout": "regular",
+      "estimationWordCount": 1077,
+      "embeds": {
+        "images": [
+          {
+            "author": "Akio Kon&nbsp;/ Bloomberg",
+            "caption": "Japan öffnet sich für Einwanderung: Eine von zehn Teilzeitkräften bei den grossen Convenience-Store-Ketten kommt schon aus dem Ausland.",
+            "origins": [
+              {
+                "identifier": "2156117532",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/05/24/182fcc67-2734-42d1-ae58-f5a018d7b27b.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "07d00172c0f2b9dd3facaed88589fd27"
+          },
+          {
+            "id": "07d00172c0f2b9dd3facaed8858c95c6"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/international",
+          "name": "International"
+        }
+      ],
+      "teaserCaption": "Japan öffnet sich für Einwanderung: Eine von zehn Teilzeitkräften bei den grossen Convenience-Store-Ketten kommt schon aus dem Ausland.",
+      "documentId": "1831463",
+      "product": "NZZ.ch"
+    }
+  }
+]

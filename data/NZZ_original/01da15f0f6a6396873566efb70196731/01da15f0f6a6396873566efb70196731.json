@@ -1,0 +1,119 @@
+{
+  "_id": "01da15f0f6a6396873566efb70196731",
+  "_rev": "30-36fa8df9a1db84a549399c4a17cd0d8f",
+  "department": "default",
+  "publication": "nzz",
+  "acronym": "oma.",
+  "data": [
+    [
+      "Partei",
+      "Zahl"
+    ],
+    [
+      "AfD",
+      "86"
+    ],
+    [
+      "Grüne",
+      "62"
+    ],
+    [
+      "SPD",
+      "35"
+    ],
+    [
+      "CDU/CSU",
+      "21"
+    ],
+    [
+      "Linke",
+      "20"
+    ],
+    [
+      "FDP",
+      "10"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {
+        "url": "https://dserver.bundestag.de/btd/20/101/2010177.pdf",
+        "isValid": true
+      },
+      "text": "Deutscher Bundestag"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": false,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [
+      {
+        "color": "#0084c7",
+        "position": 1
+      },
+      {
+        "color": "#c31906",
+        "position": 3
+      },
+      {
+        "color": "#66a622",
+        "position": 2
+      },
+      {
+        "color": "#0a0a0a",
+        "position": 4
+      },
+      {
+        "color": "#8440a3",
+        "position": 5
+      },
+      {
+        "color": "#d1cc00",
+        "position": 6
+      }
+    ],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "Die AfD wurde 2023 am häufigsten Opfer von Gewalt",
+  "subtitle": "Anzahl der Gewaltdelikte gegen Repräsentanten und Einrichtungen der im Bundestag vertretenen Parteien ",
+  "createdDate": "2024-05-10T08:43:25.209Z",
+  "createdBy": "oliver.maksan@nzz.ch",
+  "updatedDate": "2024-05-10T08:55:31.129Z",
+  "updatedBy": "oliver.maksan@nzz.ch",
+  "deactivateDate": "2024-05-10T08:55:30.714Z",
+  "activateDate": "2024-05-10T08:55:31.129Z"
+}

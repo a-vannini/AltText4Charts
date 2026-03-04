@@ -1,0 +1,100 @@
+{
+  "_id": "08e996c76bf1a7d4bec453e674faf049",
+  "_rev": "12-b4ae1e3ea6f96b592538cbfac176c5d1",
+  "data": [
+    [
+      "Durchschnittspreis",
+      "Bio",
+      "Nicht-Bio",
+      "Total"
+    ],
+    [
+      "2019",
+      "3.21",
+      "1.89",
+      "2.03"
+    ],
+    [
+      "2020",
+      "3.30",
+      "1.83",
+      "1.98"
+    ],
+    [
+      "2021",
+      "3.03",
+      "1.74",
+      "1.90"
+    ],
+    [
+      "2022",
+      "3.06",
+      "1.74",
+      "1.90"
+    ],
+    [
+      "2023",
+      "3.33",
+      "1.82",
+      "2.02"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {
+        "url": "https://www.agrarmarktdaten.ch/blog/kartoffeln-widersetzen-sich-der-teuerung",
+        "isValid": true
+      },
+      "text": "BLW, Fachbereich Marktanalysen"
+    }
+  ],
+  "options": {
+    "chartType": "Line",
+    "hideAxisLabel": false,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "department": "default",
+  "publication": "nzz",
+  "acronym": "lip.",
+  "active": true,
+  "title": "Der Kartoffelpreis ist in der Schweiz im letzten Jahr gestiegen",
+  "subtitle": "Franken pro Kilogramm",
+  "createdDate": "2024-06-12T14:36:19.750Z",
+  "createdBy": "jacqueline.lipp@nzz.ch",
+  "updatedDate": "2024-06-12T15:09:37.292Z",
+  "updatedBy": "jacqueline.lipp@nzz.ch"
+}

@@ -1,0 +1,165 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Illustration Olivia Meyer / NZZ",
+      "firstTitle": "Der Schweizer Mittelstand ist stabil, kaufkräftig und zufrieden",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "7byBbNGKLlBsrrTTkHK5I",
+        "locale": "de-CH"
+      },
+      "title": "Dem Schweizer Mittelstand geht es besser als behauptet",
+      "seoTitle": "Schweizer Mittelstand: Stabile Lage trotz Prämienbelastung",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Matthias Benz (mbe)",
+          "id": 1373120,
+          "shortName": "mbe",
+          "proLitterisId": "163147"
+        }
+      ],
+      "nzzPrintTitle": "Der Mittelstand ist stabil, kaufkräftig und zufrieden",
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-05-18T15:30:00.000Z",
+      "department": {
+        "path": "/wirtschaft",
+        "premium": false,
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2024-05-18T03:30:00.000Z",
+      "slug": "der-schweizer-mittelstand-ist-stabil-kaufkraeftig-und-zufrieden",
+      "firstPublicationDate": "2024-05-18T03:30:00.000Z",
+      "nzzCharacterCount": 11631,
+      "owner": "NZZ",
+      "authorLine": "Matthias Benz",
+      "numberOfContentComponents": 54,
+      "leadText": "In der Schweiz geht das Gefühl um, dass es dem Mittelstand immer schlechter gehe. Doch die Zahlen zeigen das Gegenteil – eine Übersicht in Grafiken.",
+      "publicationLastUpdated": "2024-05-21T11:03:15.357Z",
+      "nzzArticleSnippet": "In der Schweiz geht das Gefühl um, dass es dem Mittelstand immer schlechter gehe. Doch die Zahlen zeigen das Gegenteil – eine Übersicht in Grafiken.",
+      "urlPath": "/wirtschaft/der-schweizer-mittelstand-ist-stabil-kaufkraeftig-und-zufrieden-ld.1830323",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 1800,
+        "originalUrl": "https://img.nzz.ch/2024/05/15/0f3c8155-d115-43e8-a6ce-bf72b1b6a07c.png",
+        "mimeType": "image/png",
+        "crops": [
+          {
+            "x": 0,
+            "width": 1800,
+            "name": "16:9",
+            "y": 176,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/15/0f3c8155-d115-43e8-a6ce-bf72b1b6a07c.png?crop=1800,1012,x0,y176&quality=75&auto=webp",
+            "height": 1012,
+            "ratio": 1.77778
+          },
+          {
+            "x": 0,
+            "width": 1351,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/15/0f3c8155-d115-43e8-a6ce-bf72b1b6a07c.png?crop=1351,1351,x0,y0&quality=75&auto=webp",
+            "height": 1351,
+            "ratio": 1
+          },
+          {
+            "x": 0,
+            "width": 1800,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/05/15/0f3c8155-d115-43e8-a6ce-bf72b1b6a07c.png?crop=1800,1350,x0,y0&quality=75&auto=webp",
+            "height": 1350,
+            "ratio": 1.33333
+          },
+          {
+            "x": 34,
+            "width": 1013,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/15/0f3c8155-d115-43e8-a6ce-bf72b1b6a07c.png?crop=1013,1351,x34,y0&quality=75&auto=webp",
+            "height": 1351,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "D87aKEtm9pgA",
+        "url": "https://img.nzz.ch/2024/05/15/0f3c8155-d115-43e8-a6ce-bf72b1b6a07c.png?quality=75&auto=webp",
+        "key": "2024/05/15/0f3c8155-d115-43e8-a6ce-bf72b1b6a07c.png",
+        "height": 1351
+      },
+      "nzzId": "ld.1830323",
+      "url": "https://www.nzz.ch/wirtschaft/der-schweizer-mittelstand-ist-stabil-kaufkraeftig-und-zufrieden-ld.1830323",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1htu1l1hl0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "commentCount": 1,
+      "layout": "longformstandard",
+      "estimationWordCount": 1690,
+      "nzzPrintSubtitle": "In der Schweiz geht das Gefühl um, dass es dem Mittelstand immer schlechter gehe. Doch die Zahlen zeigen das Gegenteil.",
+      "embeds": {
+        "images": [
+          {
+            "author": "Illustration Olivia Meyer / NZZ",
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/05/15/0f3c8155-d115-43e8-a6ce-bf72b1b6a07c.png"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "01da15f0f6a6396873566efb70ddfca5"
+          },
+          {
+            "id": "f3654341cf540fe865cc42e563c82c15"
+          },
+          {
+            "id": "983af8a2aeb5f80e315f239b4c3df4ea"
+          },
+          {
+            "id": "4485b24b64884b52a4e7f00c33d1137a"
+          },
+          {
+            "id": "2afca0b7daa8949e4879799e7e170515"
+          },
+          {
+            "id": "01da15f0f6a6396873566efb70cab5e3"
+          },
+          {
+            "id": "a5ade824f581a822eee2c8ca0e5f7e10"
+          },
+          {
+            "id": "01da15f0f6a6396873566efb70ce21d4"
+          },
+          {
+            "id": "0d17da0fa236b5d74d1efb39bf6dce79"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "documentId": "1830323",
+      "product": "NZZ.ch"
+    }
+  }
+]

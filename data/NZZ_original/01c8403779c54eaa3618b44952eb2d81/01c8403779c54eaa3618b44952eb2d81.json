@@ -1,0 +1,127 @@
+{
+  "_id": "01c8403779c54eaa3618b44952eb2d81",
+  "_rev": "12-87e24f0aff1707dc94faffec5fc78d41",
+  "department": "default",
+  "publication": "nzz",
+  "acronym": "mka",
+  "data": [
+    [
+      null,
+      null
+    ],
+    [
+      "Januar 2018",
+      "200.52"
+    ],
+    [
+      "Februar 2018",
+      "171.62"
+    ],
+    [
+      "März 2018",
+      "174.12"
+    ],
+    [
+      "April 2018",
+      "200.44"
+    ],
+    [
+      "Mai 2018",
+      "212.87"
+    ],
+    [
+      "Juni 2018",
+      "216.74"
+    ],
+    [
+      "Juli 2018",
+      "215.57"
+    ],
+    [
+      "August 2018",
+      "217.43"
+    ],
+    [
+      "September 2018",
+      "226.69"
+    ],
+    [
+      "Oktober 2018",
+      "217.28"
+    ],
+    [
+      "November 2018",
+      "227.42"
+    ],
+    [
+      "Dezember 2018",
+      "221.25"
+    ],
+    [
+      "Januar 2019",
+      "217.57"
+    ],
+    [
+      "Februar 2019",
+      "135.24"
+    ],
+    [
+      "März 2019",
+      "198.67"
+    ],
+    [
+      "April 2019",
+      "193.49"
+    ],
+    [
+      "Mai 2019",
+      "213.85"
+    ]
+  ],
+  "allowDownloadData": false,
+  "sources": [
+    {
+      "link": {},
+      "text": "General Administration of Customs China"
+    }
+  ],
+  "options": {
+    "chartType": "Line",
+    "hideAxisLabel": false,
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "year",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false,
+      "minValue": 100,
+      "maxValue": 250
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0
+    },
+    "highlightDataSeries": [],
+    "colorOverwritesSeries": [
+      {
+        "position": null
+      }
+    ]
+  },
+  "tool": "chart",
+  "title": "Chinas Exporteure spüren Zölle noch nicht",
+  "subtitle": "Ausfuhren, in Mrd. $",
+  "createdDate": "2019-06-27T13:47:50.993Z",
+  "createdBy": "michael.settelen@nzz.ch",
+  "updatedDate": "2019-06-27T13:59:06.622Z",
+  "updatedBy": "matthias.kamp@nzz.ch",
+  "active": true,
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/01c8403779c54eaa3618b44952eb2d81-thumbnail.jpeg"
+}

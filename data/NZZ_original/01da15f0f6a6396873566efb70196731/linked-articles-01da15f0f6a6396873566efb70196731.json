@@ -1,0 +1,156 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Imago",
+      "firstTitle": "Gewalt gegen Politiker: Justizminister Marco Buschmann sieht eine Verschärfung des Strafrechts kritisch",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "MEesHwVasDr2VH2uFFukL",
+        "locale": "de-CH"
+      },
+      "title": "Gewalt gegen Politiker: Justizminister Marco Buschmann sieht eine Verschärfung des Strafrechts kritisch",
+      "seoTitle": "Anstieg der Gewalt: Politiker von SPD und Grünen kritisieren AfD und Union",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Oliver Maksan (oma)",
+          "id": 1629949,
+          "shortName": "oma"
+        }
+      ],
+      "nzzPrintTitle": "Anstieg der Gewalt: Politiker von SPD und Grünen kritisieren AfD und Union",
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-05-10T21:29:42.763Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Morten  Freidel (frei)",
+          "id": 1823191,
+          "shortName": "frei"
+        }
+      ],
+      "department": {
+        "path": "/international",
+        "premium": false,
+        "level": 1,
+        "name": "International"
+      },
+      "publicationDate": "2024-05-10T09:29:42.763Z",
+      "slug": "anstieg-der-gewalt-politiker-von-spd-und-gruenen-kritisieren-afd-und-union",
+      "firstPublicationDate": "2024-05-10T09:29:42.763Z",
+      "nzzCharacterCount": 4621,
+      "owner": "NZZ",
+      "authorLine": "Oliver Maksan, Berlin",
+      "numberOfContentComponents": 18,
+      "germanyRelevant": true,
+      "leadText": "Jüngst ist es in Deutschland zu einer Reihe von Übergriffen auf Politiker gekommen. Vertreter des linken Spektrums machen dafür die AfD verantwortlich. Aber auch die Union wird kritisiert.",
+      "publicationLastUpdated": "2024-05-10T11:53:55.509Z",
+      "nzzArticleSnippet": "Jüngst ist es in Deutschland zu einer Reihe von Übergriffen auf Politiker gekommen. Vertreter des linken Spektrums machen dafür die AfD verantwortlich. Aber auch die Union wird kritisiert.",
+      "urlPath": "/international/anstieg-der-gewalt-politiker-von-spd-und-gruenen-kritisieren-afd-und-union-ld.1829895",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 8256,
+        "originalUrl": "https://img.nzz.ch/2024/05/10/3e2ecd35-466c-4f9e-b40e-eb9bce180daa.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 8256,
+            "name": "16:9",
+            "y": 361,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/10/3e2ecd35-466c-4f9e-b40e-eb9bce180daa.jpeg?crop=8256,4644,x0,y361&quality=75&auto=webp",
+            "height": 4644,
+            "ratio": 1.77778
+          },
+          {
+            "x": 1288,
+            "width": 5504,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/10/3e2ecd35-466c-4f9e-b40e-eb9bce180daa.jpeg?crop=5504,5504,x1288,y0&quality=75&auto=webp",
+            "height": 5504,
+            "ratio": 1
+          },
+          {
+            "x": 532,
+            "width": 7339,
+            "name": "4:3",
+            "y": 1,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/10/3e2ecd35-466c-4f9e-b40e-eb9bce180daa.jpeg?crop=7339,5503,x532,y1&quality=75&auto=webp",
+            "height": 5503,
+            "ratio": 1.33333
+          },
+          {
+            "x": 2041,
+            "width": 4128,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/10/3e2ecd35-466c-4f9e-b40e-eb9bce180daa.jpeg?crop=4128,5504,x2041,y0&quality=75&auto=webp",
+            "height": 5504,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "bw6k75P4jgqR",
+        "url": "https://img.nzz.ch/2024/05/10/3e2ecd35-466c-4f9e-b40e-eb9bce180daa.jpeg?quality=75&auto=webp",
+        "key": "2024/05/10/3e2ecd35-466c-4f9e-b40e-eb9bce180daa.jpeg",
+        "height": 5504
+      },
+      "nzzId": "ld.1829895",
+      "url": "https://www.nzz.ch/international/anstieg-der-gewalt-politiker-von-spd-und-gruenen-kritisieren-afd-und-union-ld.1829895",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1htgosbo81"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "estimationWordCount": 684,
+      "nzzPrintSubtitle": "Zuletzt ist es in Deutschland zu einer Reihe von Übergriffen auf Politiker gekommen. ",
+      "embeds": {
+        "images": [
+          {
+            "author": "Imago",
+            "caption": "Entstellter Bundeskanzler: Das Bild zeigt ein verunstaltetes Wahlplakat der SPD im Europawahlkampf.",
+            "origins": [
+              {
+                "identifier": "2155513087",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/05/10/3e2ecd35-466c-4f9e-b40e-eb9bce180daa.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "01da15f0f6a6396873566efb70196731"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/international",
+          "name": "International"
+        }
+      ],
+      "teaserCaption": "Entstellter Bundeskanzler: Das Bild zeigt ein verunstaltetes Wahlplakat der SPD im Europawahlkampf.",
+      "documentId": "1829895",
+      "product": "NZZ.ch"
+    }
+  }
+]

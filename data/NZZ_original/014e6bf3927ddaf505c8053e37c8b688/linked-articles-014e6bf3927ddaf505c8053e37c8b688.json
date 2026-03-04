@@ -1,0 +1,171 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "Tim Rue / Bloomberg",
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Das lange Warten: Warum sich die Probleme in den internationalen Lieferketten noch nicht entspannt haben",
+      "seoTitle": "Das lange Warten: Probleme in internationalen Lieferketten",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Gerald Hosp (gho)",
+          "id": 1372536
+        },
+        {
+          "external": false,
+          "name": "Florian Seliger (fsl)",
+          "id": 1556093
+        },
+        {
+          "external": false,
+          "name": "Jonas Oesch (joe)",
+          "id": 1509324
+        },
+        {
+          "external": false,
+          "name": "Adina Renner (adi)",
+          "id": 1564678
+        },
+        {
+          "external": false,
+          "name": "Martin Berz (brz)",
+          "id": 1372044
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2022-02-05T06:46:34.806Z",
+      "department": {
+        "path": "/wirtschaft",
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2022-02-05T04:30:00.000Z",
+      "slug": "das-lange-warten-probleme-in-internationalen-lieferketten",
+      "firstPublicationDate": "2022-02-04T18:46:34.806Z",
+      "nzzCharacterCount": 10827,
+      "authorLine": "Gerald Hosp, Rewert Hoffer, Florian Seliger, Jonas Oesch",
+      "numberOfContentComponents": 43,
+      "germanyRelevant": true,
+      "leadText": "Seit dem Ausbruch der Pandemie läuft der Welthandel nicht mehr rund: Staus vor Häfen, Mangel an Containern, zu wenig Lastwagenchauffeure. Wir zeigen auf, wie schlimm es tatsächlich ist und ob sich der Knoten in den Lieferketten zu lösen beginnt.",
+      "publicationLastUpdated": "2022-02-04T18:46:34.806Z",
+      "nzzArticleSnippet": "Seit dem Ausbruch der Pandemie läuft der Welthandel nicht mehr rund: Staus vor Häfen, Mangel an Containern, zu wenig Lastwagenchauffeure. Wir zeigen auf, wie schlimm es tatsächlich ist und ob sich der Knoten in den Lieferketten zu lösen beginnt.",
+      "copySourceId": 1654080,
+      "urlPath": "/wirtschaft/das-lange-warten-probleme-in-internationalen-lieferketten-ld.1667729",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 5401,
+        "originalUrl": "https://nzz-img.s3.amazonaws.com/2021/11/8/5a843f69-e08c-4ff3-b98f-b60e4d9be522.png",
+        "mimeType": "image/png",
+        "crops": [
+          {
+            "x": 0,
+            "width": 5401,
+            "name": "16:9",
+            "y": 186,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/C=W5401,H3038,X0,Y186/O=75/https://nzz-img.s3.amazonaws.com/2021/11/8/5a843f69-e08c-4ff3-b98f-b60e4d9be522.png",
+            "height": 3038,
+            "ratio": 1.77778
+          },
+          {
+            "x": 995,
+            "width": 3411,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/C=W3411,H3411,X995,Y0/O=75/https://nzz-img.s3.amazonaws.com/2021/11/8/5a843f69-e08c-4ff3-b98f-b60e4d9be522.png",
+            "height": 3411,
+            "ratio": 1
+          }
+        ],
+        "mediaId": "iU7c-WXkraG3",
+        "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2021/11/8/5a843f69-e08c-4ff3-b98f-b60e4d9be522.png",
+        "height": 3411
+      },
+      "nzzId": "ld.1667729",
+      "url": "https://www.nzz.ch/wirtschaft/das-lange-warten-probleme-in-internationalen-lieferketten-ld.1667729",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1fjv6mec50",
+              "doc-1fr05n9lk0",
+              "doc-1fr05s7590"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "commentCount": 7,
+      "layout": "longformvisual",
+      "embeds": {
+        "images": [
+          {
+            "author": "Tim Rue / Bloomberg",
+            "caption": "Bitte warten! Containerschiffe liegen vor der amerikanischen Ostküste vor Anker.&nbsp;",
+            "origins": [
+              {
+                "identifier": "2126515398",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2022/02/03/194b3f0d-039f-4137-9503-f969d704e5fa.jpeg"
+          },
+          {
+            "author": "Tim Rue / Bloomberg",
+            "caption": "Das Containerschiff «Swordfish» der Reederei CMA CGM hat es geschafft: Der Frachter wird am Hafen von Los Angeles entladen.",
+            "origins": [
+              {
+                "identifier": "2126515395",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2022/02/03/08615134-fc6c-473b-96fd-d797c2506e01.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "82c402bc00327959f5c29b8e9a34d7d0"
+          },
+          {
+            "id": "8a9ed646e4d16f7466de85c6d70b89c8"
+          },
+          {
+            "id": "8a9ed646e4d16f7466de85c6d712bb94"
+          },
+          {
+            "id": "4096a22e763bc188dd0365cc91b0282e"
+          },
+          {
+            "id": "014e6bf3927ddaf505c8053e37b19f07"
+          },
+          {
+            "id": "4096a22e763bc188dd0365cc91b12465"
+          },
+          {
+            "id": "014e6bf3927ddaf505c8053e37b26f3e"
+          },
+          {
+            "id": "014e6bf3927ddaf505c8053e37c8b688"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Bitte warten! Containerschiffe liegen vor der amerikanischen Ostküste vor Anker.",
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "documentId": "1667729",
+      "product": "NZZ.ch"
+    }
+  }
+]

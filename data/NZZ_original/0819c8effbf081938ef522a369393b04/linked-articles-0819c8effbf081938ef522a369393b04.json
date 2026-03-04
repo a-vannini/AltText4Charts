@@ -1,0 +1,152 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Karin Hofer / NZZ",
+      "firstTitle": "Höhere Zinsen haben die Eigenheimpreise kaum gebremst – was passiert, wenn sie jetzt wieder sinken?",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "5HEURstyOycSEGhBFjeeL",
+        "locale": "de-CH"
+      },
+      "title": "Höhere Zinsen haben die Eigenheimpreise kaum gebremst – was passiert, wenn sie jetzt wieder sinken?",
+      "seoTitle": "Eigenheime: Weniger Transaktionen, aber kaum Preisnachlässe",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Andrea Martel (am)",
+          "id": 1371846,
+          "shortName": "am"
+        }
+      ],
+      "nzzPrintTitle": "Weniger Transaktionen, aber kaum Preisnachlässe",
+      "designName": "morpheus",
+      "seoSocialMediaTitle": "Eigenheime: Höhere Zinsen haben die Preisentwicklung nicht gebremst ",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-04-26T15:30:00.000Z",
+      "department": {
+        "path": "/finanzen",
+        "premium": false,
+        "level": 1,
+        "name": "Finanzen"
+      },
+      "publicationDate": "2024-04-26T03:30:00.000Z",
+      "slug": "eigenheime-hoehere-zinsen-haben-die-preisentwicklung-nicht-gebremst",
+      "firstPublicationDate": "2024-04-26T03:30:00.000Z",
+      "nzzCharacterCount": 3860,
+      "owner": "NZZ",
+      "authorLine": "Andrea Martel",
+      "numberOfContentComponents": 16,
+      "germanyRelevant": true,
+      "leadText": "In den vergangenen zwei Jahren war Kaufen teurer als Mieten. Trotzdem sind die Eigenheimpreise nicht gesunken. Und nun hat die Nationalbank die Zinsen bereits wieder gesenkt.",
+      "publicationLastUpdated": "2024-04-26T03:30:00.000Z",
+      "nzzArticleSnippet": "In den vergangenen zwei Jahren war Kaufen teurer als Mieten. Trotzdem sind die Eigenheimpreise nicht gesunken. Und nun hat die Nationalbank die Zinsen bereits wieder gesenkt.",
+      "urlPath": "/finanzen/eigenheime-hoehere-zinsen-haben-die-preisentwicklung-nicht-gebremst-ld.1827877",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 5568,
+        "originalUrl": "https://img.nzz.ch/2023/03/15/b5e15c76-0161-4771-bd49-d50ef5aa0299.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 5568,
+            "name": "16:9",
+            "y": 290,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2023/03/15/b5e15c76-0161-4771-bd49-d50ef5aa0299.jpeg?crop=5568,3132,x0,y290&width=1024&quality=75&auto=webp",
+            "height": 3132,
+            "ratio": 1.77778
+          },
+          {
+            "x": 928,
+            "width": 3712,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2023/03/15/b5e15c76-0161-4771-bd49-d50ef5aa0299.jpeg?crop=3712,3712,x928,y0&width=1024&quality=75&auto=webp",
+            "height": 3712,
+            "ratio": 1
+          },
+          {
+            "x": 309,
+            "width": 4949,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2023/03/15/b5e15c76-0161-4771-bd49-d50ef5aa0299.jpeg?crop=4949,3712,x309,y0&width=1024&quality=75&auto=webp",
+            "height": 3712,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1392,
+            "width": 2784,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2023/03/15/b5e15c76-0161-4771-bd49-d50ef5aa0299.jpeg?crop=2784,3712,x1392,y0&width=1024&quality=75&auto=webp",
+            "height": 3712,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "GvNEOaicPnzT",
+        "url": "https://img.nzz.ch/2023/03/15/b5e15c76-0161-4771-bd49-d50ef5aa0299.jpeg?width=1024&quality=75&auto=webp",
+        "key": "2023/03/15/b5e15c76-0161-4771-bd49-d50ef5aa0299.jpeg",
+        "height": 3712
+      },
+      "nzzId": "ld.1827877",
+      "url": "https://www.nzz.ch/finanzen/eigenheime-hoehere-zinsen-haben-die-preisentwicklung-nicht-gebremst-ld.1827877",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hsaq37qs0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "estimationWordCount": 626,
+      "nzzPrintSubtitle": "Höhere Zinsen haben Eigenheimpreise nicht gebremst ",
+      "embeds": {
+        "images": [
+          {
+            "author": "Karin Hofer / NZZ",
+            "caption": "Eigenheime bleiben begehrt, auch wenn Hypotheken nicht mehr fast gratis zu haben sind.",
+            "origins": [
+              {
+                "identifier": "2142114744",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2023/03/15/b5e15c76-0161-4771-bd49-d50ef5aa0299.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "64d3df3ff8944eb8b41a1540eab81512"
+          },
+          {
+            "id": "0819c8effbf081938ef522a369393b04"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/finanzen",
+          "name": "Finanzen"
+        }
+      ],
+      "teaserCaption": "Eigenheime bleiben begehrt, auch wenn Hypotheken nicht mehr fast gratis zu haben sind.",
+      "documentId": "1827877",
+      "product": "NZZ.ch"
+    }
+  }
+]

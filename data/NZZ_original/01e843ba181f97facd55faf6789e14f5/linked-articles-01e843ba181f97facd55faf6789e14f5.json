@@ -1,0 +1,113 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "Goran Basic / NZZ",
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Sparen für den Ruhestand: In der Schweiz genügt es, wenn man ab dem Alter 50 beginnt – der Reformstau im Vorsorgesystem hinterlässt aber Spuren",
+      "seoTitle": "AHV und Pensionskassen: Schweiz in Vorsorgevergleich auf Rang 8",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Michael Ferber (feb)",
+          "id": 1372418
+        }
+      ],
+      "nzzPrintTitle": "Mit 50 ist es noch nicht zu spät fürs Sparen",
+      "designName": "morpheus",
+      "significantUpdateTill": "2021-05-21T01:54:55.772Z",
+      "department": {
+        "path": "/finanzen",
+        "level": 1,
+        "name": "Finanzen"
+      },
+      "publicationDate": "2021-05-20T13:54:55.772Z",
+      "slug": "ahv-und-pensionskassen-schweiz-in-vorsorgevergleich-auf-rang-8",
+      "firstPublicationDate": "2021-05-20T13:54:55.772Z",
+      "nzzCharacterCount": 4264,
+      "authorLine": "Michael Ferber",
+      "numberOfContentComponents": 16,
+      "leadText": "In einem Vergleich der Vorsorgesysteme in 24 Ländern liegt die Schweiz am Ende des vordersten Drittels. Vor ihr rangieren Länder wie die Niederlande, Dänemark oder Schweden, die bei Reformen einen Vorsprung haben.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2021-05-20T16:42:18.720Z",
+      "nzzArticleSnippet": "In einem Vergleich der Vorsorgesysteme in 24 Ländern liegt die Schweiz am Ende des vordersten Drittels. Vor ihr rangieren Länder wie die Niederlande, Dänemark oder Schweden, die bei Reformen einen Vorsprung haben.",
+      "urlPath": "/finanzen/ahv-und-pensionskassen-schweiz-in-vorsorgevergleich-auf-rang-8-ld.1626198",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 4106,
+        "originalUrl": "https://img.nzz.ch/2021/5/20/40bb88e5-c46e-4e6e-99af-b3aa8d295964.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 233,
+            "width": 3650,
+            "y": 93,
+            "url": "https://img.nzz.ch/2021/5/20/40bb88e5-c46e-4e6e-99af-b3aa8d295964.jpeg?crop=3650,2053,x233,y93&width=1024&quality=75&auto=webp",
+            "height": 2053
+          },
+          {
+            "name": "1:1",
+            "x": 1684,
+            "width": 748,
+            "y": 486,
+            "url": "https://img.nzz.ch/2021/5/20/40bb88e5-c46e-4e6e-99af-b3aa8d295964.jpeg?crop=748,748,x1684,y486&width=1024&quality=75&auto=webp",
+            "height": 748
+          }
+        ],
+        "url": "https://img.nzz.ch/2021/5/20/40bb88e5-c46e-4e6e-99af-b3aa8d295964.jpeg?width=1024&quality=75&auto=webp",
+        "key": "2021/5/20/40bb88e5-c46e-4e6e-99af-b3aa8d295964.jpeg",
+        "height": 2732
+      },
+      "nzzId": "ld.1626198",
+      "url": "https://www.nzz.ch/finanzen/ahv-und-pensionskassen-schweiz-in-vorsorgevergleich-auf-rang-8-ld.1626198",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1f6500a6s0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "nzzPrintSubtitle": "Vorsorgelücke in der Schweiz international gesehen überschaubar - Reformstau im System hinterlässt aber Spuren",
+      "embeds": {
+        "images": [
+          {
+            "author": "Goran Basic / NZZ",
+            "caption": "Nicht alle Pensionäre sind finanziell weich gebettet. Wer den Lebensstandard im Ruhestand bewahren will, muss heute mehr sparen als noch vor wenigen Jahren.",
+            "origins": [
+              {
+                "identifier": "picture-21103525",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2021/5/20/40bb88e5-c46e-4e6e-99af-b3aa8d295964.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "01e843ba181f97facd55faf6789e14f5"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Nicht alle Pensionäre sind finanziell weich gebettet. Wer den Lebensstandard im Ruhestand bewahren will, muss heute mehr sparen als noch vor wenigen Jahren.",
+      "breadcrumbs": [
+        {
+          "path": "/finanzen",
+          "name": "Finanzen"
+        }
+      ],
+      "documentId": "1626198",
+      "product": "NZZ.ch"
+    }
+  }
+]

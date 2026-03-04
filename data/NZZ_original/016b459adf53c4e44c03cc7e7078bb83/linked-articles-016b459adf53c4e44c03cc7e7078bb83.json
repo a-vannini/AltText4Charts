@@ -1,0 +1,116 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "Gaetan Bally / Keystone",
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Viele Hürden auf dem Weg zum «grünen Zement»",
+      "seoTitle": "Holcim: Viele Hürden auf dem Weg zum «grünen Zement»",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Giorgio V. Müller (gvm)",
+          "id": 1372586
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2020-10-02T10:11:33.121Z",
+      "department": {
+        "path": "/wirtschaft",
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2020-10-02T03:30:00.000Z",
+      "slug": "holcim-viele-huerden-auf-dem-weg-zum-gruenen-zement",
+      "firstPublicationDate": "2020-10-01T22:11:33.121Z",
+      "nzzCharacterCount": 7393,
+      "authorLine": "Giorgio V. Müller, Siggenthal (AG)",
+      "numberOfContentComponents": 23,
+      "leadText": "Die Zementherstellung ist extrem CO2-intensiv. Die Marktführer LafargeHolcim und HeidelbergCement übertrumpfen sich mit ständig ambitiöseren Klimazielen. Auf dem Weg zur CO2-neutralen Zementherstellung sind unerwartete Hürden zu meistern.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2020-10-09T14:48:54.807Z",
+      "nzzArticleSnippet": "Die Zementherstellung ist extrem CO2-intensiv. Die Marktführer LafargeHolcim und HeidelbergCement übertrumpfen sich mit ständig ambitiöseren Klimazielen. Auf dem Weg zur CO2-neutralen Zementherstellung sind unerwartete Hürden zu meistern.",
+      "urlPath": "/wirtschaft/holcim-viele-huerden-auf-dem-weg-zum-gruenen-zement-ld.1578395",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 5386,
+        "originalUrl": "https://nzz-img.s3.amazonaws.com/2020/9/30/3eeced06-f5c1-4f06-8640-4c036a832327.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 0,
+            "width": 5386,
+            "y": 211,
+            "url": "https://img.nzz.ch/C=W5386,H3030,X0,Y211/O=75/https://nzz-img.s3.amazonaws.com/2020/9/30/3eeced06-f5c1-4f06-8640-4c036a832327.jpeg",
+            "height": 3030
+          },
+          {
+            "name": "1:1",
+            "x": 1986,
+            "width": 1771,
+            "y": 847,
+            "url": "https://img.nzz.ch/C=W1771,H1771,X1986,Y847/O=75/https://nzz-img.s3.amazonaws.com/2020/9/30/3eeced06-f5c1-4f06-8640-4c036a832327.jpeg",
+            "height": 1771
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2020/9/30/3eeced06-f5c1-4f06-8640-4c036a832327.jpeg",
+        "height": 3591
+      },
+      "nzzId": "ld.1578395",
+      "url": "https://www.nzz.ch/wirtschaft/holcim-viele-huerden-auf-dem-weg-zum-gruenen-zement-ld.1578395",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1ejfb2alk0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "embeds": {
+        "images": [
+          {
+            "author": "Gaetan Bally / Keystone",
+            "caption": "Aus einem kleinen, 1912 gegründeten&nbsp;Zementwerk in Holderbank ist der Weltmarktführer LafargeHolcim geworden. In der Schweiz betreibt das Unternehmen mit Siggenthal, Eclépens und Untervaz (Bild) noch drei Zementfabriken.",
+            "origins": [
+              {
+                "identifier": "picture-2113659280",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2020/9/30/3eeced06-f5c1-4f06-8640-4c036a832327.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "016b459adf53c4e44c03cc7e707ac5e1"
+          },
+          {
+            "id": "d912741d8c952ff0b927bc3a46d0dbc3"
+          },
+          {
+            "id": "016b459adf53c4e44c03cc7e7078bb83"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Aus einem kleinen, 1912 gegründeten Zementwerk in Holderbank ist der Weltmarktführer LafargeHolcim geworden. In der Schweiz betreibt das Unternehmen mit Siggenthal, Eclépens und Untervaz (Bild) noch drei Zementfabriken.",
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "documentId": "1578395",
+      "product": "NZZ.ch"
+    }
+  }
+]

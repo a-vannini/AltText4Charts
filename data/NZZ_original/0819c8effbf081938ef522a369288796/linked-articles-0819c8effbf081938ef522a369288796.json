@@ -1,0 +1,155 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Karin Hofer / NZZ",
+      "firstTitle": "Nach der Rettung machen sie Geld wie Heu: Weshalb verdienen Stromkonzerne so viel wie noch nie?",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "Op8cRc12wbIDM0pavH_NV",
+        "locale": "de-CH"
+      },
+      "title": "Die Stromfirmen machen Milliardengewinne, doch für die Konsumenten dürften die Strompreise erst 2026 sinken. Über die Gründe",
+      "seoTitle": "Stromkonzerne: Nach der Rettung machen sie Monstergewinne – und die Konsumenten?",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Christoph Eisenring (cei)",
+          "id": 1372114,
+          "shortName": "cei",
+          "proLitterisId": "13375"
+        }
+      ],
+      "nzzPrintTitle": "Nach dem Rettungsschirm die Monstergewinne",
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-04-27T15:30:00.000Z",
+      "department": {
+        "path": "/wirtschaft",
+        "premium": false,
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2024-04-27T03:30:00.000Z",
+      "slug": "nach-der-rettung-machen-sie-geld-wie-heu-weshalb-verdienen-stromkonzerne-so-viel-wie-noch-nie",
+      "firstPublicationDate": "2024-04-27T03:30:00.000Z",
+      "nzzCharacterCount": 8055,
+      "owner": "NZZ",
+      "authorLine": "Christoph Eisenring",
+      "numberOfContentComponents": 29,
+      "germanyRelevant": true,
+      "leadText": "Die vier grossen Schweizer Stromkonzerne haben 2023 fünf Milliarden Franken verdient, obwohl sie kürzlich noch in Bedrängnis waren. Derweil leiden die Konsumenten unter rekordhohen Strompreisen.",
+      "publicationLastUpdated": "2024-04-27T11:16:17.626Z",
+      "nzzArticleSnippet": "Die vier grossen Schweizer Stromkonzerne haben 2023 fünf Milliarden Franken verdient, obwohl sie kürzlich noch in Bedrängnis waren. Derweil leiden die Konsumenten unter rekordhohen Strompreisen.",
+      "urlPath": "/wirtschaft/nach-der-rettung-machen-sie-geld-wie-heu-weshalb-verdienen-stromkonzerne-so-viel-wie-noch-nie-ld.1827700",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 3685,
+        "originalUrl": "https://img.nzz.ch/2021/12/22/f3c53e7b-1475-4fe3-8fc1-388f0c6338c1.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 3685,
+            "name": "16:9",
+            "y": 879,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2021/12/22/f3c53e7b-1475-4fe3-8fc1-388f0c6338c1.jpeg?crop=3685,2073,x0,y879&width=1024&quality=75&auto=webp",
+            "height": 2073,
+            "ratio": 1.77778
+          },
+          {
+            "x": 1216,
+            "width": 1616,
+            "name": "1:1",
+            "y": 1737,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2021/12/22/f3c53e7b-1475-4fe3-8fc1-388f0c6338c1.jpeg?crop=1616,1616,x1216,y1737&width=1024&quality=75&auto=webp",
+            "height": 1616,
+            "ratio": 1
+          },
+          {
+            "x": 0,
+            "width": 3685,
+            "name": "4:3",
+            "y": 930,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2021/12/22/f3c53e7b-1475-4fe3-8fc1-388f0c6338c1.jpeg?crop=3685,2764,x0,y930&width=1024&quality=75&auto=webp",
+            "height": 2764,
+            "ratio": 1.33333
+          },
+          {
+            "x": 0,
+            "width": 3685,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2021/12/22/f3c53e7b-1475-4fe3-8fc1-388f0c6338c1.jpeg?crop=3685,4913,x0,y0&width=1024&quality=75&auto=webp",
+            "height": 4913,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "m2cmBPHQ9g5D",
+        "url": "https://img.nzz.ch/2021/12/22/f3c53e7b-1475-4fe3-8fc1-388f0c6338c1.jpeg?width=1024&quality=75&auto=webp",
+        "key": "2021/12/22/f3c53e7b-1475-4fe3-8fc1-388f0c6338c1.jpeg",
+        "height": 5527
+      },
+      "nzzId": "ld.1827700",
+      "url": "https://www.nzz.ch/wirtschaft/nach-der-rettung-machen-sie-geld-wie-heu-weshalb-verdienen-stromkonzerne-so-viel-wie-noch-nie-ld.1827700",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hsahbm9l1"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "estimationWordCount": 1279,
+      "nzzPrintSubtitle": "Die Stromkonzerne verdienen viel Geld – geht das auf Kosten der Konsumenten?",
+      "embeds": {
+        "images": [
+          {
+            "author": "Karin Hofer / NZZ",
+            "caption": "Seit zwei Jahren steigen die Strompreise für die Konsumenten steil an.",
+            "origins": [
+              {
+                "identifier": "2126230402",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2021/12/22/f3c53e7b-1475-4fe3-8fc1-388f0c6338c1.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "ac32d7e80793b5151ea699162152edd5"
+          },
+          {
+            "id": "0819c8effbf081938ef522a369288796"
+          },
+          {
+            "id": "64d3df3ff8944eb8b41a1540eaa738eb"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "teaserCaption": "Seit zwei Jahren steigen die Strompreise für die Konsumenten steil an.",
+      "documentId": "1827700",
+      "product": "NZZ.ch"
+    }
+  }
+]

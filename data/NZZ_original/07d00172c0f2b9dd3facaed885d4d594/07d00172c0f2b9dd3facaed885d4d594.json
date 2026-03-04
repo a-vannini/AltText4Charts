@@ -1,0 +1,135 @@
+{
+  "_id": "07d00172c0f2b9dd3facaed885d4d594",
+  "_rev": "16-1e58946503da905fcd4985123be0c085",
+  "department": "Wirtschaft",
+  "publication": "nzz",
+  "acronym": "pfi.",
+  "data": [
+    [
+      "Warenkategorie",
+      "Prozentveränderung"
+    ],
+    [
+      "Maschinen",
+      "-0.5"
+    ],
+    [
+      "Lederw./Schuhe/Textilien/Möbel",
+      "-1.3"
+    ],
+    [
+      "Stahl / Eisen / andere Metalle",
+      "0.6"
+    ],
+    [
+      "Chemikalien",
+      "0.5"
+    ],
+    [
+      "Nahrungsmittel",
+      "-0.9"
+    ],
+    [
+      "Autos",
+      "2.9"
+    ],
+    [
+      "Erdöl/Erdgas/Kohle/Strom",
+      "-0.3"
+    ],
+    [
+      "Rohmaterialien ohne Energie",
+      "-0.1"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {
+        "url": "http://english.customs.gov.cn/statics/report/monthly2018.html",
+        "isValid": true
+      },
+      "text": "Chinesische Zollverwaltung GACC"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {
+      "valuesOnBars": true
+    },
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [
+      {
+        "color": "#478c5b",
+        "position": 3
+      },
+      {
+        "color": "#478c5b",
+        "position": 4
+      },
+      {
+        "color": "#478c5b",
+        "position": 6
+      },
+      {
+        "color": "#ce4631",
+        "position": 1
+      },
+      {
+        "color": "#ce4631",
+        "position": 2
+      },
+      {
+        "color": "#ce4631",
+        "position": 5
+      },
+      {
+        "color": "#ce4631",
+        "position": 7
+      },
+      {
+        "color": "#ce4631",
+        "position": 8
+      }
+    ],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "Mehr Autos und Metalle, weniger Kleider und Möbel",
+  "subtitle": "Veränderung des Anteils an Chinas Gesamtexporten von Januar bis April 2024 im Vergleich zu Januar bis April 2018, in Prozentpunkten",
+  "createdDate": "2024-05-23T09:15:11.005Z",
+  "createdBy": "peter.fischer@nzz.ch",
+  "updatedDate": "2024-05-24T06:32:24.638Z",
+  "updatedBy": "marianne.bosshard@nzz.ch"
+}

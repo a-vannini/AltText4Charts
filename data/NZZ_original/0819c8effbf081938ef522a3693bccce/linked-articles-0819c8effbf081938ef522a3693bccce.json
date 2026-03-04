@@ -1,0 +1,273 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "PD",
+      "firstTitle": "Für den Olympia-Traum erduldeten sie sogar Peitschenhiebe: So kämpften sich die Frauen durch die Geschichte der Spiele",
+      "significantUpdate": true,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "lcrXwOVhsVDYoO_jwsCZN",
+        "locale": "de-CH"
+      },
+      "title": "Für den Olympia-Traum erduldeten sie sogar Peitschenhiebe: So kämpften sich die Frauen durch die Geschichte der Spiele",
+      "seoTitle": "Olympia 2024: der lange Kampf der Frauen um Gleichberechtigung an den Spielen",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Eva Breitenstein (eva)",
+          "id": 1744553,
+          "shortName": "eva",
+          "proLitterisId": "513334"
+        }
+      ],
+      "nzzPrintTitle": "Für den Olympia-Traum erduldeten sie sogar Peitschenhiebe",
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-07-26T03:25:54.142Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Marco Ackermann (ac)",
+          "id": 1371773,
+          "shortName": "ac",
+          "proLitterisId": "884545"
+        }
+      ],
+      "department": {
+        "path": "/sport/weitere-sportarten",
+        "premium": false,
+        "level": 2,
+        "parentPath": "/sport",
+        "name": "Weitere Sportarten"
+      },
+      "publicationDate": "2024-07-25T15:25:54.142Z",
+      "slug": "olympia-2024-der-lange-kampf-der-frauen-um-gleichberechtigung-an-den-spielen",
+      "printPublicationDate": "26.07.2024",
+      "firstPublicationDate": "2024-07-25T14:00:01.539Z",
+      "nzzCharacterCount": 10741,
+      "owner": "NZZ",
+      "authorLine": "Eva Breitenstein",
+      "numberOfContentComponents": 55,
+      "seoDescription": "",
+      "bestBeforeDate": "2024-07-26T11:08:00.000Z",
+      "germanyRelevant": true,
+      "leadText": "An den Sommerspielen in Paris stellen Frauen erstmals die Hälfte des Olympia-Teilnehmerfelds – 124 Jahre nach ihrem Debüt. Zu den Meilensteinen der weiblichen Sportgeschichte zählt, dass 1900 die erste Olympiasiegerin der Neuzeit aus der Schweiz kam.",
+      "publicationLastUpdated": "2024-07-25T15:25:54.142Z",
+      "nzzArticleSnippet": "An den Sommerspielen in Paris stellen Frauen erstmals die Hälfte des Olympia-Teilnehmerfelds – 124 Jahre nach ihrem Debüt. Zu den Meilensteinen der weiblichen Sportgeschichte zählt, dass 1900 die erste Olympiasiegerin der Neuzeit aus der Schweiz kam.",
+      "urlPath": "/sport/weitere-sportarten/olympia-2024-der-lange-kampf-der-frauen-um-gleichberechtigung-an-den-spielen-ld.1834407",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 4281,
+        "originalUrl": "https://img.nzz.ch/2024/07/18/52cd2737-126d-4573-81c5-a7b76918c52a.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 308,
+            "width": 3805,
+            "name": "16:9",
+            "y": 741,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2024/07/18/52cd2737-126d-4573-81c5-a7b76918c52a.jpeg?crop=3805,2140,x308,y741&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2024/07/18/52cd2737-126d-4573-81c5-a7b76918c52a.jpeg?crop=3805,2140,x308,y741&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2024/07/18/52cd2737-126d-4573-81c5-a7b76918c52a.jpeg?crop=3805,2140,x308,y741&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2024/07/18/52cd2737-126d-4573-81c5-a7b76918c52a.jpeg?crop=3805,2140,x308,y741&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/07/18/52cd2737-126d-4573-81c5-a7b76918c52a.jpeg?crop=3805,2140,x308,y741&width=1024&quality=75&auto=webp",
+            "height": 2140,
+            "ratio": 1.77778
+          },
+          {
+            "x": 769,
+            "width": 2673,
+            "name": "1:1",
+            "y": 583,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2024/07/18/52cd2737-126d-4573-81c5-a7b76918c52a.jpeg?crop=2673,2673,x769,y583&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2024/07/18/52cd2737-126d-4573-81c5-a7b76918c52a.jpeg?crop=2673,2673,x769,y583&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2024/07/18/52cd2737-126d-4573-81c5-a7b76918c52a.jpeg?crop=2673,2673,x769,y583&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2024/07/18/52cd2737-126d-4573-81c5-a7b76918c52a.jpeg?crop=2673,2673,x769,y583&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/07/18/52cd2737-126d-4573-81c5-a7b76918c52a.jpeg?crop=2673,2673,x769,y583&width=1024&quality=75&auto=webp",
+            "height": 2673,
+            "ratio": 1
+          },
+          {
+            "x": 0,
+            "width": 4281,
+            "name": "4:3",
+            "y": 669,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2024/07/18/52cd2737-126d-4573-81c5-a7b76918c52a.jpeg?crop=4281,3211,x0,y669&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2024/07/18/52cd2737-126d-4573-81c5-a7b76918c52a.jpeg?crop=4281,3211,x0,y669&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2024/07/18/52cd2737-126d-4573-81c5-a7b76918c52a.jpeg?crop=4281,3211,x0,y669&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2024/07/18/52cd2737-126d-4573-81c5-a7b76918c52a.jpeg?crop=4281,3211,x0,y669&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/07/18/52cd2737-126d-4573-81c5-a7b76918c52a.jpeg?crop=4281,3211,x0,y669&width=1024&quality=75&auto=webp",
+            "height": 3211,
+            "ratio": 1.33333
+          },
+          {
+            "x": 475,
+            "width": 3700,
+            "name": "3:4",
+            "y": 616,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2024/07/18/52cd2737-126d-4573-81c5-a7b76918c52a.jpeg?crop=3700,4933,x475,y616&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2024/07/18/52cd2737-126d-4573-81c5-a7b76918c52a.jpeg?crop=3700,4933,x475,y616&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2024/07/18/52cd2737-126d-4573-81c5-a7b76918c52a.jpeg?crop=3700,4933,x475,y616&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2024/07/18/52cd2737-126d-4573-81c5-a7b76918c52a.jpeg?crop=3700,4933,x475,y616&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/07/18/52cd2737-126d-4573-81c5-a7b76918c52a.jpeg?crop=3700,4933,x475,y616&width=1024&quality=75&auto=webp",
+            "height": 4933,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "BZrAMVJye9o2",
+        "key": "2024/07/18/52cd2737-126d-4573-81c5-a7b76918c52a.jpeg",
+        "url": "https://img.nzz.ch/2024/07/18/52cd2737-126d-4573-81c5-a7b76918c52a.jpeg?width=1024&quality=75&auto=webp",
+        "height": 5550
+      },
+      "nzzId": "ld.1834407",
+      "url": "https://www.nzz.ch/sport/weitere-sportarten/olympia-2024-der-lange-kampf-der-frauen-um-gleichberechtigung-an-den-spielen-ld.1834407",
+      "dependencies": {},
+      "commentCount": 1,
+      "layout": "longformvisual",
+      "estimationWordCount": 1864,
+      "nzzPrintSubtitle": "An den Sommerspielen in Paris stellen die Frauen erstmals die Hälfte des Olympia-Teilnehmerfelds – 124 Jahre nach ihrem Debüt. Meilensteine eines langen Kampfes",
+      "embeds": {
+        "images": [
+          {
+            "author": "PD",
+            "caption": "Paris 1900: Dass das Golfturnier zu den Olympischen Spielen zählt, war den teilnehmenden Frauen nicht bewusst.",
+            "origins": [
+              {
+                "identifier": "2158199379",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2024/07/18/2c10353e-66ef-4d5f-ad0a-6e15a218195a.jpeg?width=1024&quality=75&auto=webp"
+          },
+          {
+            "author": "Hulton / Getty",
+            "caption": "Weil die Frauen an Olympischen Spielen bei der Leichtathletik nicht mittun durften, gründete Alice Milliat&nbsp;eigene Frauenspiele. Hier siegt die Britin&nbsp;Mary Lines im 300-Meter-Rennen an den Jeux Olympiques féminins 1922 im Pershing-Stadion in Paris.",
+            "origins": [
+              {
+                "identifier": "2158199377",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2024/07/18/cfd304bc-eb29-414b-8b36-52f0a77e67f8.jpeg?crop=5550,4163,x0,y0&width=1024&quality=75&auto=webp"
+          },
+          {
+            "author": "Bettmann / Getty",
+            "caption": "Nachdem sie lange allein trainiert hatte, wurde Alice Coachman&nbsp;vom&nbsp;Tuskegee Institute aufgenommen und gewann für das College zahlreiche Wettkämpfe.",
+            "origins": [
+              {
+                "identifier": "2158199358",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2024/07/18/a257f2bf-bb8a-4a82-9ba8-5d5bb77fab7a.jpeg?crop=4006,3005,x0,y732&width=1024&quality=75&auto=webp"
+          },
+          {
+            "author": "Imago",
+            "caption": "Der letzte Auftritt: 1964 siegte Latynina an den Spielen in Tokio zum letzten Mal. Zwischen ihren Olympiateilnahmen hatte sie eine Tochter geboren.",
+            "origins": [
+              {
+                "identifier": "2158199370",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2024/07/18/75b406bc-8ab2-42b6-b942-6ee1c2db8403.jpeg?crop=3563,2672,x0,y0&width=1024&quality=75&auto=webp"
+          },
+          {
+            "author": "Scott Heavey / Getty",
+            "caption": "Nun dürfen auch die Frauen boxen: 2012 an den Spielen in London feiert die Britin Nicola Adams (in Blau) den ersten Olympiasieg einer Boxerin. Als einzige Kategorie wurde das Fliegengewicht ausgetragen.",
+            "origins": [
+              {
+                "identifier": "2158201413",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2024/07/18/546e9eff-ecc1-476a-9447-c89697ef6ed6.jpeg?width=1024&quality=75&auto=webp"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0819c8effbf081938ef522a3693bccce"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/sport",
+          "name": "Sport"
+        },
+        {
+          "path": "/sport/weitere-sportarten",
+          "name": "Weitere Sportarten"
+        }
+      ],
+      "teaserCaption": "Paris 1900: Dass das Golfturnier zu den Olympischen Spielen zählt, war den teilnehmenden Frauen nicht bewusst.",
+      "documentId": "1834407",
+      "product": "NZZ.ch"
+    }
+  }
+]

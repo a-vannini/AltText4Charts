@@ -1,0 +1,615 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "Ramon Van Flymen / Imago",
+      "contentTypeGroup": "web",
+      "firstTitle": "Eingewanderte Sexualgewalt und Männer, die sich für Frauen halten: Auch im Westen muss der Feminismus wieder kämpfen",
+      "flag": "Kommentar",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "IJt5qmJoiKzj",
+        "locale": "de-CH"
+      },
+      "title": "Eingewanderte Sexualgewalt und Männer, die sich für Frauen halten: Auch im Westen muss der Feminismus wieder kämpfen",
+      "seoTitle": "Frauentag: Auch im Westen muss der Feminismus wieder kämpfen ",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Beatrice Achterberg (bta)",
+          "id": 1692009,
+          "shortName": "bta",
+          "proLitterisId": "889748"
+        }
+      ],
+      "nzzPrintTitle": "Der Feminismus hat gesiegt? Schön wär‘s",
+      "designName": "morpheus",
+      "seoSocialMediaTitle": "Der postmoderne Feminismus des Westens ist blind für echte Bedrohungen von Frauen",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-03-08T16:30:00.000Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Marc Felix Serrao (flx)",
+          "id": 1372457,
+          "shortName": "flx",
+          "proLitterisId": "884972"
+        }
+      ],
+      "department": {
+        "path": "/meinung",
+        "premium": false,
+        "level": 1,
+        "name": "Meinung"
+      },
+      "publicationDate": "2024-03-08T04:30:00.000Z",
+      "slug": "frauentag-der-westen-meint-den-feminismus-durchgespielt-zu-haben-doch-er-irrt",
+      "showComments": true,
+      "firstPublicationDate": "2024-03-08T04:30:00.000Z",
+      "nzzCharacterCount": 9165,
+      "owner": "NZZ",
+      "authorLine": "Beatrice Achterberg, Berlin",
+      "numberOfContentComponents": 32,
+      "germanyRelevant": true,
+      "leadText": "Frauen haben auf dem Weg zur Gleichberechtigung viel erreicht. Einen Grund zum Feiern haben sie heute trotzdem nicht. Der Diversity-Kult macht sie unsichtbar. Und das Ausmass sexueller Gewalt bleibt auch in demokratischen Gesellschaften hoch.",
+      "publicationLastUpdated": "2024-03-08T06:56:55.143Z",
+      "nzzArticleSnippet": "Frauen haben auf dem Weg zur Gleichberechtigung viel erreicht. Einen Grund zum Feiern haben sie heute trotzdem nicht. Der Diversity-Kult macht sie unsichtbar. Und das Ausmass sexueller Gewalt bleibt auch in demokratischen Gesellschaften hoch.",
+      "urlPath": "/meinung/frauentag-der-westen-meint-den-feminismus-durchgespielt-zu-haben-doch-er-irrt-ld.1820555",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 5472,
+        "originalUrl": "https://img.nzz.ch/2024/03/06/d6a37afa-5e5b-4634-8bae-f967e870a1bf.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 5472,
+            "name": "16:9",
+            "y": 241,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W5472,H3078,X0,Y241/O=75/https://img.nzz.ch/2024/03/06/d6a37afa-5e5b-4634-8bae-f967e870a1bf.jpeg",
+            "height": 3078,
+            "ratio": 1.77778
+          },
+          {
+            "x": 1159,
+            "width": 1600,
+            "name": "1:1",
+            "y": 775,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W1600,H1600,X1159,Y775/O=75/https://img.nzz.ch/2024/03/06/d6a37afa-5e5b-4634-8bae-f967e870a1bf.jpeg",
+            "height": 1600,
+            "ratio": 1
+          },
+          {
+            "x": 475,
+            "width": 4864,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W4864,H3648,X475,Y0/O=75/https://img.nzz.ch/2024/03/06/d6a37afa-5e5b-4634-8bae-f967e870a1bf.jpeg",
+            "height": 3648,
+            "ratio": 1.33333
+          },
+          {
+            "x": 729,
+            "width": 2162,
+            "name": "3:4",
+            "y": 766,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W2162,H2882,X729,Y766/O=75/https://img.nzz.ch/2024/03/06/d6a37afa-5e5b-4634-8bae-f967e870a1bf.jpeg",
+            "height": 2882,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "Y32-3I2VYBrE",
+        "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/03/06/d6a37afa-5e5b-4634-8bae-f967e870a1bf.jpeg",
+        "height": 3648
+      },
+      "nzzId": "ld.1820555",
+      "url": "https://www.nzz.ch/meinung/frauentag-der-westen-meint-den-feminismus-durchgespielt-zu-haben-doch-er-irrt-ld.1820555",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1ho4em99f0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "commentCount": 5,
+      "layout": "opinion",
+      "estimationWordCount": 1349,
+      "nzzPrintSubtitle": "Frauen haben auf dem Weg zur Gleichberechtigung viel erreicht. Einen Grund zum Feiern haben sie heute trotzdem nicht. Der Diversity-Kult macht sie unsichtbar. Und das Ausmass sexueller Gewalt bleibt auch in demokratischen Gesellschaften hoch.",
+      "embeds": {
+        "images": [
+          {
+            "author": "Ramon Van Flymen&nbsp;/ Imago",
+            "caption": "Ein Teilnehmer einer LGBTQ-Demo in den Niederlanden hält Geschlecht für eine Täuschung: «Gender is a scam», heisst es auf dem Plakat.",
+            "origins": [
+              {
+                "identifier": "2153545011",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/03/06/d6a37afa-5e5b-4634-8bae-f967e870a1bf.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "d98200401cb59296086490223dedb43e"
+          },
+          {
+            "id": "0313da61de86779a1c0b46f5718cc1d1"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/meinung",
+          "name": "Meinung"
+        }
+      ],
+      "teaserCaption": "Ein Teilnehmer einer LGBTQ-Demo in den Niederlanden hält Geschlecht für eine Täuschung: «Gender is a scam», heisst es auf dem Plakat.",
+      "documentId": "1820555",
+      "product": "NZZ.ch"
+    }
+  },
+  {
+    "metadata": {
+      "teaserAuthor": "Illustration Anja Lemcke / NZZ",
+      "contentTypeGroup": "web",
+      "firstTitle": "Sie will die Scheidung – er schiesst sie nieder: Eine 31-Jährige wird vom Grossvater ihres Mannes getötet",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "bpcTTck2IdFavIZaq2iLn",
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Sie will die Scheidung – er schiesst sie nieder: Eine 32-Jährige wird vom Grossvater ihres Mannes getötet",
+      "seoTitle": "Mordfall in Winterthur: Sie will die Scheidung – er schiesst sie nieder",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Giorgio Scherrer (sgi)",
+          "id": 1373651,
+          "shortName": "sgi"
+        },
+        {
+          "external": false,
+          "name": "Anja Lemcke (lea)",
+          "id": 1373010,
+          "shortName": "lea"
+        }
+      ],
+      "nzzPrintTitle": "Sie will die Scheidung – er schiesst sie nieder",
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-01-10T16:05:00.000Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Fabian Baumgartner (fbi)",
+          "id": 1372409,
+          "shortName": "fbi"
+        }
+      ],
+      "department": {
+        "path": "/zuerich",
+        "premium": false,
+        "level": 1,
+        "name": "Zürich"
+      },
+      "publicationDate": "2024-01-10T04:05:00.000Z",
+      "slug": "mordfall-in-winterthur-sie-will-die-scheidung-er-schiesst-sie-nieder",
+      "firstPublicationDate": "2024-01-10T04:05:00.000Z",
+      "nzzCharacterCount": 11661,
+      "owner": "NZZ",
+      "authorLine": "Giorgio Scherrer (Text), Anja Lemcke (Illustration)",
+      "numberOfContentComponents": 50,
+      "leadText": "Ein Mordprozess in Winterthur wirft ein Schlaglicht auf Gewalt gegen Frauen.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2024-01-10T04:05:00.000Z",
+      "nzzArticleSnippet": "Ein Mordprozess in Winterthur wirft ein Schlaglicht auf Gewalt gegen Frauen.",
+      "urlPath": "/zuerich/mordfall-in-winterthur-sie-will-die-scheidung-er-schiesst-sie-nieder-ld.1773278",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 2401,
+        "originalUrl": "https://img.nzz.ch/2024/01/08/4b1791d3-0e74-4737-82a1-c2d9133e4118.png",
+        "mimeType": "image/png",
+        "crops": [
+          {
+            "x": 0,
+            "width": 2386,
+            "name": "16:9",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/01/08/4b1791d3-0e74-4737-82a1-c2d9133e4118.png?crop=2386,1342,x0,y0&quality=75&auto=webp",
+            "height": 1342,
+            "ratio": 1.77778
+          },
+          {
+            "x": 690,
+            "width": 1060,
+            "name": "1:1",
+            "y": 267,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/01/08/4b1791d3-0e74-4737-82a1-c2d9133e4118.png?crop=1060,1060,x690,y267&quality=75&auto=webp",
+            "height": 1060,
+            "ratio": 1
+          },
+          {
+            "x": 319,
+            "width": 1789,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/01/08/4b1791d3-0e74-4737-82a1-c2d9133e4118.png?crop=1789,1342,x319,y0&quality=75&auto=webp",
+            "height": 1342,
+            "ratio": 1.33333
+          },
+          {
+            "x": 706,
+            "width": 1007,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/01/08/4b1791d3-0e74-4737-82a1-c2d9133e4118.png?crop=1007,1342,x706,y0&quality=75&auto=webp",
+            "height": 1342,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "5rr47w91nlX6",
+        "url": "https://img.nzz.ch/2024/01/08/4b1791d3-0e74-4737-82a1-c2d9133e4118.png?quality=75&auto=webp",
+        "key": "2024/01/08/4b1791d3-0e74-4737-82a1-c2d9133e4118.png",
+        "height": 1342
+      },
+      "nzzId": "ld.1773278",
+      "url": "https://www.nzz.ch/zuerich/mordfall-in-winterthur-sie-will-die-scheidung-er-schiesst-sie-nieder-ld.1773278",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hjk2krbs1"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "longformstandard",
+      "estimationWordCount": 1797,
+      "nzzPrintSubtitle": "Ein Mordprozess in Winterthur wirft ein Schlaglicht auf Gewalt gegen Frauen.",
+      "embeds": {
+        "images": [
+          {
+            "author": "Illustration Anja Lemcke / NZZ",
+            "caption": "Darija Nikolic wird gewaltsam aus dem Leben gerissen&nbsp;– weil sie, so die Anklage, nicht nach den Wertvorstellungen ihres Mörders leben will.",
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/01/08/4b1791d3-0e74-4737-82a1-c2d9133e4118.png"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0313da61de86779a1c0b46f5718cc1d1"
+          },
+          {
+            "id": "0313da61de86779a1c0b46f5718df868"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/zuerich",
+          "name": "Zürich"
+        }
+      ],
+      "teaserCaption": "Darija Nikolic wird gewaltsam aus dem Leben gerissen – weil sie, so die Anklage, nicht nach den Wertvorstellungen ihres Mörders leben will.",
+      "documentId": "1773278",
+      "product": "NZZ.ch"
+    }
+  },
+  {
+    "metadata": {
+      "teaserAuthor": "Illustration Simon Tanner / NZZ",
+      "contentTypeGroup": "web",
+      "firstTitle": "Wann ist die Tötung einer Frau ein «Femizid»? Über einen aktivistischen Begriff, der immer öfter fällt",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "EAl5CLI1kOB7VvuqKO_7P",
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "seoTitle": "Femizid: Was bringt der Begriff den Frauen?",
+      "title": "Was früher als «Beziehungsdrama» galt, ist heute ein «Femizid»: Hilft das den Frauen?",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Corina Gall (cog.)",
+          "id": 1398648,
+          "shortName": "cog.",
+          "proLitterisId": "888823"
+        },
+        {
+          "external": false,
+          "name": "Elena Oberholzer (obe)",
+          "id": 1699167,
+          "shortName": "obe",
+          "proLitterisId": "888661"
+        }
+      ],
+      "nzzPrintTitle": "Wann ist die Tötung einer Frau ein «Femizid»? \nOder: «Was bringt es Frauen, von «Femizid» zu sprechen?»",
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-03-08T16:30:00.000Z",
+      "department": {
+        "path": "/gesellschaft",
+        "premium": false,
+        "level": 1,
+        "name": "Gesellschaft"
+      },
+      "publicationDate": "2024-03-08T04:30:00.000Z",
+      "slug": "femizid-was-bringt-der-begriff-den-frauen",
+      "firstPublicationDate": "2024-03-08T04:30:00.000Z",
+      "nzzCharacterCount": 9182,
+      "owner": "NZZ",
+      "authorLine": "Corina Gall, Elena Oberholzer",
+      "numberOfContentComponents": 35,
+      "seoDescription": "Hintergrund zum Weltfrauentag 2024",
+      "leadText": "In der Schweiz wird alle zwei Wochen eine Frau von ihrem Partner oder einem Familienmitglied getötet. Vermehrt bezeichnet man das als «Femizid». Dabei ist gar nicht so klar, was damit gemeint ist.",
+      "publicationLastUpdated": "2024-03-08T11:55:08.819Z",
+      "nzzArticleSnippet": "In der Schweiz wird alle zwei Wochen eine Frau von ihrem Partner oder einem Familienmitglied getötet. Vermehrt bezeichnet man das als «Femizid». Dabei ist gar nicht so klar, was damit gemeint ist.",
+      "urlPath": "/gesellschaft/femizid-was-bringt-der-begriff-den-frauen-ld.1777907",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 600,
+        "originalUrl": "https://img.nzz.ch/2024/03/07/bdf48444-4ae9-40b2-bf96-9f1c3a90f0be.gif",
+        "mimeType": "image/gif",
+        "crops": [
+          {
+            "x": 0,
+            "width": 600,
+            "name": "16:9",
+            "y": 20,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/03/07/bdf48444-4ae9-40b2-bf96-9f1c3a90f0be.gif?crop=600,337,x0,y20&width=1024&quality=75&auto=webp",
+            "height": 337,
+            "ratio": 1.77778
+          },
+          {
+            "x": 95,
+            "width": 400,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/03/07/bdf48444-4ae9-40b2-bf96-9f1c3a90f0be.gif?crop=400,400,x95,y0&width=1024&quality=75&auto=webp",
+            "height": 400,
+            "ratio": 1
+          },
+          {
+            "x": 31,
+            "width": 533,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/03/07/bdf48444-4ae9-40b2-bf96-9f1c3a90f0be.gif?crop=533,400,x31,y0&width=1024&quality=75&auto=webp",
+            "height": 400,
+            "ratio": 1.33333
+          },
+          {
+            "x": 145,
+            "width": 300,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/03/07/bdf48444-4ae9-40b2-bf96-9f1c3a90f0be.gif?crop=300,400,x145,y0&width=1024&quality=75&auto=webp",
+            "height": 400,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "Vu3tCTuPbMTk",
+        "url": "https://img.nzz.ch/2024/03/07/bdf48444-4ae9-40b2-bf96-9f1c3a90f0be.gif?width=1024&quality=75&auto=webp",
+        "key": "2024/03/07/bdf48444-4ae9-40b2-bf96-9f1c3a90f0be.gif",
+        "height": 400
+      },
+      "nzzId": "ld.1777907",
+      "url": "https://www.nzz.ch/gesellschaft/femizid-was-bringt-der-begriff-den-frauen-ld.1777907",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1ho4ct0s60"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "longformstandard",
+      "estimationWordCount": 1401,
+      "nzzPrintSubtitle": "Tötet ein Mann seine Partnerin, spricht die Öffentlichkeit immer öfter von «Femizid». Doch nicht alle meinen damit das Gleiche.",
+      "embeds": {
+        "images": [
+          {
+            "author": "Illustration Simon Tanner / NZZ",
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/03/07/56ae4849-6324-427d-a090-2aad6ee5d9fd.gif"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0313da61de86779a1c0b46f5718df868"
+          },
+          {
+            "id": "0313da61de86779a1c0b46f5718cc1d1"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/gesellschaft",
+          "name": "Gesellschaft"
+        }
+      ],
+      "documentId": "1777907",
+      "product": "NZZ.ch"
+    }
+  },
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "firstTitle": "Eine bekannte Ökonomin kämpft ihr Leben lang gegen Ablehnung und Stereotype. Dann wird sie Opfer eines brutalen Frauenmordes",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "gTVBF0rNG43VeYUwm0UGF",
+        "locale": "de-CH"
+      },
+      "title": "Eine bekannte Ökonomin kämpft ihr Leben lang gegen Ablehnung und Stereotype. Dann wird sie brutal ermordet",
+      "seoTitle": "Bekannte Ökonomin getötet: Frauenmord wühlt kosovo-albanische Diaspora auf",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Giorgio Scherrer (sgi)",
+          "id": 1373651,
+          "shortName": "sgi",
+          "proLitterisId": "886514"
+        },
+        {
+          "external": false,
+          "name": "Anja Lemcke (lea)",
+          "id": 1373010,
+          "shortName": "lea"
+        }
+      ],
+      "nzzPrintTitle": "Sie kämpfte gegen Ablehnung - und wurde zum Opfer eines Frauenmordes",
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-06-11T15:15:00.000Z",
+      "department": {
+        "path": "/zuerich",
+        "premium": false,
+        "level": 1,
+        "name": "Zürich"
+      },
+      "publicationDate": "2024-06-11T03:15:00.000Z",
+      "slug": "bekannte-oekonomin-getoetet-frauenmord-wuehlt-kosovo-albanische-diaspora-auf",
+      "firstPublicationDate": "2024-06-11T03:15:00.000Z",
+      "nzzCharacterCount": 10336,
+      "owner": "NZZ",
+      "authorLine": "Giorgio Scherrer (Text), Anja Lemcke (Illustrationen)",
+      "numberOfContentComponents": 46,
+      "germanyRelevant": true,
+      "leadText": "Die Gewalttat hat die kosovo-albanische Diaspora in der Schweiz erschüttert. Jetzt steht der mutmassliche Täter vor Gericht.",
+      "publicationLastUpdated": "2024-06-26T18:15:27.177Z",
+      "nzzArticleSnippet": "Die Gewalttat hat die kosovo-albanische Diaspora in der Schweiz erschüttert. Jetzt steht der mutmassliche Täter vor Gericht.",
+      "urlPath": "/zuerich/bekannte-oekonomin-getoetet-frauenmord-wuehlt-kosovo-albanische-diaspora-auf-ld.1834339",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 2401,
+        "originalUrl": "https://img.nzz.ch/2024/06/10/1a13a9e1-7c37-44ac-9776-1f81fff71317.png",
+        "mimeType": "image/png",
+        "crops": [
+          {
+            "x": 0,
+            "width": 2401,
+            "name": "16:9",
+            "y": 406,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/10/1a13a9e1-7c37-44ac-9776-1f81fff71317.png?crop=2401,1351,x0,y406&width=1024&quality=75&auto=webp",
+            "height": 1351,
+            "ratio": 1.77778
+          },
+          {
+            "x": 567,
+            "width": 494,
+            "name": "1:1",
+            "y": 779,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/10/1a13a9e1-7c37-44ac-9776-1f81fff71317.png?crop=494,494,x567,y779&width=1024&quality=75&auto=webp",
+            "height": 494,
+            "ratio": 1
+          },
+          {
+            "x": 0,
+            "width": 2401,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/10/1a13a9e1-7c37-44ac-9776-1f81fff71317.png?crop=2401,1801,x0,y0&width=1024&quality=75&auto=webp",
+            "height": 1801,
+            "ratio": 1.33333
+          },
+          {
+            "x": 372,
+            "width": 1355,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/10/1a13a9e1-7c37-44ac-9776-1f81fff71317.png?crop=1355,1806,x372,y0&width=1024&quality=75&auto=webp",
+            "height": 1806,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "yrx-2uppdjgr",
+        "url": "https://img.nzz.ch/2024/06/10/1a13a9e1-7c37-44ac-9776-1f81fff71317.png?width=1024&quality=75&auto=webp",
+        "key": "2024/06/10/1a13a9e1-7c37-44ac-9776-1f81fff71317.png",
+        "height": 1806
+      },
+      "nzzId": "ld.1834339",
+      "url": "https://www.nzz.ch/zuerich/bekannte-oekonomin-getoetet-frauenmord-wuehlt-kosovo-albanische-diaspora-auf-ld.1834339",
+      "dependencies": {},
+      "commentCount": 1,
+      "layout": "longformstandard",
+      "estimationWordCount": 1537,
+      "nzzPrintSubtitle": "Eine Gewalttat hat die kosovo-albanische Diaspora erschüttert - jetzt steht der mutmassliche Täter vor Gericht.",
+      "embeds": {
+        "images": [
+          {
+            "origins": [
+              {
+                "identifier": "2156720686",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2024/06/10/fd209f47-5a76-4198-8a74-7bbc4bb39a13.jpeg?quality=75&auto=webp"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "9c34f843abc41325f7ff6d735f9c926e"
+          },
+          {
+            "id": "0313da61de86779a1c0b46f5718cc1d1"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/zuerich",
+          "name": "Zürich"
+        }
+      ],
+      "documentId": "1834339",
+      "product": "NZZ.ch"
+    }
+  }
+]

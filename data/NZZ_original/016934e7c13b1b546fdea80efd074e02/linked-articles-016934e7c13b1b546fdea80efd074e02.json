@@ -1,0 +1,218 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Alex Plavevski / EPA",
+      "firstTitle": "Demografie: Das Zeitalter der «Depopulation» naht – Industrieländern droht der Bevölkerungs-Kollaps",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "uyK-i066yK5U",
+        "locale": "de-CH"
+      },
+      "title": "Wendepunkt in der Geschichte der Menschheit: Das Zeitalter der Entvölkerung naht",
+      "seoTitle": "Rückläufige Demografie: Industrieländern droht Entvölkerung und Depopulation",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "pianoId": "df5ba0d4-ba27-4cfc-8794-d9d0c0f97105",
+          "name": "Michael Ferber (feb)",
+          "id": 1372418,
+          "shortName": "feb",
+          "proLitterisId": "155122"
+        }
+      ],
+      "nzzPrintTitle": "Das Zeitalter der Entvölkerung naht",
+      "designName": "morpheus",
+      "seoSocialMediaTitle": "Das Zeitalter der «Depopulation» naht – Industrieländern droht der Bevölkerungs-Kollaps",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2025-03-07T16:30:00.000Z",
+      "department": {
+        "path": "/wirtschaft",
+        "premium": false,
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2025-03-07T04:30:00.000Z",
+      "slug": "demografie-das-zeitalter-der-depopulation-naht-industrielaendern-droht-der-bevoelkerungs-kollaps",
+      "firstPublicationDate": "2025-03-07T04:30:00.000Z",
+      "nzzCharacterCount": 9034,
+      "authorLine": "Michael Ferber",
+      "owner": "NZZ",
+      "numberOfContentComponents": 31,
+      "seoDescription": "Sinkende Geburtenraten dürften in Italien, Deutschland, China und Japan in den kommenden Jahrzehnten einen Bevölkerungs-Kollaps zur Folge haben. Experten sprechen von einem Wendepunkt in der Geschichte der Menschheit.",
+      "germanyRelevant": true,
+      "leadText": "Sinkende Geburtenraten dürften in Italien, Deutschland, China und Japan in den kommenden Jahrzehnten für einen starken Rückgang der Bevölkerung sorgen.",
+      "publicationLastUpdated": "2025-03-07T15:45:31.885Z",
+      "nzzArticleSnippet": "Sinkende Geburtenraten dürften in Italien, Deutschland, China und Japan in den kommenden Jahrzehnten für einen starken Rückgang der Bevölkerung sorgen.",
+      "urlPath": "/wirtschaft/demografie-das-zeitalter-der-depopulation-naht-industrielaendern-droht-der-bevoelkerungs-kollaps-ld.1873817",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 8192,
+        "originalUrl": "https://img.nzz.ch/2025/03/06/88ca9824-4843-4ce3-8f82-8bde848cd325.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 8192,
+            "name": "16:9",
+            "y": 514,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2025/03/06/88ca9824-4843-4ce3-8f82-8bde848cd325.jpeg?crop=8192,4608,x0,y514&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2025/03/06/88ca9824-4843-4ce3-8f82-8bde848cd325.jpeg?crop=8192,4608,x0,y514&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2025/03/06/88ca9824-4843-4ce3-8f82-8bde848cd325.jpeg?crop=8192,4608,x0,y514&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2025/03/06/88ca9824-4843-4ce3-8f82-8bde848cd325.jpeg?crop=8192,4608,x0,y514&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2025/03/06/88ca9824-4843-4ce3-8f82-8bde848cd325.jpeg?crop=8192,4608,x0,y514&width=1024&quality=75&auto=webp",
+            "height": 4608,
+            "ratio": 1.77778
+          },
+          {
+            "x": 2787,
+            "width": 1893,
+            "name": "1:1",
+            "y": 1874,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2025/03/06/88ca9824-4843-4ce3-8f82-8bde848cd325.jpeg?crop=1893,1893,x2787,y1874&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2025/03/06/88ca9824-4843-4ce3-8f82-8bde848cd325.jpeg?crop=1893,1893,x2787,y1874&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2025/03/06/88ca9824-4843-4ce3-8f82-8bde848cd325.jpeg?crop=1893,1893,x2787,y1874&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2025/03/06/88ca9824-4843-4ce3-8f82-8bde848cd325.jpeg?crop=1893,1893,x2787,y1874&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2025/03/06/88ca9824-4843-4ce3-8f82-8bde848cd325.jpeg?crop=1893,1893,x2787,y1874&width=1024&quality=75&auto=webp",
+            "height": 1893,
+            "ratio": 1
+          },
+          {
+            "x": 435,
+            "width": 7285,
+            "name": "4:3",
+            "y": 0,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2025/03/06/88ca9824-4843-4ce3-8f82-8bde848cd325.jpeg?crop=7285,5464,x435,y0&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2025/03/06/88ca9824-4843-4ce3-8f82-8bde848cd325.jpeg?crop=7285,5464,x435,y0&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2025/03/06/88ca9824-4843-4ce3-8f82-8bde848cd325.jpeg?crop=7285,5464,x435,y0&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2025/03/06/88ca9824-4843-4ce3-8f82-8bde848cd325.jpeg?crop=7285,5464,x435,y0&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2025/03/06/88ca9824-4843-4ce3-8f82-8bde848cd325.jpeg?crop=7285,5464,x435,y0&width=1024&quality=75&auto=webp",
+            "height": 5464,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1766,
+            "width": 4098,
+            "name": "3:4",
+            "y": 0,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2025/03/06/88ca9824-4843-4ce3-8f82-8bde848cd325.jpeg?crop=4098,5464,x1766,y0&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2025/03/06/88ca9824-4843-4ce3-8f82-8bde848cd325.jpeg?crop=4098,5464,x1766,y0&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2025/03/06/88ca9824-4843-4ce3-8f82-8bde848cd325.jpeg?crop=4098,5464,x1766,y0&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2025/03/06/88ca9824-4843-4ce3-8f82-8bde848cd325.jpeg?crop=4098,5464,x1766,y0&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2025/03/06/88ca9824-4843-4ce3-8f82-8bde848cd325.jpeg?crop=4098,5464,x1766,y0&width=1024&quality=75&auto=webp",
+            "height": 5464,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "ZPU78lHMh1aE",
+        "key": "2025/03/06/88ca9824-4843-4ce3-8f82-8bde848cd325.jpeg",
+        "url": "https://img.nzz.ch/2025/03/06/88ca9824-4843-4ce3-8f82-8bde848cd325.jpeg?width=1024&quality=75&auto=webp",
+        "height": 5464
+      },
+      "nzzId": "ld.1873817",
+      "url": "https://www.nzz.ch/wirtschaft/demografie-das-zeitalter-der-depopulation-naht-industrielaendern-droht-der-bevoelkerungs-kollaps-ld.1873817",
+      "dependencies": {},
+      "commentCount": 1,
+      "layout": "longformstandard",
+      "estimationWordCount": 1226,
+      "nzzPrintSubtitle": "Sinkende Geburtenraten dürften in Italien, Deutschland, China und Japan in den kommenden Jahrzehnten für eine Entvölkerung sorgen",
+      "embeds": {
+        "images": [
+          {
+            "author": "Alex Plavevski / EPA",
+            "caption": "Eine Reisende mit Kleinkind im Bahnhof Schanghai&nbsp;Hongqiao:&nbsp;Die Bevölkerungszahl in China dürfte in den kommenden Jahrzehnten deutlich zurückgehen.",
+            "origins": [
+              {
+                "identifier": "2165807008",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2025/03/06/88ca9824-4843-4ce3-8f82-8bde848cd325.jpeg?width=1024&quality=75&auto=webp"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "016934e7c13b1b546fdea80efd074e02"
+          },
+          {
+            "id": "016934e7c13b1b546fdea80efd08584a"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "teaserCaption": "Eine Reisende mit Kleinkind im Bahnhof Schanghai Hongqiao: Die Bevölkerungszahl in China dürfte in den kommenden Jahrzehnten deutlich zurückgehen.",
+      "documentId": "1873817",
+      "product": "NZZ.ch"
+    }
+  }
+]

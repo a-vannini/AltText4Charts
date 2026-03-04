@@ -1,0 +1,193 @@
+{
+  "_id": "0819c8effbf081938ef522a3693bccce",
+  "_rev": "18-a3bd81290bc376f9f14d524549996460",
+  "department": "Sport",
+  "publication": "nzz",
+  "acronym": "eva.",
+  "data": [
+    [
+      null,
+      null
+    ],
+    [
+      "1896",
+      "0"
+    ],
+    [
+      "1900",
+      "2.2"
+    ],
+    [
+      "1904",
+      "0.9"
+    ],
+    [
+      "1908",
+      "1.8"
+    ],
+    [
+      "1912",
+      "2"
+    ],
+    [
+      "1920",
+      "2.5"
+    ],
+    [
+      "1924",
+      "4.4"
+    ],
+    [
+      "1928",
+      "9.6"
+    ],
+    [
+      "1932",
+      "9.5"
+    ],
+    [
+      "1936",
+      "8.4"
+    ],
+    [
+      "1948",
+      "9.5"
+    ],
+    [
+      "1952",
+      "10.5"
+    ],
+    [
+      "1956",
+      "11.3"
+    ],
+    [
+      "1960",
+      "11.4"
+    ],
+    [
+      "1964",
+      "13.2"
+    ],
+    [
+      "1968",
+      "14.2"
+    ],
+    [
+      "1972",
+      "14.8"
+    ],
+    [
+      "1976",
+      "20.7"
+    ],
+    [
+      "1980",
+      "21.5"
+    ],
+    [
+      "1984",
+      "22.9"
+    ],
+    [
+      "1988",
+      "26.1"
+    ],
+    [
+      "1992",
+      "28.9"
+    ],
+    [
+      "1996",
+      "34"
+    ],
+    [
+      "2000",
+      "38.2"
+    ],
+    [
+      "2004",
+      "40.7"
+    ],
+    [
+      "2008",
+      "42.2"
+    ],
+    [
+      "2012",
+      "44.2"
+    ],
+    [
+      "2016",
+      "45"
+    ],
+    [
+      "2020",
+      "47.8"
+    ],
+    [
+      "2024",
+      "50"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {
+        "url": "https://olympics.com/ioc/gender-equality/gender-equality-through-time",
+        "isValid": true
+      },
+      "text": "olympics.com"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": false,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {
+      "valuesOnBars": true
+    },
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false,
+      "maxValue": 0
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "title": "Frauenbeteiligung an Olympischen Sommerspielen",
+  "subtitle": "Anteil Frauen der Gesamtteilnehmer in Prozent",
+  "annotations": "Olympische Spiele, Frauen im Sport",
+  "createdDate": "2024-04-25T14:51:45.057Z",
+  "createdBy": "eva.breitenstein@nzz.ch",
+  "updatedDate": "2024-07-15T14:05:50.977Z",
+  "updatedBy": "eva.breitenstein@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/0819c8effbf081938ef522a3693bccce-thumbnail.jpeg",
+  "active": true
+}

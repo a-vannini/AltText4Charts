@@ -1,0 +1,183 @@
+{
+  "_id": "0819c8effbf081938ef522a36937d2db",
+  "_rev": "50-a27748cb1554e4b92d91eaa907ca548c",
+  "department": "International",
+  "publication": "nzz",
+  "acronym": "lkp.",
+  "data": [
+    [
+      "Land",
+      "Stunden"
+    ],
+    [
+      "DEU",
+      "1341"
+    ],
+    [
+      "DNK",
+      "1372"
+    ],
+    [
+      "NOR",
+      "1425"
+    ],
+    [
+      "NLD",
+      "1427"
+    ],
+    [
+      "SWE",
+      "1440"
+    ],
+    [
+      "AUS",
+      "1444"
+    ],
+    [
+      "ISL",
+      "1449"
+    ],
+    [
+      "LUX",
+      "1473"
+    ],
+    [
+      "FIN",
+      "1498"
+    ],
+    [
+      "FRA",
+      "1511"
+    ],
+    [
+      "CH",
+      "1529"
+    ],
+    [
+      "GBR",
+      "1532"
+    ],
+    [
+      "LVA",
+      "1553"
+    ],
+    [
+      "EU",
+      "1571"
+    ],
+    [
+      "SVN",
+      "1619"
+    ],
+    [
+      "SVL",
+      "1622"
+    ],
+    [
+      "LTU",
+      "1624"
+    ],
+    [
+      "PRT",
+      "1635"
+    ],
+    [
+      "ESP",
+      "1644"
+    ],
+    [
+      "IRL",
+      "1657"
+    ],
+    [
+      "ITA",
+      "1694"
+    ],
+    [
+      "HUN",
+      "1700"
+    ],
+    [
+      "CZE",
+      "1754"
+    ],
+    [
+      "EST",
+      "1770"
+    ],
+    [
+      "USA",
+      "1811"
+    ],
+    [
+      "POL",
+      "1815"
+    ],
+    [
+      "GRC",
+      "1886"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {
+        "url": "https://data-explorer.oecd.org/vis?fs[0]=Topic%2C1%7CJobs%23JOB%23%7CEmployment%23JOB_EMP%23&fs[1]=Measure%2C0%7CHours%20worked%23HW%23&pg=0&fc=Measure&snb=2&vw=tb&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_HW%40DF_AVG_ANN_HRS_WKD&df[ag]=OECD.ELS.SAE&df[vs]=1.0&pd=2022%2C&dq=EU27%2BGBR%2BTUR%2BAUT%2BBEL%2BCZE%2BDNK%2BEST%2BFIN%2BFRA%2BDEU%2BGRC%2BHUN%2BISL%2BIRL%2BITA%2BLVA%2BLTU%2BLUX%2BNLD%2BNOR%2BPOL%2BPRT%2BSVK%2BSVN%2BESP%2BSWE%2BCHE%2BUSA%2BOECD........_T....&ly[rw]=REF_AREA&to[TIME_PERIOD]=false",
+        "isValid": true
+      },
+      "text": "OECD"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [
+      0
+    ],
+    "highlightDataRows": [
+      13,
+      24,
+      10
+    ],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": true
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "Griechen sind die Fleissigsten",
+  "subtitle": "Durchschnittliche Jahresarbeitszeit pro Person",
+  "createdDate": "2024-04-25T09:09:41.052Z",
+  "createdBy": "linda.koponen@nzz.ch",
+  "updatedDate": "2024-04-26T10:23:56.075Z",
+  "updatedBy": "marianne.bosshard@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/0819c8effbf081938ef522a36937d2db-thumbnail.jpeg"
+}

@@ -1,0 +1,78 @@
+{
+  "_id": "0819c8effbf081938ef522a3691f3cf7",
+  "_rev": "28-0f8644fca5136e6f56c38a27d53845fe",
+  "department": "International",
+  "publication": "nzz",
+  "acronym": "k.b.",
+  "title": "China ist auf Sojabohnen aus dem Ausland angewiesen",
+  "tool": "chart",
+  "data": [
+    [
+      "Jahr",
+      "Heimische Produktion",
+      "Einfuhren"
+    ],
+    [
+      "2022",
+      "16.4",
+      "90.3"
+    ],
+    [
+      "2023",
+      "20.28",
+      "104.5"
+    ]
+  ],
+  "allowDownloadData": false,
+  "sources": [
+    {
+      "link": {
+        "url": "https://www.usda.gov/oce/commodity/wasde/wasde0424.pdf",
+        "isValid": true
+      },
+      "text": "USDA"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "year",
+      "prognosisStart": null,
+      "labels": "few"
+    },
+    "lineChartOptions": {
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "subtitle": "In Millionen Tonnen, pro Geschäftsjahr",
+  "createdDate": "2024-04-22T13:03:22.038Z",
+  "createdBy": "katrin.buechenbacher@nzz.ch",
+  "updatedDate": "2024-04-24T14:38:29.003Z",
+  "updatedBy": "philipp.hufschmid@nzz.ch",
+  "active": true,
+  "notes": "Die Zahlen für 2022/2023 sind Schätzungen. Importzahlen sind aus den Exporten der Hauptlieferanten USA und Brasilien berechnet, da sie von den chinesischen Importzahlen abweichen.",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/0819c8effbf081938ef522a3691f3cf7-thumbnail.jpeg"
+}

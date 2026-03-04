@@ -1,0 +1,227 @@
+{
+  "_id": "0313da61de86779a1c0b46f57186449c",
+  "_rev": "17-97d22f3a21d2443b1892cbf520b2085a",
+  "department": "Visuals",
+  "publication": "nzz",
+  "acronym": "nth.",
+  "data": [
+    [
+      "Land",
+      "Anteil Beschäftigter",
+      "Anteil Bruttowertschöpfung"
+    ],
+    [
+      "Rumänien",
+      "21.1",
+      "4.9"
+    ],
+    [
+      "Bulgarien",
+      "15.2",
+      "4.3"
+    ],
+    [
+      "Griechenland",
+      "10.5",
+      "4.3"
+    ],
+    [
+      "Polen",
+      "8.8",
+      "3.2"
+    ],
+    [
+      "Lettland",
+      "7.1",
+      "5.7"
+    ],
+    [
+      "Portugal",
+      "7.1",
+      "2.1"
+    ],
+    [
+      "Kroatien",
+      "6.7",
+      "3.7"
+    ],
+    [
+      "Slowenien",
+      "6.4",
+      "2.1"
+    ],
+    [
+      "Litauen",
+      "5.4",
+      "4.4"
+    ],
+    [
+      "EU-Schnitt",
+      "4.3",
+      "1.9"
+    ],
+    [
+      "Irland",
+      "4",
+      "1.2"
+    ],
+    [
+      "Spanien",
+      "3.6",
+      "2.6"
+    ],
+    [
+      "Italien",
+      "3.4",
+      "2"
+    ],
+    [
+      "Ungarn",
+      "3.4",
+      "3.8"
+    ],
+    [
+      "Zypern",
+      "3.3",
+      "1.8"
+    ],
+    [
+      "Österreich",
+      "3.2",
+      "1.5"
+    ],
+    [
+      "Finnland",
+      "3.2",
+      "2.6"
+    ],
+    [
+      "Island",
+      "3.2",
+      "4.8"
+    ],
+    [
+      "Tschech. Republik",
+      "2.9",
+      "2.1"
+    ],
+    [
+      "Slowakei",
+      "2.9",
+      "2.5"
+    ],
+    [
+      "Estland",
+      "2.6",
+      "2.8"
+    ],
+    [
+      "Frankreich",
+      "2.5",
+      "2.1"
+    ],
+    [
+      "Schweiz",
+      "2.3",
+      "0.6"
+    ],
+    [
+      "Norwegen",
+      "2.3",
+      "1.7"
+    ],
+    [
+      "Dänemark",
+      "2.2",
+      "1.3"
+    ],
+    [
+      "Niederlande",
+      "2",
+      "1.7"
+    ],
+    [
+      "Schweden",
+      "1.9",
+      "1.6"
+    ],
+    [
+      "Belgien",
+      "1.2",
+      "0.7"
+    ],
+    [
+      "Deutschland",
+      "1.2",
+      "1"
+    ],
+    [
+      "Malta",
+      "1",
+      "1"
+    ],
+    [
+      "Luxemburg",
+      "0.7",
+      "0.3"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {},
+      "text": "BfS"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [
+      22,
+      28,
+      9
+    ],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false,
+      "maxValue": 30
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "Wirtschaftlich gesehen sind die Bauern in Deutschland und der Schweiz eher unwichtig",
+  "subtitle": "Anteil des Primärsektors (Landwirtschaft) an der Gesamtwirtschaft in der EU und Efta-Ländern, provisorische Zahlen 2022, in Prozent",
+  "createdDate": "2024-01-08T14:35:39.521Z",
+  "createdBy": "nikolai.thelitz@nzz.ch",
+  "updatedDate": "2024-01-08T15:22:22.034Z",
+  "updatedBy": "nikolai.thelitz@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/0313da61de86779a1c0b46f57186449c-thumbnail.jpeg"
+}

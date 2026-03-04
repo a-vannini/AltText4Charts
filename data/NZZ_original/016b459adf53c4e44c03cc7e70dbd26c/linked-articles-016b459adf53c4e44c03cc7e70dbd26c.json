@@ -1,0 +1,123 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "Giorgia Müller / NZZ",
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Weshalb Fitness bei den Zürcherinnen boomt",
+      "seoTitle": "Fitness boomt in Zürich – dank Instagram, Facebook und Co.",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Claudia Rey (clr)",
+          "id": 1372172
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2020-10-02T00:22:24.213Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Katja Baigger (bai)",
+          "id": 1371941
+        }
+      ],
+      "department": {
+        "path": "/zuerich",
+        "level": 1,
+        "name": "Zürich"
+      },
+      "publicationDate": "2020-10-01T12:22:24.213Z",
+      "slug": "fitness-boomt-in-zuerich-dank-instagram-facebook-und-co",
+      "firstPublicationDate": "2020-10-01T12:22:24.213Z",
+      "nzzCharacterCount": 3653,
+      "authorLine": "Claudia Rey",
+      "numberOfContentComponents": 16,
+      "leadText": "Die Zürcherinnen gehen häufiger ins Fitnesscenter als der Rest der Schweiz. Und Ausländer machen weniger Sport als Schweizer. Das zeigen Statistiken, die der Kanton Zürich veröffentlicht hat.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2020-10-01T13:28:53.402Z",
+      "nzzArticleSnippet": "Die Zürcherinnen gehen häufiger ins Fitnesscenter als der Rest der Schweiz. Und Ausländer machen weniger Sport als Schweizer. Das zeigen Statistiken, die der Kanton Zürich veröffentlicht hat.",
+      "urlPath": "/zuerich/fitness-boomt-in-zuerich-dank-instagram-facebook-und-co-ld.1579449",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 5760,
+        "originalUrl": "https://nzz-img.s3.amazonaws.com/2020/10/1/d2a73ffc-cae7-4141-b1c8-92cfe38c7d46.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 0,
+            "width": 5760,
+            "y": 470,
+            "url": "https://img.nzz.ch/C=W5760,H3240,X0,Y470/O=75/https://nzz-img.s3.amazonaws.com/2020/10/1/d2a73ffc-cae7-4141-b1c8-92cfe38c7d46.jpeg",
+            "height": 3240
+          },
+          {
+            "name": "1:1",
+            "x": 2232,
+            "width": 934,
+            "y": 1617,
+            "url": "https://img.nzz.ch/C=W934,H934,X2232,Y1617/O=75/https://nzz-img.s3.amazonaws.com/2020/10/1/d2a73ffc-cae7-4141-b1c8-92cfe38c7d46.jpeg",
+            "height": 934
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2020/10/1/d2a73ffc-cae7-4141-b1c8-92cfe38c7d46.jpeg",
+        "height": 3840
+      },
+      "nzzId": "ld.1579449",
+      "url": "https://www.nzz.ch/zuerich/fitness-boomt-in-zuerich-dank-instagram-facebook-und-co-ld.1579449",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1ejhegpl00"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "embeds": {
+        "images": [
+          {
+            "author": "Giorgia Müller / NZZ",
+            "caption": "Immer mehr Frauen in Zürich haben ein Fitnessabo.",
+            "origins": [
+              {
+                "identifier": "picture-21087843",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2020/10/1/d2a73ffc-cae7-4141-b1c8-92cfe38c7d46.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "016b459adf53c4e44c03cc7e70dbd26c"
+          },
+          {
+            "id": "a0abecab3f217f144ed679572c48a222"
+          },
+          {
+            "id": "a0abecab3f217f144ed679572c49d4e4"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Immer mehr Frauen in Zürich haben ein Fitnessabo.",
+      "breadcrumbs": [
+        {
+          "path": "/zuerich",
+          "name": "Zürich"
+        }
+      ],
+      "documentId": "1579449",
+      "product": "NZZ.ch"
+    }
+  }
+]

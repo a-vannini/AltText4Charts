@@ -1,0 +1,148 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "Georgios Kefalas / Keystone",
+      "contentTypeGroup": "web",
+      "firstTitle": "Sind wir zu faul? Warum Amerika Europa schlägt – und was die Schweiz besser macht als Deutschland",
+      "flag": "International View",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "rC19MKPHnYhJOCew26VDk",
+        "locale": "en-US"
+      },
+      "title": "Are we too lazy? Why America's work ethic threatens Europe – and what Switzerland does better than Germany",
+      "seoTitle": "Are lazy Europeans falling behind the Americans? ",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Albert Steck (sal)",
+          "id": 1373625,
+          "shortName": "sal",
+          "proLitterisId": "769996"
+        }
+      ],
+      "designName": "morpheus",
+      "premium": false,
+      "seoSocialMediaTitle": "Are lazy Europeans falling behind the Americans? ",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-05-14T18:35:48.384Z",
+      "department": {
+        "path": "/english",
+        "premium": false,
+        "level": 1,
+        "name": "NZZ in English"
+      },
+      "publicationDate": "2024-05-14T06:35:48.384Z",
+      "showComments": false,
+      "slug": "are-lazy-europeans-falling-behind-the-americans",
+      "firstPublicationDate": "2024-05-14T06:35:48.384Z",
+      "owner": "NZZ",
+      "nzzCharacterCount": 7924,
+      "authorLine": "Albert Steck",
+      "numberOfContentComponents": 31,
+      "seoDescription": "Europeans work less than Americans. This is not a problem for prosperity as long as they are sufficiently productive, writes @AlbertSteck. But some statistics suggest even exemplary Switzerland is in danger of falling behind.",
+      "germanyRelevant": false,
+      "leadText": "Die Europäer arbeiten weniger als die Amerikaner. Das ist kein Problem für den Wohlstand, solange sie genügend produktiv sind. Doch selbst die vorbildliche Schweiz droht zurückzufallen.",
+      "publicationLastUpdated": "2024-07-02T09:29:59.490Z",
+      "nzzArticleSnippet": "Die Europäer arbeiten weniger als die Amerikaner. Das ist kein Problem für den Wohlstand, solange sie genügend produktiv sind. Doch selbst die vorbildliche Schweiz droht zurückzufallen.",
+      "urlPath": "/english/are-lazy-europeans-falling-behind-the-americans-ld.1830156",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 5122,
+        "originalUrl": "https://img.nzz.ch/2024/05/10/d94690b9-fe26-4a4d-83c3-fa97b6cc69d2.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 570,
+            "width": 2842,
+            "name": "16:9",
+            "y": 185,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/10/d94690b9-fe26-4a4d-83c3-fa97b6cc69d2.jpeg?crop=2842,1599,x570,y185&width=1024&quality=75&auto=webp",
+            "height": 1599,
+            "ratio": 1.77778
+          },
+          {
+            "x": 553,
+            "width": 1183,
+            "name": "1:1",
+            "y": 188,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/10/d94690b9-fe26-4a4d-83c3-fa97b6cc69d2.jpeg?crop=1183,1183,x553,y188&width=1024&quality=75&auto=webp",
+            "height": 1183,
+            "ratio": 1
+          },
+          {
+            "x": 278,
+            "width": 3198,
+            "name": "4:3",
+            "y": 388,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/10/d94690b9-fe26-4a4d-83c3-fa97b6cc69d2.jpeg?crop=3198,2398,x278,y388&width=1024&quality=75&auto=webp",
+            "height": 2398,
+            "ratio": 1.33333
+          },
+          {
+            "x": 359,
+            "width": 2024,
+            "name": "3:4",
+            "y": 272,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/10/d94690b9-fe26-4a4d-83c3-fa97b6cc69d2.jpeg?crop=2024,2698,x359,y272&width=1024&quality=75&auto=webp",
+            "height": 2698,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "eiV3Ay1yp4O7",
+        "url": "https://img.nzz.ch/2024/05/10/d94690b9-fe26-4a4d-83c3-fa97b6cc69d2.jpeg?width=1024&quality=75&auto=webp",
+        "key": "2024/05/10/d94690b9-fe26-4a4d-83c3-fa97b6cc69d2.jpeg",
+        "height": 3415
+      },
+      "nzzId": "ld.1830156",
+      "url": "https://www.nzz.ch/english/are-lazy-europeans-falling-behind-the-americans-ld.1830156",
+      "dependencies": {},
+      "layout": "regular",
+      "estimationWordCount": 1348,
+      "embeds": {
+        "images": [
+          {
+            "author": "Georgios Kefalas / Keystone",
+            "caption": "Swimming in the Rhine near Basel: Europeans are the clear world champions of leisure.",
+            "origins": [
+              {
+                "identifier": "2155591154",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2024/05/10/d94690b9-fe26-4a4d-83c3-fa97b6cc69d2.jpeg?quality=75&auto=webp"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "01da15f0f6a6396873566efb70be9d31"
+          },
+          {
+            "id": "01da15f0f6a6396873566efb70bec404"
+          },
+          {
+            "id": "01da15f0f6a6396873566efb70bed824"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Swimming in the Rhine near Basel: Europeans are the clear world champions of leisure.",
+      "breadcrumbs": [
+        {
+          "path": "/english",
+          "name": "NZZ in English"
+        }
+      ],
+      "documentId": "1830156",
+      "product": "NZZ.ch"
+    }
+  }
+]

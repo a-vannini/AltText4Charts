@@ -1,0 +1,97 @@
+{
+  "_id": "0313da61de86779a1c0b46f57123b67d",
+  "_rev": "29-4c76601b7045973f4f859770239add88",
+  "department": "International",
+  "publication": "nzz",
+  "acronym": "nbe.",
+  "data": [
+    [
+      null,
+      "reelle Betreuungsform",
+      "gewünschte Betreuungsform"
+    ],
+    [
+      "Eltern",
+      "56",
+      "36"
+    ],
+    [
+      "Tagesmutter",
+      "20",
+      "23"
+    ],
+    [
+      "Kita",
+      "18",
+      "35"
+    ],
+    [
+      "Grosseltern",
+      "3",
+      "2"
+    ],
+    [
+      "andere",
+      "3",
+      "4"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {
+        "url": "https://www.hcfea.fr/IMG/pdf/hcfea_-_synthe_se_et_propositions-3-2.pdf",
+        "isValid": true
+      },
+      "text": "Haut Conseil de la famille, de l’enfance et de l’âge (HCFEA)"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": false,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {
+      "valuesOnBars": true
+    },
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "Wunsch und Wirklichkeit decken sich bei der Betreuung von Kleinkindern nicht",
+  "subtitle": "Wie sich Franzosen die Betreuung ihrer Kinder unter 3 Jahren wünschen – und wie sie es tatsächlich machen, in Prozent",
+  "createdDate": "2024-01-08T07:18:52.052Z",
+  "createdBy": "nina.belz@nzz.ch",
+  "updatedDate": "2024-01-15T14:58:19.504Z",
+  "updatedBy": "florian.seliger@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/0313da61de86779a1c0b46f57123b67d-thumbnail.jpeg"
+}

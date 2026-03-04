@@ -1,0 +1,327 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Sven Kaestner / AP",
+      "firstTitle": "20 Jahre EU-Osterweiterung: «Westeuropa hat enorm profitiert»",
+      "flag": "Interview",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "Y5GIfYQnFacoE23dMbNat",
+        "locale": "de-CH"
+      },
+      "title": "20 Jahre EU-Osterweiterung: «Westeuropa hat enorm profitiert»",
+      "seoTitle": "20 Jahre EU-Osterweiterung: \"Westeuropa hat enorm profitiert\"",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Nina Belz (nbe)",
+          "id": 1373290,
+          "shortName": "nbe"
+        },
+        {
+          "external": false,
+          "name": "Nikolai Thelitz (nth)",
+          "id": 1466272,
+          "shortName": "nth",
+          "proLitterisId": "884371"
+        }
+      ],
+      "nzzPrintTitle": " \"Westeuropa hat enorm profitiert\"",
+      "designName": "morpheus",
+      "premium": true,
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-05-01T15:30:00.000Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Andreas Ernst (ahn)",
+          "id": 1371808,
+          "shortName": "ahn"
+        }
+      ],
+      "department": {
+        "path": "/international",
+        "premium": false,
+        "level": 1,
+        "name": "International"
+      },
+      "publicationDate": "2024-05-01T03:30:00.000Z",
+      "slug": "20-jahre-eu-osterweiterung-die-menschen-aus-den-neueren-eu-laendern-retten-den-westeuropaeischen-arbeitsmarkt-schon-seit-jahren",
+      "firstPublicationDate": "2024-05-01T03:30:00.000Z",
+      "nzzCharacterCount": 11832,
+      "owner": "NZZ",
+      "authorLine": "Nina Belz und Nikolai Thelitz",
+      "numberOfContentComponents": 47,
+      "germanyRelevant": true,
+      "leadText": "Vor 20 Jahren kamen zehn neue Länder in die EU. In den bisherigen Mitgliedsstaaten war die Skepsis vor allem gegenüber den mittel- und osteuropäischen Ländern gross – zu Unrecht, wie der Ökonom Richard Grieveson erklärt.",
+      "publicationLastUpdated": "2024-05-01T03:30:00.000Z",
+      "nzzArticleSnippet": "Vor 20 Jahren kamen zehn neue Länder in die EU. In den bisherigen Mitgliedsstaaten war die Skepsis vor allem gegenüber den mittel- und osteuropäischen Ländern gross – zu Unrecht, wie der Ökonom Richard Grieveson erklärt.",
+      "urlPath": "/international/20-jahre-eu-osterweiterung-die-menschen-aus-den-neueren-eu-laendern-retten-den-westeuropaeischen-arbeitsmarkt-schon-seit-jahren-ld.1828469",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 2000,
+        "originalUrl": "https://img.nzz.ch/2024/04/29/39aeb7cd-de42-4f00-b575-2ff297a2b526.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 2000,
+            "name": "16:9",
+            "y": 228,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/29/39aeb7cd-de42-4f00-b575-2ff297a2b526.jpeg?crop=2000,1125,x0,y228&quality=75&auto=webp",
+            "height": 1125,
+            "ratio": 1.77778
+          },
+          {
+            "x": 710,
+            "width": 183,
+            "name": "1:1",
+            "y": 1014,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/29/39aeb7cd-de42-4f00-b575-2ff297a2b526.jpeg?crop=183,183,x710,y1014&quality=75&auto=webp",
+            "height": 183,
+            "ratio": 1
+          },
+          {
+            "x": 196,
+            "width": 1804,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/29/39aeb7cd-de42-4f00-b575-2ff297a2b526.jpeg?crop=1804,1353,x196,y0&quality=75&auto=webp",
+            "height": 1353,
+            "ratio": 1.33333
+          },
+          {
+            "x": 406,
+            "width": 1015,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/29/39aeb7cd-de42-4f00-b575-2ff297a2b526.jpeg?crop=1015,1353,x406,y0&quality=75&auto=webp",
+            "height": 1353,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "5XSvTbG-RaAD",
+        "url": "https://img.nzz.ch/2024/04/29/39aeb7cd-de42-4f00-b575-2ff297a2b526.jpeg?quality=75&auto=webp",
+        "key": "2024/04/29/39aeb7cd-de42-4f00-b575-2ff297a2b526.jpeg",
+        "height": 1353
+      },
+      "nzzId": "ld.1828469",
+      "url": "https://www.nzz.ch/international/20-jahre-eu-osterweiterung-die-menschen-aus-den-neueren-eu-laendern-retten-den-westeuropaeischen-arbeitsmarkt-schon-seit-jahren-ld.1828469",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hsl0ttq91",
+              "doc-1hsl0up3s1"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "commentCount": 10,
+      "layout": "regular",
+      "estimationWordCount": 1854,
+      "nzzPrintSubtitle": "Vor 20 Jahren kamen 10 neue Länder in die EU. In den bisherigen Mitgliedsstaaten war die Skepsis vor allem gegenüber den Osteuropäern gross. Zu Unrecht, wie  wie der Ökonom Richard Grieveson im Gespräch mit Nina Belz und Nikolai Thelitz erklärt.",
+      "embeds": {
+        "images": [
+          {
+            "author": "Sven Kaestner / AP",
+            "caption": "Die Nachbarn sind bald noch näher: Zwei Frauen und ein Mädchen blicken am 30. April 2004 im polnischen&nbsp;Slubice&nbsp;in Richtung Deutschland. Am 1. Mai 2004 ist Polen offiziell Mitglied der EU geworden.",
+            "origins": [
+              {
+                "identifier": "2155256417",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/04/29/39aeb7cd-de42-4f00-b575-2ff297a2b526.jpeg"
+          },
+          {
+            "author": "PD",
+            "caption": "Richard Grieveson",
+            "origins": [
+              {
+                "identifier": "2155256119",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/C=W406,H541,X0,Y19/O=75/https://img.nzz.ch/2024/04/29/b88b1f79-3cb6-4138-a398-8d3c64211f80.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0819c8effbf081938ef522a3694515fb"
+          },
+          {
+            "id": "0819c8effbf081938ef522a369437ed7"
+          },
+          {
+            "id": "0819c8effbf081938ef522a3695b1194"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/international",
+          "name": "International"
+        }
+      ],
+      "teaserCaption": "Die Nachbarn sind bald noch näher: Zwei Frauen und ein Mädchen blicken am 30. April 2004 im polnischen Slubice in Richtung Deutschland. Am 1. Mai 2004 ist Polen offiziell Mitglied der EU geworden.",
+      "documentId": "1828469",
+      "product": "NZZ.ch"
+    }
+  },
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "firstTitle": "Mehr Wohlstand, doch auch Brain-Drain – die Auswirkungen der EU-Osterweiterung in sechs Grafiken",
+      "flag": "Datenanalyse",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "8YqyfE9_-sEKb04iaUhpz",
+        "locale": "de-CH"
+      },
+      "seoTitle": "Die Auswirkungen der EU-Osterweiterung in Grafiken",
+      "title": "Mehr Wohlstand, doch auch Braindrain – die Auswirkungen der EU-Osterweiterung in sechs Grafiken",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Nikolai Thelitz (nth)",
+          "id": 1466272,
+          "shortName": "nth",
+          "proLitterisId": "884371"
+        },
+        {
+          "external": false,
+          "name": "Nina Belz (nbe)",
+          "id": 1373290,
+          "shortName": "nbe"
+        }
+      ],
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-05-01T15:30:00.000Z",
+      "department": {
+        "path": "/international",
+        "premium": false,
+        "level": 1,
+        "name": "International"
+      },
+      "publicationDate": "2024-05-01T03:30:00.000Z",
+      "slug": "mehr-wohlstand-doch-auch-brain-drain-die-auswirkungen-der-eu-osterweiterung-in-grafiken",
+      "firstPublicationDate": "2024-05-01T03:30:00.000Z",
+      "nzzCharacterCount": 3418,
+      "owner": "NZZ",
+      "authorLine": "Nikolai Thelitz, Nina Belz",
+      "numberOfContentComponents": 15,
+      "germanyRelevant": true,
+      "leadText": "Vor zwanzig Jahren wurde die EU kräftig ausgebaut. Polen, Tschechien, Ungarn, die Slowakei und Slowenien haben davon profitiert – aber nicht nur.",
+      "publicationLastUpdated": "2024-05-01T03:30:00.000Z",
+      "nzzArticleSnippet": "Vor zwanzig Jahren wurde die EU kräftig ausgebaut. Polen, Tschechien, Ungarn, die Slowakei und Slowenien haben davon profitiert – aber nicht nur.",
+      "urlPath": "/international/mehr-wohlstand-doch-auch-brain-drain-die-auswirkungen-der-eu-osterweiterung-in-grafiken-ld.1828205",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 2500,
+        "originalUrl": "https://img.nzz.ch/2024/04/29/694c8a64-6521-406b-9065-06bc95fd93a1.png",
+        "mimeType": "image/png",
+        "crops": [
+          {
+            "x": 0,
+            "width": 2222,
+            "name": "16:9",
+            "y": 1664,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/29/694c8a64-6521-406b-9065-06bc95fd93a1.png?crop=2222,1250,x0,y1664&width=1024&quality=75&auto=webp",
+            "height": 1250,
+            "ratio": 1.77778
+          },
+          {
+            "x": 64,
+            "width": 2222,
+            "name": "1:1",
+            "y": 740,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/29/694c8a64-6521-406b-9065-06bc95fd93a1.png?crop=2222,2222,x64,y740&width=1024&quality=75&auto=webp",
+            "height": 2222,
+            "ratio": 1
+          },
+          {
+            "x": 65,
+            "width": 2222,
+            "name": "4:3",
+            "y": 1312,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/29/694c8a64-6521-406b-9065-06bc95fd93a1.png?crop=2222,1667,x65,y1312&width=1024&quality=75&auto=webp",
+            "height": 1667,
+            "ratio": 1.33333
+          },
+          {
+            "x": 57,
+            "width": 1756,
+            "name": "3:4",
+            "y": 684,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/29/694c8a64-6521-406b-9065-06bc95fd93a1.png?crop=1756,2341,x57,y684&width=1024&quality=75&auto=webp",
+            "height": 2341,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "mouMyurT8MIy",
+        "url": "https://img.nzz.ch/2024/04/29/694c8a64-6521-406b-9065-06bc95fd93a1.png?width=1024&quality=75&auto=webp",
+        "key": "2024/04/29/694c8a64-6521-406b-9065-06bc95fd93a1.png",
+        "height": 3355
+      },
+      "nzzId": "ld.1828205",
+      "url": "https://www.nzz.ch/international/mehr-wohlstand-doch-auch-brain-drain-die-auswirkungen-der-eu-osterweiterung-in-grafiken-ld.1828205",
+      "dependencies": {},
+      "layout": "regular",
+      "estimationWordCount": 520,
+      "embeds": {
+        "images": [],
+        "q_embeds": [
+          {
+            "id": "64d3df3ff8944eb8b41a1540eaddf7b5"
+          },
+          {
+            "id": "0819c8effbf081938ef522a3694515fb"
+          },
+          {
+            "id": "64d3df3ff8944eb8b41a1540ead9bcc2"
+          },
+          {
+            "id": "0819c8effbf081938ef522a3695b1194"
+          },
+          {
+            "id": "64d3df3ff8944eb8b41a1540ead98843"
+          },
+          {
+            "id": "64d3df3ff8944eb8b41a1540ead993d2"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/international",
+          "name": "International"
+        }
+      ],
+      "documentId": "1828205",
+      "product": "NZZ.ch"
+    }
+  }
+]

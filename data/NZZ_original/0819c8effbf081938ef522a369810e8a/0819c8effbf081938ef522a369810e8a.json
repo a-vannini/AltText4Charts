@@ -1,0 +1,114 @@
+{
+  "_id": "0819c8effbf081938ef522a369810e8a",
+  "_rev": "8-ab7628a2d4af6d2aba34df4910d0f645",
+  "department": "Wirtschaft",
+  "publication": "nzz",
+  "acronym": "Ht.",
+  "data": [
+    [
+      "Bereich",
+      "2023−2030",
+      "2031−2035",
+      "Summe"
+    ],
+    [
+      "Stromerzeugung aus Erneuerbaren",
+      "353",
+      "216",
+      "569"
+    ],
+    [
+      "Übertragungs- und Verteilnetze Strom/Gas",
+      "281",
+      "192",
+      "473"
+    ],
+    [
+      "Fernwärme-Netz",
+      "32",
+      "40",
+      "72"
+    ],
+    [
+      "Erzeugung grüne Gase",
+      "23",
+      "23",
+      "46"
+    ],
+    [
+      "Speicher",
+      "17",
+      "17",
+      "34"
+    ],
+    [
+      "Wasserstoff-Kernnetz",
+      "15",
+      "5",
+      "20"
+    ],
+    [
+      "Gesamtinvestitionen",
+      "721",
+      "493",
+      "1214"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {
+        "url": "https://www.bdew.de/media/original_images/2024/04/24/fortschrittsmonitor_2024_zCu1QX7.pdf",
+        "isValid": false
+      },
+      "text": "EY/BDEW"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {
+      "valuesOnBars": true
+    },
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "Die Energiewende in Zahlen",
+  "subtitle": "Geschätzter Investitionsbedarf in Milliarden Euro",
+  "createdDate": "2024-04-30T10:18:28.925Z",
+  "createdBy": "rene.hoeltschi@nzz.ch",
+  "updatedDate": "2024-05-01T18:17:43.318Z",
+  "updatedBy": "lucie.paska@nzz.ch"
+}

@@ -1,0 +1,219 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Iran ist der Spielverderber der Opec",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Gerald Hosp (gho)",
+          "id": 1372536
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2019-07-02T08:30:09.075Z",
+      "department": {
+        "path": "/wirtschaft",
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2019-07-02T03:29:00.000Z",
+      "slug": "der-tod-des-erdoelkartells-opec-ist-vertagt-worden",
+      "firstPublicationDate": "2019-07-01T20:30:09.075Z",
+      "nzzCharacterCount": 3148,
+      "authorLine": "Gerald Hosp",
+      "numberOfContentComponents": 9,
+      "leadText": "Die Organisation erdölexportierender Staaten wird weiterhin bei der Ölförderung auf der Bremse stehen, um den Erdölpreis zu stützen. Die Opec stemmt sich gegen die US-Schieferölproduzenten und eine schwache weltwirtschaftliche Konjunktur. Iran mimte den Spielverderber in der Sitzung in Wien und musste dennoch klein beigeben.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2019-07-02T08:37:27.268Z",
+      "nzzArticleSnippet": "Die Organisation erdölexportierender Staaten wird weiterhin bei der Ölförderung auf der Bremse stehen, um den Erdölpreis zu stützen. Die Opec stemmt sich gegen die US-Schieferölproduzenten und eine schwache weltwirtschaftliche Konjunktur. Iran mimte den Spielverderber in der Sitzung in Wien und musste dennoch klein beigeben.",
+      "urlPath": "/wirtschaft/der-tod-des-erdoelkartells-opec-ist-vertagt-worden-ld.1492906",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 2327,
+        "originalUrl": "https://nzz-img.s3.amazonaws.com/2019/7/2/35fbafd8-9234-45a7-879d-791709c7600b.jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 0,
+            "width": 2327,
+            "y": 0,
+            "url": "https://img.nzz.ch/C=W2327,H1309,X0,Y0/O=75/https://nzz-img.s3.amazonaws.com/2019/7/2/35fbafd8-9234-45a7-879d-791709c7600b.jpeg",
+            "ratio": 1.77778,
+            "height": 1309
+          },
+          {
+            "name": "1:1",
+            "x": 509,
+            "width": 1309,
+            "y": 0,
+            "url": "https://img.nzz.ch/C=W1309,H1309,X509,Y0/O=75/https://nzz-img.s3.amazonaws.com/2019/7/2/35fbafd8-9234-45a7-879d-791709c7600b.jpeg",
+            "ratio": 1,
+            "height": 1309
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2019/7/2/35fbafd8-9234-45a7-879d-791709c7600b.jpeg",
+        "height": 1309
+      },
+      "nzzId": "ld.1492906",
+      "url": "https://www.nzz.ch/wirtschaft/der-tod-des-erdoelkartells-opec-ist-vertagt-worden-ld.1492906",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1den6hs3m0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "commentCount": 1,
+      "layout": "regular",
+      "embeds": {
+        "images": [
+          {
+            "caption": "Der iranische Erdölminister&nbsp;Bijan Zanganeh&nbsp;geizte zu Beginn des Opec-Treffens in Wien nicht mit Kritik an Saudiarabien und Russland. (Bild: Leonhard Foeger / Reuters)&nbsp;",
+            "origins": [
+              {
+                "identifier": "picture-2041646481",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2019/7/1/d2708651-3268-4d3e-ae18-5f6c5b55fbf3.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "01c8403779c54eaa3618b44952feef5d"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Der iranische Erdölminister Bijan Zanganeh geizte zu Beginn des Opec-Treffens in Wien nicht mit Kritik an Saudiarabien und Russland. (Bild: Leonhard Foeger / Reuters)",
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "documentId": "1492906",
+      "product": "NZZ.ch"
+    }
+  },
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Die Opec laviert zwischen Geopolitik und schwächelnder Weltwirtschaft",
+      "seoTitle": "Opec: Lavieren zwischen Geopolitik und schwacher Weltwirtschaft",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Gerald Hosp (gho)",
+          "id": 1372536
+        }
+      ],
+      "nzzPrintTitle": "Zwischen Geopolitik und Wirtschaftsschwäche",
+      "designName": "morpheus",
+      "significantUpdateTill": "2019-06-29T05:06:05.715Z",
+      "department": {
+        "path": "/wirtschaft",
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2019-06-29T07:00:00.000Z",
+      "slug": "opec-lavieren-zwischen-geopolitik-und-schwacher-weltwirtschaft",
+      "firstPublicationDate": "2019-06-28T17:06:05.715Z",
+      "nzzCharacterCount": 4770,
+      "authorLine": "Gerald Hosp",
+      "numberOfContentComponents": 16,
+      "leadText": "Anfang nächster Woche trifft sich die Opec. Es ist klar, dass die Erdölgruppe die bisherigen Förderkürzungen in die zweite Jahreshälfte weiterziehen wird. Dennoch gibt es genug Gesprächsstoff zwischen den Petro-Staaten Saudiarabien, Iran und Russland.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2019-06-29T17:54:11.975Z",
+      "nzzArticleSnippet": "Anfang nächster Woche trifft sich die Opec. Es ist klar, dass die Erdölgruppe die bisherigen Förderkürzungen in die zweite Jahreshälfte weiterziehen wird. Dennoch gibt es genug Gesprächsstoff zwischen den Petro-Staaten Saudiarabien, Iran und Russland.",
+      "urlPath": "/wirtschaft/opec-lavieren-zwischen-geopolitik-und-schwacher-weltwirtschaft-ld.1492331",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 3500,
+        "originalUrl": "https://nzz-img.s3.amazonaws.com/2019/6/28/a533557d-d359-48df-882e-9f8910848821.jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 274,
+            "width": 2765,
+            "y": 361,
+            "url": "https://img.nzz.ch/C=W2765,H1556,X274,Y361/O=75/https://nzz-img.s3.amazonaws.com/2019/6/28/a533557d-d359-48df-882e-9f8910848821.jpeg",
+            "height": 1556
+          },
+          {
+            "name": "1:1",
+            "x": 383,
+            "width": 1295,
+            "y": 797,
+            "url": "https://img.nzz.ch/C=W1295,H1295,X383,Y797/O=75/https://nzz-img.s3.amazonaws.com/2019/6/28/a533557d-d359-48df-882e-9f8910848821.jpeg",
+            "height": 1295
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2019/6/28/a533557d-d359-48df-882e-9f8910848821.jpeg",
+        "height": 2334
+      },
+      "nzzId": "ld.1492331",
+      "url": "https://www.nzz.ch/wirtschaft/opec-lavieren-zwischen-geopolitik-und-schwacher-weltwirtschaft-ld.1492331",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1defgiri60"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "nzzPrintSubtitle": "Die Opec steht bei ihrem Treffen nächster Woche vor dem Dilemma, keine Wahl zu haben",
+      "embeds": {
+        "images": [
+          {
+            "caption": "Transport von Öl-Tankern auf dem Fluss Napo&nbsp;in Ecuador. (Bild: Daniel Tapia / Reuters)",
+            "origins": [
+              {
+                "identifier": "picture-1917969546",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2019/6/28/a533557d-d359-48df-882e-9f8910848821.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "01c8403779c54eaa3618b44952f6324a"
+          },
+          {
+            "id": "01c8403779c54eaa3618b44952feef5d"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Transport von Öl-Tankern auf dem Fluss Napo in Ecuador. (Bild: Daniel Tapia / Reuters)",
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "documentId": "1492331",
+      "product": "NZZ.ch"
+    }
+  }
+]

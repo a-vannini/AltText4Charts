@@ -1,0 +1,212 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Bald ist jeder zweite AHV-Franken eine Subvention",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Hansueli Schöchli (hus)",
+          "id": 1372717
+        }
+      ],
+      "nzzPrintTitle": "Versteckspiel in der AHV",
+      "designName": "morpheus",
+      "significantUpdateTill": "2019-08-29T06:32:05.814Z",
+      "department": {
+        "path": "/wirtschaft",
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2019-08-29T03:00:00.000Z",
+      "slug": "bald-ist-jeder-zweite-ahv-franken-eine-subvention",
+      "firstPublicationDate": "2019-08-28T18:32:05.814Z",
+      "nzzCharacterCount": 4746,
+      "authorLine": "Hansueli Schöchli",
+      "numberOfContentComponents": 15,
+      "leadText": "Die vom Bundesrat am Mittwoch vorgeschlagene AHV-Reform verstärkt die versteckte Umverteilung noch weiter. Der Grossteil der erwarteten Verbesserung der AHV-Finanzlage soll aus Zusatzeinnahmen kommen.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2019-08-28T18:32:05.814Z",
+      "nzzArticleSnippet": "Die vom Bundesrat am Mittwoch vorgeschlagene AHV-Reform verstärkt die versteckte Umverteilung noch weiter. Der Grossteil der erwarteten Verbesserung der AHV-Finanzlage soll aus Zusatzeinnahmen kommen.",
+      "urlPath": "/wirtschaft/bald-ist-jeder-zweite-ahv-franken-eine-subvention-ld.1504805",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 4836,
+        "originalUrl": "https://nzz-img.s3.amazonaws.com/2019/8/28/48edbd83-0115-474b-9ead-e3dfee133f20.jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 0,
+            "width": 4836,
+            "y": 409,
+            "url": "https://img.nzz.ch/C=W4836,H2720,X0,Y409/O=75/https://nzz-img.s3.amazonaws.com/2019/8/28/48edbd83-0115-474b-9ead-e3dfee133f20.jpeg",
+            "height": 2720
+          },
+          {
+            "name": "1:1",
+            "x": 515,
+            "width": 3219,
+            "y": 0,
+            "url": "https://img.nzz.ch/C=W3219,H3219,X515,Y0/O=75/https://nzz-img.s3.amazonaws.com/2019/8/28/48edbd83-0115-474b-9ead-e3dfee133f20.jpeg",
+            "height": 3219
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2019/8/28/48edbd83-0115-474b-9ead-e3dfee133f20.jpeg",
+        "height": 3219
+      },
+      "nzzId": "ld.1504805",
+      "url": "https://www.nzz.ch/wirtschaft/bald-ist-jeder-zweite-ahv-franken-eine-subvention-ld.1504805",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1djcnon2t0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "nzzPrintSubtitle": "Mit der vorgeschlagenen Reform wird für viele Bürger bald jeder zweite AHV-Franken eine Subvention sein",
+      "embeds": {
+        "images": [
+          {
+            "caption": "Je stärker die AHV nur über Mehreinnahmen saniert wird, desto höher sind die Lasten für die Jüngeren. (Bild: Adrian Baer / NZZ)",
+            "origins": [
+              {
+                "identifier": "picture-22965364",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2019/8/28/48edbd83-0115-474b-9ead-e3dfee133f20.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "01c8403779c54eaa3618b44952a05470"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Je stärker die AHV nur über Mehreinnahmen saniert wird, desto höher sind die Lasten für die Jüngeren. (Bild: Adrian Baer / NZZ)",
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "documentId": "1504805",
+      "product": "NZZ.ch"
+    }
+  },
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Trotz der AHV-Reform bleiben ungedeckte Checks für 550 Milliarden Franken – zahlen müssen vor allem die Jungen",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Hansueli Schöchli (hus)",
+          "id": 1372717
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2019-06-25T19:16:56.277Z",
+      "department": {
+        "path": "/wirtschaft",
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2019-06-25T07:15:00.000Z",
+      "slug": "ungedeckte-schecks-fuer-550-milliarden-franken",
+      "firstPublicationDate": "2019-06-25T07:16:56.277Z",
+      "nzzCharacterCount": 5952,
+      "authorLine": "Hansueli Schöchli",
+      "numberOfContentComponents": 15,
+      "leadText": "Die geplanten AHV-Reformen halbieren das Finanzloch des Sozialwerks. Die Rechnung geht aber grossenteils zulasten der Jungen, wie eine neue Studie bekräftigt.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2019-06-25T10:39:28.620Z",
+      "nzzArticleSnippet": "Die geplanten AHV-Reformen halbieren das Finanzloch des Sozialwerks. Die Rechnung geht aber grossenteils zulasten der Jungen, wie eine neue Studie bekräftigt.",
+      "urlPath": "/wirtschaft/ungedeckte-schecks-fuer-550-milliarden-franken-ld.1491141",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 3260,
+        "originalUrl": "https://nzz-img.s3.amazonaws.com/2019/6/25/7bea5da9-6194-4d99-b00d-f8c3c962f7d0.jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 490,
+            "width": 2290,
+            "y": 183,
+            "url": "https://img.nzz.ch/C=W2290,H1288,X490,Y183/O=75/https://nzz-img.s3.amazonaws.com/2019/6/25/7bea5da9-6194-4d99-b00d-f8c3c962f7d0.jpeg",
+            "height": 1288
+          },
+          {
+            "name": "1:1",
+            "x": 1024,
+            "width": 1717,
+            "y": 111,
+            "url": "https://img.nzz.ch/C=W1717,H1717,X1024,Y111/O=75/https://nzz-img.s3.amazonaws.com/2019/6/25/7bea5da9-6194-4d99-b00d-f8c3c962f7d0.jpeg",
+            "height": 1717
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2019/6/25/7bea5da9-6194-4d99-b00d-f8c3c962f7d0.jpeg",
+        "height": 2173
+      },
+      "nzzId": "ld.1491141",
+      "url": "https://www.nzz.ch/wirtschaft/ungedeckte-schecks-fuer-550-milliarden-franken-ld.1491141",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1de6nguct0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "embeds": {
+        "images": [
+          {
+            "caption": "Für die Finanzlöcher in der AHV zahlen vor allem die Jungen. (Bild: Melanie Duchene / Keystone)",
+            "origins": [
+              {
+                "identifier": "picture-2037682665",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/C=W3260,H1831,X0,Y103/O=75/https://nzz-img.s3.amazonaws.com/2019/6/25/7bea5da9-6194-4d99-b00d-f8c3c962f7d0.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "01c8403779c54eaa3618b44952a05470"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Für die Finanzlöcher in der AHV zahlen vor allem die Jungen. (Bild: Melanie Duchene / Keystone)",
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "documentId": "1491141",
+      "product": "NZZ.ch"
+    }
+  }
+]

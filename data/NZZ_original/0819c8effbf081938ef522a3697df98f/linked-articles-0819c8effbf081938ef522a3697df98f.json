@@ -1,0 +1,157 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Getty",
+      "firstTitle": "König Kohle gibt nicht so schnell auf. Auch wenn die westlichen Industrieländer den Kohleausstieg schaffen wollen",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "aaonS12YbeEZAhLQrvbDC",
+        "locale": "de-CH"
+      },
+      "title": "König Kohle gibt nicht so schnell auf. Auch wenn die westlichen Industrieländer den Kohleausstieg schaffen wollen",
+      "seoTitle": "Kohle: G-7-Länder wollen den Ausstieg",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Gerald Hosp (gho)",
+          "id": 1372536,
+          "shortName": "gho"
+        }
+      ],
+      "nzzPrintTitle": "König Kohle gibt nicht so schnell auf",
+      "designName": "morpheus",
+      "seoSocialMediaTitle": "Westliche Industrieländer wollen weg von der Kohle. Entscheidend ist aber China.",
+      "premium": true,
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-05-04T15:30:00.000Z",
+      "department": {
+        "path": "/wirtschaft",
+        "premium": false,
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2024-05-04T03:30:00.000Z",
+      "slug": "kohle-g-7-laender-wollen-den-ausstieg",
+      "firstPublicationDate": "2024-05-04T03:30:00.000Z",
+      "nzzCharacterCount": 6250,
+      "owner": "NZZ",
+      "authorLine": "Gerald Hosp",
+      "numberOfContentComponents": 24,
+      "germanyRelevant": true,
+      "leadText": "Die G-7-Staaten wollen bis 2035 keine Kohle mehr zur Verstromung nutzen. Über die Zukunft des fossilen Brennstoffs wird aber anderswo entschieden.",
+      "publicationLastUpdated": "2024-05-04T03:30:00.000Z",
+      "nzzArticleSnippet": "Die G-7-Staaten wollen bis 2035 keine Kohle mehr zur Verstromung nutzen. Über die Zukunft des fossilen Brennstoffs wird aber anderswo entschieden.",
+      "urlPath": "/wirtschaft/kohle-g-7-laender-wollen-den-ausstieg-ld.1828849",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 3000,
+        "originalUrl": "https://img.nzz.ch/2024/05/03/2225f2fa-b84f-4aad-b8d7-3ae288776be5.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 2107,
+            "name": "16:9",
+            "y": 745,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/03/2225f2fa-b84f-4aad-b8d7-3ae288776be5.jpeg?crop=2107,1185,x0,y745&width=1024&quality=75&auto=webp",
+            "height": 1185,
+            "ratio": 1.77778
+          },
+          {
+            "x": 556,
+            "width": 669,
+            "name": "1:1",
+            "y": 1086,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/03/2225f2fa-b84f-4aad-b8d7-3ae288776be5.jpeg?crop=669,669,x556,y1086&width=1024&quality=75&auto=webp",
+            "height": 669,
+            "ratio": 1
+          },
+          {
+            "x": 0,
+            "width": 2033,
+            "name": "4:3",
+            "y": 405,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/03/2225f2fa-b84f-4aad-b8d7-3ae288776be5.jpeg?crop=2033,1525,x0,y405&width=1024&quality=75&auto=webp",
+            "height": 1525,
+            "ratio": 1.33333
+          },
+          {
+            "x": 370,
+            "width": 1017,
+            "name": "3:4",
+            "y": 574,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/03/2225f2fa-b84f-4aad-b8d7-3ae288776be5.jpeg?crop=1017,1356,x370,y574&width=1024&quality=75&auto=webp",
+            "height": 1356,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "RGmhJfnP-QMA",
+        "url": "https://img.nzz.ch/2024/05/03/2225f2fa-b84f-4aad-b8d7-3ae288776be5.jpeg?width=1024&quality=75&auto=webp",
+        "key": "2024/05/03/2225f2fa-b84f-4aad-b8d7-3ae288776be5.jpeg",
+        "height": 1930
+      },
+      "nzzId": "ld.1828849",
+      "url": "https://www.nzz.ch/wirtschaft/kohle-g-7-laender-wollen-den-ausstieg-ld.1828849",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hsuu4lvu1"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "commentCount": 3,
+      "layout": "regular",
+      "estimationWordCount": 934,
+      "nzzPrintSubtitle": "Die westlichen Industrieländer wollen bis 2035 keine Kohle mehr zur Verstromung nutzen. Über die Zukunft des fossilen Brennstoffs wird aber anderswo entschieden.",
+      "embeds": {
+        "images": [
+          {
+            "author": "Getty",
+            "caption": "China ist für rund die Hälfte des weltweiten Kohleverbrauchs verantwortlich.",
+            "origins": [
+              {
+                "identifier": "2155372975",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/05/03/2225f2fa-b84f-4aad-b8d7-3ae288776be5.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0819c8effbf081938ef522a3697df98f"
+          },
+          {
+            "id": "18aac520b7bfcb66995d802376460a65"
+          },
+          {
+            "id": "49dcce6f001b78f18f941c329ec40406"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "teaserCaption": "China ist für rund die Hälfte des weltweiten Kohleverbrauchs verantwortlich.",
+      "documentId": "1828849",
+      "product": "NZZ.ch"
+    }
+  }
+]

@@ -1,0 +1,99 @@
+{
+  "_id": "0819c8effbf081938ef522a36939f48c",
+  "_rev": "28-72af09db8605725bfc7ba16ea7bdd7cc",
+  "department": "Wirtschaft",
+  "publication": "nzz",
+  "acronym": "imr.",
+  "data": [
+    [
+      "Land",
+      "Export",
+      "Import"
+    ],
+    [
+      "USA",
+      "502.3",
+      "346.5"
+    ],
+    [
+      "Grossbritannien",
+      "355.0",
+      "180.0"
+    ],
+    [
+      "China",
+      "223.6",
+      "515.9"
+    ],
+    [
+      "Schweiz",
+      "188.6",
+      "138.5"
+    ],
+    [
+      "Türkei",
+      "111.4",
+      "95.7"
+    ],
+    [
+      "Norwegen",
+      "61.7",
+      "119.2"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {},
+      "text": "Eurostat"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "Die EU hat gegenüber China ein Handelsbilanzdefizit",
+  "subtitle": "Aussenhandel 2023, in Milliarden Euro",
+  "createdDate": "2024-04-25T10:47:29.957Z",
+  "createdBy": "daniel.imwinkelried@nzz.ch",
+  "updatedDate": "2024-06-12T13:32:50.679Z",
+  "updatedBy": "daniel.imwinkelried@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/0819c8effbf081938ef522a36939f48c-thumbnail.jpeg",
+  "deactivateDate": "2024-06-12T13:32:49.941Z",
+  "activateDate": "2024-06-12T13:32:50.679Z"
+}

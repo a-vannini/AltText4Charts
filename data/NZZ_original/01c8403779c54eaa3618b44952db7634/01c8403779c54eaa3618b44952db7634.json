@@ -1,0 +1,92 @@
+{
+  "_id": "01c8403779c54eaa3618b44952db7634",
+  "_rev": "10-3a12cfd6ed45c5b262e50f779ac1c18d",
+  "department": "Wirtschaft",
+  "publication": "nzz",
+  "acronym": "sco.",
+  "data": [
+    [
+      "Land",
+      "Europe Stoxx 50"
+    ],
+    [
+      "Grossbritannien",
+      "15"
+    ],
+    [
+      "Frankreich",
+      "11"
+    ],
+    [
+      "Deutschland",
+      "8"
+    ],
+    [
+      "Schweiz",
+      "6"
+    ],
+    [
+      "Niederlande",
+      "3"
+    ],
+    [
+      "Spanien",
+      "3"
+    ],
+    [
+      "Italien",
+      "2"
+    ],
+    [
+      "Dänemark",
+      "1"
+    ],
+    [
+      "Belgien",
+      "1"
+    ]
+  ],
+  "allowDownloadData": false,
+  "sources": [
+    {
+      "link": {
+        "url": "https://www.stoxx.com/documents/stoxxnet/Documents/Indices/Factsheets_Components/2019/May/SX5GR.pdf",
+        "isValid": true
+      },
+      "text": "Stoxx"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": true,
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "year",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0
+    },
+    "highlightDataSeries": [],
+    "colorOverwritesSeries": []
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "Die Schweiz hat am viertmeisten Firmen unter den 50 Blue Chips des Europe-Stoxx 50",
+  "subtitle": "Anzahl Firmen im Europe Stoxx 50",
+  "createdDate": "2019-06-26T14:30:09.770Z",
+  "createdBy": "christoph.schmutz@nzz.ch",
+  "updatedDate": "2019-06-27T15:18:50.942Z",
+  "updatedBy": "barbara.baechli@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/01c8403779c54eaa3618b44952db7634-thumbnail.jpeg"
+}

@@ -1,0 +1,152 @@
+{
+  "_id": "0819c8effbf081938ef522a3692e20ad",
+  "_rev": "13-e8154f3cb3d8f931b268e79fba4a8aba",
+  "data": [
+    [
+      "Staat",
+      "erneuerbare Wasservorräte pro Kopf (Mio.\n  m3)"
+    ],
+    [
+      "Kanada",
+      "74.5"
+    ],
+    [
+      "Peru",
+      "55.2"
+    ],
+    [
+      "Venezuela",
+      "47.0"
+    ],
+    [
+      "Kolumbien",
+      "45.5"
+    ],
+    [
+      "Brasilien",
+      "40.2"
+    ],
+    [
+      "Russland",
+      "31.4"
+    ],
+    [
+      "USA",
+      "9.2"
+    ],
+    [
+      "Indonesien",
+      "7.3"
+    ],
+    [
+      "Schweiz",
+      "6.0"
+    ],
+    [
+      "EU",
+      "3.8"
+    ],
+    [
+      "Mexiko",
+      "3.6"
+    ],
+    [
+      "Japan",
+      "3.4"
+    ],
+    [
+      "China",
+      "2.0"
+    ],
+    [
+      "Deutschland",
+      "1.8"
+    ],
+    [
+      "Indien",
+      "1.3"
+    ],
+    [
+      "Nigeria",
+      "1.3"
+    ],
+    [
+      "Pakistan",
+      "1.0"
+    ],
+    [
+      "Äthiopien",
+      "1.0"
+    ],
+    [
+      "Ägypten",
+      "0.5"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {
+        "url": "https://www.cia.gov/the-world-factbook/field/total-renewable-water-resources/",
+        "isValid": true
+      },
+      "text": "Wasser: CIA World Factbook (Schätzung 2020)"
+    },
+    {
+      "link": {
+        "url": "https://population.un.org/wpp/",
+        "isValid": true
+      },
+      "text": "Bevölkerung: UN World Population Prospects 2022"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": false,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "department": "Wirtschaft",
+  "publication": "nzz",
+  "acronym": "pfi.",
+  "active": true,
+  "title": "Die Wasservorräte sind weltweit sehr ungleich verteilt",
+  "subtitle": "Durchschnittliche erneuerbare Wasserressourcen pro Kopf, in Millionen Kubikmeter",
+  "createdDate": "2024-04-24T08:40:34.211Z",
+  "createdBy": "peter.fischer@nzz.ch",
+  "updatedDate": "2024-04-24T08:46:30.692Z",
+  "updatedBy": "peter.fischer@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/0819c8effbf081938ef522a3692e20ad-thumbnail.jpeg"
+}

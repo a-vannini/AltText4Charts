@@ -1,0 +1,104 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Das Gesundheitssystem bereitet den Schweizern Sorgen – obwohl hohe Prämien breit akzeptiert sind",
+      "nzzAuthors": [
+        {
+          "name": "Simon Hehli (hhs)",
+          "id": 1372646
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2018-06-19T17:56:46.128Z",
+      "department": {
+        "path": "/schweiz",
+        "level": 1,
+        "name": "Schweiz"
+      },
+      "publicationDate": "2018-06-19T07:45:00.000Z",
+      "slug": "wir-zahlen-horrend-teure-praemien-und-wollen-dafuer-beste-medizin",
+      "firstPublicationDate": "2018-06-19T05:56:46.128Z",
+      "nzzCharacterCount": 6053,
+      "authorLine": "Simon Hehli",
+      "numberOfContentComponents": 18,
+      "leadText": "Die Bevölkerung ist ungemein zufrieden mit dem Gesundheitssystem. Das zeigt der Gesundheitsmonitor 2018. Sparmassnahmen bei der Gesundheit sind so unpopulär wie schon lange nicht mehr.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2018-06-19T08:10:13.671Z",
+      "urlPath": "/schweiz/wir-zahlen-horrend-teure-praemien-und-wollen-dafuer-beste-medizin-ld.1395927",
+      "nzzId": "ld.1395927",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 5616,
+        "originalUrl": "https://nzz-img.s3.amazonaws.com/2018/6/18/1b13c35b-5a41-4a4d-aabe-5e43bb360aae.jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 0,
+            "width": 5616,
+            "y": 293,
+            "url": "https://img.nzz.ch/C=W5616,H3159,X0,Y293/O=75/https://nzz-img.s3.amazonaws.com/2018/6/18/1b13c35b-5a41-4a4d-aabe-5e43bb360aae.jpeg",
+            "height": 3159
+          },
+          {
+            "name": "1:1",
+            "x": 936,
+            "width": 3744,
+            "y": 0,
+            "url": "https://img.nzz.ch/C=W3744,H3744,X936,Y0/O=75/https://nzz-img.s3.amazonaws.com/2018/6/18/1b13c35b-5a41-4a4d-aabe-5e43bb360aae.jpeg",
+            "height": 3744
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2018/6/18/1b13c35b-5a41-4a4d-aabe-5e43bb360aae.jpeg",
+        "height": 3744
+      },
+      "url": "https://www.nzz.ch/schweiz/wir-zahlen-horrend-teure-praemien-und-wollen-dafuer-beste-medizin-ld.1395927",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1cg9nhikk0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "embeds": {
+        "images": [
+          {
+            "caption": "Medikamente sind in der Schweiz teuer, wie das ganze Gesundheitswesen. Doch eine Mehrheit findet, dass wir uns dies leisten sollten. (Bild: Gaetan Bally / Keystone)<br><br>",
+            "origins": [
+              {
+                "identifier": "picture-1962018253",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2018/6/18/1b13c35b-5a41-4a4d-aabe-5e43bb360aae.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "022a672b3f9fa2b1be4ea3c48a553889"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Medikamente sind in der Schweiz teuer, wie das ganze Gesundheitswesen. Doch eine Mehrheit findet, dass wir uns dies leisten sollten. (Bild: Gaetan Bally / Keystone)",
+      "breadcrumbs": [
+        {
+          "path": "/schweiz",
+          "name": "Schweiz"
+        }
+      ],
+      "documentId": "1395927",
+      "product": "NZZ.ch"
+    }
+  }
+]

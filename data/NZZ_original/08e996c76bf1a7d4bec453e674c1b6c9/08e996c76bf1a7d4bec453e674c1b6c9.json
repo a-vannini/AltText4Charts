@@ -1,0 +1,82 @@
+{
+  "_id": "08e996c76bf1a7d4bec453e674c1b6c9",
+  "_rev": "12-1d57498cc270979d3f6dc405f7f891c7",
+  "data": [
+    [
+      null,
+      "Beide Teilzeit",
+      "Beide Vollzeit",
+      "Weder noch**"
+    ],
+    [
+      "Paare mit Kind*",
+      "9",
+      "14",
+      "77"
+    ],
+    [
+      "Paare ohne Kinder",
+      "4",
+      "56",
+      "40"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "text": "BfS",
+      "link": {
+        "url": "https://genderequality.bfs.admin.ch/de/"
+      }
+    }
+  ],
+  "options": {
+    "chartType": "StackedBar",
+    "hideAxisLabel": false,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "department": "Wirtschaft",
+  "publication": "nzz",
+  "acronym": "sev.",
+  "active": true,
+  "title": "Egalitäre Erwerbsmodelle sind selten",
+  "subtitle": "Aufteilung der Erwerbs- und Hausarbeit bei Paaren im Jahr 2022, Anteile in Prozent",
+  "notes": "* Jüngstes Kind im Alter von 0 bis 12 Jahren, ** andere Erwerbsmodelle.",
+  "createdDate": "2024-06-11T08:55:28.396Z",
+  "createdBy": "christin.severin@nzz.ch",
+  "updatedDate": "2024-06-11T16:24:14.088Z",
+  "updatedBy": "lena.frische@nzz.ch"
+}

@@ -1,0 +1,112 @@
+{
+  "_id": "08e996c76bf1a7d4bec453e674c16d25",
+  "_rev": "29-b3b5b147bd242d7acbcb967fa1917b39",
+  "data": [
+    [
+      null,
+      "Frauen",
+      "Männer"
+    ],
+    [
+      "Krankenpflege und Geburtshilfe*",
+      "85",
+      "15"
+    ],
+    [
+      "Elektrizität und Energie*",
+      "3",
+      "97"
+    ],
+    [
+      "Soziale Arbeit**",
+      "72",
+      "28"
+    ],
+    [
+      "Technik und IT**",
+      "14",
+      "86"
+    ],
+    [
+      "Humanmedizin***",
+      "61",
+      "39"
+    ],
+    [
+      "Maschinen- und Elektroingenieurswesen***",
+      "20",
+      "80"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {
+        "url": "https://genderequality.bfs.admin.ch/de/"
+      },
+      "text": "BfS"
+    }
+  ],
+  "options": {
+    "chartType": "StackedBar",
+    "hideAxisLabel": false,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {
+      "valuesOnBars": true
+    },
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [
+      {
+        "color": "#ae49a2",
+        "colorLight": "",
+        "position": 1
+      },
+      {
+        "color": "#006d64",
+        "colorLight": "",
+        "position": 2
+      }
+    ],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "department": "Wirtschaft",
+  "publication": "nzz",
+  "acronym": "sev.",
+  "active": true,
+  "title": "Die Berufswahl folgt alten Rollenmustern",
+  "subtitle": "Frauen- und Männeranteile in verschiedenen Berufen im Jahr 2022, in Prozent",
+  "notes": "* Berufliche Grundbildung; ** Studierende an den Fachhochschulen; *** Studierende an den universitären Hochschulen.",
+  "createdDate": "2024-06-11T08:38:39.323Z",
+  "createdBy": "christin.severin@nzz.ch",
+  "updatedDate": "2024-06-11T16:33:13.475Z",
+  "updatedBy": "lena.frische@nzz.ch"
+}

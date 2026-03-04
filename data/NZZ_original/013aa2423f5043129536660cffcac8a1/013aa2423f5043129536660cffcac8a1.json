@@ -1,0 +1,72 @@
+{
+  "_id": "013aa2423f5043129536660cffcac8a1",
+  "_rev": "21-6cd25e3ff57096c2b02b0cfdbeb58d5e",
+  "department": "International",
+  "publication": "nzz",
+  "acronym": "nbe",
+  "data": [
+    [
+      "Steuerpflichtiger in...",
+      "Alleinstehend, keine Kinder, Durchschnittslohn",
+      "Verheiratetes Paar, zwei Kinder, einer mit 100 %, einer mit 67 % vom Durchschnittslohn"
+    ],
+    [
+      "Deutschland",
+      "60.1",
+      "69.4"
+    ],
+    [
+      "Frankreich",
+      "70.8",
+      "74.6"
+    ],
+    [
+      "Schweiz",
+      "83.1",
+      "85.8"
+    ]
+  ],
+  "allowDownloadData": false,
+  "sources": [
+    {
+      "link": {
+        "url": "https://read.oecd-ilibrary.org/taxation/taxing-wages-2018/income-tax-plus-employee-contributions-2017_tax_wages-2018-table21-en#page1",
+        "isValid": true
+      },
+      "text": "OECD Taxing Wages 2018"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": false,
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "year",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0
+    },
+    "highlightDataSeries": [],
+    "colorOverwritesSeries": []
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "Wie viel einem Arbeitnehmer nach Steuern und Sozialabgaben von seinem Gehalt bleibt",
+  "subtitle": "in der Schweiz sind Gesundheitskosten nicht mit eingerechnet, in %, Daten aus 2017",
+  "createdDate": "2018-12-13T12:23:20.445Z",
+  "createdBy": "nina.belz@nzz.ch",
+  "updatedDate": "2018-12-14T10:20:27.830Z",
+  "updatedBy": "gerald.hosp@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/013aa2423f5043129536660cffcac8a1-thumbnail.jpeg"
+}

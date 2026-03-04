@@ -1,0 +1,191 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "Walter Bieri / Keystone",
+      "contentTypeGroup": "web",
+      "flag": "Erklärt",
+      "significantUpdate": false,
+      "language": {
+        "groupId": "DVXsFfRL7uj1",
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Zürcher Wahlen 2023: Das Rennen um die sieben Sitze im Regierungsrat ist offen, die Mehrheiten im Kantonsrat bleiben knapp",
+      "seoTitle": "Wahlen 2023 im Kanton Zürich: Alles zu Regierungs- und Kantonsrat",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Stefan Hotz (sho)",
+          "id": 1373688
+        },
+        {
+          "external": false,
+          "name": "Zeno Geisseler (zge)",
+          "id": 1638489
+        },
+        {
+          "external": false,
+          "name": "Daniel Fritzsche (dfr)",
+          "id": 1372257
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2022-02-04T05:01:40.624Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Daniel Fritzsche (dfr)",
+          "id": 1372257
+        }
+      ],
+      "department": {
+        "path": "/zuerich",
+        "level": 1,
+        "name": "Zürich"
+      },
+      "publicationDate": "2023-01-20T09:06:05.403Z",
+      "slug": "wahlen-2023-im-kanton-zuerich-alles-zu-regierungsrat-kantonsrat",
+      "firstPublicationDate": "2022-02-03T17:01:40.624Z",
+      "nzzCharacterCount": 10139,
+      "authorLine": "Stefan Hotz, Zeno Geisseler, Daniel Fritzsche",
+      "owner": "NZZ",
+      "numberOfContentComponents": 55,
+      "germanyRelevant": true,
+      "leadText": "Am 12. Februar wählt der Kanton Zürich eine neue Regierung und ein neues Parlament. Die wichtigsten Punkte im Überblick.",
+      "publicationLastUpdated": "2023-01-26T14:27:38.438Z",
+      "nzzArticleSnippet": "Am 12. Februar wählt der Kanton Zürich eine neue Regierung und ein neues Parlament. Die wichtigsten Punkte im Überblick.",
+      "urlPath": "/zuerich/wahlen-2023-im-kanton-zuerich-alles-zu-regierungsrat-kantonsrat-ld.1666438",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 4917,
+        "originalUrl": "https://nzz-img.s3.amazonaws.com/2022/05/04/b4ab2cf5-230a-4cbb-9e91-05657a3f8b56.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 4917,
+            "name": "16:9",
+            "y": 127,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W4917,H2766,X0,Y127/O=75/https://nzz-img.s3.amazonaws.com/2022/05/04/b4ab2cf5-230a-4cbb-9e91-05657a3f8b56.jpeg",
+            "height": 2766,
+            "ratio": 1.77778
+          },
+          {
+            "x": 250,
+            "width": 2914,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W2914,H2914,X250,Y0/O=75/https://nzz-img.s3.amazonaws.com/2022/05/04/b4ab2cf5-230a-4cbb-9e91-05657a3f8b56.jpeg",
+            "height": 2914,
+            "ratio": 1
+          }
+        ],
+        "mediaId": "ftxwvPLJQj-c",
+        "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2022/05/04/b4ab2cf5-230a-4cbb-9e91-05657a3f8b56.jpeg",
+        "height": 3278
+      },
+      "nzzId": "ld.1666438",
+      "url": "https://www.nzz.ch/zuerich/wahlen-2023-im-kanton-zuerich-alles-zu-regierungsrat-kantonsrat-ld.1666438",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1g2753n6f0",
+              "doc-1gn5940k90",
+              "doc-1g01k46k00",
+              "doc-1gn5963u81"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "commentCount": 1,
+      "layout": "regular",
+      "estimationWordCount": 1588,
+      "embeds": {
+        "images": [
+          {
+            "author": "Walter Bieri / Keystone",
+            "caption": "Der Zürcher Regierungsrat in seiner jetzigen Zusammensetzung (von links nach rechts): Jacqueline Fehr (SP), Martin Neukom (Grüne), Natalie Rickli (SVP), Mario Fehr (parteilos), Silvia Steiner (Mitte), Ernst Stocker (SVP) und Carmen Walker Späh (FDP).",
+            "origins": [
+              {
+                "identifier": "2129747470",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2022/05/04/b4ab2cf5-230a-4cbb-9e91-05657a3f8b56.jpeg"
+          },
+          {
+            "author": "Annick Ramp",
+            "caption": "Der FDP-Kandidat Peter Grünenfelder.",
+            "origins": [
+              {
+                "identifier": "2139427645",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2022/12/27/4e37bcc6-39b6-4cba-942a-ea66dbdb5371.jpeg"
+          },
+          {
+            "author": "Peter Klaunzer / Keystone",
+            "caption": "Die Nationalrätin Priska Seiler Graf (SP).",
+            "origins": [
+              {
+                "identifier": "2129452436",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2022/03/25/5f7a40ac-088c-4cb6-b4c0-ceffd2190ea7.jpeg"
+          },
+          {
+            "author": "Alexandra Wey / Keystone",
+            "caption": "Der GLP-Kandidat Benno Scherrer.",
+            "origins": [
+              {
+                "identifier": "2132898785",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2022/06/29/0d63e7b1-6a47-47ca-9b16-de590de5d37d.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "47ef3334bda6401ad7c8d3d40751a4f4"
+          },
+          {
+            "id": "62f07352e4cdcb7a1920a544f6c80301"
+          },
+          {
+            "id": "a7baecfe2ebccf322ae3d3024c169ccc"
+          },
+          {
+            "id": "014e6bf3927ddaf505c8053e37226a1e"
+          },
+          {
+            "id": "16a57dca31ba332c28ac62f0a23d577c"
+          },
+          {
+            "id": "56df6c2e3beab290c1d128038df3bce6"
+          },
+          {
+            "id": "62f07352e4cdcb7a1920a544f6c6f76a"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Der Zürcher Regierungsrat in seiner jetzigen Zusammensetzung (von links nach rechts): Jacqueline Fehr (SP), Martin Neukom (Grüne), Natalie Rickli (SVP), Mario Fehr (parteilos), Silvia Steiner (Mitte), Ernst Stocker (SVP) und Carmen Walker Späh (FDP).",
+      "breadcrumbs": [
+        {
+          "path": "/zuerich",
+          "name": "Zürich"
+        }
+      ],
+      "documentId": "1666438",
+      "product": "NZZ.ch"
+    }
+  }
+]

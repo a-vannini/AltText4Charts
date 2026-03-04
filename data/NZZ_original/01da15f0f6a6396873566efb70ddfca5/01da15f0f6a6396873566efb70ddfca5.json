@@ -1,0 +1,248 @@
+{
+  "_id": "01da15f0f6a6396873566efb70ddfca5",
+  "_rev": "31-9761005da2f70b5c7f1a470d07712762",
+  "department": "Wirtschaft",
+  "publication": "nzz",
+  "acronym": "mbe.",
+  "data": [
+    [
+      null,
+      "Einkommensschwach",
+      "Unterer Mittelstand",
+      "Oberer Mittelstand",
+      "Einkommensstark"
+    ],
+    [
+      "2000",
+      "21.3",
+      "28.7",
+      "29.4",
+      "20.6"
+    ],
+    [
+      "2001",
+      "21.1",
+      "28.9",
+      "31.3",
+      "18.7"
+    ],
+    [
+      "2002",
+      "22.4",
+      "27.6",
+      "30.3",
+      "19.7"
+    ],
+    [
+      "2003",
+      "20.5",
+      "29.5",
+      "31.6",
+      "18.4"
+    ],
+    [
+      "2004",
+      "20.8",
+      "29.2",
+      "30.2",
+      "19.8"
+    ],
+    [
+      "2005",
+      "22.1",
+      "27.9",
+      "31.7",
+      "18.4"
+    ],
+    [
+      "2006",
+      "22.6",
+      "27.4",
+      "30.4",
+      "19.5"
+    ],
+    [
+      "2007",
+      "22.2",
+      "27.8",
+      "29.8",
+      "20.2"
+    ],
+    [
+      "2008",
+      "22.2",
+      "27.8",
+      "30.0",
+      "19.9"
+    ],
+    [
+      "2009",
+      "20.0",
+      "30.0",
+      "31.3",
+      "18.7"
+    ],
+    [
+      "2010",
+      "23.0",
+      "26.9",
+      "30.9",
+      "19.2"
+    ],
+    [
+      "2011",
+      "22.1",
+      "27.8",
+      "29.4",
+      "20.6"
+    ],
+    [
+      "2012",
+      "22.7",
+      "27.2",
+      "29.9",
+      "20.1"
+    ],
+    [
+      "2013",
+      "22.9",
+      "27.2",
+      "29.5",
+      "20.4"
+    ],
+    [
+      "2014",
+      "22.9",
+      "27.1",
+      "30.1",
+      "19.9"
+    ],
+    [
+      "2015",
+      "21.7",
+      "28.3",
+      "30.6",
+      "19.3"
+    ],
+    [
+      "2016",
+      "22.8",
+      "27.2",
+      "29.2",
+      "20.8"
+    ],
+    [
+      "2017",
+      "24.1",
+      "25.9",
+      "29.9",
+      "20.1"
+    ],
+    [
+      "2018",
+      "24.8",
+      "25.2",
+      "29.2",
+      "20.8"
+    ],
+    [
+      "2019",
+      "23.6",
+      "26.4",
+      "31.2",
+      "18.8"
+    ],
+    [
+      "2020",
+      "23.3",
+      "26.7",
+      "28.7",
+      "21.3"
+    ],
+    [
+      "2021",
+      "21.8",
+      "28.2",
+      "29.4",
+      "20.6"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {
+        "url": "https://www.bfs.admin.ch/bfs/de/home/statistiken/wirtschaftliche-soziale-situation-bevoelkerung/soziale-situation-wohlbefinden-und-armut/einkommensmitte.assetdetail.30546149.html",
+        "isValid": true
+      },
+      "text": "BfS, Haushaltsbudgeterhebung"
+    }
+  ],
+  "options": {
+    "chartType": "Area",
+    "hideAxisLabel": false,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [
+      {
+        "color": "#ae49a2",
+        "colorLight": "",
+        "position": 1
+      },
+      {
+        "color": "#d485c8",
+        "colorLight": "",
+        "position": 2
+      },
+      {
+        "color": "#39ac9f",
+        "colorLight": "",
+        "position": 3
+      },
+      {
+        "color": "#006d64",
+        "colorLight": "",
+        "position": 4
+      }
+    ],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "Der Mittelstand hält sich beständig",
+  "subtitle": "Anteil der Einkommensgruppen an der Gesamtbevölkerung, in Prozent",
+  "notes": "Der Mittelstand umfasst Haushalte mit einem Einkommen zwischen 70 und 150 Prozent des medianen Bruttoäquivalenzeinkommens.",
+  "createdDate": "2024-05-13T16:15:01.533Z",
+  "createdBy": "matthias.benz@nzz.ch",
+  "updatedDate": "2024-05-27T09:56:18.036Z",
+  "updatedBy": "danijel.beljan@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/01da15f0f6a6396873566efb70ddfca5-thumbnail.jpeg"
+}

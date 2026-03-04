@@ -1,0 +1,124 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "Patrick Straub / Keystone",
+      "contentTypeGroup": "web",
+      "flag": "Kommentar",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Schluss mit Ausflüchten bei Novartis",
+      "seoTitle": "Novartis: Anleger verlieren die Geduld mit CEO Vas Narasimhan",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Dominik Feldges (df)",
+          "id": 1372255
+        }
+      ],
+      "nzzPrintTitle": "Novartis flüchtet sich in Ausreden",
+      "designName": "morpheus",
+      "significantUpdateTill": "2022-02-03T04:16:50.628Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Dieter Bachmann (dba)",
+          "id": 1372239
+        }
+      ],
+      "department": {
+        "path": "/wirtschaft",
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2022-02-02T16:16:50.628Z",
+      "slug": "schluss-mit-ausfluechten-bei-novartis",
+      "firstPublicationDate": "2022-02-02T16:16:50.628Z",
+      "nzzCharacterCount": 1817,
+      "authorLine": "Dominik Feldges",
+      "numberOfContentComponents": 7,
+      "germanyRelevant": true,
+      "leadText": "Seit vier Jahren ist Vas Narasimhan CEO von Novartis, doch die Aktien des Pharmakonzerns sind seither nie auf Touren gekommen. Anleger wollen keine Entschuldigungen mehr hören, sondern Erfolge sehen.",
+      "publicationLastUpdated": "2022-02-02T18:05:09.002Z",
+      "nzzArticleSnippet": "Seit vier Jahren ist Vas Narasimhan CEO von Novartis, doch die Aktien des Pharmakonzerns sind seither nie auf Touren gekommen. Anleger wollen keine Entschuldigungen mehr hören, sondern Erfolge sehen.",
+      "urlPath": "/wirtschaft/schluss-mit-ausfluechten-bei-novartis-ld.1667789",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 3966,
+        "originalUrl": "https://nzz-img.s3.amazonaws.com/2022/02/02/8cdf4ee5-025d-4632-a28e-214edce2e8d0.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 526,
+            "width": 2785,
+            "name": "16:9",
+            "y": 1,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W2785,H1567,X526,Y1/O=75/https://nzz-img.s3.amazonaws.com/2022/02/02/8cdf4ee5-025d-4632-a28e-214edce2e8d0.jpeg",
+            "height": 1567,
+            "ratio": 1.77778
+          },
+          {
+            "x": 1473,
+            "width": 890,
+            "name": "1:1",
+            "y": 66,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W890,H890,X1473,Y66/O=75/https://nzz-img.s3.amazonaws.com/2022/02/02/8cdf4ee5-025d-4632-a28e-214edce2e8d0.jpeg",
+            "height": 890,
+            "ratio": 1
+          }
+        ],
+        "mediaId": "n8zdRbC8BrZI",
+        "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2022/02/02/8cdf4ee5-025d-4632-a28e-214edce2e8d0.jpeg",
+        "height": 2889
+      },
+      "nzzId": "ld.1667789",
+      "url": "https://www.nzz.ch/wirtschaft/schluss-mit-ausfluechten-bei-novartis-ld.1667789",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1fqtie8400"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "opinion",
+      "embeds": {
+        "images": [
+          {
+            "author": "Patrick Straub / Keystone",
+            "caption": "Vas Narasimhan, Konzernchef von Novartis, hat die Aktionäre bisher nicht begeistern können.",
+            "origins": [
+              {
+                "identifier": "2128232514",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2022/02/02/8cdf4ee5-025d-4632-a28e-214edce2e8d0.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "014e6bf3927ddaf505c8053e37cd551d"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Vas Narasimhan, Konzernchef von Novartis, hat die Aktionäre bisher nicht begeistern können.",
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "documentId": "1667789",
+      "product": "NZZ.ch"
+    }
+  }
+]

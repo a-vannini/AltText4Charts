@@ -1,0 +1,117 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "Joshua Roberts / Reuters",
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Wenn der Pilot jeden Passagier einzeln begrüsst",
+      "seoTitle": "USA: Wie lange reist man noch im leeren Flugzeug nach Amerika?",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Martin Lanz (mla)",
+          "id": 1373195
+        }
+      ],
+      "nzzPrintTitle": "US-Airlines stehen vor Massenentlassungen / US-Airlines heben nur noch mit Staatshilfen ab",
+      "designName": "morpheus",
+      "significantUpdateTill": "2020-09-19T09:51:46.307Z",
+      "department": {
+        "path": "/wirtschaft",
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2020-09-20T06:10:00.000Z",
+      "slug": "usa-wie-lange-reist-man-noch-im-leeren-flugzeug-nach-amerika",
+      "firstPublicationDate": "2020-09-18T21:51:46.307Z",
+      "nzzCharacterCount": 5548,
+      "authorLine": "Martin Lanz, Washington",
+      "numberOfContentComponents": 21,
+      "leadText": "Die US-Fluggesellschaften kämpfen um jeden Fluggast. Nur dank staatlichen Hilfen fliegen sie noch. Ende September läuft die Stützung jedoch aus. Zehntausenden Mitarbeitern droht die Kündigung.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2020-09-20T06:07:24.439Z",
+      "nzzArticleSnippet": "Die US-Fluggesellschaften kämpfen um jeden Fluggast. Nur dank staatlichen Hilfen fliegen sie noch. Ende September läuft die Stützung jedoch aus. Zehntausenden Mitarbeitern droht die Kündigung.",
+      "urlPath": "/wirtschaft/usa-wie-lange-reist-man-noch-im-leeren-flugzeug-nach-amerika-ld.1576977",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 5794,
+        "originalUrl": "https://nzz-img.s3.amazonaws.com/2020/9/18/93a1d587-577a-45e4-819b-bf6a09c27f44.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 0,
+            "width": 5794,
+            "y": 0,
+            "url": "https://img.nzz.ch/C=W5794,H3259,X0,Y0/O=75/https://nzz-img.s3.amazonaws.com/2020/9/18/93a1d587-577a-45e4-819b-bf6a09c27f44.jpeg",
+            "height": 3259
+          },
+          {
+            "name": "1:1",
+            "x": 794,
+            "width": 3863,
+            "y": 0,
+            "url": "https://img.nzz.ch/C=W3863,H3863,X794,Y0/O=75/https://nzz-img.s3.amazonaws.com/2020/9/18/93a1d587-577a-45e4-819b-bf6a09c27f44.jpeg",
+            "height": 3863
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2020/9/18/93a1d587-577a-45e4-819b-bf6a09c27f44.jpeg",
+        "height": 3863
+      },
+      "nzzId": "ld.1576977",
+      "url": "https://www.nzz.ch/wirtschaft/usa-wie-lange-reist-man-noch-im-leeren-flugzeug-nach-amerika-ld.1576977",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1eihi9qr70"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "embeds": {
+        "images": [
+          {
+            "author": "Joshua Roberts / Reuters",
+            "caption": "Mitte März 2020 hat die US-Regierung wegen der Corona-Pandemie Reisenden aus dem Schengen-Raum ein Einreiseverbot verhängt.",
+            "origins": [
+              {
+                "identifier": "picture-2112718176",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2020/9/18/93a1d587-577a-45e4-819b-bf6a09c27f44.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "6cc6423fab20cebbfc21f57ce363ea4f"
+          },
+          {
+            "id": "015b1d1184288f807143043e2decb8b3"
+          },
+          {
+            "id": "6f2200be6352c2c9fb2847d77d21db10"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Mitte März 2020 hat die US-Regierung wegen der Corona-Pandemie Reisenden aus dem Schengen-Raum ein Einreiseverbot verhängt.",
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "documentId": "1576977",
+      "product": "NZZ.ch"
+    }
+  }
+]

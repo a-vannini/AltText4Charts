@@ -1,0 +1,164 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "NZZ/ena.",
+      "firstTitle": "Mehr als 34 000 Menschen sollen im Gazakrieg getötet worden sein. Unter ihnen sind wohl weniger Frauen und Kinder als behauptet",
+      "flag": "Datenanalyse",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "EF6B3v7Zj8Vh1oWce4SBc",
+        "locale": "de-CH"
+      },
+      "title": "Mehr als 34 000 Menschen sollen im Gazakrieg getötet worden sein. Unter ihnen sind wohl weniger Frauen und Kinder als behauptet",
+      "seoTitle": "Getötete Frauen und Kinder im Gazakrieg: Eine Analyse der Opferzahlen",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Ulrich von Schwerin (uvs)",
+          "id": 1520496,
+          "shortName": "uvs",
+          "proLitterisId": "884956"
+        },
+        {
+          "external": false,
+          "name": "Barnaby Skinner (bsk)",
+          "id": 1538133,
+          "shortName": "bsk"
+        }
+      ],
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-04-27T02:50:00.000Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Jonas Roth (jon)",
+          "id": 1641029,
+          "shortName": "jon",
+          "proLitterisId": "886413"
+        }
+      ],
+      "department": {
+        "path": "/international",
+        "premium": false,
+        "level": 1,
+        "name": "International"
+      },
+      "publicationDate": "2024-04-26T14:50:00.000Z",
+      "slug": "getoetete-frauen-und-kinder-im-gazakrieg-eine-analyse-der-opferzahlen",
+      "firstPublicationDate": "2024-04-26T14:50:00.000Z",
+      "nzzCharacterCount": 10364,
+      "owner": "NZZ",
+      "authorLine": "Ulrich von Schwerin, Barnaby Skinner",
+      "numberOfContentComponents": 35,
+      "germanyRelevant": true,
+      "leadText": "Die Opferzahlen des Gesundheitsministeriums in Gaza sind lückenhaft und inkonsistent. Doch bessere Daten gibt es nicht.",
+      "publicationLastUpdated": "2024-04-27T10:11:17.849Z",
+      "nzzArticleSnippet": "Die Opferzahlen des Gesundheitsministeriums in Gaza sind lückenhaft und inkonsistent. Doch bessere Daten gibt es nicht.",
+      "urlPath": "/international/getoetete-frauen-und-kinder-im-gazakrieg-eine-analyse-der-opferzahlen-ld.1827520",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 2400,
+        "originalUrl": "https://img.nzz.ch/2024/04/25/877f5475-3e3c-455a-9191-7aed482aa587.png",
+        "mimeType": "image/png",
+        "crops": [
+          {
+            "x": 0,
+            "width": 2400,
+            "name": "16:9",
+            "y": 225,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/04/25/877f5475-3e3c-455a-9191-7aed482aa587.png?crop=2400,1350,x0,y225&width=1024&quality=75&auto=webp",
+            "height": 1350,
+            "ratio": 1.77778
+          },
+          {
+            "x": 300,
+            "width": 1800,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/04/25/877f5475-3e3c-455a-9191-7aed482aa587.png?crop=1800,1800,x300,y0&width=1024&quality=75&auto=webp",
+            "height": 1800,
+            "ratio": 1
+          },
+          {
+            "x": 0,
+            "width": 2400,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/04/25/877f5475-3e3c-455a-9191-7aed482aa587.png?crop=2400,1800,x0,y0&width=1024&quality=75&auto=webp",
+            "height": 1800,
+            "ratio": 1.33333
+          },
+          {
+            "x": 525,
+            "width": 1350,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/04/25/877f5475-3e3c-455a-9191-7aed482aa587.png?crop=1350,1800,x525,y0&width=1024&quality=75&auto=webp",
+            "height": 1800,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "5mSvcFWehIWj",
+        "url": "https://img.nzz.ch/2024/04/25/877f5475-3e3c-455a-9191-7aed482aa587.png?width=1024&quality=75&auto=webp",
+        "key": "2024/04/25/877f5475-3e3c-455a-9191-7aed482aa587.png",
+        "height": 1800
+      },
+      "nzzId": "ld.1827520",
+      "url": "https://www.nzz.ch/international/getoetete-frauen-und-kinder-im-gazakrieg-eine-analyse-der-opferzahlen-ld.1827520",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hsapa20g0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "estimationWordCount": 1568,
+      "embeds": {
+        "images": [
+          {
+            "author": "NZZ/ena.",
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/04/25/877f5475-3e3c-455a-9191-7aed482aa587.png"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "64d3df3ff8944eb8b41a1540eaac4f93"
+          },
+          {
+            "id": "0819c8effbf081938ef522a369294183"
+          },
+          {
+            "id": "64d3df3ff8944eb8b41a1540eaa9028b"
+          },
+          {
+            "id": "64d3df3ff8944eb8b41a1540eaa8fd2e"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/international",
+          "name": "International"
+        }
+      ],
+      "documentId": "1827520",
+      "product": "NZZ.ch"
+    }
+  }
+]

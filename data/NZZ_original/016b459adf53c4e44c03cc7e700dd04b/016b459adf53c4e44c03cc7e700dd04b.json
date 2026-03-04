@@ -1,0 +1,125 @@
+{
+  "_id": "016b459adf53c4e44c03cc7e700dd04b",
+  "_rev": "19-2bab1bb7e16b59f4d091d738e7ae7e87",
+  "department": "Wirtschaft",
+  "publication": "nzz",
+  "acronym": "msf.",
+  "title": "J. Safra Sarasin, Julius Bär und Vontobel mit dem grössten Übergewicht",
+  "tool": "chart",
+  "data": [
+    [
+      null,
+      "Gegenwärtige Aktienquote",
+      "Neutrale Aktienquote"
+    ],
+    [
+      "Credit\n  Suisse",
+      "47",
+      "45"
+    ],
+    [
+      "J. Safra\n  Sarasin",
+      "50",
+      "45"
+    ],
+    [
+      "Julius Bär",
+      "49",
+      "45"
+    ],
+    [
+      "Lombard\n  Odier",
+      "45",
+      "45"
+    ],
+    [
+      "Pictet",
+      "46.6",
+      "44"
+    ],
+    [
+      "Raiffeisen",
+      "45",
+      "45"
+    ],
+    [
+      "Rothschild\n  & Co. Bank",
+      "50.7",
+      "50"
+    ],
+    [
+      "UBS",
+      "52",
+      "49"
+    ],
+    [
+      "Vontobel",
+      "50",
+      "45"
+    ],
+    [
+      "ZKB",
+      "50",
+      "48"
+    ],
+    [
+      "Durchschnitt",
+      "48.5",
+      "46.1"
+    ]
+  ],
+  "allowDownloadData": false,
+  "sources": [
+    {
+      "link": {},
+      "text": "Angaben der Banken"
+    }
+  ],
+  "options": {
+    "chartType": "Dotplot",
+    "hideAxisLabel": false,
+    "highlightDataSeries": [
+      0
+    ],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "year",
+      "prognosisStart": null,
+      "labels": "few"
+    },
+    "lineChartOptions": {
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {
+      "connectDots": true,
+      "minValue": 44,
+      "maxValue": 52
+    },
+    "arrowOptions": {
+      "colorScheme": 0,
+      "minValue": 36,
+      "maxValue": 52
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": []
+  },
+  "subtitle": "Aktienquote für eine ausgewogene Franken-Strategie, in %",
+  "notes": "",
+  "createdDate": "2020-09-29T14:56:16.813Z",
+  "createdBy": "michael.schaefer@nzz.ch",
+  "updatedDate": "2021-01-04T17:42:34.787Z",
+  "updatedBy": "michael.schaefer@nzz.ch",
+  "active": true,
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/016b459adf53c4e44c03cc7e700dd04b-thumbnail.jpeg"
+}

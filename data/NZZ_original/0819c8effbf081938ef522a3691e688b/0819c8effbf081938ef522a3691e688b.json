@@ -1,0 +1,260 @@
+{
+  "_id": "0819c8effbf081938ef522a3691e688b",
+  "_rev": "10-d84ea93bd9cb9023b6df083d96f143ed",
+  "department": "Schweiz",
+  "publication": "nzz",
+  "acronym": "fab.",
+  "data": [
+    [
+      "Jahr",
+      "Sicherheit",
+      "Bildung und Forschung"
+    ],
+    [
+      "1990",
+      "6232318663",
+      "2915630647"
+    ],
+    [
+      "1991",
+      "6403683761",
+      "3196255804"
+    ],
+    [
+      "1992",
+      "6469724951",
+      "3463842008"
+    ],
+    [
+      "1993",
+      "5989260145",
+      "3588630605"
+    ],
+    [
+      "1994",
+      "6180145404",
+      "3708233625"
+    ],
+    [
+      "1995",
+      "6123288508",
+      "3782031117"
+    ],
+    [
+      "1996",
+      "5855449003",
+      "3769967392"
+    ],
+    [
+      "1997",
+      "5674377864",
+      "3719666603"
+    ],
+    [
+      "1998",
+      "5634870502",
+      "3791191806"
+    ],
+    [
+      "1999",
+      "5307857423",
+      "3971224362"
+    ],
+    [
+      "2000",
+      "5335423542",
+      "3959681421"
+    ],
+    [
+      "2001",
+      "5284460640",
+      "4100246900"
+    ],
+    [
+      "2002",
+      "5141992176",
+      "4341443712"
+    ],
+    [
+      "2003",
+      "5115860075",
+      "4408650549"
+    ],
+    [
+      "2004",
+      "5042977508",
+      "5385442752"
+    ],
+    [
+      "2005",
+      "5002543717",
+      "4585598171"
+    ],
+    [
+      "2006",
+      "4848925553",
+      "4714349819"
+    ],
+    [
+      "2007",
+      "4931132642",
+      "4977740315"
+    ],
+    [
+      "2008",
+      "5163248513",
+      "5389864709"
+    ],
+    [
+      "2009",
+      "5184733147",
+      "5715272932"
+    ],
+    [
+      "2010",
+      "5078232988",
+      "6066592760"
+    ],
+    [
+      "2011",
+      "5265997614",
+      "6508746395"
+    ],
+    [
+      "2012",
+      "5167044193",
+      "6664467379"
+    ],
+    [
+      "2013",
+      "5623333149",
+      "6893887939"
+    ],
+    [
+      "2014",
+      "5151942767",
+      "6951748771"
+    ],
+    [
+      "2015",
+      "5274631525",
+      "7079690715"
+    ],
+    [
+      "2016",
+      "5458534611",
+      "7167186939"
+    ],
+    [
+      "2017",
+      "5592149112",
+      "7572555346"
+    ],
+    [
+      "2018",
+      "5569960447",
+      "7713701861"
+    ],
+    [
+      "2019",
+      "5990822136",
+      "7985404216"
+    ],
+    [
+      "2020",
+      "6421627967",
+      "8137196176"
+    ],
+    [
+      "2021",
+      "5927497011",
+      "7528035330"
+    ],
+    [
+      "2022",
+      "7196881883",
+      "7904194380"
+    ],
+    [
+      "2023",
+      "6958976234",
+      "8213807883"
+    ],
+    [
+      "2024",
+      "6900132662",
+      "8373807154"
+    ],
+    [
+      "2025",
+      "7162388682",
+      "8537085176"
+    ],
+    [
+      "2026",
+      "7381049936",
+      "8721585963"
+    ],
+    [
+      "2027",
+      "7805770939",
+      "8956911319"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {
+        "url": "https://www.data.finance.admin.ch/superset/dashboard/bundeshaushalt/?native_filters_key=2LqxRla7wXaSWEx9ckEpa1YG__VUVZyTjnsDyfL3HTbxJra1T0U5i8Fwrsdjej8N",
+        "isValid": true
+      },
+      "text": "Eidg. Finanzverwaltung"
+    }
+  ],
+  "options": {
+    "chartType": "Line",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "many",
+      "prognosisStart": 34
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "Wie die Bildung die Armee überholt hat ",
+  "subtitle": "Jährliche Ausgaben des Bundes ",
+  "createdDate": "2024-04-22T09:43:51.833Z",
+  "createdBy": "fabian.schaefer@nzz.ch",
+  "updatedDate": "2024-04-22T12:16:01.942Z",
+  "updatedBy": "fabian.schaefer@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/0819c8effbf081938ef522a3691e688b-thumbnail.jpeg"
+}

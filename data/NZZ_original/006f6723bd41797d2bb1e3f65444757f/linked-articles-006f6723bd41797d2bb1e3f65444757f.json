@@ -1,0 +1,107 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Neuartige Nachahmerprodukte fordern Roche und Novartis ganz unterschiedlich heraus",
+      "nzzAuthors": [
+        {
+          "name": "Dominik Feldges",
+          "id": 1372255
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2017-12-30T07:02:21.592Z",
+      "department": {
+        "path": "/wirtschaft",
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2018-01-02T06:00:00.000Z",
+      "slug": "biosimilars-fordern-roche-und-novartis-ganz-unterschiedlich-heraus",
+      "firstPublicationDate": "2017-12-29T19:02:21.592Z",
+      "nzzCharacterCount": 9385,
+      "authorLine": "Dominik Feldges",
+      "numberOfContentComponents": 27,
+      "leadText": "Der Basler Pharmakonzern Roche droht Milliarden an Einnahmen an die Anbieter neuartiger Nachahmerprodukte zu verlieren. Novartis dagegen will sich mit Kopien biotechnologisch hergestellter Medikamente einen lukrativen neuen Markt erschliessen.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2018-01-04T09:57:34.969Z",
+      "urlPath": "/wirtschaft/biosimilars-fordern-roche-und-novartis-ganz-unterschiedlich-heraus-ld.1341825",
+      "nzzId": "ld.1341825",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 5500,
+        "originalUrl": "http://nzz-img.s3.amazonaws.com/2017/12/29/de3d3ae3-1bab-4d0b-92c9-81c6e0bcc044.jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 0,
+            "width": 5500,
+            "y": 297,
+            "url": "https://img.nzz.ch/C=W5500,H3094,X0,Y297/O=75/http://nzz-img.s3.amazonaws.com/2017/12/29/de3d3ae3-1bab-4d0b-92c9-81c6e0bcc044.jpeg",
+            "height": 3094
+          },
+          {
+            "name": "1:1",
+            "x": 1882,
+            "width": 2914,
+            "y": 519,
+            "url": "https://img.nzz.ch/C=W2914,H2914,X1882,Y519/O=75/http://nzz-img.s3.amazonaws.com/2017/12/29/de3d3ae3-1bab-4d0b-92c9-81c6e0bcc044.jpeg",
+            "height": 2914
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/http://nzz-img.s3.amazonaws.com/2017/12/29/de3d3ae3-1bab-4d0b-92c9-81c6e0bcc044.jpeg",
+        "height": 3688
+      },
+      "url": "https://www.nzz.ch/wirtschaft/biosimilars-fordern-roche-und-novartis-ganz-unterschiedlich-heraus-ld.1341825",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1c2hqaqqb0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "embeds": {
+        "images": [
+          {
+            "caption": "Das Geschäft mit Biosimilars verspricht sich in den kommenden Jahren von einem Nischenmarkt zu einem gewichtigen Geschäftszweig der Pharmaindustrie zu entwickeln. (Bild: Imago)",
+            "url": "https://img.nzz.ch/O=75/http://nzz-img.s3.amazonaws.com/2017/12/29/de3d3ae3-1bab-4d0b-92c9-81c6e0bcc044.jpeg"
+          },
+          {
+            "url": "https://img.nzz.ch/O=75/http://nzz-img.s3.amazonaws.com/2018/1/4/9fa05b3f-b572-4ae6-96df-c1d8cbaab925.png"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "7491f7bca0b3af314926f71447c103ab"
+          },
+          {
+            "id": "845ccf1425cf3144d9932815f37e0061"
+          },
+          {
+            "id": "006f6723bd41797d2bb1e3f65444757f"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Das Geschäft mit Biosimilars verspricht sich in den kommenden Jahren von einem Nischenmarkt zu einem gewichtigen Geschäftszweig der Pharmaindustrie zu entwickeln. (Bild: Imago)",
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "documentId": "1341825",
+      "product": "NZZ.ch"
+    }
+  }
+]

@@ -1,0 +1,151 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Basak Gurbuz Derma / Getty",
+      "firstTitle": "Immer mehr Menschen sind bei der Arbeit gestresst. Und die Frauen sind gestresster als die Männer. Warum?",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "CQvNRvb7Wm9Bw9VSGPTS1",
+        "locale": "de-CH"
+      },
+      "title": "Immer mehr Menschen sind bei der Arbeit gestresst. Und die Frauen sind gestresster als die Männer. Warum?",
+      "seoTitle": "Arbeitsstress nimmt zu: Frauen stärker betroffen als Männer",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Elena Oberholzer (obe)",
+          "id": 1699167,
+          "shortName": "obe",
+          "proLitterisId": "888661"
+        },
+        {
+          "external": false,
+          "name": "Lia Pescatore (lia)",
+          "id": 1701546,
+          "shortName": "lia",
+          "proLitterisId": "888629"
+        }
+      ],
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-05-29T15:30:00.000Z",
+      "department": {
+        "path": "/panorama",
+        "premium": false,
+        "level": 1,
+        "name": "Panorama"
+      },
+      "publicationDate": "2024-05-29T03:30:00.000Z",
+      "slug": "immer-mehr-menschen-sind-bei-der-arbeit-gestresst-und-die-frauen-sind-gestresster-als-die-maenner-warum",
+      "firstPublicationDate": "2024-05-29T03:30:00.000Z",
+      "nzzCharacterCount": 5160,
+      "owner": "NZZ",
+      "authorLine": "Elena Oberholzer, Lia Pescatore",
+      "numberOfContentComponents": 20,
+      "germanyRelevant": true,
+      "leadText": "Die Anforderungen an die Arbeitnehmenden sind in den letzten zehn Jahren gestiegen. Gleichzeitig hat sich die psychische Gesundheit der Erwerbstätigen laut Bundesamt für Statistik verschlechtert. Eine Psychologin sagt: «Man muss schnell sein, um mithalten zu können.»",
+      "publicationLastUpdated": "2024-05-30T06:21:05.192Z",
+      "nzzArticleSnippet": "Die Anforderungen an die Arbeitnehmenden sind in den letzten zehn Jahren gestiegen. Gleichzeitig hat sich die psychische Gesundheit der Erwerbstätigen laut Bundesamt für Statistik verschlechtert. Eine Psychologin sagt: «Man muss schnell sein, um mithalten zu können.»",
+      "urlPath": "/panorama/immer-mehr-menschen-sind-bei-der-arbeit-gestresst-und-die-frauen-sind-gestresster-als-die-maenner-warum-ld.1831730",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 6720,
+        "originalUrl": "https://img.nzz.ch/2024/05/30/ea83fcb6-2b1f-40cc-af73-fded5b3f18e3.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 6720,
+            "name": "16:9",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/30/ea83fcb6-2b1f-40cc-af73-fded5b3f18e3.jpeg?crop=6720,3780,x0,y0&quality=75&auto=webp",
+            "height": 3780,
+            "ratio": 1.77778
+          },
+          {
+            "x": 3209,
+            "width": 2210,
+            "name": "1:1",
+            "y": 381,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/30/ea83fcb6-2b1f-40cc-af73-fded5b3f18e3.jpeg?crop=2210,2210,x3209,y381&quality=75&auto=webp",
+            "height": 2210,
+            "ratio": 1
+          },
+          {
+            "x": 236,
+            "width": 5973,
+            "name": "4:3",
+            "y": 1,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/30/ea83fcb6-2b1f-40cc-af73-fded5b3f18e3.jpeg?crop=5973,4479,x236,y1&quality=75&auto=webp",
+            "height": 4479,
+            "ratio": 1.33333
+          },
+          {
+            "x": 2127,
+            "width": 3360,
+            "name": "3:4",
+            "y": 1,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/30/ea83fcb6-2b1f-40cc-af73-fded5b3f18e3.jpeg?crop=3360,4479,x2127,y1&quality=75&auto=webp",
+            "height": 4479,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "G1sYKfyhai6v",
+        "url": "https://img.nzz.ch/2024/05/30/ea83fcb6-2b1f-40cc-af73-fded5b3f18e3.jpeg?quality=75&auto=webp",
+        "key": "2024/05/30/ea83fcb6-2b1f-40cc-af73-fded5b3f18e3.jpeg",
+        "height": 4480
+      },
+      "nzzId": "ld.1831730",
+      "url": "https://www.nzz.ch/panorama/immer-mehr-menschen-sind-bei-der-arbeit-gestresst-und-die-frauen-sind-gestresster-als-die-maenner-warum-ld.1831730",
+      "dependencies": {},
+      "commentCount": 1,
+      "layout": "regular",
+      "estimationWordCount": 819,
+      "embeds": {
+        "images": [
+          {
+            "author": "Basak Gurbuz Derma / Getty",
+            "caption": "Die Zahl der Erwerbstätigen, die bei der Arbeit Stress empfinden, hat innert zehn Jahren um fünf Prozent zugenommen.",
+            "origins": [
+              {
+                "identifier": "2156306422",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/05/30/ea83fcb6-2b1f-40cc-af73-fded5b3f18e3.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "94e4a9c240354d5566ccf12bf8fc7db2"
+          },
+          {
+            "id": "b8a840735a8881f7e662152214fc0c0a"
+          },
+          {
+            "id": "07d00172c0f2b9dd3facaed885e0b980"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/panorama",
+          "name": "Panorama"
+        }
+      ],
+      "teaserCaption": "Die Zahl der Erwerbstätigen, die bei der Arbeit Stress empfinden, hat innert zehn Jahren um fünf Prozent zugenommen.",
+      "documentId": "1831730",
+      "product": "NZZ.ch"
+    }
+  }
+]

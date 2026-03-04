@@ -1,0 +1,113 @@
+{
+  "_id": "0819c8effbf081938ef522a36994376d",
+  "_rev": "14-d277b7c9ec0df637d3df4b113f2cc6c5",
+  "data": [
+    [
+      "E-Träger",
+      "2021",
+      "2022",
+      "2023"
+    ],
+    [
+      "Photovoltaik",
+      "8.4",
+      "10.4",
+      "12.2"
+    ],
+    [
+      "Wind an Land",
+      "15.6",
+      "17.6",
+      "23.7"
+    ],
+    [
+      "Wind auf See",
+      "4.2",
+      "4.4",
+      "4.7"
+    ],
+    [
+      "Biomasse",
+      "7.7",
+      "7.7",
+      "8.6"
+    ],
+    [
+      "Sonstige",
+      "4.4",
+      "4.1",
+      "4.8"
+    ],
+    [
+      "Kernkraft",
+      "11.9",
+      "6.1",
+      "1.4"
+    ],
+    [
+      "Fossile Energieträger",
+      "47.9",
+      "49.7",
+      "44.7"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {
+        "url": "https://www.bdew.de/media/original_images/2024/04/24/fortschrittsmonitor_2024_zCu1QX7.pdf"
+      },
+      "text": "EY/BDEW"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {
+      "valuesOnBars": true
+    },
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "department": "Wirtschaft",
+  "publication": "nzz",
+  "acronym": "Ht.",
+  "active": true,
+  "title": "Erneuerbare Energien legen zu",
+  "subtitle": "Anteile an der Gesamtstromerzeugung in %",
+  "createdDate": "2024-04-30T14:50:16.452Z",
+  "createdBy": "rene.hoeltschi@nzz.ch",
+  "updatedDate": "2024-04-30T15:06:25.144Z",
+  "updatedBy": "rene.hoeltschi@nzz.ch"
+}

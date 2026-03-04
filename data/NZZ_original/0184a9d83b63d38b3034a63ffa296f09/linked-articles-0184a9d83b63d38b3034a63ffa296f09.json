@@ -1,0 +1,50 @@
+[
+  {
+    "metadata": {
+      "nzzCharacterCount": 1445,
+      "numberOfContentComponents": 10,
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "leadText": "Der Handschlag zwischen US-Präsident Donald Trump und Nordkoreas Machthaber Kim Jong Un sowie das Bekenntnis zu einer nuklearen Abrüstung auf der koreanischen Halbinsel mögen historisch von Bedeutung sein. Die Finanzmärkte reagieren zurückhaltend.",
+      "germanyRelevant": true,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "publicationLastUpdated": "2018-06-12T07:48:27.146Z",
+      "title": "Erleichterung, aber kein Enthusiasmus an den Märkten",
+      "urlPath": "/finanzen/erleichterung-aber-kein-enthusiasmus-an-den-maerkten-ld.1393842",
+      "nzzId": "ld.1393842",
+      "url": "https://www.nzz.ch/finanzen/erleichterung-aber-kein-enthusiasmus-an-den-maerkten-ld.1393842",
+      "dependencies": {},
+      "layout": "regular",
+      "designName": "morpheus",
+      "significantUpdateTill": "2018-06-12T19:28:38.927Z",
+      "department": {
+        "path": "/finanzen",
+        "level": 1,
+        "name": "Finanzen"
+      },
+      "embeds": {
+        "images": [],
+        "q_embeds": [
+          {
+            "id": "0184a9d83b63d38b3034a63ffa296f09"
+          }
+        ],
+        "videos": []
+      },
+      "publicationDate": "2018-06-12T07:28:38.927Z",
+      "slug": "erleichterung-aber-kein-enthusiasmus-an-den-maerkten",
+      "breadcrumbs": [
+        {
+          "path": "/finanzen",
+          "name": "Finanzen"
+        }
+      ],
+      "firstPublicationDate": "2018-06-12T07:28:38.927Z",
+      "documentId": "1393842",
+      "product": "NZZ.ch"
+    }
+  }
+]

@@ -1,0 +1,93 @@
+{
+  "_id": "0819c8effbf081938ef522a369288796",
+  "_rev": "19-d5806d63717842db10e65ac0c1e969ff",
+  "department": "Wirtschaft",
+  "publication": "nzz",
+  "acronym": "cei.",
+  "data": [
+    [
+      "Firma",
+      "2023",
+      "2022"
+    ],
+    [
+      "Axpo*",
+      "3389",
+      "594"
+    ],
+    [
+      "Alpiq",
+      "820",
+      "172"
+    ],
+    [
+      "BKW",
+      "488",
+      "574"
+    ],
+    [
+      "Repower",
+      "300",
+      "53"
+    ],
+    [
+      "Romande Energie**",
+      "215",
+      "41"
+    ]
+  ],
+  "allowDownloadData": true,
+  "events": [],
+  "sources": [
+    {
+      "link": {},
+      "text": "Unternehmensangaben"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "Monstergewinne nach mageren Jahren",
+  "subtitle": "Reingewinn in Millionen Franken",
+  "notes": "* Axpo: Geschäftsjahr 2022/23 (per 30. 9.). ** Romande Energie: 139 Millionen Franken durch Alpiq-Beteiligung.",
+  "createdDate": "2024-04-23T15:36:58.898Z",
+  "createdBy": "christoph.eisenring@nzz.ch",
+  "updatedDate": "2024-04-26T15:34:21.793Z",
+  "updatedBy": "christoph.eisenring@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/0819c8effbf081938ef522a369288796-thumbnail.jpeg"
+}

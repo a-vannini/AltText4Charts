@@ -1,0 +1,191 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "Rebecca Conway / Getty",
+      "contentTypeGroup": "web",
+      "firstTitle": "Nach 10 Jahren unter Modi: Wie steht es tatsächlich um Indiens Wirtschaft?",
+      "flag": "International View",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "F2uil3svXU70",
+        "locale": "en-US"
+      },
+      "title": "After 10 years under Modi, India's economy is soaring – and showing signs of trouble",
+      "seoTitle": "Experts divided on whether Modi's India is booming ",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Andreas Babst (abb)",
+          "id": 1371764,
+          "shortName": "abb",
+          "proLitterisId": "766940"
+        }
+      ],
+      "designName": "morpheus",
+      "premium": false,
+      "seoSocialMediaTitle": "Experts are divided on whether the Indian economy under Modi's is booming ",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-04-25T19:21:25.648Z",
+      "department": {
+        "path": "/english",
+        "premium": false,
+        "level": 1,
+        "name": "NZZ in English"
+      },
+      "publicationDate": "2024-04-25T07:21:25.648Z",
+      "showComments": false,
+      "slug": "experts-divided-on-whether-modis-india-is-booming",
+      "firstPublicationDate": "2024-04-25T07:21:25.648Z",
+      "owner": "NZZ",
+      "nzzCharacterCount": 9125,
+      "authorLine": "Andreas Babst, Delhi",
+      "numberOfContentComponents": 40,
+      "seoDescription": "Boosters say India's economy is booming. Skeptics say the opposite. Both are right. As India's controversial prime minister seeks reelection this spring after a decade in power, the country is increasingly divided.",
+      "leadText": "Boosters say India's economy is booming. Skeptics say the opposite. Both are right. As India's controversial prime minister seeks reelection this spring after a decade in power, the country is increasingly divided.",
+      "germanyRelevant": false,
+      "publicationLastUpdated": "2024-04-25T07:21:25.648Z",
+      "nzzArticleSnippet": "Boosters say India's economy is booming. Skeptics say the opposite. Both are right. As India's controversial prime minister seeks reelection this spring after a decade in power, the country is increasingly divided.",
+      "urlPath": "/english/experts-divided-on-whether-modis-india-is-booming-ld.1827599",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 4000,
+        "originalUrl": "https://img.nzz.ch/2024/04/19/25643524-30f8-4222-ac1c-c4bc52aa3df3.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 4000,
+            "name": "16:9",
+            "y": 209,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/04/19/25643524-30f8-4222-ac1c-c4bc52aa3df3.jpeg?crop=4000,2250,x0,y209&width=1024&quality=75&auto=webp",
+            "height": 2250,
+            "ratio": 1.77778
+          },
+          {
+            "x": 805,
+            "width": 2667,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/19/25643524-30f8-4222-ac1c-c4bc52aa3df3.jpeg?crop=2667,2667,x805,y0&width=1024&quality=75&auto=webp",
+            "height": 2667,
+            "ratio": 1
+          },
+          {
+            "x": 222,
+            "width": 3556,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/04/19/25643524-30f8-4222-ac1c-c4bc52aa3df3.jpeg?crop=3556,2667,x222,y0&width=1024&quality=75&auto=webp",
+            "height": 2667,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1000,
+            "width": 2000,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/04/19/25643524-30f8-4222-ac1c-c4bc52aa3df3.jpeg?crop=2000,2667,x1000,y0&width=1024&quality=75&auto=webp",
+            "height": 2667,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "-tMtwS001Lmz",
+        "url": "https://img.nzz.ch/2024/04/19/25643524-30f8-4222-ac1c-c4bc52aa3df3.jpeg?width=1024&quality=75&auto=webp",
+        "key": "2024/04/19/25643524-30f8-4222-ac1c-c4bc52aa3df3.jpeg",
+        "height": 2667
+      },
+      "nzzId": "ld.1827599",
+      "url": "https://www.nzz.ch/english/experts-divided-on-whether-modis-india-is-booming-ld.1827599",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hrqn02ck1",
+              "doc-1hrqojtkj1",
+              "doc-1hrqn2sb61",
+              "doc-1hrqssas71"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "longformstandard",
+      "estimationWordCount": 1648,
+      "embeds": {
+        "images": [
+          {
+            "author": "Rebecca Conway / Getty",
+            "caption": "An Indian farmer cleans a solar-power system installed on his land. He uses the electricity generated by the panels to operate a water pump and an irrigation system for his fields.&nbsp;",
+            "origins": [
+              {
+                "identifier": "2142520580",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/04/19/25643524-30f8-4222-ac1c-c4bc52aa3df3.jpeg"
+          },
+          {
+            "author": "Dhiraj Singh / Bloomberg / Getty",
+            "caption": "A customer holds a newly purchased iPhone 15 in his hand. Apple now produces 12% of all iPhones in India.",
+            "origins": [
+              {
+                "identifier": "2154933084",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/04/19/8022a761-a8ee-485b-a8b5-322581e39c59.jpeg"
+          },
+          {
+            "author": "Anupam Nath / AP",
+            "caption": "Indian farmers in Gauhati return home with bundles of rice.",
+            "origins": [
+              {
+                "identifier": "12724428",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/04/19/0ff4c454-62f4-4af3-a2db-a997b35e3344.jpeg"
+          },
+          {
+            "author": "Rajanish Kakade / AP",
+            "caption": "People gather at the market in front of Dadar station in Mumbai.",
+            "origins": [
+              {
+                "identifier": "2154936422",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/04/19/ce41fccf-9ce5-4ed4-addf-a17b7c5d1fc8.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0819c8effbf081938ef522a3692f9a12"
+          },
+          {
+            "id": "64d3df3ff8944eb8b41a1540eaad7188"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "An Indian farmer cleans a solar-power system installed on his land. He uses the electricity generated by the panels to operate a water pump and an irrigation system for his fields.",
+      "breadcrumbs": [
+        {
+          "path": "/english",
+          "name": "NZZ in English"
+        }
+      ],
+      "documentId": "1827599",
+      "product": "NZZ.ch"
+    }
+  }
+]

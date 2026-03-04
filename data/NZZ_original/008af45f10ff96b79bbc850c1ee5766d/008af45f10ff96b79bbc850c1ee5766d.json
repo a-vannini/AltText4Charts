@@ -1,0 +1,76 @@
+{
+  "_id": "008af45f10ff96b79bbc850c1ee5766d",
+  "_rev": "10-4823109af9e6eb0e7f6e5136c252253b",
+  "annotations": "",
+  "title": "Westafrika produziert am meisten Kakao",
+  "tool": "chart",
+  "data": [
+    [
+      "",
+      "Produktion"
+    ],
+    [
+      "Côte d'Ivoire",
+      "1581000"
+    ],
+    [
+      "Ghana",
+      "778000"
+    ],
+    [
+      "Indonesien",
+      "350000"
+    ],
+    [
+      "Kamerun",
+      "250000"
+    ],
+    [
+      "Ecuador",
+      "232000"
+    ],
+    [
+      "Nigeria",
+      "200000"
+    ],
+    [
+      "Brasilien",
+      "140000"
+    ]
+  ],
+  "options": {
+    "chartType": "Bar",
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": true
+    },
+    "lineChartOptions": {
+      "isStockChart": false
+    },
+    "dateSeriesOptions": {},
+    "highlightDataSeries": [],
+    "annotations": {
+      "first": false
+    }
+  },
+  "sources": [
+    {
+      "text": "ICCO",
+      "link": {
+        "url": "http://www.icco.org",
+        "isValid": true
+      }
+    }
+  ],
+  "createdDate": "2017-01-03T11:43:21.159Z",
+  "createdBy": "patrick.zoll@nzz.ch",
+  "department": "Wirtschaft",
+  "active": true,
+  "activateDate": "2017-01-05T10:13:24.671Z",
+  "deactivateDate": "2017-01-05T10:05:37.613Z",
+  "subtitle": "Schätzungen Produktion 2015/16 in t",
+  "updatedBy": "patrick.zoll@nzz.ch",
+  "publication": "nzz",
+  "updatedDate": "2017-01-03T11:43:21.159Z",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/008af45f10ff96b79bbc850c1ee5766d-thumbnail.jpeg"
+}

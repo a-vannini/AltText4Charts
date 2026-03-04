@@ -1,0 +1,140 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Sarah Silbiger / Reuters",
+      "firstTitle": "So schnell gibt es in den USA keine Zinssenkung: Das Fed wartet ab und überlässt die Bühne den Europäern",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "MMlruCOKuZiIZCKRMBZGi",
+        "locale": "de-CH"
+      },
+      "title": "So schnell gibt es in den USA keine Zinssenkung: Das Fed wartet ab und überlässt die Bühne den Europäern",
+      "seoTitle": "Zinspolitik USA: Fed hält an Strategie fest, trotz Vorpreschen der EZB",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "André Müller (amü)",
+          "id": 1371858,
+          "shortName": "amü",
+          "proLitterisId": "763796"
+        }
+      ],
+      "nzzPrintTitle": "Das Fed überlässt die Bühne den Europäern",
+      "designName": "morpheus",
+      "seoSocialMediaTitle": "Zinspolitik USA: Fed hält an Strategie fest, trotz Vorpreschen der EZB",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-06-13T06:07:31.896Z",
+      "department": {
+        "path": "/wirtschaft",
+        "premium": false,
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2024-06-12T18:07:31.896Z",
+      "slug": "zinspolitik-usa-fed-haelt-an-strategie-fest-trotz-vorpreschen-der-ezb",
+      "firstPublicationDate": "2024-06-12T18:07:31.896Z",
+      "nzzCharacterCount": 5554,
+      "owner": "NZZ",
+      "authorLine": "André Müller",
+      "numberOfContentComponents": 21,
+      "germanyRelevant": true,
+      "leadText": "Auch langfristig haben sich die Prognosen der Notenbankvertreter eingetrübt. Die Märkte quittieren das mit leiser Enttäuschung.",
+      "publicationLastUpdated": "2024-06-13T06:49:23.553Z",
+      "nzzArticleSnippet": "Auch langfristig haben sich die Prognosen der Notenbankvertreter eingetrübt. Die Märkte quittieren das mit leiser Enttäuschung.",
+      "urlPath": "/wirtschaft/zinspolitik-usa-fed-haelt-an-strategie-fest-trotz-vorpreschen-der-ezb-ld.1834769",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 3803,
+        "originalUrl": "https://img.nzz.ch/2024/06/12/5122b74f-dd55-4870-a739-feda4e877cc9.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 3803,
+            "name": "16:9",
+            "y": 198,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/06/12/5122b74f-dd55-4870-a739-feda4e877cc9.jpeg?crop=3803,2139,x0,y198&quality=75&auto=webp",
+            "height": 2139,
+            "ratio": 1.77778
+          },
+          {
+            "x": 634,
+            "width": 2535,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/06/12/5122b74f-dd55-4870-a739-feda4e877cc9.jpeg?crop=2535,2535,x634,y0&quality=75&auto=webp",
+            "height": 2535,
+            "ratio": 1
+          },
+          {
+            "x": 212,
+            "width": 3380,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/06/12/5122b74f-dd55-4870-a739-feda4e877cc9.jpeg?crop=3380,2535,x212,y0&quality=75&auto=webp",
+            "height": 2535,
+            "ratio": 1.33333
+          },
+          {
+            "x": 951,
+            "width": 1901,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/06/12/5122b74f-dd55-4870-a739-feda4e877cc9.jpeg?crop=1901,2535,x951,y0&quality=75&auto=webp",
+            "height": 2535,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "fjpYl7Q5u4-l",
+        "url": "https://img.nzz.ch/2024/06/12/5122b74f-dd55-4870-a739-feda4e877cc9.jpeg?quality=75&auto=webp",
+        "key": "2024/06/12/5122b74f-dd55-4870-a739-feda4e877cc9.jpeg",
+        "height": 2535
+      },
+      "nzzId": "ld.1834769",
+      "url": "https://www.nzz.ch/wirtschaft/zinspolitik-usa-fed-haelt-an-strategie-fest-trotz-vorpreschen-der-ezb-ld.1834769",
+      "dependencies": {},
+      "layout": "regular",
+      "estimationWordCount": 837,
+      "nzzPrintSubtitle": "Der Leitzins in den USA wird so schnell nicht gesenkt",
+      "embeds": {
+        "images": [
+          {
+            "author": "Sarah Silbiger / Reuters",
+            "caption": "Die US-Notenbank Fed wartet mit der ersten Zinssenkung seit 2020 weiterhin zu.",
+            "origins": [
+              {
+                "identifier": "2156588415",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2024/06/12/5122b74f-dd55-4870-a739-feda4e877cc9.jpeg?quality=75&auto=webp"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "08e996c76bf1a7d4bec453e674fc156b"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "teaserCaption": "Die US-Notenbank Fed wartet mit der ersten Zinssenkung seit 2020 weiterhin zu.",
+      "documentId": "1834769",
+      "product": "NZZ.ch"
+    }
+  }
+]

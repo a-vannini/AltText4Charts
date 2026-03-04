@@ -1,0 +1,173 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "Ali Khara / Reuters",
+      "contentTypeGroup": "web",
+      "flag": "English",
+      "significantUpdate": false,
+      "language": {
+        "groupId": "kJIEHt2opalE",
+        "label": "English",
+        "locale": "en-US"
+      },
+      "title": "Afghanistan under the Taliban: Who is still providing aid?",
+      "seoTitle": "Aid to Afghanistan under the Taliban as famine becomes a threat",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Andreas Babst (abb)",
+          "id": 1371764
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2022-02-03T21:14:20.358Z",
+      "department": {
+        "path": "/english",
+        "level": 1,
+        "name": "NZZ in English"
+      },
+      "nzzTags": [
+        "NZZ in English"
+      ],
+      "publicationDate": "2022-02-03T09:14:20.358Z",
+      "slug": "aid-to-afghanistan-under-the-taliban-as-famine-becomes-a-threat",
+      "firstPublicationDate": "2022-02-03T09:14:20.358Z",
+      "nzzCharacterCount": 9234,
+      "authorLine": "Andreas Babst, Delhi",
+      "numberOfContentComponents": 33,
+      "germanyRelevant": false,
+      "leadText": "Officially, many Taliban leaders are on Western sanctions lists. Yet millions of dollars are once again flowing into Afghanistan.",
+      "publicationLastUpdated": "2022-12-30T13:22:47.003Z",
+      "nzzArticleSnippet": "Officially, many Taliban leaders are on Western sanctions lists. Yet millions of dollars are once again flowing into Afghanistan.",
+      "copySourceId": 1666616,
+      "urlPath": "/english/aid-to-afghanistan-under-the-taliban-as-famine-becomes-a-threat-ld.1667790",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 6720,
+        "originalUrl": "https://img.nzz.ch/2022/01/27/760e160e-1c76-40e1-8098-8ba668442519.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 6720,
+            "name": "16:9",
+            "y": 350,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/C=W6720,H3780,X0,Y350/O=75/https://img.nzz.ch/2022/01/27/760e160e-1c76-40e1-8098-8ba668442519.jpeg",
+            "height": 3780,
+            "ratio": 1.77778
+          },
+          {
+            "x": 1120,
+            "width": 4480,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/C=W4480,H4480,X1120,Y0/O=75/https://img.nzz.ch/2022/01/27/760e160e-1c76-40e1-8098-8ba668442519.jpeg",
+            "height": 4480,
+            "ratio": 1
+          }
+        ],
+        "mediaId": "fhU07PgrCFj3",
+        "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2022/01/27/760e160e-1c76-40e1-8098-8ba668442519.jpeg",
+        "height": 4480
+      },
+      "nzzId": "ld.1667790",
+      "url": "https://www.nzz.ch/english/aid-to-afghanistan-under-the-taliban-as-famine-becomes-a-threat-ld.1667790",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1fqdf6i7f0",
+              "doc-1fqddsnbr0",
+              "doc-1fqdemueg0",
+              "doc-1fqdf6rnv0",
+              "doc-1fqdf9m8j0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "longformstandard",
+      "estimationWordCount": 1621,
+      "embeds": {
+        "images": [
+          {
+            "author": "Ali Khara / Reuters",
+            "caption": "A Turkish relief organization distributes aid in Kabul – under the Taliban's watchful eye.",
+            "origins": [
+              {
+                "identifier": "2127135487",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2022/01/27/760e160e-1c76-40e1-8098-8ba668442519.jpeg"
+          },
+          {
+            "author": "Javad Parsa / AP",
+            "caption": "Members of the Taliban arrived in Norway this week for negotiations.",
+            "origins": [
+              {
+                "identifier": "2128041262",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2022/01/27/45d3276c-b081-4460-bb3b-24d0dc8f43b7.jpeg"
+          },
+          {
+            "author": "Stringer / EPA",
+            "caption": "Afghanistan’s economy is in shambles. In Kandahar’s industrial park, this cotton factory is the only functioning enterprise.",
+            "origins": [
+              {
+                "identifier": "2127839933",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2022/01/27/edb129b2-1ccc-4568-a12a-906df9a69194.jpeg"
+          },
+          {
+            "author": "Petros Giannakouris / AP",
+            "caption": "The hunger crisis in Afghanistan is worsening. Pictured is a baby in a neonatal intensive care unit in Kabul. ",
+            "origins": [
+              {
+                "identifier": "2127992013",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2022/01/27/1a7da519-f90f-488b-a254-d32423bc7837.jpeg"
+          },
+          {
+            "author": "Petros Giannakouris / AP",
+            "caption": "Famine is a growing threat in Afghanistan.",
+            "origins": [
+              {
+                "identifier": "2127706319",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2022/01/27/1a9014d6-75f4-4df1-b4c2-fbde04262542.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "4096a22e763bc188dd0365cc91ccd475"
+          },
+          {
+            "id": "014e6bf3927ddaf505c8053e37ce75f6"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "A Turkish relief organization distributes aid in Kabul – under the Taliban's watchful eye.",
+      "breadcrumbs": [
+        {
+          "path": "/english",
+          "name": "NZZ in English"
+        }
+      ],
+      "documentId": "1667790",
+      "product": "NZZ.ch"
+    }
+  }
+]

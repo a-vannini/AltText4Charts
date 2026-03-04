@@ -1,0 +1,105 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "US-Steuerreform beflügelt Aktien",
+      "nzzAuthors": [
+        {
+          "name": "Anne-Barbara Luft",
+          "id": 1371768
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2017-12-05T06:49:30.409Z",
+      "department": {
+        "path": "/finanzen",
+        "level": 1,
+        "name": "Finanzen"
+      },
+      "publicationDate": "2017-12-05T06:00:00.000Z",
+      "slug": "us-steuerreform-befluegelt-aktien",
+      "firstPublicationDate": "2017-12-04T18:49:30.409Z",
+      "nzzCharacterCount": 4264,
+      "authorLine": "Anne-Barbara Luft",
+      "numberOfContentComponents": 13,
+      "leadText": "Die Investoren an den Aktienmärkten reagieren positiv auf die Steuerreform in den USA. Anders sieht es an den Bondmärkten aus. Dort sind die Anleger besorgt wegen steigender Schulden.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2017-12-05T08:10:51.872Z",
+      "urlPath": "/finanzen/us-steuerreform-befluegelt-aktien-ld.1335730",
+      "nzzId": "ld.1335730",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 5718,
+        "originalUrl": "http://nzz-img.s3.amazonaws.com/2017/12/4/8e958016-f3c1-4341-8582-06461e5daeff.jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 0,
+            "width": 5718,
+            "y": 211,
+            "url": "https://img.nzz.ch/C=W5718,H3216,X0,Y211/O=75/http://nzz-img.s3.amazonaws.com/2017/12/4/8e958016-f3c1-4341-8582-06461e5daeff.jpeg",
+            "height": 3216
+          },
+          {
+            "name": "1:1",
+            "x": 1267,
+            "width": 2555,
+            "y": 536,
+            "url": "https://img.nzz.ch/C=W2555,H2555,X1267,Y536/O=75/http://nzz-img.s3.amazonaws.com/2017/12/4/8e958016-f3c1-4341-8582-06461e5daeff.jpeg",
+            "height": 2555
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/http://nzz-img.s3.amazonaws.com/2017/12/4/8e958016-f3c1-4341-8582-06461e5daeff.jpeg",
+        "height": 3638
+      },
+      "url": "https://www.nzz.ch/finanzen/us-steuerreform-befluegelt-aktien-ld.1335730",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1c0hdmkr30",
+              "doc-1c0imgupa0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "embeds": {
+        "images": [
+          {
+            "caption": "(Bild: Justin Lane / EPA)",
+            "origins": [
+              {
+                "identifier": "picture-1930236843",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/http://nzz-img.s3.amazonaws.com/2017/12/4/8e958016-f3c1-4341-8582-06461e5daeff.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0062e0b6b75d81b20a18a5ab938ada72"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "(Bild: Justin Lane / EPA)",
+      "breadcrumbs": [
+        {
+          "path": "/finanzen",
+          "name": "Finanzen"
+        }
+      ],
+      "documentId": "1335730",
+      "product": "NZZ.ch"
+    }
+  }
+]

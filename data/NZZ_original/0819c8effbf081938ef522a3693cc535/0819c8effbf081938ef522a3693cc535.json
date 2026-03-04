@@ -1,0 +1,105 @@
+{
+  "_id": "0819c8effbf081938ef522a3693cc535",
+  "_rev": "10-0f71b50452fa6ff3440866f486978357",
+  "title": "Kopie von  Die USA dominieren beim Mais",
+  "tool": "chart",
+  "department": "default",
+  "publication": "nzz",
+  "data": [
+    [
+      "Country",
+      "Value"
+    ],
+    [
+      "USA",
+      "32"
+    ],
+    [
+      "China",
+      "23"
+    ],
+    [
+      "Brasil",
+      "10"
+    ],
+    [
+      "EU",
+      "5"
+    ],
+    [
+      "Argentina",
+      "3"
+    ],
+    [
+      "Ukraine",
+      "2"
+    ],
+    [
+      "Mexico",
+      "2"
+    ],
+    [
+      "Russia",
+      "1"
+    ],
+    [
+      "South Africa",
+      "1"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {
+        "url": "https://fas.usda.gov/data/production/commodity/0440000",
+        "isValid": true
+      },
+      "text": "US-Landwirtschaftsministerium"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "subtitle": "Share of global production 2023/24 as a percentage",
+  "createdDate": "2024-04-25T15:16:45.895Z",
+  "createdBy": "eliza.rozeboom@lieferanten.nzz.ch",
+  "updatedDate": "2024-04-25T15:24:04.377Z",
+  "updatedBy": "eliza.rozeboom@lieferanten.nzz.ch",
+  "active": true,
+  "notes": "Source: US-Landwirtschaftsministerium",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/0819c8effbf081938ef522a3693cc535-thumbnail.jpeg"
+}

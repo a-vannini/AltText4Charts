@@ -1,0 +1,161 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "Mikhail Metzel / AP",
+      "contentTypeGroup": "web",
+      "firstTitle": "Wie China Russland hilft, Waffen für den Krieg in der Ukraine zu bauen",
+      "flag": "International View",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "izTMznbZyHPrfHXF6WRGb",
+        "locale": "en-US"
+      },
+      "title": "How China is helping Russia build weapons for the war in Ukraine",
+      "seoTitle": "China is helping Russia build weapons used in Ukraine",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Julia Monn (jum)",
+          "id": 1532350,
+          "shortName": "jum"
+        },
+        {
+          "external": false,
+          "name": "Katrin Büchenbacher (k.b.)",
+          "id": 1533538,
+          "shortName": "k.b.",
+          "proLitterisId": "885012"
+        }
+      ],
+      "designName": "morpheus",
+      "premium": false,
+      "seoSocialMediaTitle": "China is helping Russia build weapons used in Ukraine",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-05-24T03:25:10.092Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Ulrich von Schwerin (uvs)",
+          "id": 1520496,
+          "shortName": "uvs",
+          "proLitterisId": "884956"
+        }
+      ],
+      "department": {
+        "path": "/english",
+        "premium": false,
+        "level": 1,
+        "name": "NZZ in English"
+      },
+      "publicationDate": "2024-05-23T15:25:10.092Z",
+      "showComments": false,
+      "slug": "china-is-helping-russia-build-weapons-used-in-ukraine",
+      "firstPublicationDate": "2024-05-23T15:25:10.092Z",
+      "owner": "NZZ",
+      "nzzCharacterCount": 7985,
+      "authorLine": "Julia Monn, Katrin Büchenbacher",
+      "numberOfContentComponents": 34,
+      "seoDescription": "The Russian arms industry is growing despite the West's sanctions regime. Russia imports the materials and machinery it needs, largely from China. An analysis in graphics.",
+      "germanyRelevant": false,
+      "leadText": "The Russian arms industry is growing despite the West's sanctions regime. Russia imports the materials and machinery it needs – largely from China. An analysis in graphics.",
+      "publicationLastUpdated": "2024-06-14T08:40:45.626Z",
+      "nzzArticleSnippet": "The Russian arms industry is growing despite the West's sanctions regime. Russia imports the materials and machinery it needs – largely from China. An analysis in graphics.",
+      "urlPath": "/english/china-is-helping-russia-build-weapons-used-in-ukraine-ld.1831332",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 1800,
+        "originalUrl": "https://img.nzz.ch/2024/05/17/658273f4-d943-4355-b762-cc63458f9371.png",
+        "mimeType": "image/png",
+        "crops": [
+          {
+            "x": 0,
+            "width": 1800,
+            "name": "16:9",
+            "y": 339,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/17/658273f4-d943-4355-b762-cc63458f9371.png?crop=1800,1012,x0,y339&width=1024&quality=75&auto=webp",
+            "height": 1012,
+            "ratio": 1.77778
+          },
+          {
+            "x": 449,
+            "width": 1351,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/17/658273f4-d943-4355-b762-cc63458f9371.png?crop=1351,1351,x449,y0&width=1024&quality=75&auto=webp",
+            "height": 1351,
+            "ratio": 1
+          },
+          {
+            "x": 0,
+            "width": 1800,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/05/17/658273f4-d943-4355-b762-cc63458f9371.png?crop=1800,1350,x0,y0&width=1024&quality=75&auto=webp",
+            "height": 1350,
+            "ratio": 1.33333
+          },
+          {
+            "x": 787,
+            "width": 1013,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/17/658273f4-d943-4355-b762-cc63458f9371.png?crop=1013,1351,x787,y0&width=1024&quality=75&auto=webp",
+            "height": 1351,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "Zw9ffhi88nRo",
+        "url": "https://img.nzz.ch/2024/05/17/658273f4-d943-4355-b762-cc63458f9371.png?width=1024&quality=75&auto=webp",
+        "key": "2024/05/17/658273f4-d943-4355-b762-cc63458f9371.png",
+        "height": 1351
+      },
+      "nzzId": "ld.1831332",
+      "url": "https://www.nzz.ch/english/china-is-helping-russia-build-weapons-used-in-ukraine-ld.1831332",
+      "dependencies": {},
+      "commentCount": 1,
+      "layout": "regular",
+      "estimationWordCount": 1382,
+      "embeds": {
+        "images": [
+          {
+            "author": "Mikhail Metzel / AP",
+            "caption": "Russia's President Vladimir Putin and China's President Xi Jingping enjoy a relaxed cup of tea.",
+            "origins": [
+              {
+                "identifier": "2155832464",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2024/05/17/56ed0e94-101f-4dee-a1b9-5086f6880cad.jpeg?quality=75&auto=webp"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "07d00172c0f2b9dd3facaed885dd55e1"
+          },
+          {
+            "id": "5e9b44349dc975a698ab1e1fefe500a1"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Russia's President Vladimir Putin and China's President Xi Jingping enjoy a relaxed cup of tea.",
+      "breadcrumbs": [
+        {
+          "path": "/english",
+          "name": "NZZ in English"
+        }
+      ],
+      "documentId": "1831332",
+      "product": "NZZ.ch"
+    }
+  }
+]

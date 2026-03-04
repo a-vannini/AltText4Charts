@@ -1,0 +1,129 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "Martin Rütschi / Keystone",
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "DsO6YXXanxWn",
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Die Inflation in der Schweiz sinkt leicht – für Entwarnung gibt es aber keinen Grund",
+      "seoTitle": "Leichter Rückgang der Inflation in der Schweiz",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Thomas Fuster (tf)",
+          "id": 1373840
+        }
+      ],
+      "nzzPrintTitle": "Leichter Rückgang der Inflation in der Schweiz",
+      "designName": "morpheus",
+      "significantUpdateTill": "2023-04-04T03:00:52.493Z",
+      "department": {
+        "path": "/wirtschaft",
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2023-04-03T15:00:52.493Z",
+      "slug": "die-inflation-in-der-schweiz-sinkt-leicht-fuer-entwarnung-gibt-es-aber-keinen-grund",
+      "firstPublicationDate": "2023-04-03T15:00:52.493Z",
+      "authorLine": "Thomas Fuster",
+      "owner": "NZZ",
+      "nzzCharacterCount": 4834,
+      "numberOfContentComponents": 17,
+      "seoDescription": "Im März ist die Inflation von 3,4 auf 2,9 Prozent gesunken. Der Rückgang hat primär statistische Gründe. Am Trend der hohen Geldentwertung ändert sich wenig.",
+      "germanyRelevant": true,
+      "leadText": "Im März ist die Jahresinflation in der Schweiz von 3,4 auf 2,9 Prozent gesunken. Der Rückgang verdankt sich primär einem statistischen Effekt. Am Trend einer hohen Geldentwertung ändert sich wenig.",
+      "publicationLastUpdated": "2023-04-03T17:04:33.474Z",
+      "nzzArticleSnippet": "Im März ist die Jahresinflation in der Schweiz von 3,4 auf 2,9 Prozent gesunken. Der Rückgang verdankt sich primär einem statistischen Effekt. Am Trend einer hohen Geldentwertung ändert sich wenig.",
+      "urlPath": "/wirtschaft/die-inflation-in-der-schweiz-sinkt-leicht-fuer-entwarnung-gibt-es-aber-keinen-grund-ld.1732940",
+      "url": "https://www.nzz.ch/wirtschaft/die-inflation-in-der-schweiz-sinkt-leicht-fuer-entwarnung-gibt-es-aber-keinen-grund-ld.1732940",
+      "nzzId": "ld.1732940",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 2048,
+        "originalUrl": "https://img.nzz.ch/2022/08/03/4d487074-bfb9-418b-a5d0-2e43ba3e97e0.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 2048,
+            "name": "16:9",
+            "y": 117,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/C=W2048,H1152,X0,Y117/O=75/https://img.nzz.ch/2022/08/03/4d487074-bfb9-418b-a5d0-2e43ba3e97e0.jpeg",
+            "height": 1152,
+            "ratio": 1.77778
+          },
+          {
+            "x": 331,
+            "width": 1386,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/C=W1386,H1386,X331,Y0/O=75/https://img.nzz.ch/2022/08/03/4d487074-bfb9-418b-a5d0-2e43ba3e97e0.jpeg",
+            "height": 1386,
+            "ratio": 1
+          }
+        ],
+        "mediaId": "LXIEfOeMbbJw",
+        "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2022/08/03/4d487074-bfb9-418b-a5d0-2e43ba3e97e0.jpeg",
+        "height": 1386
+      },
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1gt3oefvq1"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "commentCount": 3,
+      "layout": "regular",
+      "estimationWordCount": 727,
+      "nzzPrintSubtitle": "Nach einer überraschend starken Zunahme zu Jahresbeginn folgt nun eine überrachend starke Abnahme",
+      "embeds": {
+        "images": [
+          {
+            "author": "Martin Rütschi / Keystone",
+            "caption": "Der Einfluss der Energiepreise verliert zwar an Gewicht bei der Inflation, dafür kommen immer mehr andere Preissteigerungen dazu.",
+            "origins": [
+              {
+                "identifier": "19195889",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2022/08/03/4d487074-bfb9-418b-a5d0-2e43ba3e97e0.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "008c17a9b222ca9583df638fc9de316c"
+          },
+          {
+            "id": "008c17a9b222ca9583df638fc9dbe593"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "teaserCaption": "Der Einfluss der Energiepreise verliert zwar an Gewicht bei der Inflation, dafür kommen immer mehr andere Preissteigerungen dazu.",
+      "documentId": "1732940",
+      "product": "NZZ.ch"
+    }
+  }
+]

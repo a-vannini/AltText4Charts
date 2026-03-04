@@ -1,0 +1,117 @@
+{
+  "_id": "009b187b6b1fe7ca85fcde3801650eb8",
+  "_rev": "21-61c39ce0a958b3d5db9550a22a930db0",
+  "data": [
+    [
+      "2007-2015",
+      "Mio. Fr."
+    ],
+    [
+      "Graubünden",
+      "30.4"
+    ],
+    [
+      "Tessin",
+      "13.8"
+    ],
+    [
+      "Aarau",
+      "10.6"
+    ],
+    [
+      "Bern",
+      "8.2"
+    ],
+    [
+      "St. Gallen",
+      "6.5"
+    ],
+    [
+      "Basel",
+      "5.3"
+    ],
+    [
+      "Sion",
+      "2.8"
+    ],
+    [
+      "Zentralschweiz",
+      "2.3"
+    ],
+    [
+      "Interlaken",
+      "2.1"
+    ],
+    [
+      "Brig",
+      "2.1"
+    ],
+    [
+      "Delémont",
+      "2.0"
+    ],
+    [
+      "Yverdon",
+      "1.9"
+    ],
+    [
+      "Balsthal",
+      "1.2"
+    ],
+    [
+      "Frauenfeld",
+      "1.1"
+    ],
+    [
+      "Uznach",
+      "0.9"
+    ],
+    [
+      "Hauptsitz",
+      "-0.1"
+    ]
+  ],
+  "sources": [
+    {
+      "link": {
+        "url": "https://www.post.ch/-/media/post/ueber-uns/medienmitteilungen/2018/postauto_untersuchungsbericht.pdf?la=de&vs=1",
+        "isValid": true
+      },
+      "text": "Die Post/Kellerhals Carrard"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": true,
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "year",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "dotplotOptions": {},
+    "highlightDataSeries": [],
+    "colorOverwritesSeries": []
+  },
+  "tool": "chart",
+  "department": "Wirtschaft",
+  "publication": "nzz",
+  "acronym": "",
+  "active": true,
+  "title": "Graubünden wurde von Postauto am stärksten geschröpft",
+  "subtitle": "Umgebuchter Gewinn in der Sparte \"Regionaler Personenverkehr\", nach Region, 2007 bis 2015, in Mio. Fr.",
+  "notes": "\"Umgebuchter Gewinn\" meint vereinfacht gesagt den Betrag, den die Regionen über die eigentlichen Kosten der Firma Postauto hinaus zu viel an Subventionen bezahlt haben.",
+  "createdDate": "2018-06-13T13:50:18.147Z",
+  "createdBy": "christoph.schmutz@nzz.ch",
+  "updatedDate": "2018-06-13T13:59:48.094Z",
+  "updatedBy": "christoph.schmutz@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/009b187b6b1fe7ca85fcde3801650eb8-thumbnail.jpeg"
+}

@@ -1,0 +1,171 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Visual China Group / Getty",
+      "firstTitle": "Was der Handelsstreit zwischen China und den USA bewirkt – und wohin er führen könnte",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "DOve1kwsKxZl",
+        "locale": "de-CH"
+      },
+      "title": "Was der Handelsstreit zwischen China und den USA bewirkt – und wohin er führen könnte",
+      "seoTitle": "Handelsstreit USA und China: Was er für die Weltwirtschaft bedeutet ",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Peter A. Fischer (pfi)",
+          "id": 1373404,
+          "shortName": "pfi"
+        },
+        {
+          "external": false,
+          "name": "Florian Seliger (fsl)",
+          "id": 1556093,
+          "shortName": "fsl",
+          "proLitterisId": "888824"
+        }
+      ],
+      "designName": "morpheus",
+      "premium": true,
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-05-24T21:00:00.000Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Philipp Wolf (phw)",
+          "id": 1671128,
+          "shortName": "phw"
+        }
+      ],
+      "department": {
+        "path": "/pro",
+        "premium": false,
+        "level": 1,
+        "name": "Pro"
+      },
+      "publicationDate": "2024-05-24T09:00:00.000Z",
+      "slug": "handelsstreit-usa-und-china-was-er-fuer-die-weltwirtschaft-bedeutet",
+      "firstPublicationDate": "2024-05-24T09:00:00.000Z",
+      "nzzCharacterCount": 8258,
+      "owner": "NZZ",
+      "authorLine": "Peter A. Fischer, Florian Seliger (Grafik)",
+      "numberOfContentComponents": 36,
+      "seoDescription": "Handelsdaten zeigen: Die wirtschaftliche Strategie Chinas verändert sich. Das hat Auswirkungen auf den Welthandel – und eint den globalen Süden.",
+      "leadText": "Handelsdaten zeigen: Beide Staaten koppeln sich nur langsam voneinander ab. Aber die wirtschaftliche Strategie Chinas verändert sich. Das hat Auswirkungen auf die Weltwirtschaft – und eint den globalen Süden.",
+      "publicationLastUpdated": "2024-08-26T05:07:47.153Z",
+      "copySourceId": 1831787,
+      "nzzArticleSnippet": "Handelsdaten zeigen: Beide Staaten koppeln sich nur langsam voneinander ab. Aber die wirtschaftliche Strategie Chinas verändert sich. Das hat Auswirkungen auf die Weltwirtschaft – und eint den globalen Süden.",
+      "urlPath": "/pro/handelsstreit-usa-und-china-was-er-fuer-die-weltwirtschaft-bedeutet-ld.1831890",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 8095,
+        "originalUrl": "https://img.nzz.ch/2024/05/23/cfea6629-cc43-49c9-a6a0-fc271953c4ed.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 8095,
+            "name": "16:9",
+            "y": 811,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/05/23/cfea6629-cc43-49c9-a6a0-fc271953c4ed.jpeg?crop=8095,4553,x0,y811&width=1024&quality=75&auto=webp",
+            "height": 4553,
+            "ratio": 1.77778
+          },
+          {
+            "x": 960,
+            "width": 6176,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/05/23/cfea6629-cc43-49c9-a6a0-fc271953c4ed.jpeg?crop=6176,6176,x960,y0&width=1024&quality=75&auto=webp",
+            "height": 6176,
+            "ratio": 1
+          },
+          {
+            "x": 0,
+            "width": 8095,
+            "name": "4:3",
+            "y": 52,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/05/23/cfea6629-cc43-49c9-a6a0-fc271953c4ed.jpeg?crop=8095,6071,x0,y52&width=1024&quality=75&auto=webp",
+            "height": 6071,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1732,
+            "width": 4632,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/05/23/cfea6629-cc43-49c9-a6a0-fc271953c4ed.jpeg?crop=4632,6176,x1732,y0&width=1024&quality=75&auto=webp",
+            "height": 6176,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "PouwNfpPOrGf",
+        "url": "https://img.nzz.ch/2024/05/23/cfea6629-cc43-49c9-a6a0-fc271953c4ed.jpeg?width=1024&quality=75&auto=webp",
+        "key": "2024/05/23/cfea6629-cc43-49c9-a6a0-fc271953c4ed.jpeg",
+        "height": 6176
+      },
+      "nzzId": "ld.1831890",
+      "url": "https://www.nzz.ch/pro/handelsstreit-usa-und-china-was-er-fuer-die-weltwirtschaft-bedeutet-ld.1831890",
+      "dependencies": {},
+      "layout": "longformstandard",
+      "estimationWordCount": 1222,
+      "embeds": {
+        "images": [
+          {
+            "author": "Visual China Group / Getty",
+            "caption": "Günstige chinesische Windräder (hier im Betrieb auf den Berggipfeln von Guilin) und Solarzellen können die Abkehr von fossilen Brennstoffen beschleunigen. Doch manche Politiker sehen in chinesischem Hightech vor allem eine gefährliche Konkurrenz.",
+            "origins": [
+              {
+                "identifier": "2122258450",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2024/05/23/cfea6629-cc43-49c9-a6a0-fc271953c4ed.jpeg?width=1024&quality=75&auto=webp"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "07d00172c0f2b9dd3facaed8858f0093"
+          },
+          {
+            "id": "5e9b44349dc975a698ab1e1fef902d2c"
+          },
+          {
+            "id": "07d00172c0f2b9dd3facaed885d6837e"
+          },
+          {
+            "id": "07d00172c0f2b9dd3facaed885d4d594"
+          },
+          {
+            "id": "07d00172c0f2b9dd3facaed885d53907"
+          },
+          {
+            "id": "07d00172c0f2b9dd3facaed885dd8e11"
+          },
+          {
+            "id": "07d00172c0f2b9dd3facaed885ec7418"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/pro",
+          "name": "Pro"
+        }
+      ],
+      "teaserCaption": "Günstige chinesische Windräder (hier im Betrieb auf den Berggipfeln von Guilin) und Solarzellen können die Abkehr von fossilen Brennstoffen beschleunigen. Doch manche Politiker sehen in chinesischem Hightech vor allem eine gefährliche Konkurrenz.",
+      "documentId": "1831890",
+      "product": "NZZ.ch"
+    }
+  }
+]

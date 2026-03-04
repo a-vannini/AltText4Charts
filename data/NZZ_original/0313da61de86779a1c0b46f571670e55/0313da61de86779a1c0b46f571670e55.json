@@ -1,0 +1,131 @@
+{
+  "_id": "0313da61de86779a1c0b46f571670e55",
+  "_rev": "26-0113f382421e77220c17d98699b43bfa",
+  "department": "Zürich",
+  "publication": "nzz",
+  "acronym": "sho.",
+  "data": [
+    [
+      "Jahr",
+      "Rabenkrähe",
+      "Elster",
+      "Eichelhäher"
+    ],
+    [
+      "2013",
+      "842",
+      "38",
+      "7"
+    ],
+    [
+      "2014",
+      "942",
+      "46",
+      "17"
+    ],
+    [
+      "2015",
+      "769",
+      "55",
+      "13"
+    ],
+    [
+      "2016",
+      "655",
+      "39",
+      "11"
+    ],
+    [
+      "2017",
+      "1027",
+      "68",
+      "24"
+    ],
+    [
+      "2018",
+      "1053",
+      "57",
+      "6"
+    ],
+    [
+      "2019",
+      "1178",
+      "23",
+      "15"
+    ],
+    [
+      "2020",
+      "1904",
+      "35",
+      "5"
+    ],
+    [
+      "2021",
+      "2409",
+      "13",
+      "16"
+    ],
+    [
+      "2022",
+      "1482",
+      "28",
+      "2"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {
+        "url": "https://www.jagdstatistik.ch/de/statistics?tt=0&dt=0&at=0&st=1&dp=0&ar=CH&th=1&yr%5Bfrom%5D=2013&yr%5Bto%5D=2022&sp=1",
+        "isValid": true
+      },
+      "text": "Eidgenössische Jagdstatistik"
+    }
+  ],
+  "options": {
+    "chartType": "StackedBar",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "title": "Der am häufigsten gejagte Rabenvogel ist die Krähe",
+  "subtitle": "Jährliche Abschüsse der drei wichtigsten Arten von Rabenvögeln im Kanton Zürich",
+  "createdDate": "2024-01-08T11:15:42.523Z",
+  "createdBy": "stefan.hotz@nzz.ch",
+  "updatedDate": "2024-01-08T14:39:11.591Z",
+  "updatedBy": "stefan.hotz@nzz.ch",
+  "active": true,
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/0313da61de86779a1c0b46f571670e55-thumbnail.jpeg"
+}

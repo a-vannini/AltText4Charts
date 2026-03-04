@@ -1,0 +1,158 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Alexey Vitvitsky /Imago",
+      "firstTitle": "Der Covid-Aufbaufonds der EU: Wenn viel Geld auch ein Fluch ist",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "_vE4xdW2rHn77-S0L7aqN",
+        "locale": "de-CH"
+      },
+      "title": "Der Covid-Aufbaufonds der EU: Wenn viel Geld auch ein Fluch ist",
+      "seoTitle": "EU-Wiederaufbaufonds: Bilanz der Halbzeit",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Daniel Imwinkelried (imr)",
+          "id": 1372746,
+          "shortName": "imr"
+        }
+      ],
+      "nzzPrintTitle": "Der Fluch des vielen Geldes",
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-04-22T15:34:00.000Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Andreas Ernst (ahn)",
+          "id": 1371808,
+          "shortName": "ahn"
+        }
+      ],
+      "department": {
+        "path": "/international",
+        "premium": false,
+        "level": 1,
+        "name": "International"
+      },
+      "publicationDate": "2024-04-22T03:34:00.000Z",
+      "slug": "eu-wiederaufbaufonds-bilanz-der-halbzeit",
+      "firstPublicationDate": "2024-04-22T03:34:00.000Z",
+      "nzzCharacterCount": 7106,
+      "owner": "NZZ",
+      "authorLine": "Daniel Imwinkelried, Brüssel",
+      "numberOfContentComponents": 28,
+      "germanyRelevant": true,
+      "leadText": "Um die Folgen der Pandemie zu bekämpfen, hat die EU einen riesigen Hilfsfonds geschaffen. Soeben hat der die Hälfte seiner Laufzeit erreicht. Die Zwischenbilanz fällt gemischt aus.",
+      "publicationLastUpdated": "2024-04-26T08:43:26.727Z",
+      "nzzArticleSnippet": "Um die Folgen der Pandemie zu bekämpfen, hat die EU einen riesigen Hilfsfonds geschaffen. Soeben hat der die Hälfte seiner Laufzeit erreicht. Die Zwischenbilanz fällt gemischt aus.",
+      "urlPath": "/international/eu-wiederaufbaufonds-bilanz-der-halbzeit-ld.1826862",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 5839,
+        "originalUrl": "https://img.nzz.ch/2024/04/21/9cdd0af1-c8e8-42f4-85bb-17c4ec21ef31.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 5839,
+            "name": "16:9",
+            "y": 306,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W5839,H3284,X0,Y306/O=75/https://img.nzz.ch/2024/04/21/9cdd0af1-c8e8-42f4-85bb-17c4ec21ef31.jpeg",
+            "height": 3284,
+            "ratio": 1.77778
+          },
+          {
+            "x": 1650,
+            "width": 2613,
+            "name": "1:1",
+            "y": 519,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W2613,H2613,X1650,Y519/O=75/https://img.nzz.ch/2024/04/21/9cdd0af1-c8e8-42f4-85bb-17c4ec21ef31.jpeg",
+            "height": 2613,
+            "ratio": 1
+          },
+          {
+            "x": 435,
+            "width": 4960,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W4960,H3720,X435,Y0/O=75/https://img.nzz.ch/2024/04/21/9cdd0af1-c8e8-42f4-85bb-17c4ec21ef31.jpeg",
+            "height": 3720,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1421,
+            "width": 2790,
+            "name": "3:4",
+            "y": 1,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W2790,H3719,X1421,Y1/O=75/https://img.nzz.ch/2024/04/21/9cdd0af1-c8e8-42f4-85bb-17c4ec21ef31.jpeg",
+            "height": 3719,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "uRq4c3t8LODt",
+        "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/04/21/9cdd0af1-c8e8-42f4-85bb-17c4ec21ef31.jpeg",
+        "height": 3720
+      },
+      "nzzId": "ld.1826862",
+      "url": "https://www.nzz.ch/international/eu-wiederaufbaufonds-bilanz-der-halbzeit-ld.1826862",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hrmg722h0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "estimationWordCount": 1071,
+      "nzzPrintSubtitle": "Der Wiederaufbaufonds der EU war die Antwort auf die Pandemie und führt zu Langzeitschäden ",
+      "embeds": {
+        "images": [
+          {
+            "author": "Alexey Vitvitsky /Imago",
+            "caption": "Der Aufbaufonds der EU soll die Mitgliedsländer in eine bessere Zukunft führen.",
+            "origins": [
+              {
+                "identifier": "2154806964",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/C=W4960,H3719,X474,Y1/O=75/https://img.nzz.ch/2024/04/21/9cdd0af1-c8e8-42f4-85bb-17c4ec21ef31.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "ac6d46002978343cfaa5508a9dff54bc"
+          },
+          {
+            "id": "0819c8effbf081938ef522a3690037f8"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/international",
+          "name": "International"
+        }
+      ],
+      "teaserCaption": "Der Aufbaufonds der EU soll die Mitgliedsländer in eine bessere Zukunft führen.",
+      "documentId": "1826862",
+      "product": "NZZ.ch"
+    }
+  }
+]

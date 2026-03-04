@@ -1,0 +1,157 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Alexandra Wey / Keystone",
+      "firstTitle": "Universität Zürich legt erstmals Zahlen zu sexuellen Belästigungen offen – der Trend zeigt stark nach oben",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "E6AeHsQ9AXoGYtFHK4A_N",
+        "locale": "de-CH"
+      },
+      "title": "Universität Zürich legt erstmals Zahlen zu sexuellen Belästigungen offen – der Trend zeigt stark nach oben",
+      "seoTitle": "Zürich: Uni legt Zahlen zu sexueller Belästigung vor",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Zeno Geisseler (zge)",
+          "id": 1638489,
+          "shortName": "zge",
+          "proLitterisId": "12608"
+        }
+      ],
+      "nzzPrintTitle": "Uni Zürich legt erstmals Zahlen zu sexuellen Belästigungen offen",
+      "designName": "morpheus",
+      "seoSocialMediaTitle": "Uni Zürich legt erstmals Zahlen zu sexuellen Belästigungen offen",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-04-26T01:02:00.000Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Katja Baigger (bai)",
+          "id": 1371941,
+          "shortName": "bai"
+        }
+      ],
+      "department": {
+        "path": "/zuerich",
+        "premium": false,
+        "level": 1,
+        "name": "Zürich"
+      },
+      "publicationDate": "2024-04-25T13:02:00.000Z",
+      "slug": "universitaet-zuerich-legt-erstmals-zahlen-zu-sexuellen-belaestigungen-offen-der-trend-zeigt-stark-nach-oben",
+      "firstPublicationDate": "2024-04-25T13:02:00.000Z",
+      "nzzCharacterCount": 5368,
+      "owner": "NZZ",
+      "authorLine": "Zeno Geisseler",
+      "numberOfContentComponents": 25,
+      "germanyRelevant": true,
+      "leadText": "Die NZZ ist dank dem Öffentlichkeitsprinzip an die zuvor geheimen Fallzahlen und Jahresberichte gelangt.",
+      "publicationLastUpdated": "2024-04-25T13:53:04.195Z",
+      "nzzArticleSnippet": "Die NZZ ist dank dem Öffentlichkeitsprinzip an die zuvor geheimen Fallzahlen und Jahresberichte gelangt.",
+      "urlPath": "/zuerich/universitaet-zuerich-legt-erstmals-zahlen-zu-sexuellen-belaestigungen-offen-der-trend-zeigt-stark-nach-oben-ld.1827814",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 4741,
+        "originalUrl": "https://img.nzz.ch/2022/01/17/2fa172a9-5c87-45f9-ae48-6b082efe2299.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 4741,
+            "name": "16:9",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W4741,H2667,X0,Y0/O=75/https://img.nzz.ch/2022/01/17/2fa172a9-5c87-45f9-ae48-6b082efe2299.jpeg",
+            "height": 2667,
+            "ratio": 1.77778
+          },
+          {
+            "x": 283,
+            "width": 3161,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W3161,H3161,X283,Y0/O=75/https://img.nzz.ch/2022/01/17/2fa172a9-5c87-45f9-ae48-6b082efe2299.jpeg",
+            "height": 3161,
+            "ratio": 1
+          },
+          {
+            "x": 277,
+            "width": 4215,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W4215,H3161,X277,Y0/O=75/https://img.nzz.ch/2022/01/17/2fa172a9-5c87-45f9-ae48-6b082efe2299.jpeg",
+            "height": 3161,
+            "ratio": 1.33333
+          },
+          {
+            "x": 232,
+            "width": 2371,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W2371,H3161,X232,Y0/O=75/https://img.nzz.ch/2022/01/17/2fa172a9-5c87-45f9-ae48-6b082efe2299.jpeg",
+            "height": 3161,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "45JXp6QUmFVb",
+        "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2022/01/17/2fa172a9-5c87-45f9-ae48-6b082efe2299.jpeg",
+        "height": 3161
+      },
+      "nzzId": "ld.1827814",
+      "url": "https://www.nzz.ch/zuerich/universitaet-zuerich-legt-erstmals-zahlen-zu-sexuellen-belaestigungen-offen-der-trend-zeigt-stark-nach-oben-ld.1827814",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hsaj03um1"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "estimationWordCount": 751,
+      "nzzPrintSubtitle": "Der Trend zeigt stark nach oben, wie Dokumente zeigen, welche die NZZ dank dem Öffentlichkeitsprinzip einsehen konnte",
+      "embeds": {
+        "images": [
+          {
+            "author": "Alexandra Wey / Keystone",
+            "caption": "Sexuelle Belästigungen gehen nicht selten mit Stalking einher.",
+            "origins": [
+              {
+                "identifier": "2127803480",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2022/01/17/2fa172a9-5c87-45f9-ae48-6b082efe2299.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0819c8effbf081938ef522a36930c5cd"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/zuerich",
+          "name": "Zürich"
+        }
+      ],
+      "teaserCaption": "Sexuelle Belästigungen gehen nicht selten mit Stalking einher.",
+      "documentId": "1827814",
+      "product": "NZZ.ch"
+    }
+  }
+]

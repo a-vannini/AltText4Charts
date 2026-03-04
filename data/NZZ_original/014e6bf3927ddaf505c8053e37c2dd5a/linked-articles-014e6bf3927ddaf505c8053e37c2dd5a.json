@@ -1,0 +1,118 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "Gaetan Bally / Keystone",
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Enorme Gesundheitskosten, sichere Autos und das schleichende Ende der BVG-Vollversicherung: Das prägt die Schweizer Versicherungsbranche",
+      "seoTitle": "BVG, Auto, Gesundheit: Versicherung im Bann der grossen Trends",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "André Müller (amü)",
+          "id": 1371858
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2022-02-03T04:16:39.488Z",
+      "department": {
+        "path": "/wirtschaft",
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2022-02-02T16:16:39.488Z",
+      "slug": "bvg-auto-gesundheit-versicherung-im-bann-der-grossen-trends",
+      "firstPublicationDate": "2022-02-02T16:16:39.488Z",
+      "nzzCharacterCount": 4538,
+      "authorLine": "André Müller",
+      "numberOfContentComponents": 15,
+      "germanyRelevant": true,
+      "leadText": "Mehr als die Hälfte ihrer Prämien nehmen die Schweizer Privatversicherer inzwischen mit der Absicherung von Gesundheits- und Unfallrisiken ein. Andere Sparten leiden unter dem politischen Reformstau.",
+      "publicationLastUpdated": "2022-02-02T16:16:39.488Z",
+      "nzzArticleSnippet": "Mehr als die Hälfte ihrer Prämien nehmen die Schweizer Privatversicherer inzwischen mit der Absicherung von Gesundheits- und Unfallrisiken ein. Andere Sparten leiden unter dem politischen Reformstau.",
+      "urlPath": "/wirtschaft/bvg-auto-gesundheit-versicherung-im-bann-der-grossen-trends-ld.1667745",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 6000,
+        "originalUrl": "https://nzz-img.s3.amazonaws.com/2022/02/02/29a91af4-e6f2-473d-b3a5-d5d4c54616f4.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 6000,
+            "name": "16:9",
+            "y": 74,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W6000,H3375,X0,Y74/O=75/https://nzz-img.s3.amazonaws.com/2022/02/02/29a91af4-e6f2-473d-b3a5-d5d4c54616f4.jpeg",
+            "height": 3375,
+            "ratio": 1.77778
+          },
+          {
+            "x": 1674,
+            "width": 2497,
+            "name": "1:1",
+            "y": 1020,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W2497,H2497,X1674,Y1020/O=75/https://nzz-img.s3.amazonaws.com/2022/02/02/29a91af4-e6f2-473d-b3a5-d5d4c54616f4.jpeg",
+            "height": 2497,
+            "ratio": 1
+          }
+        ],
+        "mediaId": "92o692U92W5c",
+        "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2022/02/02/29a91af4-e6f2-473d-b3a5-d5d4c54616f4.jpeg",
+        "height": 4000
+      },
+      "nzzId": "ld.1667745",
+      "url": "https://www.nzz.ch/wirtschaft/bvg-auto-gesundheit-versicherung-im-bann-der-grossen-trends-ld.1667745",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1fqtiuc0a0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "embeds": {
+        "images": [
+          {
+            "author": "Gaetan Bally / Keystone",
+            "caption": "Autos werden immer sicherer, aber auch teurer. Die Versicherer müssen daher weniger für Personenschäden zahlen.",
+            "origins": [
+              {
+                "identifier": "2122588576",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2022/02/02/29a91af4-e6f2-473d-b3a5-d5d4c54616f4.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "014e6bf3927ddaf505c8053e37c1cae3"
+          },
+          {
+            "id": "014e6bf3927ddaf505c8053e37c2dd5a"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Autos werden immer sicherer, aber auch teurer. Die Versicherer müssen daher weniger für Personenschäden zahlen.",
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "documentId": "1667745",
+      "product": "NZZ.ch"
+    }
+  }
+]

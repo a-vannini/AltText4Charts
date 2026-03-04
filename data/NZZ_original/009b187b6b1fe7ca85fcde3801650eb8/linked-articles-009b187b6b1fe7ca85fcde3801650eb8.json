@@ -1,0 +1,100 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Postauto wirft einen Schatten auf KPMG",
+      "seoTitle": "Postauto-Affäre wirft einen Schatten auf KPMG",
+      "nzzAuthors": [
+        {
+          "name": "Christof G. Schmutz (sco)",
+          "id": 1373658
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2018-06-14T06:01:59.230Z",
+      "department": {
+        "path": "/wirtschaft",
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2018-06-14T05:00:00.000Z",
+      "slug": "postauto-affaere-wirft-einen-schatten-auf-kpmg",
+      "firstPublicationDate": "2018-06-13T18:01:59.230Z",
+      "nzzCharacterCount": 5000,
+      "authorLine": "Christoph G. Schmutz",
+      "numberOfContentComponents": 16,
+      "leadText": "Der Revisor hätte kritischer sein müssen, verletzte aber keine Pflichten. So beschreiben die Untersuchungsberichte vereinfacht gesagt die Rolle von KPMG in der Postauto-Affäre.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2018-06-14T06:18:44.746Z",
+      "copySourceId": 1394533,
+      "urlPath": "/wirtschaft/postauto-affaere-wirft-einen-schatten-auf-kpmg-ld.1394602",
+      "nzzId": "ld.1394602",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 5568,
+        "originalUrl": "https://nzz-img.s3.amazonaws.com/2018/6/13/466e15e9-dbe6-4cb1-a47d-24653fd1f386.jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 0,
+            "width": 5568,
+            "y": 290,
+            "url": "https://img.nzz.ch/C=W5568,H3132,X0,Y290/O=75/https://nzz-img.s3.amazonaws.com/2018/6/13/466e15e9-dbe6-4cb1-a47d-24653fd1f386.jpeg",
+            "height": 3132
+          },
+          {
+            "name": "1:1",
+            "x": 928,
+            "width": 3712,
+            "y": 0,
+            "url": "https://img.nzz.ch/C=W3712,H3712,X928,Y0/O=75/https://nzz-img.s3.amazonaws.com/2018/6/13/466e15e9-dbe6-4cb1-a47d-24653fd1f386.jpeg",
+            "height": 3712
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2018/6/13/466e15e9-dbe6-4cb1-a47d-24653fd1f386.jpeg",
+        "height": 3712
+      },
+      "url": "https://www.nzz.ch/wirtschaft/postauto-affaere-wirft-einen-schatten-auf-kpmg-ld.1394602",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1cft4hl7o0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "embeds": {
+        "images": [
+          {
+            "caption": "Die Aufdeckung der Postauto-Affäre bringt immer mehr Akteure ans Licht, die nicht genau hingeschaut haben – so zum Beispiel der Revisor KPMG. (Bild: Urs Flüeler / Keystone)",
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2018/6/13/466e15e9-dbe6-4cb1-a47d-24653fd1f386.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "009b187b6b1fe7ca85fcde3801650eb8"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Die Aufdeckung der Postauto-Affäre bringt immer mehr Akteure ans Licht, die nicht genau hingeschaut haben – so zum Beispiel der Revisor KPMG. (Bild: Urs Flüeler / Keystone)",
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "documentId": "1394602",
+      "product": "NZZ.ch"
+    }
+  }
+]

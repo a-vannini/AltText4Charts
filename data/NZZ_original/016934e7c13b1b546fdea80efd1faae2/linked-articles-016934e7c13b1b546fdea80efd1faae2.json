@@ -1,0 +1,284 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "Samir Maouche",
+      "contentTypeGroup": "web",
+      "firstTitle": "Frankreich und Algerien stehen vor dem Bruch ihrer Beziehungen",
+      "flag": "Inside Europe",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "DujNte3oSeEqsCvSG0Owb",
+        "locale": "en-US"
+      },
+      "title": "In dispute between France and Algeria, the «Harraga» are stranded between countries",
+      "seoTitle": "Algeria's «Harraga» are stranded between two countries",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "pianoId": "5245610e-06a3-48de-a6d3-fcafa43ba3d0",
+          "name": "Daniel Steinvorth (DSt)",
+          "id": 1372304,
+          "shortName": "DSt",
+          "proLitterisId": "767277"
+        }
+      ],
+      "designName": "morpheus",
+      "premium": false,
+      "seoSocialMediaTitle": "Algeria's «Harraga» are stranded between two countries",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2025-03-07T00:24:02.228Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "pianoId": "1310fe48-9bf7-4bae-942f-e1b886ab0777",
+          "name": "Nina Belz (nbe)",
+          "id": 1373290,
+          "shortName": "nbe"
+        }
+      ],
+      "department": {
+        "path": "/english",
+        "premium": false,
+        "level": 1,
+        "name": "NZZ in English"
+      },
+      "publicationDate": "2025-03-06T12:24:02.228Z",
+      "showComments": false,
+      "slug": "algerias-harraga-are-stranded-between-two-countries",
+      "firstPublicationDate": "2025-03-06T12:24:02.228Z",
+      "owner": "NZZ",
+      "nzzCharacterCount": 8714,
+      "authorLine": "Daniel Steinvorth",
+      "numberOfContentComponents": 34,
+      "nzzSummary": {
+        "de_CH": "",
+        "en_US": "- Tensions between France and Algeria are rising, as Algeria's government has refused to accept its deported nationals, including criminals.\n- Algerian «Harraga» are migrants in France who have destroyed their identity documents to conceal their origins. Unable to return, many face dismal lives on the margins of French society.\n- France is threatening to cancel a migration agreement with Algeria, further straining the already tense relations.\n"
+      },
+      "seoDescription": "Tens of thousands of Algerians are living in France without legal permission. But the Algiers government is refusing to take back even dangerous criminals. The dispute threatens to upend a historic migration pact.",
+      "leadText": "Tens of thousands of Algerians are living in France without legal permission. But the Algiers government is steadfastly refusing to take back even dangerous criminals. Paris is now threatening to withdraw from a historic migration pact.",
+      "germanyRelevant": false,
+      "publicationLastUpdated": "2025-03-06T12:24:02.228Z",
+      "nzzArticleSnippet": "Tens of thousands of Algerians are living in France without legal permission. But the Algiers government is steadfastly refusing to take back even dangerous criminals. Paris is now threatening to withdraw from a historic migration pact.",
+      "urlPath": "/english/algerias-harraga-are-stranded-between-two-countries-ld.1874006",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 5760,
+        "originalUrl": "https://img.nzz.ch/2025/03/04/13a38d8f-15db-4352-8a32-5414a97b4a30.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 5760,
+            "name": "16:9",
+            "y": 0,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2025/03/04/13a38d8f-15db-4352-8a32-5414a97b4a30.jpeg?crop=5760,3240,x0,y0&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2025/03/04/13a38d8f-15db-4352-8a32-5414a97b4a30.jpeg?crop=5760,3240,x0,y0&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2025/03/04/13a38d8f-15db-4352-8a32-5414a97b4a30.jpeg?crop=5760,3240,x0,y0&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2025/03/04/13a38d8f-15db-4352-8a32-5414a97b4a30.jpeg?crop=5760,3240,x0,y0&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2025/03/04/13a38d8f-15db-4352-8a32-5414a97b4a30.jpeg?crop=5760,3240,x0,y0&width=1024&quality=75&auto=webp",
+            "height": 3240,
+            "ratio": 1.77778
+          },
+          {
+            "x": 1074,
+            "width": 3840,
+            "name": "1:1",
+            "y": 0,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2025/03/04/13a38d8f-15db-4352-8a32-5414a97b4a30.jpeg?crop=3840,3840,x1074,y0&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2025/03/04/13a38d8f-15db-4352-8a32-5414a97b4a30.jpeg?crop=3840,3840,x1074,y0&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2025/03/04/13a38d8f-15db-4352-8a32-5414a97b4a30.jpeg?crop=3840,3840,x1074,y0&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2025/03/04/13a38d8f-15db-4352-8a32-5414a97b4a30.jpeg?crop=3840,3840,x1074,y0&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2025/03/04/13a38d8f-15db-4352-8a32-5414a97b4a30.jpeg?crop=3840,3840,x1074,y0&width=1024&quality=75&auto=webp",
+            "height": 3840,
+            "ratio": 1
+          },
+          {
+            "x": 478,
+            "width": 5120,
+            "name": "4:3",
+            "y": 0,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2025/03/04/13a38d8f-15db-4352-8a32-5414a97b4a30.jpeg?crop=5120,3840,x478,y0&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2025/03/04/13a38d8f-15db-4352-8a32-5414a97b4a30.jpeg?crop=5120,3840,x478,y0&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2025/03/04/13a38d8f-15db-4352-8a32-5414a97b4a30.jpeg?crop=5120,3840,x478,y0&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2025/03/04/13a38d8f-15db-4352-8a32-5414a97b4a30.jpeg?crop=5120,3840,x478,y0&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2025/03/04/13a38d8f-15db-4352-8a32-5414a97b4a30.jpeg?crop=5120,3840,x478,y0&width=1024&quality=75&auto=webp",
+            "height": 3840,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1374,
+            "width": 2880,
+            "name": "3:4",
+            "y": 0,
+            "srcSet": [
+              {
+                "width": 2048,
+                "url": "https://img.nzz.ch/2025/03/04/13a38d8f-15db-4352-8a32-5414a97b4a30.jpeg?crop=2880,3840,x1374,y0&width=2048&quality=75&auto=webp"
+              },
+              {
+                "width": 1024,
+                "url": "https://img.nzz.ch/2025/03/04/13a38d8f-15db-4352-8a32-5414a97b4a30.jpeg?crop=2880,3840,x1374,y0&width=1024&quality=75&auto=webp"
+              },
+              {
+                "width": 620,
+                "url": "https://img.nzz.ch/2025/03/04/13a38d8f-15db-4352-8a32-5414a97b4a30.jpeg?crop=2880,3840,x1374,y0&width=620&quality=75&auto=webp"
+              },
+              {
+                "width": 320,
+                "url": "https://img.nzz.ch/2025/03/04/13a38d8f-15db-4352-8a32-5414a97b4a30.jpeg?crop=2880,3840,x1374,y0&width=320&quality=75&auto=webp"
+              }
+            ],
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2025/03/04/13a38d8f-15db-4352-8a32-5414a97b4a30.jpeg?crop=2880,3840,x1374,y0&width=1024&quality=75&auto=webp",
+            "height": 3840,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "mZJCrvORDKj0",
+        "key": "2025/03/04/13a38d8f-15db-4352-8a32-5414a97b4a30.jpeg",
+        "url": "https://img.nzz.ch/2025/03/04/13a38d8f-15db-4352-8a32-5414a97b4a30.jpeg?width=1024&quality=75&auto=webp",
+        "height": 3840
+      },
+      "nzzId": "ld.1874006",
+      "url": "https://www.nzz.ch/english/algerias-harraga-are-stranded-between-two-countries-ld.1874006",
+      "dependencies": {},
+      "commentCount": 1,
+      "layout": "longformstandard",
+      "estimationWordCount": 1692,
+      "embeds": {
+        "images": [
+          {
+            "author": "Samir Maouche",
+            "caption": "Imad crossed the Mediterranean by boat in the summer of 2022. In Paris, he was the victim of an attack in which he suffered a severe traumatic brain injury and fell into a coma. Private donors financed a transplant for his damaged skull bones.",
+            "origins": [
+              {
+                "identifier": "2165501053",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2025/03/04/13a38d8f-15db-4352-8a32-5414a97b4a30.jpeg?width=1024&quality=75&auto=webp"
+          },
+          {
+            "author": "Samir Maouche",
+            "caption": "The Barbès neighborhood in Paris’ 18th arrondissement is home to many of the Harraga. This is the name given to the North African men who destroy their identity papers when fleeing to Europe in order to conceal their origins.",
+            "origins": [
+              {
+                "identifier": "2165501024",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2025/03/04/9a24c26a-6ac0-4c9e-bc97-e3c0ccca0a60.jpeg?width=1024&quality=75&auto=webp"
+          },
+          {
+            "author": "Samir Maouche",
+            "caption": "Imad, the Harrag, in November 2024. The 26-year-old alternates between sleeping in squats and in emergency shelters for the homeless. He is addicted to pills, and survives by selling smuggled cigarettes.",
+            "origins": [
+              {
+                "identifier": "2165501066",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2025/03/04/8fa6b8fe-e63a-4504-b39e-54ef4a086eb2.jpeg?width=1024&quality=75&auto=webp"
+          },
+          {
+            "author": "Samir Maouche",
+            "caption": "At the Porte de Clignancourt metro station in Paris’ 18th Arrondissement: Zinou, another Harrag, waits for passersby, hoping to sell them black-market smuggled cigarettes and prescription drugs.",
+            "origins": [
+              {
+                "identifier": "2165501023",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2025/03/04/98c2f711-05ca-4b0c-9293-987b2c994dba.jpeg?width=1024&quality=75&auto=webp"
+          },
+          {
+            "author": "Samir Maouche",
+            "caption": "From a cellphone video: Most Harraga come to Europe by boat across the Mediterranean. Observers suspect that the Algerian regime tolerates the traffickers' business in order to diminish domestic social problems.",
+            "origins": [
+              {
+                "identifier": "2165501041",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2025/03/04/995d7d93-3186-49ec-8c95-9ee558a9d638.jpeg?width=1024&quality=75&auto=webp"
+          },
+          {
+            "author": "Samir Maouche",
+            "caption": "Hamza, another Algerian with OQTF status who is has been ordered to leave the country, stands in the kitchen of a collective apartment in the north of Paris. The regime in Algiers sees the migrants as a means of exerting pressure on France.",
+            "origins": [
+              {
+                "identifier": "2165501020",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2025/03/04/9c7273ce-8dd0-4199-bdbc-661df2fcf9a3.jpeg?width=1024&quality=75&auto=webp"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "016934e7c13b1b546fdea80efd1faae2"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Imad crossed the Mediterranean by boat in the summer of 2022. In Paris, he was the victim of an attack in which he suffered a severe traumatic brain injury and fell into a coma. Private donors financed a transplant for his damaged skull bones.",
+      "breadcrumbs": [
+        {
+          "path": "/english",
+          "name": "NZZ in English"
+        }
+      ],
+      "documentId": "1874006",
+      "product": "NZZ.ch"
+    }
+  }
+]

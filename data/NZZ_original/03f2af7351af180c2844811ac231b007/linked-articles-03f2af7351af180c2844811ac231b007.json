@@ -1,0 +1,154 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Annick Ramp / NZZ",
+      "firstTitle": "Der Schweizer Medianlohn liegt 2022 bei 6788 Franken",
+      "significantUpdate": true,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "KCKO0aawn4Emmk2IfCDU0",
+        "locale": "de-CH"
+      },
+      "title": "Der mittlere Monatslohn in der Schweiz lag 2022 bei 6788 Franken – die Frauen haben aufgeholt",
+      "seoTitle": "Schweizer Medianlohn liegt im Jahr 2022 bei 6788 Franken",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Hansueli Schöchli (hus)",
+          "id": 1372717,
+          "shortName": "hus",
+          "proLitterisId": "4769"
+        }
+      ],
+      "designName": "morpheus",
+      "nzzPrintTitle": "Der mittlere Schweizer Lohn liegt bei 6788 Franken",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-03-20T00:13:35.604Z",
+      "department": {
+        "path": "/wirtschaft",
+        "premium": false,
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2024-03-19T12:13:35.604Z",
+      "slug": "der-schweizer-medianlohn-liegt-2022-bei-6788-franken",
+      "firstPublicationDate": "2024-03-19T09:09:25.438Z",
+      "nzzCharacterCount": 9780,
+      "owner": "NZZ",
+      "authorLine": "Hansueli Schöchli",
+      "numberOfContentComponents": 27,
+      "germanyRelevant": true,
+      "leadText": "Die Reallöhne sind in den letzten fünfzehn Jahren oben, unten und in der Mitte gestiegen. Die tiefen Löhne haben fast gleich viel zugelegt wie die hohen Löhne. Doch 2021 und 2022 drückten diverse Krisen und die Teuerung auf die Reallöhne.",
+      "publicationLastUpdated": "2024-03-19T14:19:01.263Z",
+      "nzzArticleSnippet": "Die Reallöhne sind in den letzten fünfzehn Jahren oben, unten und in der Mitte gestiegen. Die tiefen Löhne haben fast gleich viel zugelegt wie die hohen Löhne. Doch 2021 und 2022 drückten diverse Krisen und die Teuerung auf die Reallöhne.",
+      "urlPath": "/wirtschaft/der-schweizer-medianlohn-liegt-2022-bei-6788-franken-ld.1822763",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 4898,
+        "originalUrl": "https://img.nzz.ch/2024/03/19/cada3e77-0fd8-44bb-aaad-20ed98d5c9e2.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 4898,
+            "name": "16:9",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W4898,H2755,X0,Y0/O=75/https://img.nzz.ch/2024/03/19/cada3e77-0fd8-44bb-aaad-20ed98d5c9e2.jpeg",
+            "height": 2755,
+            "ratio": 1.77778
+          },
+          {
+            "x": 1369,
+            "width": 2580,
+            "name": "1:1",
+            "y": 53,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W2580,H2580,X1369,Y53/O=75/https://img.nzz.ch/2024/03/19/cada3e77-0fd8-44bb-aaad-20ed98d5c9e2.jpeg",
+            "height": 2580,
+            "ratio": 1
+          },
+          {
+            "x": 0,
+            "width": 4353,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W4353,H3265,X0,Y0/O=75/https://img.nzz.ch/2024/03/19/cada3e77-0fd8-44bb-aaad-20ed98d5c9e2.jpeg",
+            "height": 3265,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1439,
+            "width": 2449,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W2449,H3265,X1439,Y0/O=75/https://img.nzz.ch/2024/03/19/cada3e77-0fd8-44bb-aaad-20ed98d5c9e2.jpeg",
+            "height": 3265,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "ThrHRAYnkXVm",
+        "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/03/19/cada3e77-0fd8-44bb-aaad-20ed98d5c9e2.jpeg",
+        "height": 3265
+      },
+      "nzzId": "ld.1822763",
+      "url": "https://www.nzz.ch/wirtschaft/der-schweizer-medianlohn-liegt-2022-bei-6788-franken-ld.1822763",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hpb0eeh21"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "estimationWordCount": 1503,
+      "nzzPrintSubtitle": "Die jüngsten Lohndaten zeigen das Aufholen der Frauen und prozentual ähnliche Lohnerhöhungen oben wie unten",
+      "embeds": {
+        "images": [
+          {
+            "author": "Annick Ramp / NZZ",
+            "caption": "Das Gastgewerbe gehörte 2022 zu den Branchen mit relativ tiefen Löhnen.",
+            "origins": [
+              {
+                "identifier": "2121515259",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/03/19/cada3e77-0fd8-44bb-aaad-20ed98d5c9e2.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "7c6952ec0e7bb211d3f5d6b1efdbad2f"
+          },
+          {
+            "id": "b95cfa23f51a855100126dfafbbb19bc"
+          },
+          {
+            "id": "03f2af7351af180c2844811ac231b007"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "teaserCaption": "Das Gastgewerbe gehörte 2022 zu den Branchen mit relativ tiefen Löhnen.",
+      "documentId": "1822763",
+      "product": "NZZ.ch"
+    }
+  }
+]

@@ -1,0 +1,161 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "Future Publishing / Getty",
+      "contentTypeGroup": "web",
+      "firstTitle": "Ressourcen und Geopolitik: so verletzlich und abhängig sind Europa, China und der Nahe Osten",
+      "flag": "International View",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "MkyHoznxwXKO",
+        "locale": "en-US"
+      },
+      "title": "Resources and geopolitics: Scarcities make some regions vulnerable on the world stage",
+      "seoTitle": "Resource scarcities are driving conflicts across the globe",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Peter A. Fischer (pfi)",
+          "id": 1373404,
+          "shortName": "pfi"
+        }
+      ],
+      "designName": "morpheus",
+      "premium": false,
+      "seoSocialMediaTitle": "Resource scarcities are driving conflicts across the globe",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-04-30T01:07:10.893Z",
+      "department": {
+        "path": "/english",
+        "premium": false,
+        "level": 1,
+        "name": "NZZ in English"
+      },
+      "publicationDate": "2024-04-29T13:07:10.893Z",
+      "showComments": false,
+      "slug": "resource-scarcities-are-driving-conflicts-across-the-globe",
+      "firstPublicationDate": "2024-04-29T13:07:10.893Z",
+      "owner": "NZZ",
+      "nzzCharacterCount": 10421,
+      "authorLine": "Peter A. Fischer",
+      "numberOfContentComponents": 47,
+      "seoDescription": "World regions have different degrees of access to water, energy, rare minerals and knowledge. This makes them more or less resilient. Looking at countries in this way sheds new light on their geopolitical strategies.",
+      "germanyRelevant": false,
+      "leadText": "World regions have different degrees of access to water, energy, rare minerals and knowledge. This makes them more or less resilient. Looking at countries in this way sheds new light on their geopolitical strategies.",
+      "publicationLastUpdated": "2024-04-29T13:17:26.113Z",
+      "nzzArticleSnippet": "World regions have different degrees of access to water, energy, rare minerals and knowledge. This makes them more or less resilient. Looking at countries in this way sheds new light on their geopolitical strategies.",
+      "copySourceId": 1827852,
+      "urlPath": "/english/resource-scarcities-are-driving-conflicts-across-the-globe-ld.1828185",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 6720,
+        "originalUrl": "https://img.nzz.ch/2024/04/26/c01efd3e-7386-4338-adb5-82e397aae749.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 6720,
+            "name": "16:9",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/26/c01efd3e-7386-4338-adb5-82e397aae749.jpeg?crop=6720,3780,x0,y0&quality=75&auto=webp",
+            "height": 3780,
+            "ratio": 1.77778
+          },
+          {
+            "x": 1900,
+            "width": 3490,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/26/c01efd3e-7386-4338-adb5-82e397aae749.jpeg?crop=3490,3490,x1900,y0&quality=75&auto=webp",
+            "height": 3490,
+            "ratio": 1
+          },
+          {
+            "x": 415,
+            "width": 5889,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/04/26/c01efd3e-7386-4338-adb5-82e397aae749.jpeg?crop=5889,4417,x415,y0&quality=75&auto=webp",
+            "height": 4417,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1775,
+            "width": 3313,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/26/c01efd3e-7386-4338-adb5-82e397aae749.jpeg?crop=3313,4417,x1775,y0&quality=75&auto=webp",
+            "height": 4417,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "pbsg2iJOP7NJ",
+        "url": "https://img.nzz.ch/2024/04/26/c01efd3e-7386-4338-adb5-82e397aae749.jpeg?quality=75&auto=webp",
+        "key": "2024/04/26/c01efd3e-7386-4338-adb5-82e397aae749.jpeg",
+        "height": 4417
+      },
+      "nzzId": "ld.1828185",
+      "url": "https://www.nzz.ch/english/resource-scarcities-are-driving-conflicts-across-the-globe-ld.1828185",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hscq7ai91"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "longformstandard",
+      "estimationWordCount": 1677,
+      "embeds": {
+        "images": [
+          {
+            "author": "Future Publishing / Getty",
+            "caption": "Water is a particularly scarce resource in China. Pictured: Maintenance work at a Chinese hydropower plant.",
+            "origins": [
+              {
+                "identifier": "2155152441",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/C=W5973,H3926,X666,Y165/O=75/https://img.nzz.ch/2024/04/26/c01efd3e-7386-4338-adb5-82e397aae749.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0819c8effbf081938ef522a36954ce2c"
+          },
+          {
+            "id": "0819c8effbf081938ef522a36954dca0"
+          },
+          {
+            "id": "64d3df3ff8944eb8b41a1540ead2dd4a"
+          },
+          {
+            "id": "64d3df3ff8944eb8b41a1540ead2f8bd"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Die Ressource Wasser ist in China besonders knapp. Im Bild: Unterhaltsarbeiten in einem chinesischen Wasserkraftwerk.",
+      "breadcrumbs": [
+        {
+          "path": "/english",
+          "name": "NZZ in English"
+        }
+      ],
+      "documentId": "1828185",
+      "product": "NZZ.ch"
+    }
+  }
+]

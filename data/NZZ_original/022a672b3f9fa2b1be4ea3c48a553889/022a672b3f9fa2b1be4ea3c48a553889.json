@@ -1,0 +1,115 @@
+{
+  "_id": "022a672b3f9fa2b1be4ea3c48a553889",
+  "_rev": "55-feb7c3a8fd2624c265090443a4a922aa",
+  "department": "Schweiz",
+  "publication": "nzz",
+  "acronym": "mjk.",
+  "data": [
+    [
+      "Einschätzung der Folgen eines Globalbudgets",
+      "Stimme sehr zu",
+      "Stimme eher zu",
+      "Weiss nicht / keine Antwort",
+      "Stimme eher nicht zu",
+      "Stimme gar nicht zu"
+    ],
+    [
+      "Keine freie Arztwahl mehr*",
+      "35",
+      "56",
+      "2",
+      "3",
+      "4"
+    ],
+    [
+      "Längere Wartezeiten**",
+      "32",
+      "59",
+      "3",
+      "5",
+      "1"
+    ],
+    [
+      "Schlechtere Qualität im Gesundheitswesen",
+      "26",
+      "60",
+      "6",
+      "5",
+      "3"
+    ],
+    [
+      "Nicht alle Patienten erhalten notwendige Medikamente",
+      "21",
+      "53",
+      "12",
+      "10",
+      "4"
+    ],
+    [
+      "Niedrigere Prämien",
+      "10",
+      "21",
+      "15",
+      "39",
+      "15"
+    ]
+  ],
+  "sources": [
+    {
+      "link": {},
+      "text": "gfs.bern, Gesundheitsmonitor 2018"
+    }
+  ],
+  "options": {
+    "chartType": "StackedBar",
+    "hideAxisLabel": false,
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "year",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "dotplotOptions": {},
+    "highlightDataSeries": [],
+    "colorOverwritesSeries": [
+      {
+        "color": "#b23c39",
+        "position": 5
+      },
+      {
+        "color": "#d89d9c",
+        "position": 4
+      },
+      {
+        "color": "#ededed",
+        "position": 3
+      },
+      {
+        "color": "#aeb0c8",
+        "position": 2
+      },
+      {
+        "color": "#5e6192",
+        "position": 1
+      }
+    ]
+  },
+  "tool": "chart",
+  "title": "Das Globalbudget hat einen schweren Stand",
+  "subtitle": "In Prozent der Stimmberechtigten. ",
+  "notes": "* Da die Patienten im vierten Quartal zu demjenigen Arzt gehen müssten, der sein Budget noch nicht ausgeschöpft hat. ** Da im vierten Quartal nicht mehr alle Behandlungen angeboten würden. Für die Umfrage wurden zirka 1200 Stimmberechtigte befragt. Die Resultate sind mit einer Fehlermarge von +/- 2,3 bis 2,9 Prozentpunkten behaftet.",
+  "createdDate": "2018-06-19T05:58:41.823Z",
+  "createdBy": "christian.kleeb@nzz.ch",
+  "updatedDate": "2018-06-20T09:01:57.993Z",
+  "updatedBy": "marie-jose.kolly@nzz.ch",
+  "active": true,
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/022a672b3f9fa2b1be4ea3c48a553889-thumbnail.jpeg"
+}

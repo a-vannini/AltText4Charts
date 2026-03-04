@@ -1,0 +1,158 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Alexey Malgavko / Reuters",
+      "firstTitle": "Raus aus Russland oder trotz allem bleiben? Die Kriegswirtschaft des Kremls stellt Pharmafirmen vor schwierige Entscheide",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "qXjW4GDVdox2U_x_yvy7K",
+        "locale": "de-CH"
+      },
+      "title": "Raus aus Russland oder trotz allem bleiben? Die Kriegswirtschaft des Kremls stellt Pharmafirmen vor schwierige Entscheide",
+      "seoTitle": "Russland: Roche, Novartis und Sandoz harren trotz allem aus",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Dominik Feldges (df)",
+          "id": 1372255,
+          "shortName": "df",
+          "proLitterisId": "766329"
+        }
+      ],
+      "nzzPrintTitle": "Pharmakonzerne geraten in Russland unter Rechtfertigungsdruck",
+      "designName": "morpheus",
+      "seoSocialMediaTitle": "Schweizer Arzneien für russische Soldaten? Der Krieg bringt Pharmafirmen in Erklärungsnot",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-06-13T15:30:00.000Z",
+      "department": {
+        "path": "/wirtschaft",
+        "premium": false,
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2024-06-13T03:30:00.000Z",
+      "slug": "russland-roche-novartis-und-sandoz-harren-trotz-allem-aus",
+      "firstPublicationDate": "2024-06-13T03:30:00.000Z",
+      "nzzCharacterCount": 8890,
+      "owner": "NZZ",
+      "authorLine": "Dominik Feldges",
+      "numberOfContentComponents": 35,
+      "germanyRelevant": true,
+      "leadText": "Roche und Novartis harren in Russland aus. Sie begründen dies mit ihrer Verantwortung gegenüber schwerkranken Patienten. Doch das Risiko, dass sie damit auch die russische Kriegsmaschinerie am Laufen halten, ist gross.",
+      "publicationLastUpdated": "2024-06-13T03:30:00.000Z",
+      "nzzArticleSnippet": "Roche und Novartis harren in Russland aus. Sie begründen dies mit ihrer Verantwortung gegenüber schwerkranken Patienten. Doch das Risiko, dass sie damit auch die russische Kriegsmaschinerie am Laufen halten, ist gross.",
+      "urlPath": "/wirtschaft/russland-roche-novartis-und-sandoz-harren-trotz-allem-aus-ld.1834561",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 5686,
+        "originalUrl": "https://img.nzz.ch/2024/06/12/ada7178e-12e3-43a8-84d6-3b8e9bbf0182.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 5686,
+            "name": "16:9",
+            "y": 73,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/12/ada7178e-12e3-43a8-84d6-3b8e9bbf0182.jpeg?crop=5686,3198,x0,y73&quality=75&auto=webp",
+            "height": 3198,
+            "ratio": 1.77778
+          },
+          {
+            "x": 1022,
+            "width": 3577,
+            "name": "1:1",
+            "y": 110,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/12/ada7178e-12e3-43a8-84d6-3b8e9bbf0182.jpeg?crop=3577,3577,x1022,y110&quality=75&auto=webp",
+            "height": 3577,
+            "ratio": 1
+          },
+          {
+            "x": 886,
+            "width": 4769,
+            "name": "4:3",
+            "y": 102,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/12/ada7178e-12e3-43a8-84d6-3b8e9bbf0182.jpeg?crop=4769,3577,x886,y102&quality=75&auto=webp",
+            "height": 3577,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1334,
+            "width": 3018,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/06/12/ada7178e-12e3-43a8-84d6-3b8e9bbf0182.jpeg?crop=3018,4024,x1334,y0&quality=75&auto=webp",
+            "height": 4024,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "BSYEnWRcehow",
+        "url": "https://img.nzz.ch/2024/06/12/ada7178e-12e3-43a8-84d6-3b8e9bbf0182.jpeg?quality=75&auto=webp",
+        "key": "2024/06/12/ada7178e-12e3-43a8-84d6-3b8e9bbf0182.jpeg",
+        "height": 4024
+      },
+      "nzzId": "ld.1834561",
+      "url": "https://www.nzz.ch/wirtschaft/russland-roche-novartis-und-sandoz-harren-trotz-allem-aus-ld.1834561",
+      "dependencies": {},
+      "commentCount": 1,
+      "layout": "regular",
+      "estimationWordCount": 1241,
+      "nzzPrintSubtitle": "Firmen mit Umsätzen im russischen Markt finanzieren die Kriegsmaschinerie des Kremls mit",
+      "embeds": {
+        "images": [
+          {
+            "author": "Alexey Malgavko / Reuters",
+            "caption": "Das russische Gesundheitssystem befindet sich generell in einem desolaten Zustand.",
+            "origins": [
+              {
+                "identifier": "2156794840",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2024/06/12/ada7178e-12e3-43a8-84d6-3b8e9bbf0182.jpeg?quality=75&auto=webp"
+          },
+          {
+            "author": "Imago",
+            "caption": "Wladimir Putin besucht die Wischnewski-Klinik in Moskau (Aufnahme vom Neujahrstag 2024). Roche beliefert keine russischen Militärspitäler mehr.",
+            "origins": [
+              {
+                "identifier": "2151145509",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2024/06/12/f5890272-3a70-4782-a733-52a0320da888.jpeg?quality=75&auto=webp"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "08e996c76bf1a7d4bec453e674cb145c"
+          },
+          {
+            "id": "08e996c76bf1a7d4bec453e674cb9498"
+          },
+          {
+            "id": "174f1ad3796e95d0b64fd128e4a85c54"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "teaserCaption": "Das russische Gesundheitssystem befindet sich generell in einem desolaten Zustand.",
+      "documentId": "1834561",
+      "product": "NZZ.ch"
+    }
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Europäische Börsenplätze werden wohl ab dem 1. Juli nicht mehr mit Schweizer Aktien handeln",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Christoph G. Schmutz (sco)",
+          "id": 1373658
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2019-06-28T04:28:00.327Z",
+      "department": {
+        "path": "/finanzen",
+        "level": 1,
+        "name": "Finanzen"
+      },
+      "publicationDate": "2019-06-28T04:00:00.000Z",
+      "slug": "europaeische-boersenplaetze-werden-wohl-ab-dem-1-juli-nicht-mehr-mit-schweizer-aktien-handeln",
+      "firstPublicationDate": "2019-06-27T16:28:00.327Z",
+      "nzzCharacterCount": 5550,
+      "authorLine": "Christoph G. Schmutz, Brüssel",
+      "numberOfContentComponents": 18,
+      "leadText": "Ab Montag wird die Schweizer Börse voraussichtlich offiziell nicht mehr «europatauglich» sein. Der Bundesrat hat deshalb einen «Schutzmechanismus» aktiviert, damit sie künftig von europäischen Investoren nicht umgangen wird. Ab dem 1. Juli gilt ein Handelsverbot für Schweizer Wertpapiere an europäischen Handelsplätzen – und die meisten von ihnen dürften sich daran halten.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2019-06-28T06:58:00.666Z",
+      "nzzArticleSnippet": "Ab Montag wird die Schweizer Börse voraussichtlich offiziell nicht mehr «europatauglich» sein. Der Bundesrat hat deshalb einen «Schutzmechanismus» aktiviert, damit sie künftig von europäischen Investoren nicht umgangen wird. Ab dem 1. Juli gilt ein Handelsverbot für Schweizer Wertpapiere an europäischen Handelsplätzen – und die meisten von ihnen dürften sich daran halten.",
+      "urlPath": "/finanzen/europaeische-boersenplaetze-werden-wohl-ab-dem-1-juli-nicht-mehr-mit-schweizer-aktien-handeln-ld.1491638",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 4000,
+        "originalUrl": "https://nzz-img.s3.amazonaws.com/2019/6/27/74910d26-5f1f-4df1-83ba-0b45621e18ad.jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 444,
+            "width": 3556,
+            "y": 549,
+            "url": "https://img.nzz.ch/C=W3556,H2000,X444,Y549/O=75/https://nzz-img.s3.amazonaws.com/2019/6/27/74910d26-5f1f-4df1-83ba-0b45621e18ad.jpeg",
+            "height": 2000
+          },
+          {
+            "name": "1:1",
+            "x": 1861,
+            "width": 821,
+            "y": 990,
+            "url": "https://img.nzz.ch/C=W821,H821,X1861,Y990/O=75/https://nzz-img.s3.amazonaws.com/2019/6/27/74910d26-5f1f-4df1-83ba-0b45621e18ad.jpeg",
+            "height": 821
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2019/6/27/74910d26-5f1f-4df1-83ba-0b45621e18ad.jpeg",
+        "height": 2667
+      },
+      "nzzId": "ld.1491638",
+      "url": "https://www.nzz.ch/finanzen/europaeische-boersenplaetze-werden-wohl-ab-dem-1-juli-nicht-mehr-mit-schweizer-aktien-handeln-ld.1491638",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1decpu9br0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "embeds": {
+        "images": [
+          {
+            "caption": "Der Bundesrat macht mit seinem Schutzplan die Schweizer Börse SIX Swiss Exchange wohl ab Juli praktisch zum Monopolisten im Handel mit Schweizer Aktien. (Bild: Jasper Juinen&nbsp;/ Bloomberg)",
+            "origins": [
+              {
+                "identifier": "picture-1934873350",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/C=W2220,H1480,X1185,Y795/O=75/https://nzz-img.s3.amazonaws.com/2019/6/27/74910d26-5f1f-4df1-83ba-0b45621e18ad.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "01c8403779c54eaa3618b44952db3db8"
+          },
+          {
+            "id": "01c8403779c54eaa3618b44952db7634"
+          },
+          {
+            "id": "bd949b16dfe66c586441f06ab8fd0b15"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Der Bundesrat macht mit seinem Schutzplan die Schweizer Börse SIX Swiss Exchange wohl ab Juli praktisch zum Monopolisten im Handel mit Schweizer Aktien. (Bild: Jasper Juinen / Bloomberg)",
+      "breadcrumbs": [
+        {
+          "path": "/finanzen",
+          "name": "Finanzen"
+        }
+      ],
+      "documentId": "1491638",
+      "product": "NZZ.ch"
+    }
+  }
+]

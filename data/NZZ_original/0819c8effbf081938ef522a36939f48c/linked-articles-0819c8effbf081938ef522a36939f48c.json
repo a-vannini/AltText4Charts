@@ -1,0 +1,293 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Costfoto / Nurphoto / Getty",
+      "firstTitle": "EU-Kommission droht hohe Strafzölle auf E-Autos aus China an",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "YcAFgfj89PxaCTJQ4n2e-",
+        "locale": "de-CH"
+      },
+      "title": "EU-Kommission droht mit Strafzöllen auf chinesische E-Autos – und sie gelten auch für Europäer",
+      "seoTitle": "EU-Kommission droht mit Strafzöllen auf E-Autos aus China",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Daniel Imwinkelried (imr)",
+          "id": 1372746,
+          "shortName": "imr"
+        }
+      ],
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-06-12T22:18:26.427Z",
+      "department": {
+        "path": "/wirtschaft",
+        "premium": false,
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2024-06-12T10:18:26.427Z",
+      "slug": "eu-kommission-droht-mit-strafzoellen-auf-chinesische-e-autos-sie-unterscheiden-sich-aber-je-nach-hersteller",
+      "firstPublicationDate": "2024-06-12T10:18:26.427Z",
+      "nzzCharacterCount": 4821,
+      "owner": "NZZ",
+      "authorLine": "Daniel Imwinkelried, Brüssel",
+      "numberOfContentComponents": 21,
+      "germanyRelevant": true,
+      "leadText": "Die Europäische Union folgt dem Beispiel der USA. Nun könnte China reagieren. Das wäre vor allem für deutsche Autoproduzenten ein Problem. Es besteht das Risiko eines Handelskriegs.",
+      "publicationLastUpdated": "2024-06-12T15:16:25.099Z",
+      "nzzArticleSnippet": "Die Europäische Union folgt dem Beispiel der USA. Nun könnte China reagieren. Das wäre vor allem für deutsche Autoproduzenten ein Problem. Es besteht das Risiko eines Handelskriegs.",
+      "urlPath": "/wirtschaft/eu-kommission-droht-mit-strafzoellen-auf-chinesische-e-autos-sie-unterscheiden-sich-aber-je-nach-hersteller-ld.1834757",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 4000,
+        "originalUrl": "https://img.nzz.ch/2024/06/12/79b2fede-e499-4ccb-90aa-fed0a446a45b.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 4000,
+            "name": "16:9",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/12/79b2fede-e499-4ccb-90aa-fed0a446a45b.jpeg?crop=4000,2250,x0,y0&quality=75&auto=webp",
+            "height": 2250,
+            "ratio": 1.77778
+          },
+          {
+            "x": 0,
+            "width": 2483,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/12/79b2fede-e499-4ccb-90aa-fed0a446a45b.jpeg?crop=2483,2483,x0,y0&quality=75&auto=webp",
+            "height": 2483,
+            "ratio": 1
+          },
+          {
+            "x": 689,
+            "width": 3311,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/12/79b2fede-e499-4ccb-90aa-fed0a446a45b.jpeg?crop=3311,2483,x689,y0&quality=75&auto=webp",
+            "height": 2483,
+            "ratio": 1.33333
+          },
+          {
+            "x": 771,
+            "width": 1862,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/12/79b2fede-e499-4ccb-90aa-fed0a446a45b.jpeg?crop=1862,2483,x771,y0&quality=75&auto=webp",
+            "height": 2483,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "RR78fBquqsvR",
+        "url": "https://img.nzz.ch/2024/06/12/79b2fede-e499-4ccb-90aa-fed0a446a45b.jpeg?quality=75&auto=webp",
+        "key": "2024/06/12/79b2fede-e499-4ccb-90aa-fed0a446a45b.jpeg",
+        "height": 2483
+      },
+      "nzzId": "ld.1834757",
+      "url": "https://www.nzz.ch/wirtschaft/eu-kommission-droht-mit-strafzoellen-auf-chinesische-e-autos-sie-unterscheiden-sich-aber-je-nach-hersteller-ld.1834757",
+      "dependencies": {},
+      "layout": "regular",
+      "estimationWordCount": 730,
+      "embeds": {
+        "images": [
+          {
+            "author": "Costfoto&nbsp;/&nbsp;Nurphoto / Getty",
+            "caption": "Für den Export bestimmte E-Autos im Hafen der chinesischen Stadt Yantai.",
+            "origins": [
+              {
+                "identifier": "2156793501",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2024/06/12/79b2fede-e499-4ccb-90aa-fed0a446a45b.jpeg?quality=75&auto=webp"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0819c8effbf081938ef522a36939f48c"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "teaserCaption": "Für den Export bestimmte E-Autos im Hafen der chinesischen Stadt Yantai.",
+      "documentId": "1834757",
+      "product": "NZZ.ch"
+    }
+  },
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Hu Xiaofei / VCG / Getty",
+      "firstTitle": "Auf Kollisionskurs: China forciert Industrieausfuhren, Europa fürchtet um seine wirtschaftliche Sicherheit",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "5s-n3Ig7B4YzPIQF713wF",
+        "locale": "de-CH"
+      },
+      "title": "Auf Kollisionskurs: China forciert Industrieausfuhren, Europa fürchtet um seine wirtschaftliche Sicherheit",
+      "seoTitle": "Handelsstreit EU-China: Subventionen und Strafzölle",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Matthias Kamp (mka)",
+          "id": 1373189,
+          "shortName": "mka",
+          "proLitterisId": "884437"
+        },
+        {
+          "external": false,
+          "name": "Daniel Imwinkelried (imr)",
+          "id": 1372746,
+          "shortName": "imr"
+        }
+      ],
+      "nzzPrintTitle": "Die EU und China stehen vor einem Handelskrieg",
+      "designName": "morpheus",
+      "premium": true,
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-05-03T15:30:00.000Z",
+      "department": {
+        "path": "/wirtschaft",
+        "premium": false,
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2024-05-03T03:30:00.000Z",
+      "slug": "handelsstreit-eu-china-subventionen-und-strafzoelle",
+      "firstPublicationDate": "2024-05-03T03:30:00.000Z",
+      "nzzCharacterCount": 8894,
+      "owner": "NZZ",
+      "authorLine": "Matthias Kamp, Peking, Daniel Imwinkelried, Brüssel",
+      "numberOfContentComponents": 37,
+      "germanyRelevant": true,
+      "leadText": "Zwischen den beiden Mächten verschärft sich der Handelsstreit. Laut der EU überschwemmt China Europa mit stark subventionierten Industriegütern. Die EU überlegt sich Strafzölle. Es droht eine Sanktionsspirale.",
+      "publicationLastUpdated": "2024-05-03T10:28:48.686Z",
+      "nzzArticleSnippet": "Zwischen den beiden Mächten verschärft sich der Handelsstreit. Laut der EU überschwemmt China Europa mit stark subventionierten Industriegütern. Die EU überlegt sich Strafzölle. Es droht eine Sanktionsspirale.",
+      "urlPath": "/wirtschaft/handelsstreit-eu-china-subventionen-und-strafzoelle-ld.1828593",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 5860,
+        "originalUrl": "https://img.nzz.ch/2024/05/02/a2144f56-30ae-4a36-8b76-7214b0da13bf.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 5860,
+            "name": "16:9",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/02/a2144f56-30ae-4a36-8b76-7214b0da13bf.jpeg?crop=5860,3296,x0,y0&width=1024&quality=75&auto=webp",
+            "height": 3296,
+            "ratio": 1.77778
+          },
+          {
+            "x": 1401,
+            "width": 1201,
+            "name": "1:1",
+            "y": 986,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/02/a2144f56-30ae-4a36-8b76-7214b0da13bf.jpeg?crop=1201,1201,x1401,y986&width=1024&quality=75&auto=webp",
+            "height": 1201,
+            "ratio": 1
+          },
+          {
+            "x": 600,
+            "width": 5199,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/05/02/a2144f56-30ae-4a36-8b76-7214b0da13bf.jpeg?crop=5199,3899,x600,y0&width=1024&quality=75&auto=webp",
+            "height": 3899,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1468,
+            "width": 2924,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/05/02/a2144f56-30ae-4a36-8b76-7214b0da13bf.jpeg?crop=2924,3899,x1468,y0&width=1024&quality=75&auto=webp",
+            "height": 3899,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "hYil5bw55lUy",
+        "url": "https://img.nzz.ch/2024/05/02/a2144f56-30ae-4a36-8b76-7214b0da13bf.jpeg?width=1024&quality=75&auto=webp",
+        "key": "2024/05/02/a2144f56-30ae-4a36-8b76-7214b0da13bf.jpeg",
+        "height": 3899
+      },
+      "nzzId": "ld.1828593",
+      "url": "https://www.nzz.ch/wirtschaft/handelsstreit-eu-china-subventionen-und-strafzoelle-ld.1828593",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hsnhdahe0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "estimationWordCount": 1289,
+      "nzzPrintSubtitle": "Der Staatenbund verschäft die Gangart gegen subventionierte Industriegüter aus China",
+      "embeds": {
+        "images": [
+          {
+            "author": "Hu Xiaofei /&nbsp;VCG / Getty",
+            "caption": "Bei Solarmodulen ist Europa gegenüber China ins Hintertreffen geraten, bei anderen Produkten soll das nicht passieren.",
+            "origins": [
+              {
+                "identifier": "2155345948",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/05/02/a2144f56-30ae-4a36-8b76-7214b0da13bf.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0819c8effbf081938ef522a36939f48c"
+          },
+          {
+            "id": "0819c8effbf081938ef522a3697ae813"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "teaserCaption": "Bei Solarmodulen ist Europa gegenüber China ins Hintertreffen geraten, bei anderen Produkten soll das nicht passieren.",
+      "documentId": "1828593",
+      "product": "NZZ.ch"
+    }
+  }
+]

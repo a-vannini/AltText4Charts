@@ -1,0 +1,108 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Schwellenländer im Bann des Handelskriegs",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Anne-Barbara Luft (abl)",
+          "id": 1371768
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2019-06-26T06:41:25.417Z",
+      "department": {
+        "path": "/finanzen",
+        "level": 1,
+        "name": "Finanzen"
+      },
+      "publicationDate": "2019-06-26T03:00:00.000Z",
+      "slug": "schwellenlaender-im-bann-des-handelskriegs",
+      "firstPublicationDate": "2019-06-25T18:41:25.417Z",
+      "nzzCharacterCount": 4391,
+      "authorLine": "Anne-Barbara Luft",
+      "numberOfContentComponents": 12,
+      "leadText": "In wenigen Tagen werden sich Donald Trump und Xi Jinping beim G-20-Gipfel in Osaka treffen. Um ein Thema werden die Staatsoberhäupter der USA und China nicht herumkommen: den schwelenden Handelskonflikt. Emerging-Markets-Bonds könnten die Leidtragenden des Disputs sein.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2019-06-27T08:59:40.606Z",
+      "nzzArticleSnippet": "In wenigen Tagen werden sich Donald Trump und Xi Jinping beim G-20-Gipfel in Osaka treffen. Um ein Thema werden die Staatsoberhäupter der USA und China nicht herumkommen: den schwelenden Handelskonflikt. Emerging-Markets-Bonds könnten die Leidtragenden des Disputs sein.",
+      "copySourceId": 1491469,
+      "urlPath": "/finanzen/schwellenlaender-im-bann-des-handelskriegs-ld.1491578",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 4000,
+        "originalUrl": "https://nzz-img.s3.amazonaws.com/2019/6/25/62062783-419b-4cd2-8162-0c131c7d4b52.jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 0,
+            "width": 4000,
+            "y": 209,
+            "url": "https://img.nzz.ch/C=W4000,H2250,X0,Y209/O=75/https://nzz-img.s3.amazonaws.com/2019/6/25/62062783-419b-4cd2-8162-0c131c7d4b52.jpeg",
+            "ratio": 1.77778,
+            "height": 2250
+          },
+          {
+            "name": "1:1",
+            "x": 624,
+            "width": 1039,
+            "y": 874,
+            "url": "https://img.nzz.ch/C=W1039,H1039,X624,Y874/O=75/https://nzz-img.s3.amazonaws.com/2019/6/25/62062783-419b-4cd2-8162-0c131c7d4b52.jpeg",
+            "height": 1039
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2019/6/25/62062783-419b-4cd2-8162-0c131c7d4b52.jpeg",
+        "height": 2667
+      },
+      "nzzId": "ld.1491578",
+      "url": "https://www.nzz.ch/finanzen/schwellenlaender-im-bann-des-handelskriegs-ld.1491578",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1de7ururp0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "embeds": {
+        "images": [
+          {
+            "caption": "Container beim Hafen von Mumbai: Auch Indien ist von Trumps Zollpolitik betroffen. (Bild: Dhiraj Singh / Bloomberg)",
+            "origins": [
+              {
+                "identifier": "picture-2035021651",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2019/6/25/62062783-419b-4cd2-8162-0c131c7d4b52.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "01c8403779c54eaa3618b44952ba9a56"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Container beim Hafen von Mumbai: Auch Indien ist von Trumps Zollpolitik betroffen. (Bild: Dhiraj Singh / Bloomberg)",
+      "breadcrumbs": [
+        {
+          "path": "/finanzen",
+          "name": "Finanzen"
+        }
+      ],
+      "documentId": "1491578",
+      "product": "NZZ.ch"
+    }
+  }
+]

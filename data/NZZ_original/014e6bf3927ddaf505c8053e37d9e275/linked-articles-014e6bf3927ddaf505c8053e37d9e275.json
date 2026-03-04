@@ -1,0 +1,119 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "AP",
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Facebook-Konzern Meta verliert über Nacht 220 Milliarden Dollar an Börsenwert",
+      "seoTitle": "Facebook-Konzern Meta verliert einen Fünftel der Börsenbewertung",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "da Silva Gioia (gds)",
+          "id": 1572105
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2022-02-03T15:00:24.330Z",
+      "department": {
+        "path": "/technologie",
+        "level": 1,
+        "name": "Technologie"
+      },
+      "publicationDate": "2022-02-03T15:00:52.336Z",
+      "slug": "wegen-hohen-investitionen-ins-metaversum-facebook-konzern-meta-verliert-nach-new-yorker-boersenschluss-ueber-einen-fuenftel-seiner-bewertung",
+      "firstPublicationDate": "2022-02-03T03:00:24.330Z",
+      "nzzCharacterCount": 5499,
+      "authorLine": "Gioia da Silva, San Francisco",
+      "numberOfContentComponents": 21,
+      "germanyRelevant": true,
+      "leadText": "Der Social-Media-Konzern Meta verliert zum ersten Mal in der Firmengeschichte Nutzerinnen und Nutzer. Und der CEO Mark Zuckerberg ordnet dem Metaversum alles andere unter. Das hat seinen Preis.",
+      "publicationLastUpdated": "2022-02-04T02:46:30.176Z",
+      "nzzArticleSnippet": "Der Social-Media-Konzern Meta verliert zum ersten Mal in der Firmengeschichte Nutzerinnen und Nutzer. Und der CEO Mark Zuckerberg ordnet dem Metaversum alles andere unter. Das hat seinen Preis.",
+      "urlPath": "/technologie/wegen-hohen-investitionen-ins-metaversum-facebook-konzern-meta-verliert-nach-new-yorker-boersenschluss-ueber-einen-fuenftel-seiner-bewertung-ld.1667888",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 3900,
+        "originalUrl": "https://img.nzz.ch/2022/02/03/af010c57-0a59-4372-879e-2f5e67d82192.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 3900,
+            "name": "16:9",
+            "y": 59,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2022/02/03/af010c57-0a59-4372-879e-2f5e67d82192.jpeg?crop=3900,2194,x0,y59&quality=75&auto=webp",
+            "height": 2194,
+            "ratio": 1.77778
+          },
+          {
+            "x": 1972,
+            "width": 633,
+            "name": "1:1",
+            "y": 1476,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2022/02/03/af010c57-0a59-4372-879e-2f5e67d82192.jpeg?crop=633,633,x1972,y1476&quality=75&auto=webp",
+            "height": 633,
+            "ratio": 1
+          }
+        ],
+        "mediaId": "oo2bialOSLg9",
+        "url": "https://img.nzz.ch/2022/02/03/af010c57-0a59-4372-879e-2f5e67d82192.jpeg?quality=75&auto=webp",
+        "key": "2022/02/03/af010c57-0a59-4372-879e-2f5e67d82192.jpeg",
+        "height": 2312
+      },
+      "nzzId": "ld.1667888",
+      "url": "https://www.nzz.ch/technologie/wegen-hohen-investitionen-ins-metaversum-facebook-konzern-meta-verliert-nach-new-yorker-boersenschluss-ueber-einen-fuenftel-seiner-bewertung-ld.1667888",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1fqukn86u0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "embeds": {
+        "images": [
+          {
+            "author": "AP",
+            "caption": "Avatare von Menschen treffen sich bei der VR Church zu einem virtuellen Gottesdienst (23. Januar 2022).",
+            "origins": [
+              {
+                "identifier": "2128186368",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2022/02/03/af010c57-0a59-4372-879e-2f5e67d82192.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "8a9ed646e4d16f7466de85c6d70bfeda"
+          },
+          {
+            "id": "014e6bf3927ddaf505c8053e37d9e275"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Avatare von Menschen treffen sich bei der VR Church zu einem virtuellen Gottesdienst (23. Januar 2022).",
+      "breadcrumbs": [
+        {
+          "path": "/technologie",
+          "name": "Technologie"
+        }
+      ],
+      "documentId": "1667888",
+      "product": "NZZ.ch"
+    }
+  }
+]

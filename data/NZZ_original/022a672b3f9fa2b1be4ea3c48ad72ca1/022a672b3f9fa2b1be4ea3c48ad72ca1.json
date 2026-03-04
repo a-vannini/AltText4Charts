@@ -1,0 +1,125 @@
+{
+  "_id": "022a672b3f9fa2b1be4ea3c48ad72ca1",
+  "_rev": "10-e5320719ff215aa088e6d22c8c58c725",
+  "data": [
+    [
+      "Jahr",
+      "Regierungschef",
+      "Staatspräsident"
+    ],
+    [
+      "2004",
+      "15161.62",
+      null
+    ],
+    [
+      "2005",
+      "16309.68",
+      null
+    ],
+    [
+      "2006",
+      "17250.77",
+      null
+    ],
+    [
+      "2007",
+      "17901.48",
+      null
+    ],
+    [
+      "2008",
+      "17836.81",
+      null
+    ],
+    [
+      "2009",
+      "16783.44",
+      null
+    ],
+    [
+      "2010",
+      "17959.26",
+      null
+    ],
+    [
+      "2011",
+      "19660.89",
+      null
+    ],
+    [
+      "2012",
+      "20282.03",
+      null
+    ],
+    [
+      "2013",
+      "21650.76",
+      null
+    ],
+    [
+      "2014",
+      "22401.88",
+      "22401.88"
+    ],
+    [
+      "2015",
+      null,
+      "23382.25"
+    ],
+    [
+      "2016",
+      null,
+      "23679.4"
+    ],
+    [
+      "2017",
+      null,
+      null
+    ],
+    [
+      "2018",
+      null,
+      null
+    ]
+  ],
+  "sources": [
+    {
+      "link": {},
+      "text": "Bloomberg"
+    }
+  ],
+  "options": {
+    "chartType": "Line",
+    "hideAxisLabel": false,
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "year",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "dotplotOptions": {},
+    "highlightDataSeries": [],
+    "colorOverwritesSeries": []
+  },
+  "tool": "chart",
+  "department": "Wirtschaft",
+  "publication": "nzz",
+  "acronym": "cke.",
+  "active": true,
+  "title": "BIP pro Kopf (kaufkraftbereinigt)",
+  "subtitle": " In $",
+  "createdDate": "2018-06-20T12:42:28.690Z",
+  "createdBy": "christian.kleeb@nzz.ch",
+  "updatedDate": "2018-06-20T12:44:28.643Z",
+  "updatedBy": "christian.kleeb@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/022a672b3f9fa2b1be4ea3c48ad72ca1-thumbnail.jpeg"
+}

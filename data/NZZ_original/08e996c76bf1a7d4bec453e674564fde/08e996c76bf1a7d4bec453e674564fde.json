@@ -1,0 +1,132 @@
+{
+  "_id": "08e996c76bf1a7d4bec453e674564fde",
+  "_rev": "46-91d88583381342399cb43a247afc0e40",
+  "department": "Visuals",
+  "publication": "nzz",
+  "acronym": "jum.",
+  "data": [
+    [
+      "Jahr",
+      "Deutschland",
+      "EU-Schnitt"
+    ],
+    [
+      "1979",
+      "65.7",
+      "62"
+    ],
+    [
+      "1985",
+      "56.8",
+      "59"
+    ],
+    [
+      "1989",
+      "62.3",
+      "58.4"
+    ],
+    [
+      "1994",
+      "60",
+      "56.7"
+    ],
+    [
+      "1999",
+      "45.2",
+      "49.5"
+    ],
+    [
+      "2004",
+      "43",
+      "45.5"
+    ],
+    [
+      "2009",
+      "43.3",
+      "43"
+    ],
+    [
+      "2014",
+      "48.1",
+      "42.6"
+    ],
+    [
+      "2019",
+      "61.4",
+      "50.7"
+    ],
+    [
+      "2024",
+      "64.8",
+      null
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {
+        "url": "https://results.elections.europa.eu/de/nationale-ergebnisse/deutschland/2024-2029/",
+        "isValid": true
+      },
+      "text": "Europäisches Parlament"
+    }
+  ],
+  "options": {
+    "chartType": "Line",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {
+      "valuesOnBars": true
+    },
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false,
+      "maxValue": 65
+    },
+    "dateSeriesOptions": {
+      "interval": "year",
+      "labels": "many",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [
+      {
+        "color": "#ac004f",
+        "position": 1
+      },
+      {
+        "color": "#374e8e",
+        "position": 2
+      }
+    ],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "title": "Wahlbeteiligung in Deutschland steigt zum dritten Mal in Folge",
+  "subtitle": "Wahlbeteiligung bei Europawahlen in Deutschland seit 1979",
+  "notes": "Für die gesamte EU liegt die Wahlbeteiligung für 2024 noch nicht vor.",
+  "createdDate": "2024-06-09T17:36:22.765Z",
+  "createdBy": "julia.monn@nzz.ch",
+  "updatedDate": "2024-06-10T12:53:31.461Z",
+  "updatedBy": "eike.hoppmann@nzz.ch",
+  "active": true
+}

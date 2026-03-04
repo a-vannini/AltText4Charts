@@ -1,0 +1,148 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "Karin Hofer / NZZ",
+      "contentTypeGroup": "web",
+      "firstTitle": "Kormoran, Krähe, Taube: Das Zürcher Parlament will die Vogeljagd auf die drei Arten beschränken, die Probleme bereiten",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "bgZPSUbGI5d8Z1Oni2frq",
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Kormoran, Krähe, Taube: Das Zürcher Parlament will die Vogeljagd auf die drei Arten beschränken, die Probleme bereiten",
+      "seoTitle": "Zürich: Kantonsrat will Vogeljagd auf 3 Arten beschränken",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Stefan Hotz (sho)",
+          "id": 1373688,
+          "shortName": "sho"
+        }
+      ],
+      "nzzPrintTitle": "Jagd nur noch auf Problemvögel",
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-01-09T03:59:00.000Z",
+      "department": {
+        "path": "/zuerich",
+        "premium": false,
+        "level": 1,
+        "name": "Zürich"
+      },
+      "publicationDate": "2024-01-08T15:59:00.000Z",
+      "slug": "kormoran-kraehe-taube-das-parlament-will-die-vogeljagd-auf-drei-arten-eingrenzen",
+      "printPublicationDate": "09.01.2024",
+      "firstPublicationDate": "2024-01-08T15:59:00.000Z",
+      "nzzCharacterCount": 6723,
+      "owner": "NZZ",
+      "authorLine": "Stefan Hotz",
+      "numberOfContentComponents": 21,
+      "germanyRelevant": true,
+      "leadText": "Bis anhin dürfen auch Vögel geschossen werden, die keine Schäden anrichten. Das soll sich nun ändern.",
+      "publicationLastUpdated": "2024-01-08T17:13:54.309Z",
+      "nzzArticleSnippet": "Bis anhin dürfen auch Vögel geschossen werden, die keine Schäden anrichten. Das soll sich nun ändern.",
+      "urlPath": "/zuerich/kormoran-kraehe-taube-das-parlament-will-die-vogeljagd-auf-drei-arten-eingrenzen-ld.1773315",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 3975,
+        "originalUrl": "https://img.nzz.ch/2023/10/18/e0f767e6-6d9b-4409-9b06-bac2bf7123a0.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 3975,
+            "name": "16:9",
+            "y": 414,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W3975,H2236,X0,Y414/O=75/https://img.nzz.ch/2023/10/18/e0f767e6-6d9b-4409-9b06-bac2bf7123a0.jpeg",
+            "height": 2236,
+            "ratio": 1.77778
+          },
+          {
+            "x": 590,
+            "width": 2650,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W2650,H2650,X590,Y0/O=75/https://img.nzz.ch/2023/10/18/e0f767e6-6d9b-4409-9b06-bac2bf7123a0.jpeg",
+            "height": 2650,
+            "ratio": 1
+          },
+          {
+            "x": 73,
+            "width": 3533,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W3533,H2650,X73,Y0/O=75/https://img.nzz.ch/2023/10/18/e0f767e6-6d9b-4409-9b06-bac2bf7123a0.jpeg",
+            "height": 2650,
+            "ratio": 1.33333
+          },
+          {
+            "x": 549,
+            "width": 1988,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W1988,H2650,X549,Y0/O=75/https://img.nzz.ch/2023/10/18/e0f767e6-6d9b-4409-9b06-bac2bf7123a0.jpeg",
+            "height": 2650,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "Dq7V6PUHV5Mc",
+        "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2023/10/18/e0f767e6-6d9b-4409-9b06-bac2bf7123a0.jpeg",
+        "height": 2650
+      },
+      "nzzId": "ld.1773315",
+      "url": "https://www.nzz.ch/zuerich/kormoran-kraehe-taube-das-parlament-will-die-vogeljagd-auf-drei-arten-eingrenzen-ld.1773315",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hjkl0bqq0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "estimationWordCount": 983,
+      "embeds": {
+        "images": [
+          {
+            "author": "Karin Hofer / NZZ",
+            "caption": "Verwilderte Haustauben dürfen weiterhin geschossen werden.",
+            "origins": [
+              {
+                "identifier": "2148944836",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2023/10/18/e0f767e6-6d9b-4409-9b06-bac2bf7123a0.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0313da61de86779a1c0b46f571670e55"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/zuerich",
+          "name": "Zürich"
+        }
+      ],
+      "teaserCaption": "Verwilderte Haustauben dürfen weiterhin geschossen werden.",
+      "documentId": "1773315",
+      "product": "NZZ.ch"
+    }
+  }
+]

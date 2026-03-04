@@ -1,0 +1,153 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Elizabeth Frantz / Reuters",
+      "firstTitle": "Die Aktienmärkte am Scheideweg: Wie lange zücken die amerikanischen Konsumenten noch ihre Kreditkarte? Bewahrheiten sich die KI-Fantasien?",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "08pPOoCZcr_CU7rEeiwpT",
+        "locale": "de-CH"
+      },
+      "title": "Die Aktienmärkte am Scheideweg: Wie lange zücken die amerikanischen Konsumenten noch ihre Kreditkarte? Bewahrheiten sich die KI-Phantasien?",
+      "seoTitle": "US-Aktien: KI-Phantasien von Meta und Alphabet statt Fed-Zinssenkung",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "André Müller (amü)",
+          "id": 1371858,
+          "shortName": "amü",
+          "proLitterisId": "763796"
+        }
+      ],
+      "nzzPrintTitle": "Noch trösten KI-Phantasien über die hohen Zinsen hinweg",
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-04-27T15:30:00.000Z",
+      "department": {
+        "path": "/finanzen",
+        "premium": false,
+        "level": 1,
+        "name": "Finanzen"
+      },
+      "publicationDate": "2024-04-27T03:30:00.000Z",
+      "slug": "us-aktien-ki-fantasien-von-meta-und-alphabet-statt-fed-zinssenkung",
+      "firstPublicationDate": "2024-04-27T03:30:00.000Z",
+      "nzzCharacterCount": 7227,
+      "owner": "NZZ",
+      "authorLine": "André Müller",
+      "numberOfContentComponents": 27,
+      "germanyRelevant": true,
+      "leadText": "Die Anleger haben eingesehen, dass die amerikanische Notenbank vorerst für keine weiteren Rekorde an der Börse sorgen wird. Umso stärker klammern sie sich an andere Quellen der Hoffnung.",
+      "publicationLastUpdated": "2024-04-27T03:30:00.000Z",
+      "nzzArticleSnippet": "Die Anleger haben eingesehen, dass die amerikanische Notenbank vorerst für keine weiteren Rekorde an der Börse sorgen wird. Umso stärker klammern sie sich an andere Quellen der Hoffnung.",
+      "urlPath": "/finanzen/us-aktien-ki-fantasien-von-meta-und-alphabet-statt-fed-zinssenkung-ld.1827936",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 2665,
+        "originalUrl": "https://img.nzz.ch/2024/04/26/7f0fbc00-a9f8-4c69-9d96-839915b03a89.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 2665,
+            "name": "16:9",
+            "y": 139,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/04/26/7f0fbc00-a9f8-4c69-9d96-839915b03a89.jpeg?crop=2665,1499,x0,y139&width=1024&quality=75&auto=webp",
+            "height": 1499,
+            "ratio": 1.77778
+          },
+          {
+            "x": 444,
+            "width": 1777,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/04/26/7f0fbc00-a9f8-4c69-9d96-839915b03a89.jpeg?crop=1777,1777,x444,y0&width=1024&quality=75&auto=webp",
+            "height": 1777,
+            "ratio": 1
+          },
+          {
+            "x": 148,
+            "width": 2369,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/04/26/7f0fbc00-a9f8-4c69-9d96-839915b03a89.jpeg?crop=2369,1777,x148,y0&width=1024&quality=75&auto=webp",
+            "height": 1777,
+            "ratio": 1.33333
+          },
+          {
+            "x": 666,
+            "width": 1333,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/04/26/7f0fbc00-a9f8-4c69-9d96-839915b03a89.jpeg?crop=1333,1777,x666,y0&width=1024&quality=75&auto=webp",
+            "height": 1777,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "Ie1TDV4LfEmW",
+        "url": "https://img.nzz.ch/2024/04/26/7f0fbc00-a9f8-4c69-9d96-839915b03a89.jpeg?width=1024&quality=75&auto=webp",
+        "key": "2024/04/26/7f0fbc00-a9f8-4c69-9d96-839915b03a89.jpeg",
+        "height": 1777
+      },
+      "nzzId": "ld.1827936",
+      "url": "https://www.nzz.ch/finanzen/us-aktien-ki-fantasien-von-meta-und-alphabet-statt-fed-zinssenkung-ld.1827936",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hscsb3cf1"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "commentCount": 2,
+      "layout": "regular",
+      "estimationWordCount": 1107,
+      "nzzPrintSubtitle": "Der amerikanische Aktienmarkt steht vor einer Bewährungsprobe: Hält der KI-Hype, was er verspricht?",
+      "embeds": {
+        "images": [
+          {
+            "author": "Elizabeth Frantz / Reuters",
+            "caption": "Jerome Powell, der Chef der US-Notenbank, hat Hoffnungen auf baldige Zinssenkungen einen Dämpfer verpasst. Wer springt in die Bresche?",
+            "origins": [
+              {
+                "identifier": "2154676393",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/04/26/7f0fbc00-a9f8-4c69-9d96-839915b03a89.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "64d3df3ff8944eb8b41a1540eac0e354"
+          },
+          {
+            "id": "0819c8effbf081938ef522a369439be7"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/finanzen",
+          "name": "Finanzen"
+        }
+      ],
+      "teaserCaption": "Jerome Powell, der Chef der US-Notenbank, hat Hoffnungen auf baldige Zinssenkungen einen Dämpfer verpasst. Wer springt in die Bresche?",
+      "documentId": "1827936",
+      "product": "NZZ.ch"
+    }
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Illustration Anja Lemcke / NZZ",
+      "firstTitle": "Die Schweiz inszeniert sich auf dem Bürgenstock als Friedensstifterin – was das Land aber wirklich für die Ukraine tut",
+      "flag": "Datenanalyse",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "HWhZd8Ofwk0-",
+        "locale": "de-CH"
+      },
+      "seoTitle": "Vor der Friedenskonferenz: wie stark die Schweiz der Ukraine wirklich hilft",
+      "title": "Die Schweiz inszeniert sich auf dem Bürgenstock als Friedensstifterin – aber was tut sie wirklich für die Ukraine?",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "pianoId": "e522975e-a5cb-46b2-8df0-6c82ddc3ce29",
+          "name": "Julia Monn (jum)",
+          "id": 1532350,
+          "shortName": "jum"
+        }
+      ],
+      "nzzPrintTitle": "Was die Schweiz wirklich für die Ukraine tut",
+      "designName": "morpheus",
+      "seoSocialMediaTitle": "Vor der Friedenskonferenz: wie stark die Schweiz der Ukraine wirklich hilft",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-06-15T15:30:00.000Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Andri Rostetter (art)",
+          "id": 1555252,
+          "shortName": "art",
+          "proLitterisId": "514969"
+        }
+      ],
+      "department": {
+        "path": "/schweiz",
+        "premium": false,
+        "level": 1,
+        "name": "Schweiz"
+      },
+      "publicationDate": "2024-06-15T03:30:00.000Z",
+      "slug": "vor-der-friedenskonferenz-wie-stark-die-schweiz-der-ukraine-wirklich-hilft",
+      "firstPublicationDate": "2024-06-15T03:30:00.000Z",
+      "nzzCharacterCount": 5100,
+      "owner": "NZZ",
+      "authorLine": "Julia Monn",
+      "numberOfContentComponents": 22,
+      "germanyRelevant": true,
+      "leadText": "Eine Analyse in fünf Grafiken.",
+      "publicationLastUpdated": "2025-02-17T13:46:21.331Z",
+      "nzzArticleSnippet": "Eine Analyse in fünf Grafiken.",
+      "urlPath": "/schweiz/vor-der-friedenskonferenz-wie-stark-die-schweiz-der-ukraine-wirklich-hilft-ld.1834385",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 2388,
+        "originalUrl": "https://img.nzz.ch/2024/06/11/3bc35ad6-0a1e-4171-bcf8-e91c6ef74f38.png",
+        "mimeType": "image/png",
+        "crops": [
+          {
+            "x": 0,
+            "width": 2388,
+            "name": "16:9",
+            "y": 11,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/06/11/3bc35ad6-0a1e-4171-bcf8-e91c6ef74f38.png?crop=2388,1343,x0,y11&width=1024&quality=75&auto=webp",
+            "height": 1343,
+            "ratio": 1.77778
+          },
+          {
+            "x": 281,
+            "width": 1366,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/11/3bc35ad6-0a1e-4171-bcf8-e91c6ef74f38.png?crop=1366,1366,x281,y0&width=1024&quality=75&auto=webp",
+            "height": 1366,
+            "ratio": 1
+          },
+          {
+            "x": 283,
+            "width": 1821,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/06/11/3bc35ad6-0a1e-4171-bcf8-e91c6ef74f38.png?crop=1821,1366,x283,y0&width=1024&quality=75&auto=webp",
+            "height": 1366,
+            "ratio": 1.33333
+          },
+          {
+            "x": 510,
+            "width": 1025,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/11/3bc35ad6-0a1e-4171-bcf8-e91c6ef74f38.png?crop=1025,1366,x510,y0&width=1024&quality=75&auto=webp",
+            "height": 1366,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "QE36ix2AeRnc",
+        "url": "https://img.nzz.ch/2024/06/11/3bc35ad6-0a1e-4171-bcf8-e91c6ef74f38.png?width=1024&quality=75&auto=webp",
+        "key": "2024/06/11/3bc35ad6-0a1e-4171-bcf8-e91c6ef74f38.png",
+        "height": 1366
+      },
+      "nzzId": "ld.1834385",
+      "url": "https://www.nzz.ch/schweiz/vor-der-friedenskonferenz-wie-stark-die-schweiz-der-ukraine-wirklich-hilft-ld.1834385",
+      "dependencies": {},
+      "commentCount": 1,
+      "layout": "longformstandard",
+      "estimationWordCount": 740,
+      "nzzPrintSubtitle": "Ein Blick in die Statistik zeigt, dass das Bild von der Schweiz als grosser Ukraine-Helferin trügt",
+      "embeds": {
+        "images": [
+          {
+            "author": "Illustration Anja Lemcke / NZZ",
+            "caption": "Sollte das Wetter mitspielen, kann sich die Schweiz für die Konferenz zum Frieden in der Ukraine als Oase der Friedfertigkeit präsentieren. Die Innerschweizer Kulisse auf dem Bürgenstock könnte dafür kaum besser geeignet sein.",
+            "url": "https://img.nzz.ch/2024/06/11/92183800-6646-4ac4-bb26-f275669cdc92.png?width=1024&quality=75&auto=webp"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "08e996c76bf1a7d4bec453e674921c30"
+          },
+          {
+            "id": "08e996c76bf1a7d4bec453e674aa0f1e"
+          },
+          {
+            "id": "9c34f843abc41325f7ff6d735fcdf289"
+          },
+          {
+            "id": "9c34f843abc41325f7ff6d735ff72090"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/schweiz",
+          "name": "Schweiz"
+        }
+      ],
+      "teaserCaption": "Sollte das Wetter mitspielen, kann sich die Schweiz für die Konferenz zum Frieden in der Ukraine als Oase der Friedfertigkeit präsentieren. Die Innerschweizer Kulisse auf dem Bürgenstock könnte dafür kaum besser geeignet sein.",
+      "documentId": "1834385",
+      "product": "NZZ.ch"
+    }
+  }
+]

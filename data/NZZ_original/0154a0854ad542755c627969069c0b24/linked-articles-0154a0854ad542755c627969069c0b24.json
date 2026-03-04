@@ -1,0 +1,305 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "Annick Ramp / NZZ",
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "iqbZlO6J6xNXYtxlM8GUD",
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Wohnungsnot: Die Schere zwischen Nachfrage nach Wohnraum und  Wohnungsproduktion dürfte noch weiter auseinander gehen",
+      "seoTitle": "Wohnungsnot: Warum das Angebot hinter der Nachfrage herhinkt",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Stefan Hotz (sho)",
+          "id": 1373688,
+          "shortName": "sho"
+        }
+      ],
+      "nzzPrintTitle": "Warum das Angebot hinter der Nachfrage herhinkt",
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2023-10-04T15:07:00.000Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Katja Baigger (bai)",
+          "id": 1371941,
+          "shortName": "bai"
+        }
+      ],
+      "department": {
+        "path": "/zuerich",
+        "premium": false,
+        "level": 1,
+        "name": "Zürich"
+      },
+      "publicationDate": "2023-10-04T03:07:00.000Z",
+      "slug": "wohnungsnot-warum-das-angebot-hinter-der-nachfrage-herhinkt",
+      "firstPublicationDate": "2023-10-04T03:07:00.000Z",
+      "nzzCharacterCount": 8202,
+      "owner": "NZZ",
+      "authorLine": "Stefan Hotz",
+      "numberOfContentComponents": 27,
+      "germanyRelevant": true,
+      "leadText": "Die Raumplanung beeinflusst die Wohnkosten im Kanton Zürich weniger stark als erwartet. Diese und weitere Erkenntnisse gehen aus einer neuen Studie hervor.",
+      "publicationLastUpdated": "2023-10-04T04:16:43.195Z",
+      "nzzArticleSnippet": "Die Raumplanung beeinflusst die Wohnkosten im Kanton Zürich weniger stark als erwartet. Diese und weitere Erkenntnisse gehen aus einer neuen Studie hervor.",
+      "urlPath": "/zuerich/wohnungsnot-warum-das-angebot-hinter-der-nachfrage-herhinkt-ld.1758660",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 5568,
+        "originalUrl": "https://img.nzz.ch/2023/10/03/1ebaf772-1474-40fb-b24d-cbc0cff4706b.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 5568,
+            "name": "16:9",
+            "y": 580,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W5568,H3132,X0,Y580/O=75/https://img.nzz.ch/2023/10/03/1ebaf772-1474-40fb-b24d-cbc0cff4706b.jpeg",
+            "height": 3132,
+            "ratio": 1.77778
+          },
+          {
+            "x": 3180,
+            "width": 1447,
+            "name": "1:1",
+            "y": 677,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W1447,H1447,X3180,Y677/O=75/https://img.nzz.ch/2023/10/03/1ebaf772-1474-40fb-b24d-cbc0cff4706b.jpeg",
+            "height": 1447,
+            "ratio": 1
+          },
+          {
+            "x": 91,
+            "width": 4949,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W4949,H3712,X91,Y0/O=75/https://img.nzz.ch/2023/10/03/1ebaf772-1474-40fb-b24d-cbc0cff4706b.jpeg",
+            "height": 3712,
+            "ratio": 1.33333
+          },
+          {
+            "x": 2232,
+            "width": 2784,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W2784,H3712,X2232,Y0/O=75/https://img.nzz.ch/2023/10/03/1ebaf772-1474-40fb-b24d-cbc0cff4706b.jpeg",
+            "height": 3712,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "2JzKMUEdbXQg",
+        "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2023/10/03/1ebaf772-1474-40fb-b24d-cbc0cff4706b.jpeg",
+        "height": 3712
+      },
+      "nzzId": "ld.1758660",
+      "url": "https://www.nzz.ch/zuerich/wohnungsnot-warum-das-angebot-hinter-der-nachfrage-herhinkt-ld.1758660",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hbqnaklj0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "commentCount": 2,
+      "layout": "regular",
+      "estimationWordCount": 1164,
+      "nzzPrintSubtitle": "Laut einer neuen Studie ist der Einfluss der Raumplanung auf den Wohnungsmarkt begrenzt",
+      "embeds": {
+        "images": [
+          {
+            "author": "Annick Ramp / NZZ",
+            "caption": "Es wird viel gebaut, wie hier in Dübendorf, doch die Wohnungsproduktion hält nicht Schritt mit der steigenden Nachfrage.",
+            "origins": [
+              {
+                "identifier": "2141904184",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2023/10/03/1ebaf772-1474-40fb-b24d-cbc0cff4706b.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "3038710dbaf88cad93bbbdf693b498de"
+          },
+          {
+            "id": "0154a0854ad542755c627969069c0b24"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/zuerich",
+          "name": "Zürich"
+        }
+      ],
+      "teaserCaption": "Es wird viel gebaut, wie hier in Dübendorf, doch die Wohnungsproduktion hält nicht Schritt mit der steigenden Nachfrage.",
+      "documentId": "1758660",
+      "product": "NZZ.ch"
+    }
+  },
+  {
+    "metadata": {
+      "teaserAuthor": "Anthony Anex / Keystone",
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "OogA2Gm34e1f",
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Wohnungsknappheit: Guy Parmelin bringt massgebende Akteure an einen Tisch – ein Aktionsplan zum Abbau von Hindernissen für Bauprojekte soll kommen",
+      "seoTitle": "Wohnungsknappheit: Guy Parmelin bringt Akteure an einen Tisch",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Hansueli Schöchli (hus)",
+          "id": 1372717,
+          "shortName": "hus"
+        }
+      ],
+      "nzzPrintTitle": "Mehr Wohnungen sollen her",
+      "designName": "morpheus",
+      "premium": false,
+      "seoSocialMediaTitle": "Wohnungsknappheit: ",
+      "significantUpdateTill": "2023-05-13T03:13:56.096Z",
+      "department": {
+        "path": "/wirtschaft",
+        "premium": false,
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2023-05-12T15:13:56.096Z",
+      "slug": "wohnungsknappheit-guy-parmelin-bringt-massgebende-akteure-an-einen-tisch-ein-aktionsplan-zum-abbau-von-hindernissen-fuer-bauprojekte-soll-kommen",
+      "firstPublicationDate": "2023-05-12T15:13:56.096Z",
+      "authorLine": "Hansueli Schöchli",
+      "owner": "NZZ",
+      "nzzCharacterCount": 6870,
+      "numberOfContentComponents": 20,
+      "germanyRelevant": true,
+      "leadText": "Die Nachfrage nach Wohnraum in der Schweiz steigt, doch das Angebot sinkt. Ursachen gibt es viele, doch mehrheitsfähige Lösungsvorschläge lassen auf sich warten. Ein Meinungsaustausch massgebender Akteure am Freitag im Bundeshaus zeigte immerhin einen breiten Wunsch nach Vereinfachung von Bauverfahren.",
+      "publicationLastUpdated": "2023-05-12T17:24:12.748Z",
+      "nzzArticleSnippet": "Die Nachfrage nach Wohnraum in der Schweiz steigt, doch das Angebot sinkt. Ursachen gibt es viele, doch mehrheitsfähige Lösungsvorschläge lassen auf sich warten. Ein Meinungsaustausch massgebender Akteure am Freitag im Bundeshaus zeigte immerhin einen breiten Wunsch nach Vereinfachung von Bauverfahren.",
+      "urlPath": "/wirtschaft/wohnungsknappheit-guy-parmelin-bringt-massgebende-akteure-an-einen-tisch-ein-aktionsplan-zum-abbau-von-hindernissen-fuer-bauprojekte-soll-kommen-ld.1737737",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 7951,
+        "originalUrl": "https://img.nzz.ch/2023/05/12/29fd63ac-f459-4c63-9400-319594594a28.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 529,
+            "width": 7068,
+            "name": "16:9",
+            "y": 1310,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W7068,H3975,X529,Y1310/O=75/https://img.nzz.ch/2023/05/12/29fd63ac-f459-4c63-9400-319594594a28.jpeg",
+            "height": 3975,
+            "ratio": 1.77778
+          },
+          {
+            "x": 3908,
+            "width": 174,
+            "name": "1:1",
+            "y": 2299,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W174,H174,X3908,Y2299/O=75/https://img.nzz.ch/2023/05/12/29fd63ac-f459-4c63-9400-319594594a28.jpeg",
+            "height": 174,
+            "ratio": 1
+          },
+          {
+            "x": 738,
+            "width": 7068,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W7068,H5301,X738,Y0/O=75/https://img.nzz.ch/2023/05/12/29fd63ac-f459-4c63-9400-319594594a28.jpeg",
+            "height": 5301,
+            "ratio": 1.33333
+          },
+          {
+            "x": 2205,
+            "width": 3976,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W3976,H5301,X2205,Y0/O=75/https://img.nzz.ch/2023/05/12/29fd63ac-f459-4c63-9400-319594594a28.jpeg",
+            "height": 5301,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "nqzLFuz3D1Zb",
+        "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2023/05/12/29fd63ac-f459-4c63-9400-319594594a28.jpeg",
+        "height": 5301
+      },
+      "nzzId": "ld.1737737",
+      "url": "https://www.nzz.ch/wirtschaft/wohnungsknappheit-guy-parmelin-bringt-massgebende-akteure-an-einen-tisch-ein-aktionsplan-zum-abbau-von-hindernissen-fuer-bauprojekte-soll-kommen-ld.1737737",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1h084ec901"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "estimationWordCount": 1027,
+      "nzzPrintSubtitle": "Bundesrat Guy Parmelin kündigt nach «rundem Tisch» einen Aktionsplan an",
+      "embeds": {
+        "images": [
+          {
+            "author": "Anthony Anex / Keystone",
+            "caption": "Vertreter von Behörden und Privatwirtschaft diskutierten am Freitag im Bundeshaus über die Wohnungsknappheit.",
+            "origins": [
+              {
+                "identifier": "2143826391",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2023/05/12/29fd63ac-f459-4c63-9400-319594594a28.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0154a0854ad542755c627969069c0b24"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "teaserCaption": "Vertreter von Behörden und Privatwirtschaft diskutierten am Freitag im Bundeshaus über die Wohnungsknappheit.",
+      "documentId": "1737737",
+      "product": "NZZ.ch"
+    }
+  }
+]

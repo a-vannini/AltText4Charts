@@ -1,0 +1,159 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Eric Risberg / AP",
+      "firstTitle": "Nvidia ist der Taktgeber der KI-Revolution: Geht der Boom weiter oder kommt es jetzt zum Mini-Crash?",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "WTnKl9mkThWO5BdOCoj6r",
+        "locale": "de-CH"
+      },
+      "title": "Nvidia verzeichnet ein weiteres Rekordquartal und die Aktien erreichen einen neuen Höchststand",
+      "seoTitle": "Nvidia-Aktien: Wachstum ohne Ende, oder droht jetzt der Crash?",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Eflamm Mordrelle (EM)",
+          "id": 1708237,
+          "shortName": "EM",
+          "proLitterisId": "891120"
+        },
+        {
+          "external": false,
+          "name": "Marie-Astrid Langer (lma)",
+          "id": 1373049,
+          "shortName": "lma",
+          "proLitterisId": "514871"
+        }
+      ],
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-05-23T02:59:16.943Z",
+      "department": {
+        "path": "/finanzen",
+        "premium": false,
+        "level": 1,
+        "name": "Finanzen"
+      },
+      "publicationDate": "2024-05-22T14:59:16.943Z",
+      "slug": "nvidia-ist-der-taktgeber-der-ki-revolution-geht-der-boom-weiter-oder-kommt-es-jetzt-zum-mini-crash",
+      "printPublicationDate": "23.05.2024",
+      "firstPublicationDate": "2024-05-22T14:59:16.943Z",
+      "nzzCharacterCount": 8506,
+      "owner": "NZZ",
+      "authorLine": "Eflamm Mordrelle, Marie-Astrid Langer, San Francisco",
+      "numberOfContentComponents": 32,
+      "germanyRelevant": true,
+      "leadText": "Die amerikanischen Tech-Giganten wollen weniger abhängig von Nvidia sein. Doch noch führt kein Weg an den Hochleistungschips vorbei.",
+      "publicationLastUpdated": "2024-05-23T16:35:42.618Z",
+      "nzzArticleSnippet": "Die amerikanischen Tech-Giganten wollen weniger abhängig von Nvidia sein. Doch noch führt kein Weg an den Hochleistungschips vorbei.",
+      "urlPath": "/finanzen/nvidia-ist-der-taktgeber-der-ki-revolution-geht-der-boom-weiter-oder-kommt-es-jetzt-zum-mini-crash-ld.1831548",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 4043,
+        "originalUrl": "https://img.nzz.ch/2024/03/20/03277d86-8f08-4fe6-a723-7fec6d757a0a.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 292,
+            "width": 3594,
+            "name": "16:9",
+            "y": 517,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/03/20/03277d86-8f08-4fe6-a723-7fec6d757a0a.jpeg?crop=3594,2021,x292,y517&width=1024&quality=75&auto=webp",
+            "height": 2021,
+            "ratio": 1.77778
+          },
+          {
+            "x": 1766,
+            "width": 934,
+            "name": "1:1",
+            "y": 484,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/03/20/03277d86-8f08-4fe6-a723-7fec6d757a0a.jpeg?crop=934,934,x1766,y484&width=1024&quality=75&auto=webp",
+            "height": 934,
+            "ratio": 1
+          },
+          {
+            "x": 554,
+            "width": 3194,
+            "name": "4:3",
+            "y": 250,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/03/20/03277d86-8f08-4fe6-a723-7fec6d757a0a.jpeg?crop=3194,2396,x554,y250&width=1024&quality=75&auto=webp",
+            "height": 2396,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1141,
+            "width": 2021,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/03/20/03277d86-8f08-4fe6-a723-7fec6d757a0a.jpeg?crop=2021,2695,x1141,y0&width=1024&quality=75&auto=webp",
+            "height": 2695,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "Iq6IwVnhyo6M",
+        "url": "https://img.nzz.ch/2024/03/20/03277d86-8f08-4fe6-a723-7fec6d757a0a.jpeg?width=1024&quality=75&auto=webp",
+        "key": "2024/03/20/03277d86-8f08-4fe6-a723-7fec6d757a0a.jpeg",
+        "height": 2695
+      },
+      "nzzId": "ld.1831548",
+      "url": "https://www.nzz.ch/finanzen/nvidia-ist-der-taktgeber-der-ki-revolution-geht-der-boom-weiter-oder-kommt-es-jetzt-zum-mini-crash-ld.1831548",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hug64ab51"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "commentCount": 1,
+      "layout": "regular",
+      "estimationWordCount": 1252,
+      "embeds": {
+        "images": [
+          {
+            "author": "Eric Risberg / AP",
+            "caption": "Der Nvidia-CEO Jensen Huang stellte im März bereits wieder neue, nochmals leistungsfähigere Chips der Serie Blackwell vor.",
+            "origins": [
+              {
+                "identifier": "2153960250",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/C=W3593,H2695,X365,Y0/O=75/https://img.nzz.ch/2024/03/20/03277d86-8f08-4fe6-a723-7fec6d757a0a.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "07d00172c0f2b9dd3facaed88597c76e"
+          },
+          {
+            "id": "07d00172c0f2b9dd3facaed88599fe8e"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/finanzen",
+          "name": "Finanzen"
+        }
+      ],
+      "teaserCaption": "Der Nvidia-CEO Jensen Huang stellte im März bereits wieder neue, nochmals leistungsfähigere Chips der Serie Blackwell vor.",
+      "documentId": "1831548",
+      "product": "NZZ.ch"
+    }
+  }
+]

@@ -1,0 +1,71 @@
+{
+  "_id": "00aec7859796c11ec7cafabb98d4f575",
+  "_rev": "12-40c78d9a5b21d54fce91d4d69e258c19",
+  "department": "Wirtschaft",
+  "publication": "nzz",
+  "data": [
+    [
+      "Bestimmung",
+      "Betrag"
+    ],
+    [
+      "Wegfall persönliche Abzüge",
+      "1212"
+    ],
+    [
+      "Anpassung div. Abzugsmöglichkeiten",
+      "668"
+    ],
+    [
+      "Abschaffung Krankenversicherungsobligatorium",
+      "314"
+    ],
+    [
+      "Versch.",
+      "188"
+    ],
+    [
+      "Neue Inflationsindexierung",
+      "134"
+    ]
+  ],
+  "sources": [
+    {
+      "link": {},
+      "text": "JCT"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": false,
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "year",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "highlightDataSeries": [],
+    "annotations": {
+      "first": false
+    },
+    "colorOverwritesSeries": []
+  },
+  "tool": "chart",
+  "title": "Die wichtigsten defizitsenkenden Anpassungen bei der individuellen Einkommenssteuer",
+  "subtitle": "Schätzung der Auswirkungen des Tax Cuts and Jobs Act auf den US-Staatshaushalt, kumuliert 2018-2017, in Mrd. $",
+  "active": true,
+  "createdDate": "2017-12-19T16:20:05.293Z",
+  "createdBy": "martin.lanz@nzz.ch",
+  "updatedDate": "2017-12-19T16:33:09.011Z",
+  "updatedBy": "martin.lanz@nzz.ch",
+  "deactivateDate": "2017-12-19T16:33:07.720Z",
+  "activateDate": "2017-12-19T16:33:09.011Z",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/00aec7859796c11ec7cafabb98d4f575-thumbnail.jpeg"
+}

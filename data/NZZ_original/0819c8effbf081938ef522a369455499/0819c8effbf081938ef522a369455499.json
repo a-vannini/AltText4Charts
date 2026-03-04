@@ -1,0 +1,107 @@
+{
+  "_id": "0819c8effbf081938ef522a369455499",
+  "_rev": "30-77b34e4395a3768904f8c49a328c54fb",
+  "department": "Newsroom",
+  "publication": "nzz",
+  "acronym": "wej.",
+  "data": [
+    [
+      "Eingriff",
+      "Anzahl"
+    ],
+    [
+      "Botox",
+      "9221419"
+    ],
+    [
+      "Hyaluron-Filler",
+      "4312037"
+    ],
+    [
+      "Fettabsaugung",
+      "2303929"
+    ],
+    [
+      "Brustvergrösserung",
+      "2174616"
+    ],
+    [
+      "Haarentfernung",
+      "1798253"
+    ],
+    [
+      "Augenlidkorrektur",
+      "1409103"
+    ],
+    [
+      "Bauchstraffung",
+      "1180623"
+    ],
+    [
+      "Bruststraffung",
+      "955026"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {
+        "url": "https://www.isaps.org/media/a0qfm4h3/isaps-global-survey_2022.pdf",
+        "isValid": true
+      },
+      "text": "ISAPS"
+    }
+  ],
+  "options": {
+    "chartType": "Dotplot",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {
+      "max": false,
+      "diff": false
+    },
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {
+      "connectDots": false
+    },
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "Botox wird am meisten nachgefragt",
+  "subtitle": "Rangliste der häufigsten chirurgischen und nicht-operativen Eingriffe weltweit im Jahr 2022",
+  "createdDate": "2024-04-26T14:40:32.521Z",
+  "createdBy": "janique.weder@nzz.ch",
+  "updatedDate": "2024-04-26T14:52:24.732Z",
+  "updatedBy": "janique.weder@nzz.ch",
+  "notes": "",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/0819c8effbf081938ef522a369455499-thumbnail.jpeg"
+}

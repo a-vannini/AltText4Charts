@@ -1,0 +1,136 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "Gaëtan Bally / Keystone",
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Offene Restaurantterrassen in einem der kältesten Frühlinge: Die Gäste werden abgehärtet",
+      "seoTitle": "Kalter Frühling: Gäste zieht es trotz Wetter in die Beizen | NZZ",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Raffaela Angstmann (ran)",
+          "id": 1373485
+        },
+        {
+          "external": false,
+          "name": "Wenger Natalie (naw)",
+          "id": 1572110
+        }
+      ],
+      "nzzPrintTitle": "Die Gäste sind abgehärtet",
+      "designName": "morpheus",
+      "significantUpdateTill": "2021-05-20T06:09:43.032Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Katja Baigger (bai)",
+          "id": 1371941
+        }
+      ],
+      "department": {
+        "path": "/zuerich",
+        "level": 1,
+        "name": "Zürich"
+      },
+      "publicationDate": "2021-05-20T14:52:23.250Z",
+      "slug": "kalter-fruehling-gaeste-zieht-es-trotz-wetter-in-die-beizen-nzz",
+      "firstPublicationDate": "2021-05-19T18:09:43.032Z",
+      "nzzCharacterCount": 9173,
+      "authorLine": "Raffaela Angstmann (Text), Natalie Wenger (Grafiken)",
+      "numberOfContentComponents": 30,
+      "germanyRelevant": true,
+      "leadText": "Während dieses rekordkalten Frühlings sind die Beizen nur draussen offen. Finanziell lohnt es sich für die Betriebe kaum. Immer mehr Gäste lassen sich aber nicht beirren von Bise und Regen. Die Stadt Zürich ermöglicht den Betrieben derweil eine Erweiterung der Aussenbestuhlung.",
+      "publicationLastUpdated": "2021-05-21T09:38:55.873Z",
+      "nzzArticleSnippet": "Während dieses rekordkalten Frühlings sind die Beizen nur draussen offen. Finanziell lohnt es sich für die Betriebe kaum. Immer mehr Gäste lassen sich aber nicht beirren von Bise und Regen. Die Stadt Zürich ermöglicht den Betrieben derweil eine Erweiterung der Aussenbestuhlung.",
+      "urlPath": "/zuerich/kalter-fruehling-gaeste-zieht-es-trotz-wetter-in-die-beizen-nzz-ld.1625959",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 5000,
+        "originalUrl": "https://nzz-img.s3.amazonaws.com/2021/5/20/50796417-5fe5-4917-abbf-2e28e2681d21.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 0,
+            "width": 5000,
+            "y": 368,
+            "url": "https://img.nzz.ch/C=W5000,H2812,X0,Y368/O=75/https://nzz-img.s3.amazonaws.com/2021/5/20/50796417-5fe5-4917-abbf-2e28e2681d21.jpeg",
+            "height": 2812
+          },
+          {
+            "name": "1:1",
+            "x": 3083,
+            "width": 1644,
+            "y": 333,
+            "url": "https://img.nzz.ch/C=W1644,H1644,X3083,Y333/O=75/https://nzz-img.s3.amazonaws.com/2021/5/20/50796417-5fe5-4917-abbf-2e28e2681d21.jpeg",
+            "height": 1644
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2021/5/20/50796417-5fe5-4917-abbf-2e28e2681d21.jpeg",
+        "height": 3332
+      },
+      "nzzId": "ld.1625959",
+      "url": "https://www.nzz.ch/zuerich/kalter-fruehling-gaeste-zieht-es-trotz-wetter-in-die-beizen-nzz-ld.1625959",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1f653526a0"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          },
+          {
+            "code": "\n      window.twttr = (function (d, s, id) {\n      var t, js, fjs = d.getElementsByTagName(s)[0];\n      if (d.getElementById(id)) return;\n      js = d.createElement(s); js.id = id;\n      js.src= \"https://platform.twitter.com/widgets.js\";\n      fjs.parentNode.insertBefore(js, fjs);\n      return window.twttr || (t = { _e: [], ready: function (f) { t._e.push(f) } });\n      }(document, \"script\", \"twitter-wjs\"));\n      window.twttr.ready(function(twttr){\n      twttr.widgets.load();\n      });\n      ",
+            "inline": true,
+            "componentIds": [
+              "doc-1f62o04930"
+            ],
+            "namespace": "embeds.twitter"
+          }
+        ]
+      },
+      "commentCount": 14,
+      "layout": "regular",
+      "nzzPrintSubtitle": "Dass während des rekordkalten Frühlings nur die Terrassen der Beizen geöffnet sind, macht vielen Zürchern nichts aus",
+      "embeds": {
+        "images": [
+          {
+            "author": "Gaëtan Bally / Keystone",
+            "caption": "Die Zürcherinnen und Zürcher sind wetterfest geworden: In dicke Jacken gehüllt, sitzen sie auf der Terrasse des Restaurants Brasserie August beim Hotel Widder.",
+            "origins": [
+              {
+                "identifier": "picture-2121251322",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2021/5/20/50796417-5fe5-4917-abbf-2e28e2681d21.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "01e843ba181f97facd55faf6789b8905"
+          },
+          {
+            "id": "01e843ba181f97facd55faf6789b906a"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "Die Zürcherinnen und Zürcher sind wetterfest geworden: In dicke Jacken gehüllt, sitzen sie auf der Terrasse des Restaurants Brasserie August beim Hotel Widder.",
+      "breadcrumbs": [
+        {
+          "path": "/zuerich",
+          "name": "Zürich"
+        }
+      ],
+      "documentId": "1625959",
+      "product": "NZZ.ch"
+    }
+  }
+]

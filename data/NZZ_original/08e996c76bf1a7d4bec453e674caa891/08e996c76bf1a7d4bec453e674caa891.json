@@ -1,0 +1,107 @@
+{
+  "_id": "08e996c76bf1a7d4bec453e674caa891",
+  "_rev": "8-8b5caa4d254537a8d6eede05381bed06",
+  "allowDownloadData": false,
+  "active": true,
+  "tool": "chart",
+  "title": "Das Schauspielhaus erhält am meisten Subventionen",
+  "subtitle": "Beiträge in Mio. Fr.",
+  "department": "Visuals",
+  "publication": "nzz",
+  "acronym": "heu.",
+  "data": [
+    [
+      null,
+      null
+    ],
+    [
+      "Schauspielhaus",
+      "40"
+    ],
+    [
+      "Tonhalle-Gesellschaft",
+      "21"
+    ],
+    [
+      "Zürcher Kunstgesellschaft",
+      "13.5"
+    ],
+    [
+      "Theater Neumarkt",
+      "5.4"
+    ],
+    [
+      "Rote Fabrik",
+      "5.2"
+    ],
+    [
+      "Stiftung Zürcher Kunsthaus",
+      "5"
+    ],
+    [
+      "Theaterhaus Gessnerallee",
+      "4.2"
+    ],
+    [
+      "Kammerorchester",
+      "3.4"
+    ],
+    [
+      "Tanzhaus",
+      "2"
+    ]
+  ],
+  "sources": [
+    {
+      "text": "Budget 2024 der Stadt Zürich",
+      "link": {
+        "url": ""
+      }
+    }
+  ],
+  "events": [],
+  "options": {
+    "annotations": {
+      "valuesOnBars": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "chartType": "Bar",
+    "colorOverwritesRows": [],
+    "colorOverwritesSeries": [],
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "dotplotOptions": {},
+    "hideAxisLabel": true,
+    "highlightDataRows": [],
+    "highlightDataSeries": [
+      0
+    ],
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "createdDate": "2024-06-11T13:12:31.304Z",
+  "createdBy": "isabel.heusser@nzz.ch",
+  "updatedDate": "2024-06-14T11:32:47.926Z",
+  "updatedBy": "isabel.heusser@nzz.ch"
+}

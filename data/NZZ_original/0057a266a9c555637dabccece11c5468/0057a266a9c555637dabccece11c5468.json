@@ -1,0 +1,83 @@
+{
+  "_id": "0057a266a9c555637dabccece11c5468",
+  "_rev": "21-c3ee036f2977f72b85bb62c8e8aba0c6",
+  "department": "Zürich",
+  "publication": "nzz",
+  "acronym": "dfr",
+  "data": [
+    [
+      null,
+      "Besucherzahl"
+    ],
+    [
+      "1998",
+      "1500000"
+    ],
+    [
+      "2001",
+      "1600000"
+    ],
+    [
+      "2004",
+      "1800000"
+    ],
+    [
+      "2007",
+      "2100000"
+    ],
+    [
+      "2010",
+      "2000000"
+    ],
+    [
+      "2013",
+      "2300000"
+    ],
+    [
+      "2016",
+      "2000000"
+    ],
+    [
+      "2019",
+      "2500000"
+    ]
+  ],
+  "sources": [
+    {
+      "link": {},
+      "text": "Verein Zürcher Volksfeste"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "year",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "isStockChart": false
+    },
+    "highlightDataSeries": [],
+    "annotations": {
+      "first": false
+    },
+    "colorOverwritesSeries": [],
+    "areaChartOptions": {},
+    "dotplotOptions": {},
+    "arrowOptions": {}
+  },
+  "tool": "chart",
+  "title": "Besucher am Züri-Fäscht",
+  "active": true,
+  "createdDate": "2017-07-12T12:59:24.341Z",
+  "createdBy": "reto.flury@nzz.ch",
+  "updatedDate": "2019-07-07T14:54:08.819Z",
+  "updatedBy": "daniel.fritzsche@nzz.ch",
+  "deactivateDate": "2017-07-12T13:21:11.503Z",
+  "activateDate": "2017-07-13T09:59:10.079Z",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/0057a266a9c555637dabccece11c5468-thumbnail.jpeg"
+}

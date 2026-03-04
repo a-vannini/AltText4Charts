@@ -1,0 +1,99 @@
+{
+  "_id": "0819c8effbf081938ef522a3697ae813",
+  "_rev": "30-2d7619a98baabb5d51b933122dd2f19c",
+  "department": "Wirtschaft",
+  "publication": "nzz",
+  "acronym": "imr.",
+  "data": [
+    [
+      "Produkt",
+      "Import",
+      "Export"
+    ],
+    [
+      "Telekomausrüstung",
+      "56.5",
+      "3.3"
+    ],
+    [
+      "Elektrische Maschinen",
+      "36.9",
+      "4.2"
+    ],
+    [
+      "Halbleiterzubehör",
+      "27.0",
+      "7.9"
+    ],
+    [
+      "Autos",
+      "12.9",
+      "19.4"
+    ],
+    [
+      "Autozubehör",
+      "6.7",
+      "9.7"
+    ],
+    [
+      "Medikamente",
+      "1.1",
+      "14.0"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {},
+      "text": "Eurostat"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": true,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "title": "Die EU-Länder exportieren mehr Autos, als sie einführen",
+  "subtitle": "Handel ausgewählter Produkte der EU mit China 2023, in Milliarden Euro",
+  "createdDate": "2024-04-30T09:32:13.797Z",
+  "createdBy": "daniel.imwinkelried@nzz.ch",
+  "updatedDate": "2024-10-04T09:34:51.662Z",
+  "updatedBy": "daniel.imwinkelried@nzz.ch",
+  "active": true,
+  "deactivateDate": "2024-10-04T09:34:51.056Z",
+  "activateDate": "2024-10-04T09:34:51.662Z",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/0819c8effbf081938ef522a3697ae813-thumbnail.jpeg"
+}

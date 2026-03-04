@@ -1,0 +1,134 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "Thomas Kronsteiner / Getty",
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Die zentraleuropäischen Corona-Musterschüler werden zu Sorgenkindern",
+      "seoTitle": "Coronavirus Zentraleuropa: Steiler Anstieg bei den Musterschülern",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Ivo Mijnssen (mij)",
+          "id": 1373175
+        }
+      ],
+      "nzzPrintTitle": "Die Musterschüler werden zu Sorgenkindern",
+      "designName": "morpheus",
+      "significantUpdateTill": "2020-09-17T07:04:53.321Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Meret Baumann (bam)",
+          "id": 1371945
+        }
+      ],
+      "department": {
+        "path": "/international",
+        "level": 1,
+        "name": "International"
+      },
+      "publicationDate": "2020-09-17T04:00:00.000Z",
+      "slug": "coronavirus-zentraleuropa-steiler-anstieg-bei-den-musterschuelern",
+      "firstPublicationDate": "2020-09-16T19:04:53.321Z",
+      "nzzCharacterCount": 4913,
+      "authorLine": "Ivo Mijnssen, Wien",
+      "numberOfContentComponents": 17,
+      "leadText": "Österreich und seine östlichen Nachbarländer sind glimpflich durch die erste Welle gekommen. Doch nun fällt der Anstieg der Fallzahlen umso steiler aus – mit Folgen für die Politik.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2020-09-16T19:04:53.321Z",
+      "nzzArticleSnippet": "Österreich und seine östlichen Nachbarländer sind glimpflich durch die erste Welle gekommen. Doch nun fällt der Anstieg der Fallzahlen umso steiler aus – mit Folgen für die Politik.",
+      "urlPath": "/international/coronavirus-zentraleuropa-steiler-anstieg-bei-den-musterschuelern-ld.1576972",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 5458,
+        "originalUrl": "https://nzz-img.s3.amazonaws.com/2020/9/16/fbfce726-8888-451e-b299-3d66fc77f10e.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "name": "16:9",
+            "x": 0,
+            "width": 5458,
+            "y": 61,
+            "url": "https://img.nzz.ch/C=W5458,H3070,X0,Y61/O=75/https://nzz-img.s3.amazonaws.com/2020/9/16/fbfce726-8888-451e-b299-3d66fc77f10e.jpeg",
+            "height": 3070
+          },
+          {
+            "name": "1:1",
+            "x": 0,
+            "width": 1750,
+            "y": 0,
+            "url": "https://img.nzz.ch/C=W1750,H1750,X0,Y0/O=75/https://nzz-img.s3.amazonaws.com/2020/9/16/fbfce726-8888-451e-b299-3d66fc77f10e.jpeg",
+            "height": 1750
+          }
+        ],
+        "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2020/9/16/fbfce726-8888-451e-b299-3d66fc77f10e.jpeg",
+        "height": 3154
+      },
+      "nzzId": "ld.1576972",
+      "url": "https://www.nzz.ch/international/coronavirus-zentraleuropa-steiler-anstieg-bei-den-musterschuelern-ld.1576972",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1eibukbhh0",
+              "doc-1eibsuau10"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "nzzPrintSubtitle": "Nach dem milden Verlauf der Pandemie im Frühling fällt der Anstieg der Fälle in Zentraleuropa umso stärker aus",
+      "embeds": {
+        "images": [
+          {
+            "author": "Thomas Kronsteiner / Getty&nbsp;",
+            "caption": "In Österreich näherten sich die Zahlen zuletzt bedrohlich den Rekordwerten von Ende März an.",
+            "origins": [
+              {
+                "identifier": "picture-2113266146",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2020/9/16/fbfce726-8888-451e-b299-3d66fc77f10e.jpeg"
+          },
+          {
+            "author": "Roland Schlager / APA",
+            "caption": "Österreich und seine Nachbarn erleben gerade eine zweite Corona-Welle.",
+            "origins": [
+              {
+                "identifier": "picture-2113190218",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://nzz-img.s3.amazonaws.com/2020/9/16/c791087f-5cbc-4e1b-b638-2c4b78724566.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "015b1d1184288f807143043e2de7d926"
+          },
+          {
+            "id": "015b1d1184288f807143043e2def547f"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "In Österreich näherten sich die Zahlen zuletzt bedrohlich den Rekordwerten von Ende März an.",
+      "breadcrumbs": [
+        {
+          "path": "/international",
+          "name": "International"
+        }
+      ],
+      "documentId": "1576972",
+      "product": "NZZ.ch"
+    }
+  }
+]

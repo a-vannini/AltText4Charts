@@ -1,0 +1,150 @@
+[
+  {
+    "metadata": {
+      "teaserAuthor": "Syaiful Redzuan / SOPA / Imago",
+      "contentTypeGroup": "web",
+      "firstTitle": "In Südostasien schwindet die Unterstützung für Israel",
+      "flag": "International View",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "oFKkmIoLoNfwb3nfoUDxz",
+        "locale": "en-US"
+      },
+      "title": "Southeast Asia's support for Israel is waning",
+      "seoTitle": "Southeast Asia's support for Israel is waning",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Matthias Müller (Mue)",
+          "id": 1373264,
+          "shortName": "Mue"
+        }
+      ],
+      "designName": "morpheus",
+      "premium": false,
+      "seoSocialMediaTitle": "Southeast Asia's support for Israel is waning",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-06-11T19:45:56.897Z",
+      "nzzEditor": [
+        {
+          "external": false,
+          "name": "Marco Kauffmann (kam)",
+          "id": 1372868,
+          "shortName": "kam"
+        }
+      ],
+      "department": {
+        "path": "/english",
+        "premium": false,
+        "level": 1,
+        "name": "NZZ in English"
+      },
+      "publicationDate": "2024-06-11T07:45:56.897Z",
+      "showComments": false,
+      "slug": "southeast-asias-support-for-israel-is-waning",
+      "firstPublicationDate": "2024-06-11T07:45:56.897Z",
+      "owner": "NZZ",
+      "nzzCharacterCount": 5561,
+      "authorLine": "Matthias Müller, Singapur",
+      "numberOfContentComponents": 22,
+      "seoDescription": "The war in Gaza concerns Southeast Asia’s elites. They fear that the region’s populace will become radicalized. And they are rethinking their attitude to the current world order, which is dominated by America.",
+      "germanyRelevant": false,
+      "leadText": "Der Krieg in Gaza treibt die Eliten in Südostasien um. Sie fürchten, dass sich Menschen aus der Region radikalisieren. Und sie überdenken ihre Haltung zur bisherigen Weltordnung, die von Amerika dominiert wird.",
+      "publicationLastUpdated": "2024-06-11T13:06:36.613Z",
+      "nzzArticleSnippet": "Der Krieg in Gaza treibt die Eliten in Südostasien um. Sie fürchten, dass sich Menschen aus der Region radikalisieren. Und sie überdenken ihre Haltung zur bisherigen Weltordnung, die von Amerika dominiert wird.",
+      "urlPath": "/english/southeast-asias-support-for-israel-is-waning-ld.1834065",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 3500,
+        "originalUrl": "https://img.nzz.ch/2024/06/06/7a2e109f-ec4c-4678-aabd-6993704017c4.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 3500,
+            "name": "16:9",
+            "y": 209,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/06/7a2e109f-ec4c-4678-aabd-6993704017c4.jpeg?crop=3500,1969,x0,y209&width=1024&quality=75&auto=webp",
+            "height": 1969,
+            "ratio": 1.77778
+          },
+          {
+            "x": 720,
+            "width": 2333,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/06/7a2e109f-ec4c-4678-aabd-6993704017c4.jpeg?crop=2333,2333,x720,y0&width=1024&quality=75&auto=webp",
+            "height": 2333,
+            "ratio": 1
+          },
+          {
+            "x": 61,
+            "width": 3111,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/06/7a2e109f-ec4c-4678-aabd-6993704017c4.jpeg?crop=3111,2333,x61,y0&width=1024&quality=75&auto=webp",
+            "height": 2333,
+            "ratio": 1.33333
+          },
+          {
+            "x": 845,
+            "width": 1750,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/06/7a2e109f-ec4c-4678-aabd-6993704017c4.jpeg?crop=1750,2333,x845,y0&width=1024&quality=75&auto=webp",
+            "height": 2333,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "hCseFzbk8mB5",
+        "url": "https://img.nzz.ch/2024/06/06/7a2e109f-ec4c-4678-aabd-6993704017c4.jpeg?width=1024&quality=75&auto=webp",
+        "key": "2024/06/06/7a2e109f-ec4c-4678-aabd-6993704017c4.jpeg",
+        "height": 2333
+      },
+      "nzzId": "ld.1834065",
+      "url": "https://www.nzz.ch/english/southeast-asias-support-for-israel-is-waning-ld.1834065",
+      "dependencies": {},
+      "commentCount": 1,
+      "layout": "regular",
+      "estimationWordCount": 1005,
+      "embeds": {
+        "images": [
+          {
+            "author": "Syaiful Redzuan / SOPA / Imago",
+            "caption": "Protests are held regularly in Kuala Lumpur, where demonstrators show solidarity with the Palestinians. Their route is in the immediate vicinity of the American embassy.",
+            "origins": [
+              {
+                "identifier": "2155406825",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/2024/06/06/7a2e109f-ec4c-4678-aabd-6993704017c4.jpeg?crop=3407,2271,x8,y62&quality=75&auto=webp"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "08e996c76bf1a7d4bec453e674b9e679"
+          }
+        ],
+        "videos": []
+      },
+      "teaserCaption": "In Kuala Lumpur finden regelmässig Proteste statt, in denen sich die Demonstranten mit den Palästinensern solidarisieren. Ihre Route liegt in unmittelbarer Nähe zur amerikanischen Botschaft.",
+      "breadcrumbs": [
+        {
+          "path": "/english",
+          "name": "NZZ in English"
+        }
+      ],
+      "documentId": "1834065",
+      "product": "NZZ.ch"
+    }
+  }
+]

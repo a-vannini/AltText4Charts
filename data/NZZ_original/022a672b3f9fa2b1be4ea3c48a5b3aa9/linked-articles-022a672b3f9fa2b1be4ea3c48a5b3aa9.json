@@ -1,0 +1,57 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "significantUpdate": false,
+      "language": {
+        "label": "German",
+        "locale": "de-CH"
+      },
+      "title": "Seco rechnet mit Arbeitslosenquote von 2,6% im laufenden Jahr",
+      "nzzAuthors": [
+        {
+          "name": "Dieter Bachmann (dba)",
+          "id": 1372239
+        }
+      ],
+      "designName": "morpheus",
+      "significantUpdateTill": "2018-06-19T17:45:06.203Z",
+      "department": {
+        "path": "/wirtschaft",
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2018-06-19T05:45:00.000Z",
+      "slug": "kaum-wolken-am-konjunkturhimmel",
+      "firstPublicationDate": "2018-06-19T05:45:06.203Z",
+      "nzzCharacterCount": 1005,
+      "authorLine": "Dieter Bachmann",
+      "numberOfContentComponents": 6,
+      "leadText": "Das Staatssekretariat für Wirtschaft (Seco) bestätigt seine Prognose für das Wachstum der Schweizer Wirtschaft. In Sachen Arbeitslosigkeit hellt sich das Bild sogar noch weiter auf.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2018-06-19T08:53:50.438Z",
+      "urlPath": "/wirtschaft/kaum-wolken-am-konjunkturhimmel-ld.1396029",
+      "nzzId": "ld.1396029",
+      "url": "https://www.nzz.ch/wirtschaft/kaum-wolken-am-konjunkturhimmel-ld.1396029",
+      "dependencies": {},
+      "layout": "regular",
+      "embeds": {
+        "images": [],
+        "q_embeds": [
+          {
+            "id": "022a672b3f9fa2b1be4ea3c48a5b3aa9"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "documentId": "1396029",
+      "product": "NZZ.ch"
+    }
+  }
+]

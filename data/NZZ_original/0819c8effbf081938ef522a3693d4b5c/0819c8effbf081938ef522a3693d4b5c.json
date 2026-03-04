@@ -1,0 +1,92 @@
+{
+  "_id": "0819c8effbf081938ef522a3693d4b5c",
+  "_rev": "17-8e9a37a5cd2acdd4eefd93dc59ae659a",
+  "department": "Zürich",
+  "publication": "nzz",
+  "acronym": "jhu.",
+  "data": [
+    [
+      "Jahr",
+      "Fallzahlen"
+    ],
+    [
+      "2018",
+      "29129"
+    ],
+    [
+      "2019",
+      "28748"
+    ],
+    [
+      "2020",
+      "28559"
+    ],
+    [
+      "2021",
+      "27904"
+    ],
+    [
+      "2022",
+      "30434"
+    ],
+    [
+      "2023",
+      "32270"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {},
+      "text": "Kanton Zürich"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": true,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {
+      "valuesOnBars": false
+    },
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "active": true,
+  "title": "Die Fallzahlen der Staatsanwaltschaft haben zugenommen",
+  "subtitle": "Anzahl Fälle im Kanton Zürich",
+  "createdDate": "2024-04-25T17:52:11.527Z",
+  "createdBy": "jan.hudec@nzz.ch",
+  "updatedDate": "2024-04-25T18:27:39.423Z",
+  "updatedBy": "mark.salvisberg@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/0819c8effbf081938ef522a3693d4b5c-thumbnail.jpeg"
+}

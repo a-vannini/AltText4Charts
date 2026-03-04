@@ -1,0 +1,65 @@
+{
+  "_id": "022a672b3f9fa2b1be4ea3c48a5b3aa9",
+  "_rev": "11-8d104b9949928f40c8d6a1edb7e0aada",
+  "data": [
+    [
+      null,
+      null
+    ],
+    [
+      "2016",
+      "662.7"
+    ],
+    [
+      "2017",
+      "666.1"
+    ],
+    [
+      "2018",
+      "684.6"
+    ],
+    [
+      "2019",
+      "702.7"
+    ]
+  ],
+  "sources": [
+    {
+      "link": {},
+      "text": "Seco"
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": false,
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "year",
+      "prognosisStart": 2
+    },
+    "lineChartOptions": {
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "dotplotOptions": {},
+    "highlightDataSeries": [],
+    "colorOverwritesSeries": []
+  },
+  "tool": "chart",
+  "department": "Wirtschaft",
+  "publication": "nzz",
+  "acronym": "",
+  "active": true,
+  "title": "Die Schweizer Wirtschaft wächst",
+  "subtitle": "BIP in Mrd. Fr.",
+  "createdDate": "2018-06-19T08:51:01.074Z",
+  "createdBy": "dieter.bachmann@nzz.ch",
+  "updatedDate": "2018-06-19T08:53:20.632Z",
+  "updatedBy": "dieter.bachmann@nzz.ch",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/022a672b3f9fa2b1be4ea3c48a5b3aa9-thumbnail.jpeg"
+}

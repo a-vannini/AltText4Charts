@@ -1,0 +1,272 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Annick Ramp / NZZ",
+      "firstTitle": "«Es gibt Schönheitschirurgen, die denken, sie seien Götter und könnten Menschen neu schaffen»",
+      "flag": "Interview",
+      "significantUpdate": false,
+      "teaserCarouselTwo": {
+        "imageService": "fastly",
+        "width": 4595,
+        "originalUrl": "https://img.nzz.ch/2024/04/26/149025c5-1aca-4058-820c-4266c1642cb6.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 4595,
+            "name": "16:9",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/04/26/149025c5-1aca-4058-820c-4266c1642cb6.jpeg?crop=4595,2585,x0,y0&quality=75&auto=webp",
+            "height": 2585,
+            "ratio": 1.77778
+          },
+          {
+            "x": 1526,
+            "width": 2585,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/26/149025c5-1aca-4058-820c-4266c1642cb6.jpeg?crop=2585,2585,x1526,y0&quality=75&auto=webp",
+            "height": 2585,
+            "ratio": 1
+          },
+          {
+            "x": 512,
+            "width": 3447,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/26/149025c5-1aca-4058-820c-4266c1642cb6.jpeg?crop=3447,2585,x512,y0&quality=75&auto=webp",
+            "height": 2585,
+            "ratio": 1.33333
+          },
+          {
+            "x": 2281,
+            "width": 1724,
+            "name": "3:4",
+            "y": 282,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/26/149025c5-1aca-4058-820c-4266c1642cb6.jpeg?crop=1724,2298,x2281,y282&quality=75&auto=webp",
+            "height": 2298,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "J05MdS1ZA7Wr",
+        "url": "https://img.nzz.ch/2024/04/26/149025c5-1aca-4058-820c-4266c1642cb6.jpeg?quality=75&auto=webp",
+        "key": "2024/04/26/149025c5-1aca-4058-820c-4266c1642cb6.jpeg",
+        "height": 2585
+      },
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "n2_wNpHzmpYjcuyoBVSM2",
+        "locale": "de-CH"
+      },
+      "title": "«Es gibt Schönheitschirurgen, die denken, sie seien Götter und könnten Menschen neu schaffen»",
+      "seoTitle": "Schönheitsoperationen boomen: Cédric George über Preise, Trends und Konkurrenten",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Janique Weder (wej)",
+          "id": 1374038,
+          "shortName": "wej"
+        }
+      ],
+      "nzzPrintTitle": "«Ich behandle keine Modetrends» oder: Hat die Schönheitschirurgie ein Imageproblem, Herr George?\n",
+      "designName": "morpheus",
+      "seoSocialMediaTitle": "Schönheitsoperationen boomen: Ein plastischer Chirurg über Preise, Trends und Konkurrenten",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-05-04T15:30:00.000Z",
+      "department": {
+        "path": "/wirtschaft",
+        "premium": false,
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2024-05-04T03:30:00.000Z",
+      "slug": "schoenheitsoperationen-boomen-cedric-george-ueber-preise-trends-und-konkurrenten",
+      "firstPublicationDate": "2024-05-04T03:30:00.000Z",
+      "nzzCharacterCount": 13311,
+      "owner": "NZZ",
+      "authorLine": "Janique Weder",
+      "numberOfContentComponents": 69,
+      "leadText": "Nase, Bauch, Po: Immer mehr Menschen lassen sich vom Arzt in die gewünschte Form bringen. Der plastische Chirurg Cédric George  spricht über das Geschäft mit der Schönheit – und er sagt, welche Kollegen den Markt kaputtmachen.",
+      "germanyRelevant": true,
+      "publicationLastUpdated": "2024-05-23T06:32:59.410Z",
+      "nzzArticleSnippet": "Nase, Bauch, Po: Immer mehr Menschen lassen sich vom Arzt in die gewünschte Form bringen. Der plastische Chirurg Cédric George spricht über das Geschäft mit der Schönheit – und er sagt, welche Kollegen den Markt kaputtmachen.",
+      "urlPath": "/wirtschaft/schoenheitsoperationen-boomen-cedric-george-ueber-preise-trends-und-konkurrenten-ld.1828169",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 4234,
+        "originalUrl": "https://img.nzz.ch/2024/04/26/96e066fc-1559-4eb9-8426-8c6624ddf78d.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 4234,
+            "name": "16:9",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/04/26/96e066fc-1559-4eb9-8426-8c6624ddf78d.jpeg?crop=4234,2382,x0,y0&quality=75&auto=webp",
+            "height": 2382,
+            "ratio": 1.77778
+          },
+          {
+            "x": 926,
+            "width": 2382,
+            "name": "1:1",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/04/26/96e066fc-1559-4eb9-8426-8c6624ddf78d.jpeg?crop=2382,2382,x926,y0&quality=75&auto=webp",
+            "height": 2382,
+            "ratio": 1
+          },
+          {
+            "x": 529,
+            "width": 3176,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/04/26/96e066fc-1559-4eb9-8426-8c6624ddf78d.jpeg?crop=3176,2382,x529,y0&quality=75&auto=webp",
+            "height": 2382,
+            "ratio": 1.33333
+          },
+          {
+            "x": 1224,
+            "width": 1787,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/04/26/96e066fc-1559-4eb9-8426-8c6624ddf78d.jpeg?crop=1787,2382,x1224,y0&quality=75&auto=webp",
+            "height": 2382,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "K6mJRE3bn2qn",
+        "url": "https://img.nzz.ch/2024/04/26/96e066fc-1559-4eb9-8426-8c6624ddf78d.jpeg?quality=75&auto=webp",
+        "key": "2024/04/26/96e066fc-1559-4eb9-8426-8c6624ddf78d.jpeg",
+        "height": 2382
+      },
+      "nzzId": "ld.1828169",
+      "url": "https://www.nzz.ch/wirtschaft/schoenheitsoperationen-boomen-cedric-george-ueber-preise-trends-und-konkurrenten-ld.1828169",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hsum98q71",
+              "doc-1hsdj531c0",
+              "doc-1hsdeffqn1",
+              "doc-1hsdeffqn2"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "commentCount": 6,
+      "teaserCarouselOne": {
+        "imageService": "fastly",
+        "width": 3767,
+        "originalUrl": "https://img.nzz.ch/2024/04/26/40c900cd-b967-47bb-a269-9201ddeac072.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 3767,
+            "name": "16:9",
+            "y": 1778,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/26/40c900cd-b967-47bb-a269-9201ddeac072.jpeg?crop=3767,2119,x0,y1778&quality=75&auto=webp",
+            "height": 2119,
+            "ratio": 1.77778
+          },
+          {
+            "x": 0,
+            "width": 3767,
+            "name": "1:1",
+            "y": 942,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/04/26/40c900cd-b967-47bb-a269-9201ddeac072.jpeg?crop=3767,3767,x0,y942&quality=75&auto=webp",
+            "height": 3767,
+            "ratio": 1
+          },
+          {
+            "x": 0,
+            "width": 3767,
+            "name": "4:3",
+            "y": 1412,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/2024/04/26/40c900cd-b967-47bb-a269-9201ddeac072.jpeg?crop=3767,2825,x0,y1412&quality=75&auto=webp",
+            "height": 2825,
+            "ratio": 1.33333
+          },
+          {
+            "x": 445,
+            "width": 2976,
+            "name": "3:4",
+            "y": 1668,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/26/40c900cd-b967-47bb-a269-9201ddeac072.jpeg?crop=2976,3969,x445,y1668&quality=75&auto=webp",
+            "height": 3969,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "CJRbTvPfugxb",
+        "url": "https://img.nzz.ch/2024/04/26/40c900cd-b967-47bb-a269-9201ddeac072.jpeg?quality=75&auto=webp",
+        "key": "2024/04/26/40c900cd-b967-47bb-a269-9201ddeac072.jpeg",
+        "height": 5650
+      },
+      "layout": "longformstandard",
+      "estimationWordCount": 2136,
+      "nzzPrintSubtitle": "Ästhetische Eingriffe werden immer beliebter. Der plastische Chirurg Cédric George spricht im Interview mit Janique Weder über sein Geschäft – und er sagt, welche Kollegen den Markt kaputt machen. ",
+      "embeds": {
+        "images": [
+          {
+            "author": "Annick Ramp / NZZ",
+            "caption": "Keine Angst vor dem Skalpell – immer mehr Menschen unterziehen sich einer Schönheits-OP.",
+            "origins": [
+              {
+                "identifier": "2143246410",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/C=W3572,H2382,X331,Y0/O=75/https://img.nzz.ch/2023/04/24/31027141-a05c-4e75-ae1f-3f9df5d21389.jpeg"
+          },
+          {
+            "author": "PD",
+            "caption": "Cédric George, Gründer der Klinik Pyramide am See",
+            "origins": [
+              {
+                "identifier": "2155164285",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/C=W316,H423,X52,Y4/O=75/https://img.nzz.ch/2024/04/26/e2fb54af-5102-4629-b32d-b8464f45060f.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "64d3df3ff8944eb8b41a1540eac23d81"
+          },
+          {
+            "id": "0819c8effbf081938ef522a369455499"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "teaserCaption": "Keine Angst vor dem Skalpell – immer mehr Menschen unterziehen sich einer Schönheits-OP.",
+      "documentId": "1828169",
+      "product": "NZZ.ch"
+    }
+  }
+]

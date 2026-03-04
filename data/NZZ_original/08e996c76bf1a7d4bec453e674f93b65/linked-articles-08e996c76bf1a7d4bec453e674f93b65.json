@@ -1,0 +1,124 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Ralph Ribi / TBM",
+      "firstTitle": "Hochwasser am Bodensee: Bund ruft höchste Gefahrenstufe für Untersee aus",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "DutMGWWBTBFry-R60BBnZ",
+        "locale": "de-CH"
+      },
+      "title": "Hochwasser am Bodensee: Bund ruft höchste Gefahrenstufe für Untersee aus",
+      "seoTitle": "Hochwasser am Bodensee: Bund ruft höchste Gefahrenstufe für Untersee aus",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Philipp Gollmer (phg)",
+          "id": 1474230,
+          "shortName": "phg",
+          "proLitterisId": "888796"
+        }
+      ],
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-06-11T22:27:25.114Z",
+      "department": {
+        "path": "/panorama",
+        "premium": false,
+        "level": 1,
+        "name": "Panorama"
+      },
+      "publicationDate": "2024-06-11T10:27:25.114Z",
+      "slug": "hochwasser-am-bodensee-bund-ruft-hoechste-gefahrenstufe-fuer-untersee-aus",
+      "firstPublicationDate": "2024-06-11T10:27:25.114Z",
+      "nzzCharacterCount": 1433,
+      "owner": "NZZ",
+      "numberOfContentComponents": 9,
+      "germanyRelevant": true,
+      "leadText": "Bei «sehr grosse Gefahr» können laut Definition vielerorts Ausuferungen und Überflutungen auftreten.",
+      "publicationLastUpdated": "2024-06-12T13:09:06.235Z",
+      "nzzArticleSnippet": "Bei «sehr grosse Gefahr» können laut Definition vielerorts Ausuferungen und Überflutungen auftreten.",
+      "urlPath": "/panorama/hochwasser-am-bodensee-bund-ruft-hoechste-gefahrenstufe-fuer-untersee-aus-ld.1834566",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 5556,
+        "originalUrl": "https://img.nzz.ch/2024/06/11/0e07301e-d626-41f3-8f2d-412bf06c10e1.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 4939,
+            "name": "16:9",
+            "y": 853,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/11/0e07301e-d626-41f3-8f2d-412bf06c10e1.jpeg?crop=4939,2778,x0,y853&width=1024&quality=75&auto=webp",
+            "height": 2778,
+            "ratio": 1.77778
+          },
+          {
+            "x": 2058,
+            "width": 711,
+            "name": "1:1",
+            "y": 1137,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/11/0e07301e-d626-41f3-8f2d-412bf06c10e1.jpeg?crop=711,711,x2058,y1137&width=1024&quality=75&auto=webp",
+            "height": 711,
+            "ratio": 1
+          },
+          {
+            "x": 357,
+            "width": 4381,
+            "name": "4:3",
+            "y": 406,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/11/0e07301e-d626-41f3-8f2d-412bf06c10e1.jpeg?crop=4381,3286,x357,y406&width=1024&quality=75&auto=webp",
+            "height": 3286,
+            "ratio": 1.33333
+          },
+          {
+            "x": 675,
+            "width": 2773,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/06/11/0e07301e-d626-41f3-8f2d-412bf06c10e1.jpeg?crop=2773,3697,x675,y0&width=1024&quality=75&auto=webp",
+            "height": 3697,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "Ao6aDmWW65V7",
+        "url": "https://img.nzz.ch/2024/06/11/0e07301e-d626-41f3-8f2d-412bf06c10e1.jpeg?width=1024&quality=75&auto=webp",
+        "key": "2024/06/11/0e07301e-d626-41f3-8f2d-412bf06c10e1.jpeg",
+        "height": 3697
+      },
+      "nzzId": "ld.1834566",
+      "url": "https://www.nzz.ch/panorama/hochwasser-am-bodensee-bund-ruft-hoechste-gefahrenstufe-fuer-untersee-aus-ld.1834566",
+      "dependencies": {},
+      "layout": "regular",
+      "estimationWordCount": 230,
+      "embeds": {
+        "images": [],
+        "q_embeds": [
+          {
+            "id": "08e996c76bf1a7d4bec453e674f93b65"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/panorama",
+          "name": "Panorama"
+        }
+      ],
+      "teaserCaption": "Zum Schutz gegen das Hochwasser wurden bei Gottlieben mobile Deiche – mit Wasser gefüllte Schläuche – errichtet.",
+      "documentId": "1834566",
+      "product": "NZZ.ch"
+    }
+  }
+]

@@ -1,0 +1,119 @@
+{
+  "_id": "0154a0854ad542755c627969069c0b24",
+  "_rev": "12-bd801b7aceed516702e268bb8d4306b6",
+  "department": "Schweiz",
+  "publication": "nzz",
+  "acronym": "am.",
+  "title": "Zurzeit werden weniger neue Wohnungen gebaut als nachgefragt",
+  "tool": "chart",
+  "data": [
+    [
+      "Jahr",
+      "Zuwachs Haushalte",
+      "Neu gebaute Wohnungen"
+    ],
+    [
+      "2014",
+      "44148",
+      "49162"
+    ],
+    [
+      "2015",
+      "53126",
+      "53126"
+    ],
+    [
+      "2016",
+      "46562",
+      "52034"
+    ],
+    [
+      "2017",
+      "40604",
+      "50209"
+    ],
+    [
+      "2018",
+      "39273",
+      "53199"
+    ],
+    [
+      "2019",
+      "48954",
+      "48040"
+    ],
+    [
+      "2020",
+      "56084",
+      "49314"
+    ],
+    [
+      "2021",
+      "49989",
+      "45763"
+    ],
+    [
+      "2022",
+      "54000",
+      "43000"
+    ],
+    [
+      "2023",
+      "52000",
+      "41000"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {},
+      "text": "BWO"
+    }
+  ],
+  "options": {
+    "chartType": "Line",
+    "hideAxisLabel": false,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "many",
+      "prognosisStart": 8
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "subtitle": "Bautätigkeit und Haushaltswachstum",
+  "createdDate": "2023-05-12T10:47:24.165Z",
+  "createdBy": "hansueli.schoechli@nzz.ch",
+  "updatedDate": "2023-10-03T09:58:21.573Z",
+  "updatedBy": "cian.jochem@nzz.ch",
+  "active": true,
+  "deactivateDate": "2023-10-03T08:56:26.999Z",
+  "activateDate": "2023-10-03T08:56:23.552Z",
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/0154a0854ad542755c627969069c0b24-thumbnail.jpeg"
+}

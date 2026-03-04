@@ -1,0 +1,152 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Jens Büttner / dpa",
+      "firstTitle": "Energiewende: So teuer könnte sie Deutschland zu stehen kommen",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "NRTMYdXIpOhV0H-dLtaou",
+        "locale": "de-CH"
+      },
+      "title": "So teuer könnte die Energiewende Deutschland zu stehen kommen",
+      "seoTitle": "Energiewende soll Deutschland rund 1200 Milliarden Euro kosten",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "René Höltschi (Ht)",
+          "id": 1372707,
+          "shortName": "Ht",
+          "proLitterisId": "1477"
+        }
+      ],
+      "nzzPrintTitle": "Deutsche Energiewende wird teuer",
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-05-01T02:59:37.846Z",
+      "department": {
+        "path": "/wirtschaft",
+        "premium": false,
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2024-04-30T14:59:37.846Z",
+      "slug": "energiewende-soll-deutschland-rund-1200-milliarden-euro-kosten",
+      "firstPublicationDate": "2024-04-30T14:59:37.846Z",
+      "nzzCharacterCount": 6157,
+      "owner": "NZZ",
+      "authorLine": "René Höltschi, Berlin",
+      "numberOfContentComponents": 24,
+      "germanyRelevant": true,
+      "leadText": "Die deutsche Energiewende erfordert laut einer Studie bis 2035 Investitionen in Höhe von gigantischen 1240 Milliarden Euro. Sie generiert aber auch Wachstum – und sie gewinnt an Fahrt.",
+      "publicationLastUpdated": "2024-04-30T15:24:00.671Z",
+      "nzzArticleSnippet": "Die deutsche Energiewende erfordert laut einer Studie bis 2035 Investitionen in Höhe von gigantischen 1240 Milliarden Euro. Sie generiert aber auch Wachstum – und sie gewinnt an Fahrt.",
+      "urlPath": "/wirtschaft/energiewende-soll-deutschland-rund-1200-milliarden-euro-kosten-ld.1828619",
+      "teaserImage": {
+        "imageService": "fastly",
+        "width": 6000,
+        "originalUrl": "https://img.nzz.ch/2024/04/30/d4a68df9-1492-4fca-8043-5084e4ae7b55.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 6000,
+            "name": "16:9",
+            "y": 24,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/30/d4a68df9-1492-4fca-8043-5084e4ae7b55.jpeg?crop=6000,3375,x0,y24&width=1024&quality=75&auto=webp",
+            "height": 3375,
+            "ratio": 1.77778
+          },
+          {
+            "x": 3639,
+            "width": 283,
+            "name": "1:1",
+            "y": 1614,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/30/d4a68df9-1492-4fca-8043-5084e4ae7b55.jpeg?crop=283,283,x3639,y1614&width=1024&quality=75&auto=webp",
+            "height": 283,
+            "ratio": 1
+          },
+          {
+            "x": 151,
+            "width": 5672,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/30/d4a68df9-1492-4fca-8043-5084e4ae7b55.jpeg?crop=5672,4254,x151,y0&width=1024&quality=75&auto=webp",
+            "height": 4254,
+            "ratio": 1.33333
+          },
+          {
+            "x": 3032,
+            "width": 2836,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/2024/04/30/d4a68df9-1492-4fca-8043-5084e4ae7b55.jpeg?crop=2836,3781,x3032,y0&width=1024&quality=75&auto=webp",
+            "height": 3781,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "aqH9I5bxRXR4",
+        "url": "https://img.nzz.ch/2024/04/30/d4a68df9-1492-4fca-8043-5084e4ae7b55.jpeg?width=1024&quality=75&auto=webp",
+        "key": "2024/04/30/d4a68df9-1492-4fca-8043-5084e4ae7b55.jpeg",
+        "height": 4254
+      },
+      "nzzId": "ld.1828619",
+      "url": "https://www.nzz.ch/wirtschaft/energiewende-soll-deutschland-rund-1200-milliarden-euro-kosten-ld.1828619",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hsnir5ls1"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "regular",
+      "estimationWordCount": 907,
+      "nzzPrintSubtitle": "Laut Studie sind bis 20'35 über 1200 Milliarden Euro an Investitionen nötig",
+      "embeds": {
+        "images": [
+          {
+            "author": "Jens Büttner / dpa",
+            "caption": "Energie aus Sonne und Wind statt aus Kohle und Atom: Die deutsche Energiewende kommt nicht zum Nulltarif.",
+            "origins": [
+              {
+                "identifier": "2155155556",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/04/30/d4a68df9-1492-4fca-8043-5084e4ae7b55.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0819c8effbf081938ef522a369810e8a"
+          },
+          {
+            "id": "0819c8effbf081938ef522a36994376d"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "teaserCaption": "Energie aus Sonne und Wind statt aus Kohle und Atom: Die deutsche Energiewende kommt nicht zum Nulltarif.",
+      "documentId": "1828619",
+      "product": "NZZ.ch"
+    }
+  }
+]

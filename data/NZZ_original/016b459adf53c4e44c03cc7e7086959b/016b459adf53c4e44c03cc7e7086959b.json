@@ -1,0 +1,186 @@
+{
+  "_id": "016b459adf53c4e44c03cc7e7086959b",
+  "_rev": "12-0ac06631d0342043c09e2e357af523cd",
+  "department": "Wirtschaft",
+  "publication": "nzz",
+  "acronym": "msf.",
+  "title": "Hohe Preisdynamik in deutschen Städten",
+  "tool": "chart",
+  "data": [
+    [
+      null,
+      "Letzte vier Quartale",
+      "Letzte fünf Jahre, annualisiert"
+    ],
+    [
+      "München",
+      "8.5",
+      "9.2"
+    ],
+    [
+      "Sydney",
+      "8.5",
+      "1.2"
+    ],
+    [
+      "Frankfurt",
+      "8.3",
+      "10.2"
+    ],
+    [
+      "Warschau",
+      "8.3",
+      "4.6"
+    ],
+    [
+      "Moskau",
+      "6.9",
+      "0.1"
+    ],
+    [
+      "Paris",
+      "6.1",
+      "5.1"
+    ],
+    [
+      "Stockholm",
+      "6.0",
+      "1.8"
+    ],
+    [
+      "Toronto",
+      "5.7",
+      "7.4"
+    ],
+    [
+      "Tel Aviv",
+      "5.0",
+      "1.8"
+    ],
+    [
+      "Amsterdam",
+      "4.0",
+      "9.2"
+    ],
+    [
+      "Genf",
+      "3.4",
+      "0.7"
+    ],
+    [
+      "Los Angeles",
+      "3.3",
+      "4.4"
+    ],
+    [
+      "Boston",
+      "2.9",
+      "3.5"
+    ],
+    [
+      "Zürich",
+      "2.4",
+      "1.8"
+    ],
+    [
+      "Tokio",
+      "2.2",
+      "3.8"
+    ],
+    [
+      "Singapur",
+      "1.9",
+      "1.1"
+    ],
+    [
+      "Mailand",
+      "1.6",
+      "0.0"
+    ],
+    [
+      "Chicago",
+      "1.4",
+      "1.5"
+    ],
+    [
+      "Vancouver",
+      "1.1",
+      "6.2"
+    ],
+    [
+      "London",
+      "0.9",
+      "-0.4"
+    ],
+    [
+      "New York",
+      "0.5",
+      "0.0"
+    ],
+    [
+      "Madrid",
+      "-1.2",
+      "3.8"
+    ],
+    [
+      "San Francisco",
+      "-3.3",
+      "3.2"
+    ],
+    [
+      "Dubai",
+      "-5.1",
+      "-6.1"
+    ],
+    [
+      "Hongkong",
+      "-5.1",
+      "1.7"
+    ]
+  ],
+  "allowDownloadData": false,
+  "sources": [
+    {
+      "link": {},
+      "text": "UBS"
+    }
+  ],
+  "options": {
+    "chartType": "Dotplot",
+    "hideAxisLabel": false,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "year",
+      "prognosisStart": null,
+      "labels": "few"
+    },
+    "lineChartOptions": {
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": []
+  },
+  "subtitle": "Inflationsbereinigte Veränderung der Preise für Wohnimmobilien, in %",
+  "createdDate": "2020-09-30T09:04:47.076Z",
+  "createdBy": "michael.schaefer@nzz.ch",
+  "updatedDate": "2020-09-30T15:44:39.360Z",
+  "updatedBy": "samuel.rusch@nzz.ch",
+  "active": true,
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/016b459adf53c4e44c03cc7e7086959b-thumbnail.jpeg"
+}

@@ -1,0 +1,98 @@
+{
+  "_id": "07d00172c0f2b9dd3facaed885de0c8d",
+  "_rev": "34-f5f1c192a84ffcae1a85c5f5b2793d5a",
+  "data": [
+    [
+      null,
+      "ANC",
+      "andere Parteien"
+    ],
+    [
+      "1994",
+      "62.60",
+      "37.40"
+    ],
+    [
+      "1999",
+      "66.35",
+      "33.65"
+    ],
+    [
+      "2004",
+      "69.69",
+      "30.31"
+    ],
+    [
+      "2009",
+      "65.90",
+      "34.10"
+    ],
+    [
+      "2014",
+      "62.15",
+      "37.85"
+    ],
+    [
+      "2019",
+      "57.70",
+      "42.30"
+    ]
+  ],
+  "allowDownloadData": false,
+  "events": [],
+  "sources": [
+    {
+      "link": {},
+      "text": "elections.org.za"
+    }
+  ],
+  "options": {
+    "chartType": "StackedBar",
+    "hideAxisLabel": false,
+    "highlightDataSeries": [],
+    "highlightDataRows": [],
+    "annotations": {
+      "valuesOnBars": false
+    },
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": false
+    },
+    "dateSeriesOptions": {
+      "interval": "auto",
+      "labels": "few",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "yScaleType": "linear",
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "areaChartOptions": {
+      "areaInterpolation": "linear",
+      "stackType": "zero"
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0,
+      "invertColorScheme": false
+    },
+    "colorOverwritesSeries": [],
+    "colorOverwritesRows": [],
+    "largeNumbers": {
+      "divideBy": 0
+    }
+  },
+  "tool": "chart",
+  "department": "International",
+  "publication": "nzz",
+  "acronym": "dbu.",
+  "active": true,
+  "title": "Der ANC erreichte seit den ersten freien Parlamentswahlen in Südafrika stets das absolute Mehr",
+  "subtitle": "in Prozent der Stimmen",
+  "createdDate": "2024-05-23T12:18:27.274Z",
+  "createdBy": "dominique.burckhardt@nzz.ch",
+  "updatedDate": "2024-05-23T12:46:16.231Z",
+  "updatedBy": "dominique.burckhardt@nzz.ch"
+}

@@ -1,0 +1,145 @@
+[
+  {
+    "metadata": {
+      "contentTypeGroup": "web",
+      "teaserAuthor": "Hollie Adams / Bloomberg / Getty",
+      "firstTitle": "Europäer sind fauler als Amerikaner, sagt Norwegens Ölfonds-Manager Nicolai Tangen. Hat er recht?",
+      "significantUpdate": false,
+      "teaserGallery": {
+        "images": [],
+        "style": ""
+      },
+      "language": {
+        "groupId": "r6B-PwSwnT00",
+        "locale": "de-CH"
+      },
+      "title": "Europäer seien fauler als Amerikaner, sagt Norwegens Ölfonds-Manager Nicolai Tangen. Hat er recht?",
+      "seoTitle": "Europäer sind fauler als Amerikaner, sagt Nicolai Tangen. Stimmt das wirklich?",
+      "nzzAuthors": [
+        {
+          "external": false,
+          "name": "Linda Koponen (lkp)",
+          "id": 1449458,
+          "shortName": "lkp"
+        }
+      ],
+      "designName": "morpheus",
+      "teaserCarouselStyle": "",
+      "significantUpdateTill": "2024-04-29T15:30:00.000Z",
+      "department": {
+        "path": "/wirtschaft",
+        "premium": false,
+        "level": 1,
+        "name": "Wirtschaft"
+      },
+      "publicationDate": "2024-04-29T03:30:00.000Z",
+      "slug": "europaeer-sind-fauler-als-amerikaner-sagt-nicolai-tangen-stimmt-das-wirklich",
+      "firstPublicationDate": "2024-04-29T03:30:00.000Z",
+      "nzzCharacterCount": 3520,
+      "owner": "NZZ",
+      "authorLine": "Linda Koponen, Tallinn",
+      "numberOfContentComponents": 14,
+      "germanyRelevant": true,
+      "leadText": "Der norwegische Staatsfonds gehört zu den grössten Investoren der Welt. Amerikanische Unternehmen werden für ihn immer wichtiger.",
+      "publicationLastUpdated": "2024-04-29T03:30:00.000Z",
+      "nzzArticleSnippet": "Der norwegische Staatsfonds gehört zu den grössten Investoren der Welt. Amerikanische Unternehmen werden für ihn immer wichtiger.",
+      "urlPath": "/wirtschaft/europaeer-sind-fauler-als-amerikaner-sagt-nicolai-tangen-stimmt-das-wirklich-ld.1827918",
+      "teaserImage": {
+        "imageService": "resrc.it",
+        "width": 2000,
+        "originalUrl": "https://img.nzz.ch/2024/04/26/83bd4e2e-4479-43fe-93f8-2ab86d785a57.jpeg",
+        "mimeType": "image/jpeg",
+        "crops": [
+          {
+            "x": 0,
+            "width": 2000,
+            "name": "16:9",
+            "y": 0,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W2000,H1125,X0,Y0/O=75/https://img.nzz.ch/2024/04/26/83bd4e2e-4479-43fe-93f8-2ab86d785a57.jpeg",
+            "height": 1125,
+            "ratio": 1.77778
+          },
+          {
+            "x": 516,
+            "width": 1053,
+            "name": "1:1",
+            "y": 10,
+            "isAutomatic": false,
+            "url": "https://img.nzz.ch/C=W1053,H1053,X516,Y10/O=75/https://img.nzz.ch/2024/04/26/83bd4e2e-4479-43fe-93f8-2ab86d785a57.jpeg",
+            "height": 1053,
+            "ratio": 1
+          },
+          {
+            "x": 111,
+            "width": 1777,
+            "name": "4:3",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/C=W1777,H1333,X111,Y0/O=75/https://img.nzz.ch/2024/04/26/83bd4e2e-4479-43fe-93f8-2ab86d785a57.jpeg",
+            "height": 1333,
+            "ratio": 1.33333
+          },
+          {
+            "x": 500,
+            "width": 1000,
+            "name": "3:4",
+            "y": 0,
+            "isAutomatic": true,
+            "url": "https://img.nzz.ch/C=W1000,H1333,X500,Y0/O=75/https://img.nzz.ch/2024/04/26/83bd4e2e-4479-43fe-93f8-2ab86d785a57.jpeg",
+            "height": 1333,
+            "ratio": 0.75
+          }
+        ],
+        "mediaId": "gWe0M3NkxMpI",
+        "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/04/26/83bd4e2e-4479-43fe-93f8-2ab86d785a57.jpeg",
+        "height": 1333
+      },
+      "nzzId": "ld.1827918",
+      "url": "https://www.nzz.ch/wirtschaft/europaeer-sind-fauler-als-amerikaner-sagt-nicolai-tangen-stimmt-das-wirklich-ld.1827918",
+      "dependencies": {
+        "js": [
+          {
+            "componentIds": [
+              "doc-1hscottk61"
+            ],
+            "src": "//assets.static-nzz.ch/livingdocs/resrc-0.9.0.min.js",
+            "namespace": "browserPlugins.resrcit"
+          }
+        ]
+      },
+      "layout": "longformstandard",
+      "estimationWordCount": 542,
+      "embeds": {
+        "images": [
+          {
+            "author": "Hollie Adams / Bloomberg / Getty",
+            "caption": "Nicolai Tangen lobt die Arbeitsmoral der Amerikaner.",
+            "origins": [
+              {
+                "identifier": "2151574962",
+                "name": "hugo"
+              }
+            ],
+            "url": "https://img.nzz.ch/O=75/https://img.nzz.ch/2024/04/26/83bd4e2e-4479-43fe-93f8-2ab86d785a57.jpeg"
+          }
+        ],
+        "q_embeds": [
+          {
+            "id": "0819c8effbf081938ef522a36937d2db"
+          }
+        ],
+        "videos": []
+      },
+      "breadcrumbs": [
+        {
+          "path": "/wirtschaft",
+          "name": "Wirtschaft"
+        }
+      ],
+      "teaserCaption": "Nicolai Tangen lobt die Arbeitsmoral der Amerikaner.",
+      "documentId": "1827918",
+      "product": "NZZ.ch"
+    }
+  }
+]

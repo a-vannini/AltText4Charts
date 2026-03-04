@@ -1,0 +1,138 @@
+{
+  "_id": "01c8403779c54eaa3618b44952a05470",
+  "_rev": "42-097baed2f406113024f2c6d7532140b0",
+  "department": "Schweiz",
+  "publication": "nzz",
+  "acronym": "",
+  "data": [
+    [
+      "Alter",
+      "Mehrbelastung"
+    ],
+    [
+      "0",
+      "27300"
+    ],
+    [
+      "5",
+      "28600"
+    ],
+    [
+      "10",
+      "29800"
+    ],
+    [
+      "15",
+      "30500"
+    ],
+    [
+      "20",
+      "30300"
+    ],
+    [
+      "25",
+      "29700"
+    ],
+    [
+      "30",
+      "28700"
+    ],
+    [
+      "35",
+      "27200"
+    ],
+    [
+      "40",
+      "25400"
+    ],
+    [
+      "45",
+      "23400"
+    ],
+    [
+      "50",
+      "16200"
+    ],
+    [
+      "55",
+      "10200"
+    ],
+    [
+      "60",
+      "7600"
+    ],
+    [
+      "65",
+      "5800"
+    ],
+    [
+      "70",
+      "3200"
+    ],
+    [
+      "75",
+      "2200"
+    ],
+    [
+      "80",
+      "1400"
+    ],
+    [
+      "85",
+      "800"
+    ],
+    [
+      "90",
+      "300"
+    ],
+    [
+      "95",
+      "100"
+    ],
+    [
+      "100",
+      "10"
+    ]
+  ],
+  "allowDownloadData": false,
+  "sources": [
+    {
+      "link": {},
+      "text": "UBS/Univ. Freiburg i.Br."
+    }
+  ],
+  "options": {
+    "chartType": "Bar",
+    "hideAxisLabel": false,
+    "annotations": {},
+    "barOptions": {
+      "isBarChart": false,
+      "forceBarsOnSmall": true
+    },
+    "dateSeriesOptions": {
+      "interval": "year",
+      "prognosisStart": null
+    },
+    "lineChartOptions": {
+      "reverseYScale": false,
+      "lineInterpolation": "linear",
+      "isStockChart": false
+    },
+    "dotplotOptions": {},
+    "arrowOptions": {
+      "colorScheme": 0
+    },
+    "highlightDataSeries": [],
+    "colorOverwritesSeries": []
+  },
+  "tool": "chart",
+  "title": "Vor allem die Jungen zahlen",
+  "subtitle": "Mehrbelastung in Franken über die verbleibende Lebensdauer bei Umsetzung des Pakets Steuern/AHV und AHV 21",
+  "createdDate": "2019-06-24T11:39:33.909Z",
+  "createdBy": "hansueli.schoechli@nzz.ch",
+  "updatedDate": "2019-06-25T06:57:30.698Z",
+  "updatedBy": "thomas.schuerpf@nzz.ch",
+  "notes": "Basisjahr 2016. Annahmen: Realzins 2% pro Jahr, Produktivitätswachstum 1%",
+  "active": true,
+  "thumbnail": "https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/01c8403779c54eaa3618b44952a05470-thumbnail.jpeg"
+}
